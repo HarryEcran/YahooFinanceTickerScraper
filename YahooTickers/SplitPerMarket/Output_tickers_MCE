@@ -1,0 +1,162 @@
+Symbol,Name,Last Price,Industry/Category,Type,Exchange
+IAG.MC,INTL CONSOLIDATED AIRLINES GROU,1.90,Industrials,Stocks,MCE
+IBE.MC,ACCIONES IBERDROLA,10.20,Utilities,Stocks,MCE
+AMS.MC,"AMADEUS IT GROUP, S.A.",60.30,Technology,Stocks,MCE
+BBVA.MC,BANCO BILBAO VIZCAYA ARGENTARIA,5.68,Financial Services,Stocks,MCE
+ACS.MC,"ACS,ACTIVIDADES DE CONSTRUCCION",22.73,Industrials,Stocks,MCE
+ACX.MC,"ACERINOX, S.A.",11.42,Basic Materials,Stocks,MCE
+ANA.MC,"ACCIONA, S.A.",154.70,Industrials,Stocks,MCE
+MTS.MC,ARCELORMITTAL SA,27.07,Basic Materials,Stocks,MCE
+SLR.MC,SOLARIA ENERGIA Y MEDIO AMBIENT,14.86,Utilities,Stocks,MCE
+ALNT.MC,"ALANTRA PARTNERS, S.A.",15.30,Financial Services,Stocks,MCE
+AENA.MC,"AENA, S.M.E., S.A.",145.30,Industrials,Stocks,MCE
+AMP.MC,"AMPER, S.A.",0.19,Technology,Stocks,MCE
+IDR.MC,"INDRA SISTEMAS S.A., SERIE A",8.89,Technology,Stocks,MCE
+ALM.MC,ALMIRALL S.A.,11.37,Healthcare,Stocks,MCE
+AI.MC,AIRTIFICIAL INTELLIGENCE STRUCT,0.09,Industrials,Stocks,MCE
+LDA.MC,"LINEA DIRECTA ASEGURADORA, S.A.",1.55,Financial Services,Stocks,MCE
+CAF.MC,CONSTRUCCIONES Y AUXILIAR DE FE,33.90,Industrials,Stocks,MCE
+A3M.MC,ATRESMEDIA CORPORACION DE MEDIO,3.44,Communication Services,Stocks,MCE
+ALB.MC,CORPORACION FINANCIERA ALBA S.A,52.80,Financial Services,Stocks,MCE
+GEST.MC,"GESTAMP AUTOMOCION, S.A.",4.10,Consumer Cyclical,Stocks,MCE
+APPS.MC,"APPLUS SERVICES, S.A.",7.72,Industrials,Stocks,MCE
+ADX.MC,"AUDAX RENOVABLES, S.A.",1.28,Utilities,Stocks,MCE
+TL5.MC,"MEDIASET ESPA...A COMUNICACION,",4.16,Communication Services,Stocks,MCE
+ANE.MC,CORPORACI...N ACCIONA ENERG...A,27.62,Utilities,Stocks,MCE
+CIE.MC,"CIE AUTOMOTIVE, S.A.",26.00,Consumer Cyclical,Stocks,MCE
+APAM.MC,APERAM,50.40,Basic Materials,Stocks,MCE
+AGIL.MC,"AGILE CONTENT, S.A.",6.36,Technology,Stocks,MCE
+LRE.MC,LAR ESPA...A REAL ESTATE SOCIMI,5.32,Real Estate,Stocks,MCE
+AEDAS.MC,"AEDAS HOMES, S.A",23.80,Consumer Cyclical,Stocks,MCE
+FACE.MC,"FACEPHI BIOMETR...A, S.A.",3.77,Technology,Stocks,MCE
+DOM.MC,"GLOBAL DOMINION ACCESS, S.A.",4.42,Technology,Stocks,MCE
+FCC.MC,ACCIONES FOMENTO DE CONSTRUCCIO,10.68,Industrials,Stocks,MCE
+ADL.MC,"ADL BIONATUR SOLUTIONS, S.A.",0.47,Healthcare,Stocks,MCE
+ARM.MC,"ARIMA REAL ESTATE, S.A.",9.00,Real Estate,Stocks,MCE
+SAN.MC,BANCO SANTANDER S.A.,3.20,Financial Services,Stocks,MCE
+SAB.MC,BANCO DE SABADELL,0.67,Financial Services,Stocks,MCE
+BKT.MC,"BANKINTER, S.A.",5.36,Financial Services,Stocks,MCE
+BKY.MC,BERKELEY ENERGIA LIMITED,0.15,Energy,Stocks,MCE
+XPBRA.MC,"PETROLEO BRASILEIRO,S.A. -PETRO",5.75,Energy,Stocks,MCE
+GRF-P.MC,GRIFOLS S.A. CLASE B,10.46,Healthcare,Stocks,MCE
+XPBR.MC,"PETROLEO BRASILEIRO,S.A. -PETRO",6.29,Energy,Stocks,MCE
+UNI.MC,"UNICAJA BANCO, S.A.",0.92,Financial Services,Stocks,MCE
+XELTO.MC,"CENTRAIS ELETRICAS BRASILEIRAS,",5.85,Utilities,Stocks,MCE
+XBRPP.MC,"BRADESPAR, S.A., PREFERENTES",4.56,Financial Services,Stocks,MCE
+R4.MC,"RENTA 4 BANCO, S.A.",9.70,Financial Services,Stocks,MCE
+RLIA.MC,"REALIA BUSINESS, S.A.",0.80,Real Estate,Stocks,MCE
+CBAV.MC,CLINICA BAVIERA S.A.,21.20,Healthcare,Stocks,MCE
+NBI.MC,"NBI BEARINGS EUROPE, S.A",6.00,Industrials,Stocks,MCE
+XBBDC.MC,"BANCO BRADESCO, S.A., PREFERENT",3.72,Financial Services,Stocks,MCE
+BAIN.MC,BORGES AGRICULTURAL & INDUSTRIA,2.76,Consumer Defensive,Stocks,MCE
+RIO.MC,"BODEGAS RIOJANAS,S.A.",3.16,Consumer Defensive,Stocks,MCE
+CLNX.MC,"CELLNEX TELECOM, S.A.",40.67,Communication Services,Stocks,MCE
+CABK.MC,"CAIXABANK, S.A.",2.87,Financial Services,Stocks,MCE
+REE.MC,"RED ELECTRICA CORPORACION, S.A.",18.07,Utilities,Stocks,MCE
+LOG.MC,COMPA...IA DE DISTRIBUCION INTE,17.86,Industrials,Stocks,MCE
+ENC.MC,"ENCE ENERGIA Y CELULOSA, S.A.",2.41,Basic Materials,Stocks,MCE
+MCM.MC,"MIQUEL Y COSTAS & MIQUEL, S.A.",12.76,Basic Materials,Stocks,MCE
+COL.MC,"INMOBILIARIA COLONIAL, SOCIMI S",7.84,Real Estate,Stocks,MCE
+HLZ.MC,HOLALUZ CLIDOM S.A.,11.95,Utilities,Stocks,MCE
+ITX.MC,INDUSTRIA DE DISE\O TEXTIL S.A.,27.33,Consumer Cyclical,Stocks,MCE
+DIA.MC,DISTRIBUIDORA INTERNACIONAL DE ,0.02,Consumer Defensive,Stocks,MCE
+OLE.MC,"DEOLEO, S.A.",0.31,Consumer Defensive,Stocks,MCE
+ISUR.MC,INMOBILIARIA DEL SUR S.A.,8.30,Real Estate,Stocks,MCE
+PRS.MC,PROMOTORA DE INFORMACIONES S.A.,0.60,Communication Services,Stocks,MCE
+XEKT.MC,"GRUPO ELEKTRA, S.A. DE CV, ORDI",59.00,Financial Services,Stocks,MCE
+XCOP.MC,COMPANHIA PARAENSE DE ENERGIA -,1.18,Utilities,Stocks,MCE
+XVALO.MC,"COMPANHIA VALE DO RIO DOCE, S.A",14.34,Basic Materials,Stocks,MCE
+PAR.MC,PARLEM TELECOM COMPANYIA DE TEL,7.27,Communication Services,Stocks,MCE
+EIDF.MC,"ENERG...A, INNOVACI...N Y DESAR",22.90,Technology,Stocks,MCE
+XTZA.MC,"TV AZTECA, S.A. DE CV , CERTIFI",0.05,Communication Services,Stocks,MCE
+GALQ.MC,GENERAL DE ALQUILER DE MAQUINAR,1.41,Industrials,Stocks,MCE
+MDF.MC,"DURO FELGUERA, S.A.",0.90,Industrials,Stocks,MCE
+CEV.MC,CIA ESPA...OLA DE VIVIENDAS EN ,6.80,Real Estate,Stocks,MCE
+XAMXL.MC,"AMERICA MOVIL, S.A.B. DE C.V. S",0.85,Communication Services,Stocks,MCE
+IBE-D.MC,"DERECHOS IBERDROLA, S.A.",0.17,N/A,Stocks,MCE
+XUSI.MC,USINAS SIDERURGICAS DE MINAS GE,2.70,Basic Materials,Stocks,MCE
+ADZ.MC,"ADOLFO DOMINGUEZ, S.A.",3.56,Consumer Cyclical,Stocks,MCE
+SCY-D.MC,DERECHOS SACYR S.A.,0.05,N/A,Stocks,MCE
+SGRE.MC,SIEMENS GAMESA RENEWABLE ENERGY,18.79,Industrials,Stocks,MCE
+ENG.MC,"ENAGAS,S.A.",19.68,Utilities,Stocks,MCE
+ELE.MC,"ENDESA,S.A.",20.28,Utilities,Stocks,MCE
+EDR.MC,"EDREAMS ODIGEO, S.A.",7.61,Consumer Cyclical,Stocks,MCE
+EBRO.MC,"EBRO FOODS, S.A.",16.84,Consumer Defensive,Stocks,MCE
+NTGY.MC,"NATURGY ENERGY GROUP, S.A.",28.62,Utilities,Stocks,MCE
+GSJ.MC,"GRUPO EMPRESARIAL SAN JOSE, S.A",4.80,Industrials,Stocks,MCE
+ECR.MC,ERCROS,2.95,Basic Materials,Stocks,MCE
+EZE.MC,"GRUPO EZENTIS, S.A.",0.18,Industrials,Stocks,MCE
+ENO.MC,ELECNOR S.A.,9.96,Industrials,Stocks,MCE
+ENER.MC,"GRUPO ECOENER, S.A.U.",4.35,Utilities,Stocks,MCE
+LGT.MC,"LINGOTES ESPECIALES, S.A.",11.30,Basic Materials,Stocks,MCE
+MONI.MC,"MONDO TV ESTUDIOS, S.A.",0.31,Communication Services,Stocks,MCE
+CCEP.MC,COCA-COLA EUROPACIFIC PARTNERS ,52.00,Consumer Defensive,Stocks,MCE
+EEP.MC,"EUROESPES, S.A.",0.51,Healthcare,Stocks,MCE
+REN.MC,"RENTA CORPORACION REAL ESTATE, ",1.80,Real Estate,Stocks,MCE
+ART.MC,"ARTECHE LANTEGI  ELKARTEA, S.A.",3.50,Technology,Stocks,MCE
+END.MC,"ENDURANCE MOTIVE, S.A.",3.74,Industrials,Stocks,MCE
+GRI.MC,"GRI...O ECOLOGIC, S.A.",1.94,Industrials,Stocks,MCE
+ISE.MC,"INNOVATIVE SOLUTIONS ECOSYSTEM,",0.71,Industrials,Stocks,MCE
+NXT.MC,"NUEVA EXPRESI...N TEXTIL, S.A.",0.46,Consumer Cyclical,Stocks,MCE
+CLR.MC,"CLERHP ESTRUCTURAS, S.A.",1.79,Industrials,Stocks,MCE
+FDR.MC,"FLUIDRA, S.A.",28.80,Industrials,Stocks,MCE
+FAE.MC,"FAES FARMA, S.A.",3.38,Healthcare,Stocks,MCE
+FER.MC,"FERROVIAL, S.A.",24.48,Industrials,Stocks,MCE
+ROVI.MC,LABORATORIOS FARMACEUTICOS ROVI,64.00,Healthcare,Stocks,MCE
+IFF.MC,"IFFE FUTURA, S.A.",0.48,Industrials,Stocks,MCE
+UBS.MC,"URBAS GRUPO FINANCIERO, S.A.",0.01,Real Estate,Stocks,MCE
+NTX.MC,"NETEX KNOWLEDGE FACTORY, S.A.",3.70,Technology,Stocks,MCE
+GRF.MC,GRIFOLS S.A.,15.72,Healthcare,Stocks,MCE
+ORY.MC,"ORYZON GENOMICS, S.A.",3.04,Healthcare,Stocks,MCE
+GRE.MC,"GRENERGY RENOVABLES, S.A.",24.95,Utilities,Stocks,MCE
+NHH.MC,"NH HOTEL GROUP, S.A.",3.19,Consumer Cyclical,Stocks,MCE
+IBG.MC,"IBERPAPEL GESTION,S.A.",18.00,Basic Materials,Stocks,MCE
+GIGA.MC,"GIGAS HOSTING, S.A.",10.55,Technology,Stocks,MCE
+GCO.MC,"GRUPO CATALANA OCCIDENTE, S.A.",29.65,Financial Services,Stocks,MCE
+GRN.MC,GREENALIA S.A.,14.90,Industrials,Stocks,MCE
+XGGB.MC,"GERDAU, S.A. PREFERENTES",4.68,Basic Materials,Stocks,MCE
+HOME.MC,"NEINOR HOMES, S.A.",11.06,Consumer Cyclical,Stocks,MCE
+MEL.MC,"MELIA HOTELS INTERNATIONAL, S.A",6.52,Consumer Cyclical,Stocks,MCE
+OHLA.MC,"OBRASCON HUARTE LAIN, S.A.",0.85,Industrials,Stocks,MCE
+SOL.MC,"SOLTEC POWER HOLDINGS, S.A.",5.30,Technology,Stocks,MCE
+NTH.MC,"NATURHOUSE HEALTH, S.A",1.90,Consumer Defensive,Stocks,MCE
+ATRY.MC,"ATRYS HEALTH, S.A.",9.72,Healthcare,Stocks,MCE
+EAT.MC,"AMREST HOLDINGS, S.E.",5.72,Consumer Cyclical,Stocks,MCE
+RJF.MC,"LABORATORIO REIG JOFRE, S.A.",2.98,Healthcare,Stocks,MCE
+LLN.MC,LLEIDANETWORKS SERVEIS TELEMATI,3.20,Communication Services,Stocks,MCE
+LLYC.MC,"LLORENTE Y CUENCA, S.A.",13.60,Industrials,Stocks,MCE
+MAP.MC,"MAPFRE, S.A.",1.94,Financial Services,Stocks,MCE
+PHM.MC,"PHARMA MAR, S.A.",55.38,Healthcare,Stocks,MCE
+MRL.MC,"MERLIN PROPERTIES SOCIMI, S.A.",9.95,Real Estate,Stocks,MCE
+MVC.MC,"METROVACESA, S.A.",6.65,Consumer Cyclical,Stocks,MCE
+MTB.MC,"MONTEBALITO, S.A.",1.50,Real Estate,Stocks,MCE
+AMEN.MC,"AETERNAL MENTIS, S.A.",10.90,Technology,Stocks,MCE
+SQRL.MC,"SQUIRREL MEDIA, S.A.",3.34,Technology,Stocks,MCE
+NEA.MC,NICOLAS CORREA,5.96,Industrials,Stocks,MCE
+NYE.MC,NYESA VALORES CORPORACION S.A.,0.00,Real Estate,Stocks,MCE
+ZOT.MC,"ZARDOYA OTIS, S.A.",7.05,Industrials,Stocks,MCE
+PANG.MC,PANGAEA ONCOLOGY S.A.,1.55,Healthcare,Stocks,MCE
+MIO.MC,"MEDIA INVESTMENT OPTIMIZATION, ",6.95,Communication Services,Stocks,MCE
+XBRPO.MC,"BRADESPAR, S.A., ORDINARIAS",4.12,Financial Services,Stocks,MCE
+PSG.MC,PROSEGUR,2.26,Industrials,Stocks,MCE
+SNG.MC,SINGULAR PEOPLE S.A.,4.10,Technology,Stocks,MCE
+PVA.MC,"PESCANOVA,S.A.",0.44,Consumer Defensive,Stocks,MCE
+CASH.MC,"PROSEGUR CASH, S.A.",0.65,Industrials,Stocks,MCE
+ALQ.MC,"ALQUIBER QUALITY, S.A.",5.60,Industrials,Stocks,MCE
+REP.MC,"REPSOL,  S.A.",11.25,Energy,Stocks,MCE
+TRE.MC,TECNICAS REUNIDAS S.A.,8.22,Industrials,Stocks,MCE
+YTST.MC,"TESTA RESIDENCAL SOCIMI, S.A.",6.30,Real Estate,Stocks,MCE
+TRG.MC,TUBOS REUNIDOS S.A.,0.35,Basic Materials,Stocks,MCE
+YAI1.MC,"ALL IRON RE I SOCIMI, S.A.",11.00,Real Estate,Stocks,MCE
+YVIT.MC,"VITRUVIO REAL ESTATE SOCIMI, S.",11.20,Real Estate,Stocks,MCE
+TEF.MC,"TELEFONICA,S.A.",4.15,Communication Services,Stocks,MCE
+VID.MC,"VIDRALA, S.A.",76.50,Consumer Cyclical,Stocks,MCE
+VIS.MC,"VISCOFAN, S.A.",55.35,Consumer Cyclical,Stocks,MCE
+SCYR.MC,"SACYR, S.A.",2.25,Industrials,Stocks,MCE
+TLGO.MC,"TALGO, S.A.",4.75,Industrials,Stocks,MCE
+TUB.MC,"TUBACEX, S.A.",1.58,Basic Materials,Stocks,MCE
+IZER.MC,"IZERTIS, S.A.",7.90,Technology,Stocks,MCE
+COM.MC,"CATENON, S.A.",1.92,Industrials,Stocks,MCE
+TR1.MC,"TIER1 TECHNOLOGY, S.A.",2.39,Technology,Stocks,MCE
+VOC.MC,VOCENTO,0.93,Communication Services,Stocks,MCE
+YVBA.MC,"VBARE IBERIAN PROPERTIES, SOCIM",6.90,Real Estate,Stocks,MCE

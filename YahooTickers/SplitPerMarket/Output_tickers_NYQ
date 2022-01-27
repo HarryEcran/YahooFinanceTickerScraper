@@ -1,0 +1,3039 @@
+Symbol,Name,Last Price,Industry/Category,Type,Exchange
+T,AT&T Inc.,24.12,Communication Services,Stocks,NYQ
+BA,Boeing Company (The),189.75,Industrials,Stocks,NYQ
+AMC,"AMC Entertainment Holdings, Inc",14.55,Communication Services,Stocks,NYQ
+F,Ford Motor Company,19.55,Consumer Cyclical,Stocks,NYQ
+BABA,Alibaba Group Holding Limited,111.79,Consumer Cyclical,Stocks,NYQ
+BAC,Bank of America Corporation,45.47,Financial Services,Stocks,NYQ
+MO,"Altria Group, Inc.",50.34,Consumer Defensive,Stocks,NYQ
+AXP,American Express Company,171.90,Financial Services,Stocks,NYQ
+V,Visa Inc.,206.15,Financial Services,Stocks,NYQ
+X,United States Steel Corporation,18.59,Basic Materials,Stocks,NYQ
+C,"Citigroup, Inc.",64.15,Financial Services,Stocks,NYQ
+U,Unity Software Inc.,94.70,Technology,Stocks,NYQ
+ABT,Abbott Laboratories,120.44,Healthcare,Stocks,NYQ
+MA,Mastercard Incorporated,350.53,Financial Services,Stocks,NYQ
+LUV,Southwest Airlines Company,42.82,Industrials,Stocks,NYQ
+ABBV,AbbVie Inc.,135.97,Healthcare,Stocks,NYQ
+AI,"C3.ai, Inc.",22.54,Technology,Stocks,NYQ
+LAC,Lithium Americas Corp.,24.33,Basic Materials,Stocks,NYQ
+DAL,"Delta Air Lines, Inc.",38.34,Industrials,Stocks,NYQ
+NLY,Annaly Capital Management Inc,7.71,Real Estate,Stocks,NYQ
+M,Macy's Inc,25.67,Consumer Cyclical,Stocks,NYQ
+O,Realty Income Corporation,67.76,Real Estate,Stocks,NYQ
+RAD,Rite Aid Corporation,10.18,Healthcare,Stocks,NYQ
+AA,Alcoa Corporation,58.03,Basic Materials,Stocks,NYQ
+ADM,Archer-Daniels-Midland Company,74.20,Consumer Defensive,Stocks,NYQ
+JMIA,Jumia Technologies AG,7.34,Consumer Cyclical,Stocks,NYQ
+LLY,Eli Lilly and Company,236.70,Healthcare,Stocks,NYQ
+S,"SentinelOne, Inc.",38.44,Technology,Stocks,NYQ
+ASAN,"Asana, Inc.",45.46,Technology,Stocks,NYQ
+BTI,British American Tobacco  Indus,42.71,Consumer Defensive,Stocks,NYQ
+AJRD,"Aerojet Rocketdyne Holdings, In",38.02,Industrials,Stocks,NYQ
+AG,First Majestic Silver Corp.,9.55,Basic Materials,Stocks,NYQ
+AR,Antero Resources Corporation,18.53,Energy,Stocks,NYQ
+ACN,Accenture plc,333.36,Technology,Stocks,NYQ
+ANTM,"Anthem, Inc.",435.83,Healthcare,Stocks,NYQ
+ALB,Albemarle Corporation,205.43,Basic Materials,Stocks,NYQ
+JOBY,"Joby Aviation, Inc.",3.83,Industrials,Stocks,NYQ
+AMT,American Tower Corporation (REI,236.43,Real Estate,Stocks,NYQ
+AYX,"Alteryx, Inc.",51.09,Technology,Stocks,NYQ
+SAVE,"Spirit Airlines, Inc.",20.74,Industrials,Stocks,NYQ
+AEO,"American Eagle Outfitters, Inc.",22.81,Consumer Cyclical,Stocks,NYQ
+ALK,"Alaska Air Group, Inc.",52.60,Industrials,Stocks,NYQ
+W,Wayfair Inc.,140.52,Consumer Cyclical,Stocks,NYQ
+ESGC,Eros STX Global Corporation A,0.30,Communication Services,Stocks,NYQ
+ALLY,Ally Financial Inc.,47.12,Financial Services,Stocks,NYQ
+ABR,Arbor Realty Trust,16.99,Real Estate,Stocks,NYQ
+ROK,"Rockwell Automation, Inc.",286.98,Industrials,Stocks,NYQ
+K,Kellogg Company,65.17,Consumer Defensive,Stocks,NYQ
+DB,Deutsche Bank AG,13.18,Financial Services,Stocks,NYQ
+ANET,"Arista Networks, Inc.",117.92,Technology,Stocks,NYQ
+AHT,Ashford Hospitality Trust Inc,6.86,Real Estate,Stocks,NYQ
+D,"Dominion Energy, Inc.",78.21,Utilities,Stocks,NYQ
+AB,AllianceBernstein Holding L.P.,46.21,Financial Services,Stocks,NYQ
+AM,Antero Midstream Corporation,9.60,Energy,Stocks,NYQ
+AEM,Agnico Eagle Mines Limited,46.72,Basic Materials,Stocks,NYQ
+SOL,Renesola Ltd. American Depsitar,4.88,Technology,Stocks,NYQ
+MT,Arcelor Mittal NY Registry Shar,28.68,Basic Materials,Stocks,NYQ
+UA,"Under Armour, Inc.",15.49,Consumer Cyclical,Stocks,NYQ
+ARR,"ARMOUR Residential REIT, Inc.",9.10,Real Estate,Stocks,NYQ
+ACHR,Archer Aviation Inc.,2.87,Industrials,Stocks,NYQ
+BUD,Anheuser-Busch Inbev SA Sponsor,63.79,Consumer Defensive,Stocks,NYQ
+SPR,"Spirit Aerosystems Holdings, In",41.33,Industrials,Stocks,NYQ
+ONON,On Holding AG,24.22,Consumer Cyclical,Stocks,NYQ
+AMP,"Ameriprise Financial, Inc.",303.71,Financial Services,Stocks,NYQ
+IVAN,Ivanhoe Capital Acquisition Cor,8.19,Financial Services,Stocks,NYQ
+NAT,Nordic American Tankers Limited,1.50,Industrials,Stocks,NYQ
+APD,"Air Products and Chemicals, Inc",275.85,Basic Materials,Stocks,NYQ
+AIG,"American International Group, I",56.42,Financial Services,Stocks,NYQ
+NVS,Novartis AG,85.14,Healthcare,Stocks,NYQ
+ANVS,"Annovis Bio, Inc.",13.05,Healthcare,Stocks,NYQ
+ABEV,Ambev S.A.,2.83,Consumer Defensive,Stocks,NYQ
+AMWL,American Well Corporation,4.27,Healthcare,Stocks,NYQ
+ACI,"Albertsons Companies, Inc.",27.46,Consumer Defensive,Stocks,NYQ
+AFL,AFLAC Incorporated,61.89,Financial Services,Stocks,NYQ
+ALL,Allstate Corporation (The),120.25,Financial Services,Stocks,NYQ
+AU,AngloGold Ashanti Limited,18.28,Basic Materials,Stocks,NYQ
+NVO,Novo Nordisk A/S,95.44,Healthcare,Stocks,NYQ
+SEAH,Sports Entertainment Acquisitio,8.14,Financial Services,Stocks,NYQ
+BDX,"Becton, Dickinson and Company",251.19,Healthcare,Stocks,NYQ
+APO,"Apollo Global Management, Inc. ",66.23,Financial Services,Stocks,NYQ
+UBS,UBS Group AG Registered,18.42,Financial Services,Stocks,NYQ
+AWK,"American Water Works Company, I",156.15,Utilities,Stocks,NYQ
+PKG,Packaging Corporation of Americ,143.49,Consumer Cyclical,Stocks,NYQ
+ASX,"ASE Technology Holding Co., Ltd",6.71,Technology,Stocks,NYQ
+YPF,YPF Sociedad Anonima,3.97,Energy,Stocks,NYQ
+AZO,"AutoZone, Inc.","1,907.73",Consumer Cyclical,Stocks,NYQ
+A,"Agilent Technologies, Inc.",132.09,Healthcare,Stocks,NYQ
+AEVA,"Aeva Technologies, Inc.",4.60,Consumer Cyclical,Stocks,NYQ
+ABB,ABB Ltd,34.54,Industrials,Stocks,NYQ
+BAM,Brookfield Asset Management Inc,52.28,Financial Services,Stocks,NYQ
+UAA,"Under Armour, Inc.",18.13,Consumer Cyclical,Stocks,NYQ
+AMN,AMN Healthcare Services Inc AMN,99.16,Healthcare,Stocks,NYQ
+AQN,Algonquin Power & Utilities Cor,13.80,Utilities,Stocks,NYQ
+APH,Amphenol Corporation,75.03,Technology,Stocks,NYQ
+AOS,A.O. Smith Corporation,75.85,Industrials,Stocks,NYQ
+ADS,Alliance Data Systems Corporati,66.05,Financial Services,Stocks,NYQ
+EQNR,Equinor ASA,28.09,Energy,Stocks,NYQ
+ATUS,"Altice USA, Inc.",13.45,Communication Services,Stocks,NYQ
+T-PC,"AT&T Inc. Depositary Shares, ea",24.05,Communication Services,Stocks,NYQ
+APRN,"Blue Apron Holdings, Inc.",6.90,Consumer Cyclical,Stocks,NYQ
+LPL,"LG Display Co, Ltd AMERICAN DEP",8.07,Technology,Stocks,NYQ
+AES,The AES Corporation,22.07,Utilities,Stocks,NYQ
+HASI,Hannon Armstrong Sustainable In,36.75,Real Estate,Stocks,NYQ
+APAM,Artisan Partners Asset Manageme,41.27,Financial Services,Stocks,NYQ
+LH,Laboratory Corporation of Ameri,265.73,Healthcare,Stocks,NYQ
+AGI,Alamos Gold Inc.,6.65,Basic Materials,Stocks,NYQ
+ATKR,Atkore Inc.,93.83,Industrials,Stocks,NYQ
+ANF,Abercrombie & Fitch Company,36.36,Consumer Cyclical,Stocks,NYQ
+APTV,Aptiv PLC,132.01,Consumer Cyclical,Stocks,NYQ
+AVLR,"Avalara, Inc.",96.50,Technology,Stocks,NYQ
+RA,RA,20.90,Financial Services,Stocks,NYQ
+AMCR,Amcor plc,11.80,Consumer Cyclical,Stocks,NYQ
+ATCO,Atlas Corp.,13.99,Financial Services,Stocks,NYQ
+WAB,Westinghouse Air Brake Technolo,87.31,Industrials,Stocks,NYQ
+ABC,AmerisourceBergen Corporation,134.69,Healthcare,Stocks,NYQ
+AAP,Advance Auto Parts Inc.,225.11,Consumer Cyclical,Stocks,NYQ
+J,Jacobs Engineering Group Inc.,126.50,Industrials,Stocks,NYQ
+H,Hyatt Hotels Corporation,86.74,Consumer Cyclical,Stocks,NYQ
+AON,Aon plc,261.88,Financial Services,Stocks,NYQ
+HWM,Howmet Aerospace Inc.,30.62,Industrials,Stocks,NYQ
+ARCO,Arcos Dorados Holdings Inc.,6.10,Consumer Cyclical,Stocks,NYQ
+PLAN,"Anaplan, Inc.",43.75,Technology,Stocks,NYQ
+APTS,Preferred Apartment Communities,16.14,Real Estate,Stocks,NYQ
+AN,"AutoNation, Inc.",104.62,Consumer Cyclical,Stocks,NYQ
+ADT,ADT Inc.,7.21,Industrials,Stocks,NYQ
+ARCH,"Arch Resources, Inc.",98.43,Energy,Stocks,NYQ
+AZUL,Azul S.A.,15.29,Industrials,Stocks,NYQ
+ARI,Apollo Commercial Real Estate F,13.15,Real Estate,Stocks,NYQ
+ARW,"Arrow Electronics, Inc.",119.75,Technology,Stocks,NYQ
+ADC,Agree Realty Corporation,62.62,Real Estate,Stocks,NYQ
+AZEK,The AZEK Company Inc.,29.78,Industrials,Stocks,NYQ
+WMC,Western Asset Mortgage Capital ,2.04,Real Estate,Stocks,NYQ
+AXL,American Axle & Manufacturing H,7.86,Consumer Cyclical,Stocks,NYQ
+EVTL,Vertical Aerospace Ltd.,8.02,Industrials,Stocks,NYQ
+ARNC,Arconic Corporation,29.73,Industrials,Stocks,NYQ
+ACRE,Ares Commercial Real Estate Cor,14.40,Real Estate,Stocks,NYQ
+ARE,Alexandria Real Estate Equities,185.54,Real Estate,Stocks,NYQ
+TREB,Trebia Acquisition Corp.,9.45,Financial Services,Stocks,NYQ
+BAH,Booz Allen Hamilton Holding Cor,82.04,Industrials,Stocks,NYQ
+ACM,AECOM,66.74,Industrials,Stocks,NYQ
+AEG,AEGON N.V.,5.59,Financial Services,Stocks,NYQ
+ATEN,"A10 Networks, Inc.",14.15,Technology,Stocks,NYQ
+BBW,"Build-A-Bear Workshop, Inc.",16.91,Consumer Cyclical,Stocks,NYQ
+AJG,Arthur J. Gallagher & Co.,149.25,Financial Services,Stocks,NYQ
+WAL,Western Alliance Bancorporation,107.03,Financial Services,Stocks,NYQ
+APLE,"Apple Hospitality REIT, Inc.",15.35,Real Estate,Stocks,NYQ
+ATO,Atmos Energy Corporation,104.83,Utilities,Stocks,NYQ
+AEE,Ameren Corporation,86.32,Utilities,Stocks,NYQ
+ALIT,"Alight, Inc.",9.10,Technology,Stocks,NYQ
+ELAN,Elanco Animal Health Incorporat,24.94,Healthcare,Stocks,NYQ
+AMPY,Amplify Energy Corp.,3.65,Energy,Stocks,NYQ
+ATI,Allegheny Technologies Incorpor,18.63,Industrials,Stocks,NYQ
+ARES,Ares Management Corporation,72.96,Financial Services,Stocks,NYQ
+AME,"AMETEK, Inc.",132.46,Industrials,Stocks,NYQ
+AXS,Axis Capital Holdings Limited,54.43,Financial Services,Stocks,NYQ
+E,ENI S.p.A.,30.74,Energy,Stocks,NYQ
+AZRE,Azure Power Global Limited,13.61,Utilities,Stocks,NYQ
+BSTZ,BlackRock Science and Technolog,29.08,Financial Services,Stocks,NYQ
+AVB,"AvalonBay Communities, Inc.",237.22,Real Estate,Stocks,NYQ
+R,"Ryder System, Inc.",70.66,Industrials,Stocks,NYQ
+AMR,"Alpha Metallurgical Resources, ",62.81,Basic Materials,Stocks,NYQ
+AMRC,"Ameresco, Inc.",44.15,Industrials,Stocks,NYQ
+PAG,"Penske Automotive Group, Inc.",99.34,Consumer Cyclical,Stocks,NYQ
+RS,Reliance Steel & Aluminum Co.,150.60,Basic Materials,Stocks,NYQ
+COLD,Americold Realty Trust,27.05,Real Estate,Stocks,NYQ
+ABG,Asbury Automotive Group Inc,154.94,Consumer Cyclical,Stocks,NYQ
+AGCO,AGCO Corporation,113.35,Industrials,Stocks,NYQ
+ARLO,"Arlo Technologies, Inc.",7.58,Industrials,Stocks,NYQ
+AMX,"America Movil, S.A.B. de C.V. A",18.24,Communication Services,Stocks,NYQ
+AROC,"Archrock, Inc.",8.41,Energy,Stocks,NYQ
+AVTR,"Avantor, Inc.",34.74,Basic Materials,Stocks,NYQ
+HKIB,AMTD International Inc.,3.96,Financial Services,Stocks,NYQ
+ASIX,AdvanSix Inc.,41.64,Basic Materials,Stocks,NYQ
+GOL,Gol Linhas Aereas Inteligentes ,6.40,Industrials,Stocks,NYQ
+ADNT,Adient plc,41.73,Consumer Cyclical,Stocks,NYQ
+CCAC,CITIC Capital Acquisition Corp.,8.92,Financial Services,Stocks,NYQ
+ETD,Ethan Allen Interiors Inc.,23.76,Consumer Cyclical,Stocks,NYQ
+ALC,Alcon Inc.,73.82,Healthcare,Stocks,NYQ
+ATIP,"ATI Physical Therapy, Inc.",3.02,Healthcare,Stocks,NYQ
+AIV,Apartment Investment and Manage,6.57,Real Estate,Stocks,NYQ
+YMM,Full Truck Alliance Co. Ltd.,7.49,Technology,Stocks,NYQ
+MAA,Mid-America Apartment Communiti,196.21,Real Estate,Stocks,NYQ
+AFG,"American Financial Group, Inc.",125.46,Financial Services,Stocks,NYQ
+MITT,"AG Mortgage Investment Trust, I",10.10,Real Estate,Stocks,NYQ
+AX,"Axos Financial, Inc.",50.26,Financial Services,Stocks,NYQ
+ASPN,"Aspen Aerogels, Inc.",26.58,Industrials,Stocks,NYQ
+AMRX,"Amneal Pharmaceuticals, Inc.",4.29,Healthcare,Stocks,NYQ
+SNII,Supernova Partners Acquisition ,9.91,Financial Services,Stocks,NYQ
+TKC,Turkcell Iletisim Hizmetleri AS,3.45,Communication Services,Stocks,NYQ
+SEE,Sealed Air Corporation,66.55,Consumer Cyclical,Stocks,NYQ
+AVY,Avery Dennison Corporation,196.37,Industrials,Stocks,NYQ
+WMS,"Advanced Drainage Systems, Inc.",104.14,Industrials,Stocks,NYQ
+SAIC,SCIENCE APPLICATIONS INTERNATIO,81.42,Technology,Stocks,NYQ
+HTA,"Healthcare Trust of America, In",31.70,Real Estate,Stocks,NYQ
+FAF,First American Corporation (New,72.13,Financial Services,Stocks,NYQ
+AER,AerCap Holdings N.V.,61.42,Industrials,Stocks,NYQ
+SA,"Seabridge Gold, Inc.",15.66,Basic Materials,Stocks,NYQ
+AMH,American Homes 4 Rent,37.12,Real Estate,Stocks,NYQ
+RCUS,"Arcus Biosciences, Inc.",29.28,Healthcare,Stocks,NYQ
+ARC,"ARC Document Solutions, Inc.",3.29,Industrials,Stocks,NYQ
+Y,Alleghany Corporation,642.71,Financial Services,Stocks,NYQ
+AL,Air Lease Corporation,38.50,Industrials,Stocks,NYQ
+AGR,"Avangrid, Inc.",45.32,Utilities,Stocks,NYQ
+WHD,"Cactus, Inc. Class A Common Sto",48.73,Energy,Stocks,NYQ
+BBVA,Banco Bilbao Vizcaya Argentaria,6.31,Financial Services,Stocks,NYQ
+ABM,ABM Industries Incorporated,40.42,Industrials,Stocks,NYQ
+AWR,American States Water Company,89.76,Utilities,Stocks,NYQ
+TDS,"Telephone and Data Systems, Inc",19.52,Communication Services,Stocks,NYQ
+BBAR,Banco BBVA Argentina S.A.,2.93,Financial Services,Stocks,NYQ
+FTAI,Fortress Transportation and Inf,26.19,Industrials,Stocks,NYQ
+CBL,"CBL & Associates Properties, In",27.89,Real Estate,Stocks,NYQ
+AGL,"agilon health, inc.",15.01,Healthcare,Stocks,NYQ
+CND,Concord Acquisition Corp.,9.94,Financial Services,Stocks,NYQ
+AIT,Applied Industrial Technologies,99.51,Industrials,Stocks,NYQ
+PINE,"Alpine Income Property Trust, I",19.44,Real Estate,Stocks,NYQ
+AGTI,"Agiliti, Inc.",17.97,Healthcare,Stocks,NYQ
+AIR,AAR Corp.,39.70,Industrials,Stocks,NYQ
+GPI,"Group 1 Automotive, Inc.",166.56,Consumer Cyclical,Stocks,NYQ
+ALX,"Alexander's, Inc.",264.12,Real Estate,Stocks,NYQ
+AGRO,Adecoagro S.A.,7.72,Consumer Defensive,Stocks,NYQ
+FMS,Fresenius Medical Care AG,33.54,Healthcare,Stocks,NYQ
+ATHM,Autohome Inc.,29.37,Communication Services,Stocks,NYQ
+ALE,"Allete, Inc.",62.65,Utilities,Stocks,NYQ
+ACCO,Acco Brands Corporation,7.94,Industrials,Stocks,NYQ
+AIO,AllianzGI Artificial Intelligen,21.43,Financial Services,Stocks,NYQ
+NLY-PG,Annaly Capital Management Inc 6,24.80,Real Estate,Stocks,NYQ
+CWAN,"Clearwater Analytics Holdings, ",14.88,Technology,Stocks,NYQ
+ASB,Associated Banc-Corp,23.82,Financial Services,Stocks,NYQ
+FOA,Finance of America Companies In,3.64,Financial Services,Stocks,NYQ
+RYAM,Rayonier Advanced Materials Inc,6.06,Basic Materials,Stocks,NYQ
+AVA,Avista Corporation,43.98,Utilities,Stocks,NYQ
+ADCT,ADC Therapeutics SA,14.67,Healthcare,Stocks,NYQ
+AFI,"Armstrong Flooring, Inc.",2.01,Industrials,Stocks,NYQ
+GOLF,Acushnet Holdings Corp.,44.38,Consumer Cyclical,Stocks,NYQ
+L,Loews Corporation,58.27,Financial Services,Stocks,NYQ
+G,Genpact Limited,47.70,Technology,Stocks,NYQ
+NSA,National Storage Affiliates Tru,58.77,Real Estate,Stocks,NYQ
+AUD,Audacy,2.19,Communication Services,Stocks,NYQ
+SAH,"Sonic Automotive, Inc.",50.07,Consumer Cyclical,Stocks,NYQ
+AYI,"Acuity Brands, Inc.",186.60,Industrials,Stocks,NYQ
+AIZ,"Assurant, Inc.",148.70,Financial Services,Stocks,NYQ
+APG,APi Group Corporation,21.28,Industrials,Stocks,NYQ
+AAN,"Aarons Holdings Company, Inc.",20.72,Consumer Cyclical,Stocks,NYQ
+RGA,"Reinsurance Group of America, I",111.47,Financial Services,Stocks,NYQ
+AVYA,Avaya Holdings Corp.,16.56,Technology,Stocks,NYQ
+ACC,American Campus Communities Inc,50.28,Real Estate,Stocks,NYQ
+ARMK,Aramark,32.95,Consumer Cyclical,Stocks,NYQ
+ACA,"Arcosa, Inc.",44.81,Industrials,Stocks,NYQ
+AGX,"Argan, Inc.",38.79,Industrials,Stocks,NYQ
+ALSN,"Allison Transmission Holdings, ",38.66,Consumer Cyclical,Stocks,NYQ
+AHH,"Armada Hoffler Properties, Inc.",13.31,Real Estate,Stocks,NYQ
+ASH,Ashland Global Holdings Inc.,94.51,Basic Materials,Stocks,NYQ
+B,"Barnes Group, Inc.",44.91,Industrials,Stocks,NYQ
+ATR,"AptarGroup, Inc.",113.65,Consumer Cyclical,Stocks,NYQ
+ALV,"Autoliv, Inc.",95.92,Consumer Cyclical,Stocks,NYQ
+YSAC,Yellowstone Acquisition Company,8.67,Financial Services,Stocks,NYQ
+ACH,Aluminum Corporation of China L,13.25,Basic Materials,Stocks,NYQ
+ATGE,Adtalem Global Education Inc.,28.55,Consumer Defensive,Stocks,NYQ
+AXTA,Axalta Coating Systems Ltd.,28.74,Basic Materials,Stocks,NYQ
+LFG,Archaea Energy Inc.,15.59,Utilities,Stocks,NYQ
+AMG,"Affiliated Managers Group, Inc.",138.44,Financial Services,Stocks,NYQ
+AJX,Great Ajax Corp.,12.72,Real Estate,Stocks,NYQ
+GIL,"Gildan Activewear, Inc.",38.81,Consumer Cyclical,Stocks,NYQ
+AEL,American Equity Investment Life,39.89,Financial Services,Stocks,NYQ
+AORT,"Artivion, Inc.",17.04,Healthcare,Stocks,NYQ
+ALLE,Allegion plc,120.51,Industrials,Stocks,NYQ
+T-PA,"AT&T Inc. Depositary Shares, ea",24.95,Communication Services,Stocks,NYQ
+AGO,Assured Guaranty Ltd.,50.97,Financial Services,Stocks,NYQ
+AVNT,Avient Corporation,49.93,Basic Materials,Stocks,NYQ
+KAR,"KAR Auction Services, Inc",14.21,Consumer Cyclical,Stocks,NYQ
+TEO,Telecom Argentina SA,4.82,Communication Services,Stocks,NYQ
+AVAL,Grupo Aval Acciones y Valores S,5.60,Financial Services,Stocks,NYQ
+HUGS,USHG Acquisition Corp.,10.30,Financial Services,Stocks,NYQ
+ENIA,Enel Americas S.A.,5.83,Utilities,Stocks,NYQ
+BRT,BRT Apartments Corp. (MD),20.94,Real Estate,Stocks,NYQ
+FPAC,Far Peak Acquisition Corporatio,9.91,Financial Services,Stocks,NYQ
+AKA,a.k.a. Brands Holding Corp.,6.30,Consumer Cyclical,Stocks,NYQ
+ARGO,Argo Group International Holdin,56.26,Financial Services,Stocks,NYQ
+AAIC,Arlington Asset Investment Corp,3.31,Real Estate,Stocks,NYQ
+REX,REX American Resources Corporat,94.65,Basic Materials,Stocks,NYQ
+AIRC,Apartment Income REIT Corp.,51.17,Real Estate,Stocks,NYQ
+ASGN,ASGN Incorporated,111.77,Technology,Stocks,NYQ
+PIPP,Pine Island Acquisition Corp.,9.78,Financial Services,Stocks,NYQ
+ACEL,"Accel Entertainment, Inc.",12.26,Consumer Cyclical,Stocks,NYQ
+ACR,ACRES Commercial Realty Corp.,11.76,Real Estate,Stocks,NYQ
+AVNS,"Avanos Medical, Inc.",29.14,Healthcare,Stocks,NYQ
+AMBP,Ardagh Metal Packaging S.A.,8.70,Consumer Cyclical,Stocks,NYQ
+ALEX,"Alexander & Baldwin, Inc.",21.99,Real Estate,Stocks,NYQ
+BAC-PQ,Bank of America Corporation Dep,23.21,Financial Services,Stocks,NYQ
+LND,Brasilagro Brazilian Agric Real,4.91,Consumer Defensive,Stocks,NYQ
+AZZ,AZZ Inc.,45.86,Industrials,Stocks,NYQ
+AMBC,"Ambac Financial Group, Inc.",13.40,Financial Services,Stocks,NYQ
+OCA,Omnichannel Acquisition Corp.,9.91,Financial Services,Stocks,NYQ
+RBA,Ritchie Bros. Auctioneers Incor,57.79,Industrials,Stocks,NYQ
+AP,Ampco-Pittsburgh Corporation,5.40,Industrials,Stocks,NYQ
+AMPS,"Altus Power, Inc.",7.08,Utilities,Stocks,NYQ
+NABL,"N-able, Inc.",10.27,Technology,Stocks,NYQ
+AGM,Federal Agricultural Mortgage C,118.29,Financial Services,Stocks,NYQ
+ASC,Ardmore Shipping Corporation,3.35,Industrials,Stocks,NYQ
+AC,"Associated Capital Group, Inc.",45.49,Financial Services,Stocks,NYQ
+TEAF,Tortoise Essential Assets Incom,15.05,Financial Services,Stocks,NYQ
+AVD,American Vanguard Corporation,15.09,Basic Materials,Stocks,NYQ
+AWI,Armstrong World Industries Inc,95.15,Industrials,Stocks,NYQ
+ALTG,Alta Equipment Group Inc.,13.68,Industrials,Stocks,NYQ
+TBB,AT&T Inc. 5.350% Global Notes d,25.36,N/A,Stocks,NYQ
+GCP,GCP Applied Technologies Inc.,31.95,Basic Materials,Stocks,NYQ
+RBAC,RedBall Acquisition Corp.,9.90,Financial Services,Stocks,NYQ
+ATTO,Atento S.A.,23.53,Industrials,Stocks,NYQ
+ARIS,"Aris Water Solutions, Inc.",11.54,Utilities,Stocks,NYQ
+ALG,"Alamo Group, Inc.",140.74,Industrials,Stocks,NYQ
+SEAH-WT,Sports Entertainment Acquisitio,1.63,N/A,Stocks,NYQ
+AKR,Acadia Realty Trust,19.60,Real Estate,Stocks,NYQ
+GB,Global Blue Group Holding AG,6.05,Technology,Stocks,NYQ
+CAAP,Corporacion America Airports SA,5.46,Industrials,Stocks,NYQ
+GLOG-PA,GasLog LP. 8.75% Series A Cumul,25.36,Energy,Stocks,NYQ
+ASAI,Sendas Distribuidora S A,11.64,Consumer Defensive,Stocks,NYQ
+AMAM,Ambrx Biopharma Inc.,4.98,Healthcare,Stocks,NYQ
+ATC,Atotech Limited,23.84,Technology,Stocks,NYQ
+BAC-PL,Bank of America Corporation Non,"1,383.00",Financial Services,Stocks,NYQ
+CGA,"China Green Agriculture, Inc.",7.63,Basic Materials,Stocks,NYQ
+BAMR,Brookfield Asset Management Rei,53.21,Financial Services,Stocks,NYQ
+CLVT-PA,Clarivate Plc 5.25% Series A Ma,65.00,Technology,Stocks,NYQ
+IVAN-UN,Ivanhoe Capital Acquisition Cor,8.60,Financial Services,Stocks,NYQ
+AAT,"American Assets Trust, Inc.",34.71,Real Estate,Stocks,NYQ
+ASR,Grupo Aeroportuario del Sureste,193.26,Industrials,Stocks,NYQ
+NLY-PF,Annaly Capital Management Inc 6,24.82,Real Estate,Stocks,NYQ
+NOA,North American Construction Gro,13.74,Energy,Stocks,NYQ
+PAC,Grupo Aeroportuario Del Pacific,130.16,Industrials,Stocks,NYQ
+SPAQ,Spartan Acquisition Corp. III,9.90,Financial Services,Stocks,NYQ
+ODC,Oil-Dri Corporation Of America,32.70,Basic Materials,Stocks,NYQ
+BDXB,"Becton, Dickinson and Company D",51.81,Healthcare,Stocks,NYQ
+AMK,"AssetMark Financial Holdings, I",23.04,Financial Services,Stocks,NYQ
+CADE-PA,Cadence Bank 5.50% Series A,25.40,Financial Services,Stocks,NYQ
+AXR,AMREP Corporation,12.15,Real Estate,Stocks,NYQ
+CEA,China Eastern Airlines Corporat,19.17,Industrials,Stocks,NYQ
+CCAC-WT,CITIC Capital Acquisition Corp.,0.48,N/A,Stocks,NYQ
+FMAC,FirstMark Horizon Acquisition C,9.88,Financial Services,Stocks,NYQ
+PKE,Park Aerospace Corp.,13.34,Industrials,Stocks,NYQ
+ROSS,Ross Acquisition Corp II,9.71,Financial Services,Stocks,NYQ
+AIN,Albany International Corporatio,80.84,Consumer Cyclical,Stocks,NYQ
+FST,FAST Acquisition Corp.,10.22,Financial Services,Stocks,NYQ
+ZNH,China Southern Airlines Company,31.86,Industrials,Stocks,NYQ
+MBAC,M3-Brigade Acquisition II Corp.,9.96,Financial Services,Stocks,NYQ
+BAC-PO,Bank of America Corporation Dep,23.19,Financial Services,Stocks,NYQ
+AGCB,Altimeter Growth Corp. 2,9.76,Financial Services,Stocks,NYQ
+VIAO,VIA optronics AG,8.53,Technology,Stocks,NYQ
+TBC,AT&T Inc. 5.625% Global Notes d,25.80,N/A,Stocks,NYQ
+NLY-PI,Annaly Capital Management Inc 6,25.12,Real Estate,Stocks,NYQ
+ALIN-PA,Altera Infrastructure L.P. 7.25,3.61,Energy,Stocks,NYQ
+IMPX,AEA-Bridges Impact Corp.,9.86,Financial Services,Stocks,NYQ
+APSG,Apollo Strategic Growth Capital,9.90,Financial Services,Stocks,NYQ
+AAC,Ares Acquisition Corporation,9.71,Financial Services,Stocks,NYQ
+LGV,Longview Acquisition Corp. II,9.70,Financial Services,Stocks,NYQ
+IVAN-WT,Ivanhoe Capital Acquisition Cor,0.99,N/A,Stocks,NYQ
+ADEX,Adit EdTech Acquisition Corp.,9.88,Financial Services,Stocks,NYQ
+AMOV,"America Movil, S.A.B. de C.V.",18.15,Communication Services,Stocks,NYQ
+RERE,ATRenew Inc.,5.67,Consumer Cyclical,Stocks,NYQ
+ATH-PA,Athene Holding Ltd. Depositary ,27.62,Financial Services,Stocks,NYQ
+AIVL,WisdomTree U.S. AI Enhanced Val,96.48,N/A,Stocks,NYQ
+VGII,Virgin Group Acquisition Corp. ,9.86,Financial Services,Stocks,NYQ
+TREB-WT,Trebia Acquisition Corp.,1.06,N/A,Stocks,NYQ
+KAHC,KKR Acquisition Holdings I Corp,9.74,Financial Services,Stocks,NYQ
+AVAN,Avanti Acquisition Corp.,9.81,Financial Services,Stocks,NYQ
+WNNR-UN,Andretti Acquisition Corp.,9.99,Financial Services,Stocks,NYQ
+AOMR,"Angel Oak Mortgage, Inc.",16.77,Real Estate,Stocks,NYQ
+NIMC,"NiSource, Inc Series A Corporat",110.70,Utilities,Stocks,NYQ
+ARL,"American Realty Investors, Inc.",14.70,Real Estate,Stocks,NYQ
+CPUH,Compute Health Acquisition Corp,9.73,Financial Services,Stocks,NYQ
+AENZ,Aenza S.A.A.,1.74,Industrials,Stocks,NYQ
+OACB,Oaktree Acquisition Corp. II,9.87,Financial Services,Stocks,NYQ
+BAC-PP,Bank of America Corporation Dep,22.95,Financial Services,Stocks,NYQ
+BOAS,BOA Acquisition Corp.,9.85,Financial Services,Stocks,NYQ
+AQNU,Algonquin Power & Utilities Cor,45.13,Utilities,Stocks,NYQ
+CTA-PB,E.I. du Pont de Nemours and Com,100.88,Basic Materials,Stocks,NYQ
+FPAC-WT,Far Peak Acquisition Corporatio,0.82,N/A,Stocks,NYQ
+TWNT,Tailwind Two Acquisition Corp.,9.85,Financial Services,Stocks,NYQ
+ARR-PC,"ARMOUR Residential REIT, Inc. 7",25.26,Real Estate,Stocks,NYQ
+TVC,Tennessee Valley Authority,25.06,N/A,Stocks,NYQ
+ELAT,Elanco Animal Health Incorporat,39.57,Healthcare,Stocks,NYQ
+APGB-WT,Apollo Strategic Growth Capital,0.65,N/A,Stocks,NYQ
+ALP-PQ,Alabama Power Company 5.00%,25.58,Utilities,Stocks,NYQ
+APN,Apeiron Capital Investment Corp,9.89,Financial Services,Stocks,NYQ
+AEVA-WT,"Aeva Technologies, Inc. Redeema",0.82,N/A,Stocks,NYQ
+HZON,Horizon Acquisition Corporation,9.80,Financial Services,Stocks,NYQ
+EQD,Equity Distribution Acquisition,9.84,Financial Services,Stocks,NYQ
+OCA-WT,Omnichannel Acquisition Corp.,0.28,N/A,Stocks,NYQ
+CPUH-WT,Compute Health Acquisition Corp,0.52,N/A,Stocks,NYQ
+ABR-PF,Arbor Realty Trust 6.25% Series,24.88,Real Estate,Stocks,NYQ
+TRTL,TortoiseEcofin Acquisition Corp,9.67,Financial Services,Stocks,NYQ
+AKO-B,Embotelladora Andina S.A.,12.88,Consumer Defensive,Stocks,NYQ
+QFTA,Quantum FinTech Acquisition Cor,9.88,Financial Services,Stocks,NYQ
+ASZ,Austerlitz Acquisition Corporat,9.71,Financial Services,Stocks,NYQ
+BAC-PE,Bank of America Corporation Dep,24.05,Financial Services,Stocks,NYQ
+FACT,Freedom Acquisition I Corp.,9.70,Financial Services,Stocks,NYQ
+SLAC,Social Leverage Acquisition Cor,9.69,Financial Services,Stocks,NYQ
+AIVI,WisdomTree International AI Enh,41.84,N/A,Stocks,NYQ
+GFX,Golden Falcon Acquisition Corp.,9.75,Financial Services,Stocks,NYQ
+MDH,MDH Acquisition Corp.,9.74,Financial Services,Stocks,NYQ
+CPUH-UN,Compute Health Acquisition Corp,9.86,Financial Services,Stocks,NYQ
+ATCO-PH,Atlas Corp. 7.875% Series H,25.20,Financial Services,Stocks,NYQ
+TVE,Tennessee Valley Authority,25.12,N/A,Stocks,NYQ
+CAS,Cascade Acquisition Corp.,9.98,Financial Services,Stocks,NYQ
+FTAI-PB,Fortress Transportation and Inf,25.06,Industrials,Stocks,NYQ
+CPTK,Crown PropTech Acquisitions,9.84,Financial Services,Stocks,NYQ
+PIPP-WT,Pine Island Acquisition Corp. R,0.70,N/A,Stocks,NYQ
+ALIN-PE,Altera Infrastructure L.P. 8.87,4.26,Energy,Stocks,NYQ
+ATA,Americas Technology Acquisition,10.14,Financial Services,Stocks,NYQ
+BRD,Beard Energy Transition Acquisi,9.77,Financial Services,Stocks,NYQ
+BAC-PN,Bank of America Corporation Dep,25.21,Financial Services,Stocks,NYQ
+BML-PL,Bank of America Corporation Ban,24.03,Financial Services,Stocks,NYQ
+GSQD,G Squared Ascend I Inc.,9.94,Financial Services,Stocks,NYQ
+SEAH-UN,Sports Entertainment Acquisitio,8.98,Financial Services,Stocks,NYQ
+ALL-PH,Allstate Corporation (The) Depo,25.58,Financial Services,Stocks,NYQ
+ABR-PE,Arbor Realty Trust 6.25% Series,24.60,Real Estate,Stocks,NYQ
+BAC-PK,Bank of America Corporation Dep,25.98,Financial Services,Stocks,NYQ
+BAC-PM,Bank of America Corporation Dep,25.76,Financial Services,Stocks,NYQ
+ALCC,AltC Acquisition Corp.,9.73,Financial Services,Stocks,NYQ
+AGM-A,Federal Agricultural Mortgage C,113.59,Financial Services,Stocks,NYQ
+MITT-PB,"AG Mortgage Investment Trust, I",24.42,Real Estate,Stocks,NYQ
+AKO-A,Embotelladora Andina S.A.,11.14,Consumer Defensive,Stocks,NYQ
+ALIN-PB,Altera Infrastructure L.P. 8.50,4.22,Energy,Stocks,NYQ
+FACA,Figure Acquisition Corp. I,9.75,Financial Services,Stocks,NYQ
+AESC,The AES Corporation Corporate,90.11,Utilities,Stocks,NYQ
+ACRO,Acropolis Infrastructure Acquis,9.64,Financial Services,Stocks,NYQ
+FLME,Flame Acquisition Corp.,9.67,Financial Services,Stocks,NYQ
+ANAC,Arctos NorthStar Acquisition Co,9.70,Financial Services,Stocks,NYQ
+HMA-UN,Heartland Media Acquisition Cor,10.01,Financial Services,Stocks,NYQ
+MHNC,"Maiden Holdings North America, ",21.78,N/A,Stocks,NYQ
+ASAQ,Atlantic Street Acquisition Cor,9.80,Financial Services,Stocks,NYQ
+WAL-PA,Western Alliance Bancorporation,25.00,Financial Services,Stocks,NYQ
+ATCO-PD,Atlas Corp. 7.95% Series D,25.27,Financial Services,Stocks,NYQ
+RONI,Rice Acquisition Corp. II,9.75,Financial Services,Stocks,NYQ
+OSI,Osiris Acquisition Corp.,9.65,Financial Services,Stocks,NYQ
+AIC,Arlington Asset Investment Corp,25.30,N/A,Stocks,NYQ
+AGAC,African Gold Acquisition Corpor,9.67,Financial Services,Stocks,NYQ
+ATCO-PI,Atlas Corp. Series I Fixed-to-F,26.19,Financial Services,Stocks,NYQ
+BAC-PB,Bank of America Corporation Dep,26.25,Financial Services,Stocks,NYQ
+AQNA,Algonquin Power & Utilities Cor,26.52,N/A,Stocks,NYQ
+FCAX,Fortress Capital Acquisition Co,9.73,Financial Services,Stocks,NYQ
+DWIN,Delwinds Insurance Acquisition ,9.87,Financial Services,Stocks,NYQ
+AQNB,Algonquin Power & Utilities Cor,26.65,N/A,Stocks,NYQ
+FVIV,Fortress Value Acquisition Corp,9.71,Financial Services,Stocks,NYQ
+EQHA,EQ Health Acquisition Corp.,9.71,Financial Services,Stocks,NYQ
+AAQC,Accelerate Acquisition Corp.,9.68,Financial Services,Stocks,NYQ
+AFTR,AfterNext HealthTech Acquisitio,9.65,Financial Services,Stocks,NYQ
+BACA,Berenson Acquisition Corp. I,9.67,Financial Services,Stocks,NYQ
+MDVA,Modiv Inc. 7.375% Series A Cumu,26.20,Real Estate,Stocks,NYQ
+ACII,Atlas Crest Investment Corp. II,9.73,Financial Services,Stocks,NYQ
+AAC-UN,Ares Acquisition Corporation,9.81,Financial Services,Stocks,NYQ
+JWSM,Jaws Mustang Acquisition Corp.,9.72,Financial Services,Stocks,NYQ
+FVT,Fortress Value Acquisition Corp,9.75,Financial Services,Stocks,NYQ
+TWNI,Tailwind International Acquisit,9.68,Financial Services,Stocks,NYQ
+FSNB,Fusion Acquisition Corp. II,9.69,Financial Services,Stocks,NYQ
+OPA,Magnum Opus Acquisition Limited,9.95,Financial Services,Stocks,NYQ
+CND-WT,Concord Acquisition Corp.,1.50,N/A,Stocks,NYQ
+WEL,Integrated Wellness Acquisition,9.85,Financial Services,Stocks,NYQ
+CLAS,CLASS ACCELERATION CORP,9.72,Financial Services,Stocks,NYQ
+MER-PK,Bank of America Corporation Inc,26.20,N/A,Stocks,NYQ
+MGR,"Affiliated Managers Group, Inc.",26.02,N/A,Stocks,NYQ
+ABR-PD,Arbor Realty Trust 6.375% Serie,24.94,Real Estate,Stocks,NYQ
+KNSW-UN,KnightSwan Acquisition Corporat,9.96,Financial Services,Stocks,NYQ
+AHT-PD,Ashford Hospitality Trust Inc 8,24.29,Real Estate,Stocks,NYQ
+TSPQ,TCW Special Purpose Acquisition,9.65,Financial Services,Stocks,NYQ
+APGB,Apollo Strategic Growth Capital,9.72,Financial Services,Stocks,NYQ
+ATH-PD,Athene Holding Ltd. Depositary ,24.38,Financial Services,Stocks,NYQ
+CLAA,Colonnade Acquisition Corp. II,9.68,Financial Services,Stocks,NYQ
+AAIN,Arlington Asset Investment Corp,24.78,N/A,Stocks,NYQ
+CRU,Crucible Acquisition Corporatio,9.72,Financial Services,Stocks,NYQ
+AFGC,"American Financial Group, Inc. ",25.47,N/A,Stocks,NYQ
+AUS,Austerlitz Acquisition Corporat,9.71,Financial Services,Stocks,NYQ
+NGC,Northern Genesis Acquisition Co,9.67,Financial Services,Stocks,NYQ
+DNZ,D and Z Media Acquisition Corp.,9.72,Financial Services,Stocks,NYQ
+AVTR-PA,"Avantor, Inc. Series A Mandator",106.53,Basic Materials,Stocks,NYQ
+BOAC,Bluescape Opportunities Acquisi,9.80,Financial Services,Stocks,NYQ
+HHLA,HH&L Acquisition Co.,9.70,Financial Services,Stocks,NYQ
+BITE,Bite Acquisition Corp.,9.67,Financial Services,Stocks,NYQ
+BSAQ,Black Spade Acquisition Co,9.60,Financial Services,Stocks,NYQ
+TLGA,TLG Acquisition One Corp.,9.70,Financial Services,Stocks,NYQ
+POND,Angel Pond Holdings Corporation,9.64,Financial Services,Stocks,NYQ
+AVAN-WT,Avanti Acquisition Corp. Redeem,0.40,N/A,Stocks,NYQ
+TWND,Tailwind Acquisition Corp.,9.83,Financial Services,Stocks,NYQ
+MAA-PI,Mid-America Apartment Communiti,61.34,Real Estate,Stocks,NYQ
+TINV,Tiga Acquisition Corp.,10.16,Financial Services,Stocks,NYQ
+BOAS-UN,BOA Acquisition Corp.,9.95,Financial Services,Stocks,NYQ
+FRXB,Forest Road Acquisition Corp. I,9.69,Financial Services,Stocks,NYQ
+EGGF,EG Acquisition Corp.,9.65,Financial Services,Stocks,NYQ
+LGV-UN,Longview Acquisition Corp. II,9.80,Financial Services,Stocks,NYQ
+GOAC,GO Acquisition Corp.,9.86,Financial Services,Stocks,NYQ
+BML-PH,Bank of America Corporation Ban,22.15,Financial Services,Stocks,NYQ
+WARR,Warrior Technologies Acquisitio,9.82,Financial Services,Stocks,NYQ
+FTAI-PC,Fortress Transportation and Inf,26.30,Industrials,Stocks,NYQ
+ESM,ESM Acquisition Corporation,9.67,Financial Services,Stocks,NYQ
+AHL-PD,Aspen Insurance Holdings Limite,25.00,Financial Services,Stocks,NYQ
+CTA-PA,E.I. du Pont de Nemours and Com,93.25,Basic Materials,Stocks,NYQ
+AMPI,"Advanced Merger Partners, Inc.",9.67,Financial Services,Stocks,NYQ
+PIAI,Prime Impact Acquisition I,9.84,Financial Services,Stocks,NYQ
+KCGI,Kensington Capital Acquisition ,9.83,Financial Services,Stocks,NYQ
+ATH-PB,Athene Holding Ltd. Depositary ,25.27,Financial Services,Stocks,NYQ
+SPGS-UN,Simon Property Group Acquisitio,9.83,Financial Services,Stocks,NYQ
+MITT-PC,"AG Mortgage Investment Trust, I",24.41,Real Estate,Stocks,NYQ
+RZA,"Reinsurance Group of America, I",25.71,N/A,Stocks,NYQ
+CLBR,Colombier Acquisition Corp.,9.60,Financial Services,Stocks,NYQ
+FLAG,"First Light Acquisition Group, ",9.83,Financial Services,Stocks,NYQ
+ATAQ,Altimar Acquisition Corp. III,9.70,Financial Services,Stocks,NYQ
+AIZN,"Assurant, Inc. 5.25% Subordinat",25.58,N/A,Stocks,NYQ
+AMH-PF,American Homes 4 Rent 5.875% Se,25.42,Real Estate,Stocks,NYQ
+AHT-PG,Ashford Hospitality Trust Inc 7,22.74,Real Estate,Stocks,NYQ
+MTCN,ArcelorMittal 5.50% Mandatorily,67.42,N/A,Stocks,NYQ
+LNFA,L&F Acquisition Corp.,10.04,Financial Services,Stocks,NYQ
+HIGA,H.I.G. Acquisition Corp.,9.79,Financial Services,Stocks,NYQ
+SPGS,Simon Property Group Acquisitio,9.71,Financial Services,Stocks,NYQ
+GAM-PB,General American Investors Comp,26.98,N/A,Stocks,NYQ
+DSAQ,Direct Selling Acquisition Corp,9.92,Financial Services,Stocks,NYQ
+PIPP-UN,Pine Island Acquisition Corp.,10.00,Financial Services,Stocks,NYQ
+BML-PG,Bank of America Corporation Ban,21.94,Financial Services,Stocks,NYQ
+FTAI-PA,Fortress Transportation and Inf,25.55,N/A,Stocks,NYQ
+PV,Primavera Capital Acquisition C,9.71,Financial Services,Stocks,NYQ
+AEFC,Aegon Funding Company LLC 5.10%,25.27,N/A,Stocks,NYQ
+SPAQ-UN,Spartan Acquisition Corp. III,10.10,Financial Services,Stocks,NYQ
+MGRD,"Affiliated Managers Group, Inc.",21.90,N/A,Stocks,NYQ
+BMAC,Black Mountain Acquisition Corp,9.83,Financial Services,Stocks,NYQ
+BLUA,BlueRiver Acquisition Corp.,9.71,Financial Services,Stocks,NYQ
+AIG-PA,"American International Group, I",26.11,Financial Services,Stocks,NYQ
+MTAL,Metals Acquisition Corp,9.64,Financial Services,Stocks,NYQ
+BYN-UN,Banyan Acquisition Corporation,9.98,Financial Services,Stocks,NYQ
+TRIS,Tristar Acquisition I Corp.,9.72,Financial Services,Stocks,NYQ
+MITT-PA,"AG Mortgage Investment Trust, I",25.01,Real Estate,Stocks,NYQ
+BGSX,Build Acquisition Corp.,9.65,Financial Services,Stocks,NYQ
+KAHC-UN,KKR Acquisition Holdings I Corp,9.92,Financial Services,Stocks,NYQ
+CSTA,Constellation Acquisition Corp ,9.71,Financial Services,Stocks,NYQ
+GFX-WT,Golden Falcon Acquisition Corp.,0.40,N/A,Stocks,NYQ
+P,P,N/A,N/A,Stocks,NYQ
+FZT,FAST Acquisition Corp. II,9.68,Financial Services,Stocks,NYQ
+ALL-PB,Allstate Corporation (The) 5.10,24.75,N/A,Stocks,NYQ
+TREB-UN,Trebia Acquisition Corp.,9.66,Financial Services,Stocks,NYQ
+AFGB,"American Financial Group, Inc. ",26.31,N/A,Stocks,NYQ
+CNDA,Concord Acquisition Corp II,9.65,Financial Services,Stocks,NYQ
+KWAC,Kingswood Acquisition Corp.,10.15,Financial Services,Stocks,NYQ
+AHT-PF,Ashford Hospitality Trust Inc 7,22.72,Real Estate,Stocks,NYQ
+INAQ,Insight Acquisition Corp.,9.69,Financial Services,Stocks,NYQ
+PDOT,Peridot Acquisition Corp. II,9.68,Financial Services,Stocks,NYQ
+WQGA,World Quantum Growth Acquisitio,9.79,Financial Services,Stocks,NYQ
+GAPA,G&P Acquisition Corp.,9.82,Financial Services,Stocks,NYQ
+AAM-PA,"Apollo Asset Management, Inc. 6",25.59,N/A,Stocks,NYQ
+TACA,Trepont Acquisition Corp I,10.00,Financial Services,Stocks,NYQ
+AFGD,"American Financial Group, Inc. ",26.78,N/A,Stocks,NYQ
+QFTA-WT,Quantum FinTech Acquisition Cor,0.31,N/A,Stocks,NYQ
+RBAC-WT,RedBall Acquisition Corp. Redee,0.65,N/A,Stocks,NYQ
+AXS-PE,Axis Capital Holdings Limited D,25.02,Financial Services,Stocks,NYQ
+GOAC-WT,GO Acquisition Corp.,0.37,N/A,Stocks,NYQ
+TDS-PV,"Telephone and Data Systems, Inc",24.42,Communication Services,Stocks,NYQ
+GFOR,Graf Acquisition Corp. IV,9.65,Financial Services,Stocks,NYQ
+IACC,ION Acquisition Corp 3 Ltd.,9.65,Financial Services,Stocks,NYQ
+JBK,Lehman ABS 3.50 3.50% Adjustabl,29.35,N/A,Stocks,NYQ
+TRCA,Twin Ridge Capital Acquisition ,9.69,Financial Services,Stocks,NYQ
+FCRX,First Eagle Alternative Capital,25.48,N/A,Stocks,NYQ
+XFLT-PA,XAI Octagon Floating Rate & Alt,26.15,Financial Services,Stocks,NYQ
+LOCC,Live Oak Crestview Climate Acqu,9.70,Financial Services,Stocks,NYQ
+LOKM,Live Oak Mobility Acquisition C,9.68,Financial Services,Stocks,NYQ
+AAIC-PC,Arlington Asset Investment Corp,24.91,Real Estate,Stocks,NYQ
+SNII-UN,Supernova Partners Acquisition ,10.24,Financial Services,Stocks,NYQ
+ATH-PC,Athene Holding Ltd. Depositary ,27.04,Financial Services,Stocks,NYQ
+QFTA-UN,Quantum FinTech Acquisition Cor,10.20,Financial Services,Stocks,NYQ
+IMPX-WT,AEA-Bridges Impact Corp.,0.74,N/A,Stocks,NYQ
+FMAC-WT,FirstMark Horizon Acquisition C,0.48,N/A,Stocks,NYQ
+ACAQ,Athena Consumer Acquisition Cor,9.90,Financial Services,Stocks,NYQ
+IRRX,Integrated Rail and Resources A,9.85,Financial Services,Stocks,NYQ
+FOA-WT,Finance of America Companies In,0.46,N/A,Stocks,NYQ
+FTEV,FinTech Evolution Acquisition G,9.70,Financial Services,Stocks,NYQ
+HZON-WT,Horizon Acquisition Corporation,0.55,N/A,Stocks,NYQ
+AAIC-PB,Arlington Asset Investment Corp,24.90,Real Estate,Stocks,NYQ
+APTV-PA,Aptiv PLC 5.50% Series A Mandat,149.82,Consumer Cyclical,Stocks,NYQ
+AAM-PB,"Apollo Asset Management, Inc. 6",26.77,N/A,Stocks,NYQ
+APSG-WT,Apollo Strategic Growth Capital,1.02,N/A,Stocks,NYQ
+MH-PC,"Maiden Holdings North America, ",11.65,Financial Services,Stocks,NYQ
+APCA-UN,AP Acquisition Corp,10.03,Financial Services,Stocks,NYQ
+ALL-PG,Allstate Corporation (The) Depo,25.94,Financial Services,Stocks,NYQ
+IPVA,InterPrivate II Acquisition Cor,9.68,Financial Services,Stocks,NYQ
+AAC-WT,Ares Acquisition Corporation Re,0.58,N/A,Stocks,NYQ
+FLYA,SOAR Technology Acquisition Cor,10.03,Financial Services,Stocks,NYQ
+GAQ-UN,Generation Asia I Acquisition L,9.90,Financial Services,Stocks,NYQ
+EQD-WT,Equity Distribution Acquisition,0.50,N/A,Stocks,NYQ
+BML-PJ,Bank of America Corporation Ban,24.52,Financial Services,Stocks,NYQ
+AFGE,"American Financial Group, Inc. ",24.38,N/A,Stocks,NYQ
+RCFA,RCF Acquisition Corp.,9.82,Financial Services,Stocks,NYQ
+CNDB,Concord Acquisition Corp III,9.83,Financial Services,Stocks,NYQ
+PRBM,Parabellum Acquisition Corp.,9.74,Financial Services,Stocks,NYQ
+SUAC,ShoulderUp Technology Acquisiti,9.83,Financial Services,Stocks,NYQ
+MNTN,Everest Consolidator Acquisitio,9.88,Financial Services,Stocks,NYQ
+PACI,PROOF Acquisition Corp I,9.87,Financial Services,Stocks,NYQ
+GSQB,G Squared Ascend II Inc.,9.70,Financial Services,Stocks,NYQ
+NCZ-PA,Virtus AllianzGI Convertible & ,25.70,N/A,Stocks,NYQ
+IFIN,InFinT Acquisition Corporation,9.88,Financial Services,Stocks,NYQ
+PMVC,PMV Consumer Acquisition Corp.,9.81,Financial Services,Stocks,NYQ
+TMAC,The Music Acquisition Corporati,9.70,Financial Services,Stocks,NYQ
+HUGS-UN,USHG Acquisition Corp.,10.56,Financial Services,Stocks,NYQ
+PMVC-WT,PMV Consumer Acquisition Corp. ,0.45,N/A,Stocks,NYQ
+TWNT-UN,Tailwind Two Acquisition Corp.,10.01,Financial Services,Stocks,NYQ
+HWKZ,Hawks Acquisition Corp,9.69,Financial Services,Stocks,NYQ
+ASAQ-UN,Atlantic Street Acquisition Cor,10.02,Financial Services,Stocks,NYQ
+SLAC-UN,Social Leverage Acquisition Cor,9.79,Financial Services,Stocks,NYQ
+NSA-PA,National Storage Affiliates Tru,25.30,Real Estate,Stocks,NYQ
+AGAC-UN,African Gold Acquisition Corpor,9.99,Financial Services,Stocks,NYQ
+ACDI,Ascendant Digital Acquisition C,9.90,Financial Services,Stocks,NYQ
+SPAQ-WT,Spartan Acquisition Corp. III,0.92,N/A,Stocks,NYQ
+TLGA-UN,TLG Acquisition One Corp.,9.85,Financial Services,Stocks,NYQ
+ACP-PA,Aberdeen Income Credit Strategi,26.19,N/A,Stocks,NYQ
+NFNT,Infinite Acquisition Corp.,9.81,Financial Services,Stocks,NYQ
+PRBM-UN,Parabellum Acquisition Corp.,10.04,Financial Services,Stocks,NYQ
+ACR-PC,ACRES Commercial Realty Corp. 8,25.03,Real Estate,Stocks,NYQ
+CXAC-UN,C5 Acquisition Corporation,10.03,Financial Services,Stocks,NYQ
+ALTG-PA,Alta Equipment Group Inc. Depos,28.00,Industrials,Stocks,NYQ
+BOAC-WT,Bluescape Opportunities Acquisi,0.48,N/A,Stocks,NYQ
+NFNT-UN,Infinite Acquisition Corp.,10.01,Financial Services,Stocks,NYQ
+FACA-WT,Figure Acquisition Corp. I Rede,0.83,N/A,Stocks,NYQ
+AMBC-WT,"Ambac Financial Group, Inc.",3.05,N/A,Stocks,NYQ
+AGM-PC,Federal Agricultural Mortgage C,27.00,Financial Services,Stocks,NYQ
+GGZ-PA,Gabelli Global Small and Mid Ca,25.37,Financial Services,Stocks,NYQ
+HTAQ,Hunt Companies Acquisition Corp,9.93,Financial Services,Stocks,NYQ
+RRAC,Rigel Resource Acquisition Corp,9.86,Financial Services,Stocks,NYQ
+WEL-UN,Integrated Wellness Acquisition,10.05,Financial Services,Stocks,NYQ
+WRAC,Williams Rowland Acquisition Co,9.90,Financial Services,Stocks,NYQ
+MGRB,"Affiliated Managers Group, Inc.",24.34,N/A,Stocks,NYQ
+STRE,Supernova Partners Acquisition ,9.70,Financial Services,Stocks,NYQ
+IRRX-UN,Integrated Rail and Resources A,10.03,Financial Services,Stocks,NYQ
+TDS-PU,"Telephone and Data Systems, Inc",25.29,N/A,Stocks,NYQ
+ASAQ-WT,Atlantic Street Acquisition Cor,0.43,N/A,Stocks,NYQ
+JATT,JATT Acquisition Corp,9.82,Financial Services,Stocks,NYQ
+SLAC-WT,Social Leverage Acquisition Cor,0.49,N/A,Stocks,NYQ
+WAVC,Waverley Capital Acquisition Co,9.64,Financial Services,Stocks,NYQ
+TRAQ,Trine II Acquisition Corp.,9.84,Financial Services,Stocks,NYQ
+TWND-WT,Tailwind Acquisition Corp. Rede,0.40,N/A,Stocks,NYQ
+AGM-PF,Federal Agricultural Mortgage C,25.31,Financial Services,Stocks,NYQ
+KCGI-UN,Kensington Capital Acquisition ,10.26,Financial Services,Stocks,NYQ
+VCXB-UN,10X Capital Venture Acquisition,10.02,Financial Services,Stocks,NYQ
+HHLA-WT,HH&L Acquisition Co. Redeemable,0.45,N/A,Stocks,NYQ
+ASB-PF,Associated Banc-Corp Depositary,25.82,Financial Services,Stocks,NYQ
+SQ,"Block, Inc.",105.64,Technology,Stocks,NYQ
+IBM,International Business Machines,132.52,Technology,Stocks,NYQ
+BRK-B,Berkshire Hathaway Inc. New,307.67,Financial Services,Stocks,NYQ
+BP,BP p.l.c.,31.53,Energy,Stocks,NYQ
+BX,Blackstone Inc.,119.04,Financial Services,Stocks,NYQ
+BB,BlackBerry Limited,7.55,Technology,Stocks,NYQ
+PBR,Petroleo Brasileiro S.A.- Petro,13.78,Energy,Stocks,NYQ
+BROS,Dutch Bros Inc.,47.99,Consumer Cyclical,Stocks,NYQ
+GOLD,Barrick Gold Corporation,18.71,Basic Materials,Stocks,NYQ
+BKKT,"Bakkt Holdings, Inc.",3.41,Technology,Stocks,NYQ
+BMY,Bristol-Myers Squibb Company,63.86,Healthcare,Stocks,NYQ
+BLK,"BlackRock, Inc.",787.96,Financial Services,Stocks,NYQ
+NYCB,"New York Community Bancorp, Inc",11.70,Financial Services,Stocks,NYQ
+BE,Bloom Energy Corporation,13.22,Industrials,Stocks,NYQ
+BRK-A,Berkshire Hathaway Inc.,"461,200.00",Financial Services,Stocks,NYQ
+DNA,"Ginkgo Bioworks Holdings, Inc.",4.65,Healthcare,Stocks,NYQ
+BHP,BHP Group Limited,65.80,Basic Materials,Stocks,NYQ
+SAM,"Boston Beer Company, Inc. (The)",415.34,Consumer Defensive,Stocks,NYQ
+BHC,Bausch Health Companies Inc.,23.27,Healthcare,Stocks,NYQ
+BBY,"Best Buy Co., Inc.",96.10,Consumer Cyclical,Stocks,NYQ
+USB,U.S. Bancorp,57.44,Financial Services,Stocks,NYQ
+FREY,FREYR Battery,8.01,Industrials,Stocks,NYQ
+BALY,Bally's Corporation,34.60,Consumer Cyclical,Stocks,NYQ
+BPT,BP Prudhoe Bay Royalty Trust,7.07,Energy,Stocks,NYQ
+BEP,Brookfield Renewable Partners L,32.17,Utilities,Stocks,NYQ
+BILL,"Bill.com Holdings, Inc.",156.08,Technology,Stocks,NYQ
+BLDR,"Builders FirstSource, Inc.",64.19,Industrials,Stocks,NYQ
+TD,Toronto Dominion Bank (The),78.95,Financial Services,Stocks,NYQ
+BFLY,"Butterfly Network, Inc.",5.07,Healthcare,Stocks,NYQ
+BARK,"BARK, Inc.",3.26,Consumer Cyclical,Stocks,NYQ
+BK,The Bank of New York Mellon Cor,58.37,Financial Services,Stocks,NYQ
+CAG,"ConAgra Brands, Inc.",35.37,Consumer Defensive,Stocks,NYQ
+TOL,"Toll Brothers, Inc.",54.89,Consumer Cyclical,Stocks,NYQ
+TAP,Molson Coors Beverage Company,48.16,Consumer Defensive,Stocks,NYQ
+BBD,Banco Bradesco Sa,4.10,Financial Services,Stocks,NYQ
+SWK,"Stanley Black & Decker, Inc.",171.67,Industrials,Stocks,NYQ
+BWA,BorgWarner Inc.,43.49,Consumer Cyclical,Stocks,NYQ
+YUM,"Yum! Brands, Inc.",119.82,Consumer Cyclical,Stocks,NYQ
+BHG,"Bright Health Group, Inc.",2.54,Healthcare,Stocks,NYQ
+BLL,Ball Corporation,93.99,Consumer Cyclical,Stocks,NYQ
+BGS,"B&G Foods, Inc. B&G Foods, Inc.",30.86,Consumer Defensive,Stocks,NYQ
+STZ,"Constellation Brands, Inc.",234.77,Consumer Defensive,Stocks,NYQ
+BRO,"Brown & Brown, Inc.",61.97,Financial Services,Stocks,NYQ
+BG,Bunge Limited Bunge Limited,96.59,Consumer Defensive,Stocks,NYQ
+SAN,"Banco Santander, S.A. Sponsored",3.55,Financial Services,Stocks,NYQ
+QSR,Restaurant Brands International,53.98,Consumer Cyclical,Stocks,NYQ
+BSX,Boston Scientific Corporation,43.23,Healthcare,Stocks,NYQ
+BKSY,BlackSky Technology Inc.,2.62,Technology,Stocks,NYQ
+BJ,"BJ's Wholesale Club Holdings, I",57.20,Consumer Defensive,Stocks,NYQ
+RY,Royal Bank Of Canada,111.49,Financial Services,Stocks,NYQ
+BNS,Bank Nova Scotia Halifax Pfd 3,71.13,Financial Services,Stocks,NYQ
+BODY,"The Beachbody Company, Inc.",1.57,Communication Services,Stocks,NYQ
+MTB,M&T Bank Corporation,168.86,Financial Services,Stocks,NYQ
+CADE,Cadence Bank,30.54,Financial Services,Stocks,NYQ
+BRMK,Broadmark Realty Capital Inc.,9.21,Real Estate,Stocks,NYQ
+BMO,Bank Of Montreal,113.64,Financial Services,Stocks,NYQ
+BXMT,"Blackstone Mortgage Trust, Inc.",30.02,Real Estate,Stocks,NYQ
+BEPC,Brookfield Renewable Corporatio,32.37,Utilities,Stocks,NYQ
+BIG,"Big Lots, Inc.",39.74,Consumer Defensive,Stocks,NYQ
+PBI,Pitney Bowes Inc.,5.80,Industrials,Stocks,NYQ
+LYG,Lloyds Banking Group Plc,2.73,Financial Services,Stocks,NYQ
+SB,"Safe Bulkers, Inc",3.46,Industrials,Stocks,NYQ
+ITUB,Itau Unibanco Banco Holding SA,4.46,Financial Services,Stocks,NYQ
+BXP,"Boston Properties, Inc.",110.47,Real Estate,Stocks,NYQ
+CB,Chubb Limited,192.77,Financial Services,Stocks,NYQ
+BBWI,"Bath & Body Works, Inc.",52.90,Consumer Cyclical,Stocks,NYQ
+BYD,Boyd Gaming Corporation,57.74,Consumer Cyclical,Stocks,NYQ
+BC,Brunswick Corporation,88.28,Consumer Cyclical,Stocks,NYQ
+PBR-A,Petroleo Brasileiro S.A.- Petro,12.53,Energy,Stocks,NYQ
+ZBH,"Zimmer Biomet Holdings, Inc.",121.24,Healthcare,Stocks,NYQ
+CFR,"Cullen/Frost Bankers, Inc.",135.80,Financial Services,Stocks,NYQ
+BIO,"Bio-Rad Laboratories, Inc.",564.67,Healthcare,Stocks,NYQ
+BOX,"Box, Inc.",24.41,Technology,Stocks,NYQ
+BIP,Brookfield Infrastructure Partn,58.44,Utilities,Stocks,NYQ
+BCS,Barclays PLC,11.05,Financial Services,Stocks,NYQ
+PBT,Permian Basin Royalty Trust,12.76,Energy,Stocks,NYQ
+BOOT,"Boot Barn Holdings, Inc.",94.92,Consumer Cyclical,Stocks,NYQ
+TUP,Tupperware Brands Corporation,14.38,Consumer Cyclical,Stocks,NYQ
+SJT,San Juan Basin Royalty Trust,6.80,Energy,Stocks,NYQ
+BBL,BHP Group PlcSponsored,65.78,Basic Materials,Stocks,NYQ
+BORR,Borr Drilling Limited,2.05,Energy,Stocks,NYQ
+BOMN,Boston Omaha Corporation,24.18,Communication Services,Stocks,NYQ
+BAX,Baxter International Inc.,84.63,Healthcare,Stocks,NYQ
+HRB,"H&R Block, Inc.",21.79,Consumer Cyclical,Stocks,NYQ
+GSBD,"Goldman Sachs BDC, Inc.",19.62,Financial Services,Stocks,NYQ
+BHVN,Biohaven Pharmaceutical Holding,120.54,Healthcare,Stocks,NYQ
+BLND,"Blend Labs, Inc.",7.15,Technology,Stocks,NYQ
+BCE,"BCE, Inc.",51.46,Communication Services,Stocks,NYQ
+BZH,"Beazer Homes USA, Inc.",18.17,Consumer Cyclical,Stocks,NYQ
+BPMP,BP Midstream Partners LP,18.19,Energy,Stocks,NYQ
+BKE,"Buckle, Inc. (The)",36.85,Consumer Cyclical,Stocks,NYQ
+BCC,"Boise Cascade, L.L.C.",70.37,Basic Materials,Stocks,NYQ
+EAT,"Brinker International, Inc.",31.82,Consumer Cyclical,Stocks,NYQ
+BEST,BEST Inc.,0.66,Industrials,Stocks,NYQ
+CM,Canadian Imperial Bank of Comme,125.03,Financial Services,Stocks,NYQ
+UTZ,Utz Brands Inc,15.41,Consumer Defensive,Stocks,NYQ
+FRC,FIRST REPUBLIC BANK,164.02,Financial Services,Stocks,NYQ
+BSM,"Black Stone Minerals, L.P.",11.18,Energy,Stocks,NYQ
+EBS,"Emergent Biosolutions, Inc.",44.24,Healthcare,Stocks,NYQ
+BVN,Buenaventura Mining Company Inc,8.16,Basic Materials,Stocks,NYQ
+GRBK,"Green Brick Partners, Inc.",22.14,Consumer Cyclical,Stocks,NYQ
+HDB,HDFC Bank Limited,64.79,Financial Services,Stocks,NYQ
+CUBI,"Customers Bancorp, Inc",57.18,Financial Services,Stocks,NYQ
+BRDS,"Bird Global, Inc.",3.24,Industrials,Stocks,NYQ
+BRSP,"BrightSpire Capital, Inc.",9.15,Real Estate,Stocks,NYQ
+BSBR,Banco Santander Brasil SA,6.25,Financial Services,Stocks,NYQ
+BMA,Banco Macro S.A.,12.80,Financial Services,Stocks,NYQ
+IBN,ICICI Bank Limited,20.88,Financial Services,Stocks,NYQ
+BERY,"Berry Global Group, Inc.",67.11,Consumer Cyclical,Stocks,NYQ
+FBP,First BanCorp. New,14.24,Financial Services,Stocks,NYQ
+BAK,Braskem SA,17.06,Basic Materials,Stocks,NYQ
+BR,"Broadridge Financial Solutions,",150.15,Technology,Stocks,NYQ
+FBC,"Flagstar Bancorp, Inc.",45.52,Financial Services,Stocks,NYQ
+BWXT,"BWX Technologies, Inc.",44.23,Industrials,Stocks,NYQ
+KTB,"Kontoor Brands, Inc.",48.48,Consumer Cyclical,Stocks,NYQ
+BBLN,Babylon Holdings Limited,5.65,Healthcare,Stocks,NYQ
+TPGY,TPG Pace Beneficial Finance Cor,9.84,Financial Services,Stocks,NYQ
+BKH,Black Hills Corporation,66.64,Utilities,Stocks,NYQ
+BF-B,Brown Forman Inc,66.09,Consumer Defensive,Stocks,NYQ
+CBD,Companhia Brasileira de Distrib,4.02,Consumer Cyclical,Stocks,NYQ
+BURL,"Burlington Stores, Inc.",224.48,Consumer Cyclical,Stocks,NYQ
+BTCM,BIT Mining Limited,2.94,Technology,Stocks,NYQ
+BW,"Babcock & Wilcox Enterprises, I",6.85,Industrials,Stocks,NYQ
+BMEZ,BlackRock Health Sciences Trust,20.48,Financial Services,Stocks,NYQ
+VIV,Telefonica Brasil S.A.,8.97,Communication Services,Stocks,NYQ
+BHIL,"Benson Hill, Inc.",3.13,Basic Materials,Stocks,NYQ
+BBAI,"BigBear.ai, Inc.",5.03,Technology,Stocks,NYQ
+BOXD,"Boxed, Inc.",10.33,Consumer Cyclical,Stocks,NYQ
+BIPC,Brookfield Infrastructure Partn,64.59,Utilities,Stocks,NYQ
+TPVG,TriplePoint Venture Growth BDC ,15.98,Financial Services,Stocks,NYQ
+EBR,Centrais Electricas Brasileiras,6.41,Utilities,Stocks,NYQ
+MNRL,"Brigham Minerals, Inc.",21.81,Energy,Stocks,NYQ
+OWL,Blue Owl Capital Inc.,11.73,Financial Services,Stocks,NYQ
+DTC,"Solo Brands, Inc.",10.29,Consumer Cyclical,Stocks,NYQ
+DIN,"Dine Brands Global, Inc. Common",64.72,Consumer Cyclical,Stocks,NYQ
+SBH,"Sally Beauty Holdings, Inc. (Na",17.43,Consumer Cyclical,Stocks,NYQ
+WRB,W.R. Berkley Corporation,81.38,Financial Services,Stocks,NYQ
+WBK,Westpac Banking Corporation,14.34,Financial Services,Stocks,NYQ
+BDJ,Blackrock Enhanced Equity Divid,9.53,Financial Services,Stocks,NYQ
+DBI,Designer Brands Inc.,12.91,Consumer Cyclical,Stocks,NYQ
+CNR,"Cornerstone Building Brands, In",14.36,Industrials,Stocks,NYQ
+ENZ,"Enzo Biochem, Inc.",3.18,Healthcare,Stocks,NYQ
+PB,"Prosperity Bancshares, Inc.",73.83,Financial Services,Stocks,NYQ
+BBDC,"Barings BDC, Inc.",10.72,Financial Services,Stocks,NYQ
+BQ,Boqii Holding Limited,0.63,Consumer Cyclical,Stocks,NYQ
+BXC,Bluelinx Holdings Inc.,68.34,Industrials,Stocks,NYQ
+BNED,"Barnes & Noble Education, Inc",5.44,Consumer Cyclical,Stocks,NYQ
+FBHS,"Fortune Brands Home & Security,",90.67,Consumer Cyclical,Stocks,NYQ
+SPB,"Spectrum Brands Holdings, Inc.",87.95,Consumer Defensive,Stocks,NYQ
+TPB,"Turning Point Brands, Inc.",33.00,Consumer Defensive,Stocks,NYQ
+BRFS,BRF S.A.,4.24,Consumer Defensive,Stocks,NYQ
+BKI,"Black Knight, Inc.",70.07,Technology,Stocks,NYQ
+LOCL,Local Bounti Corporation,4.89,Consumer Defensive,Stocks,NYQ
+DNB,"Dun & Bradstreet Holdings, Inc.",20.14,Technology,Stocks,NYQ
+BKD,Brookdale Senior Living Inc.,5.15,Healthcare,Stocks,NYQ
+ELF,"e.l.f. Beauty, Inc.",27.63,Consumer Defensive,Stocks,NYQ
+CIB,BanColombia S.A.,34.44,Financial Services,Stocks,NYQ
+GBCI,"Glacier Bancorp, Inc.",52.67,Financial Services,Stocks,NYQ
+BOH,Bank of Hawaii Corporation,85.64,Financial Services,Stocks,NYQ
+BMI,"Badger Meter, Inc.",86.27,Industrials,Stocks,NYQ
+STL,Sterling Bancorp,27.02,Financial Services,Stocks,NYQ
+BRX,Brixmor Property Group Inc.,24.23,Real Estate,Stocks,NYQ
+BHR,Braemar Hotels & Resorts Inc.,5.08,Real Estate,Stocks,NYQ
+EB,"Eventbrite, Inc.",12.90,Technology,Stocks,NYQ
+SFBS,"ServisFirst Bancshares, Inc.",83.12,Financial Services,Stocks,NYQ
+BCSF,"Bain Capital Specialty Finance,",15.63,Financial Services,Stocks,NYQ
+LZB,La-Z-Boy Incorporated,33.71,Consumer Cyclical,Stocks,NYQ
+FBRT,"Franklin BSP Realty Trust, Inc.",13.58,Real Estate,Stocks,NYQ
+IBP,"Installed Building Products, In",101.25,Industrials,Stocks,NYQ
+BCO,Brinks Company (The),68.98,Industrials,Stocks,NYQ
+HOMB,"Home BancShares, Inc.",23.40,Financial Services,Stocks,NYQ
+BDN,Brandywine Realty Trust,12.57,Real Estate,Stocks,NYQ
+FUL,H. B. Fuller Company,71.12,Basic Materials,Stocks,NYQ
+SBS,Companhia de saneamento Basico ,6.85,Utilities,Stocks,NYQ
+MYTE,MYT Netherlands Parent B.V.,16.96,Consumer Cyclical,Stocks,NYQ
+MCB,Metropolitan Bank Holding Corp.,99.08,Financial Services,Stocks,NYQ
+BHE,"Benchmark Electronics, Inc.",23.33,Technology,Stocks,NYQ
+BRBR,"BellRing Brands, Inc.",23.67,Consumer Defensive,Stocks,NYQ
+CBU,"Community Bank System, Inc.",70.98,Financial Services,Stocks,NYQ
+NUVB,Nuvation Bio Inc.,5.66,Healthcare,Stocks,NYQ
+BDC,Belden Inc,53.70,Technology,Stocks,NYQ
+IBA,"Industrias Bachoco, S.A.B. de C",40.97,Consumer Defensive,Stocks,NYQ
+BH,Biglari Holdings Inc.,113.98,Consumer Cyclical,Stocks,NYQ
+UBA,Urstadt Biddle Properties Inc.,19.00,Real Estate,Stocks,NYQ
+NGVC,Natural Grocers by Vitamin Cott,14.35,Consumer Defensive,Stocks,NYQ
+BFAM,Bright Horizons Family Solution,118.34,Consumer Cyclical,Stocks,NYQ
+BANC,"Banc of California, Inc.",18.80,Financial Services,Stocks,NYQ
+BNL,"Broadstone Net Lease, Inc.",22.18,Real Estate,Stocks,NYQ
+BCH,Banco De Chile Banco De Chile,19.85,Financial Services,Stocks,NYQ
+BHLB,"Berkshire Hills Bancorp, Inc.",29.15,Financial Services,Stocks,NYQ
+KB,KB Financial Group Inc,48.36,Financial Services,Stocks,NYQ
+HBB,Hamilton Beach Brands Holding C,13.12,Consumer Cyclical,Stocks,NYQ
+BLX,Banco Latinoamericano de Comerc,16.54,Financial Services,Stocks,NYQ
+BRDG,Bridge Investment Group Holding,20.91,Real Estate,Stocks,NYQ
+BV,"BrightView Holdings, Inc.",12.82,Industrials,Stocks,NYQ
+BF-A,Brown Forman Inc,61.44,Consumer Defensive,Stocks,NYQ
+BUR,Burford Capital Limited,8.99,Financial Services,Stocks,NYQ
+BKU,"BankUnited, Inc.",41.76,Financial Services,Stocks,NYQ
+SQZ,SQZ Biotechnologies Company,6.34,Healthcare,Stocks,NYQ
+NTB,Bank of N.T. Butterfield & Son ,35.77,Financial Services,Stocks,NYQ
+BVH,Bluegreen Vacations Holding Cor,28.42,Consumer Cyclical,Stocks,NYQ
+GWB,"Great Western Bancorp, Inc.",31.51,Financial Services,Stocks,NYQ
+JBT,John Bean Technologies Corporat,131.60,Industrials,Stocks,NYQ
+BRC,Brady Corporation,51.37,Industrials,Stocks,NYQ
+BSIG,BrightSphere Investment Group I,20.52,Financial Services,Stocks,NYQ
+BOWL,Bowlero Corp.,7.92,Communication Services,Stocks,NYQ
+BY,"Byline Bancorp, Inc.",26.68,Financial Services,Stocks,NYQ
+CO,Global Cord Blood Corporation,3.90,Healthcare,Stocks,NYQ
+OFG,OFG Bancorp,27.49,Financial Services,Stocks,NYQ
+BBDO,Banco Bradesco Sa,3.34,Financial Services,Stocks,NYQ
+BGSF,"BGSF, Inc.",13.07,Industrials,Stocks,NYQ
+BEDU,Bright Scholar Education Holdin,0.82,Consumer Defensive,Stocks,NYQ
+VTOL,"Bristow Group, Inc.",32.99,Energy,Stocks,NYQ
+NBHC,National Bank Holdings Corporat,45.77,Financial Services,Stocks,NYQ
+PSB,"PS Business Parks, Inc. (MD)",161.14,Real Estate,Stocks,NYQ
+BSAC,Banco Santander - Chile,19.85,Financial Services,Stocks,NYQ
+NX,Quanex Building Products Corpor,21.31,Industrials,Stocks,NYQ
+BBU,Brookfield Business Partners L.,42.73,Industrials,Stocks,NYQ
+TAP-A,Molson Coors Beverage Company M,56.32,Consumer Defensive,Stocks,NYQ
+BSMX,"Banco Santander Mexico, S.A., I",5.57,Financial Services,Stocks,NYQ
+SB-PD,"Safe Bulkers, Inc Perpetual Pre",25.26,Industrials,Stocks,NYQ
+SB-PC,"Safe Bulkers, Inc Cumulative Re",25.38,Industrials,Stocks,NYQ
+BIPI,BIP Bermuda Holdings I Limited ,24.95,N/A,Stocks,NYQ
+USB-PQ,"U.S. Bancorp Depositary Shares,",21.60,Financial Services,Stocks,NYQ
+BFZ,BlackRock California Municipal ,13.53,Financial Services,Stocks,NYQ
+BAMH,Brookfield Finance Inc. 4.625% ,23.57,N/A,Stocks,NYQ
+BIO-B,"Bio-Rad Laboratories, Inc.",569.50,Healthcare,Stocks,NYQ
+STZ-B,"Constellation Brands, Inc.",238.25,Consumer Defensive,Stocks,NYQ
+USB-PR,"U.S. Bancorp Depositary Shares,",23.00,Financial Services,Stocks,NYQ
+FBRT-PE,"Franklin BSP Realty Trust, Inc.",24.71,N/A,Stocks,NYQ
+USB-PH,U.S. Bancorp Depositary Shares ,22.54,Financial Services,Stocks,NYQ
+CELG-RI,Bristol-Myers Squibb Company Ce,0.15,N/A,Stocks,NYQ
+EBR-B,Centrais Electricas Brasileiras,5.78,Utilities,Stocks,NYQ
+BH-A,Biglari Holdings Inc.,611.99,Consumer Cyclical,Stocks,NYQ
+BAMI,Brookfield Finance Inc. 4.50% P,23.02,N/A,Stocks,NYQ
+NYCB-PA,"New York Community Bancorp, Inc",29.13,Financial Services,Stocks,NYQ
+UBP,Urstadt Biddle Properties Inc.,18.06,Real Estate,Stocks,NYQ
+BWSN,"Babcock & Wilcox Enterprises, I",25.65,N/A,Stocks,NYQ
+BWNB,"Babcock & Wilcox Enterprises, I",24.41,N/A,Stocks,NYQ
+FRC-PM,FIRST REPUBLIC BANK Depositary ,21.92,Financial Services,Stocks,NYQ
+SWT,"Stanley Black & Decker, Inc. Co",102.37,Industrials,Stocks,NYQ
+BW-PA,"Babcock & Wilcox Enterprises, I",24.93,Industrials,Stocks,NYQ
+BIP-PA,Brookfield Infrastructure Partn,23.16,Utilities,Stocks,NYQ
+BIP-PB,Brookfield Infrastructure Partn,22.93,Utilities,Stocks,NYQ
+BIPH,Brookfield Infrastructure Corpo,23.62,N/A,Stocks,NYQ
+RY-PT,Royal Bank Of Canada 6.750% Fix,26.71,Financial Services,Stocks,NYQ
+DTLA-P,Brookfield DTLA Inc. 7.625% Ser,9.95,Real Estate,Stocks,NYQ
+BFLY-WT,"Butterfly Network, Inc.",1.25,N/A,Stocks,NYQ
+GRBK-PA,"Green Brick Partners, Inc. Depo",25.00,Consumer Cyclical,Stocks,NYQ
+PBI-PB,Pitney Bowes Inc 6.70% Notes Du,24.89,N/A,Stocks,NYQ
+BHR-PB,Braemar Hotels & Resorts Inc. 5,18.53,Real Estate,Stocks,NYQ
+BEPI,Brookfield BRP Holdings (Canada,24.02,N/A,Stocks,NYQ
+BEP-PA,Brookfield Renewable Partners L,24.56,Utilities,Stocks,NYQ
+BHR-PD,Braemar Hotels & Resorts Inc. 8,25.65,Real Estate,Stocks,NYQ
+NYCB-PU,"New York Community Bancorp, Inc",51.18,Financial Services,Stocks,NYQ
+BOH-PA,Bank of Hawaii Corporation Depo,23.10,Financial Services,Stocks,NYQ
+CUBI-PF,"Customers Bancorp, Inc Fixed-to",25.08,Financial Services,Stocks,NYQ
+FRC-PN,First Republic Bank Depositary ,23.78,Financial Services,Stocks,NYQ
+TDW-WTB,Tidewater Inc. Series B,0.44,N/A,Stocks,NYQ
+USB-PP,U.S. Bancorp Depositary Shares ,25.60,Financial Services,Stocks,NYQ
+CUBB,"Customers Bancorp, Inc 5.375% S",26.11,N/A,Stocks,NYQ
+BEPH,Brookfield BRP Holdings (Canada,22.91,N/A,Stocks,NYQ
+UBP-PH,Urstadt Biddle Properties Inc. ,25.25,Real Estate,Stocks,NYQ
+CFR-PB,"Cullen/Frost Bankers, Inc. Depo",23.94,Financial Services,Stocks,NYQ
+BC-PA,Brunswick Corporation 6.500% Se,26.13,N/A,Stocks,NYQ
+FRC-PK,FIRST REPUBLIC BANK Depositary ,22.58,Financial Services,Stocks,NYQ
+PSB-PY,"PS Business Parks, Inc. 5.20% C",25.41,Real Estate,Stocks,NYQ
+TPGY-WT,TPG Pace Beneficial Finance Cor,0.72,N/A,Stocks,NYQ
+FRC-PL,FIRST REPUBLIC BANK Depositary ,22.61,N/A,Stocks,NYQ
+FRC-PH,FIRST REPUBLIC BANK Depositary ,25.35,Financial Services,Stocks,NYQ
+FRC-PJ,FIRST REPUBLIC BANK Depositary ,24.29,Financial Services,Stocks,NYQ
+CUBI-PE,"Customers Bancorp, Inc Fixed-to",25.36,Financial Services,Stocks,NYQ
+STL-PA,Sterling Bancorp Depositary Sha,25.56,Financial Services,Stocks,NYQ
+FRC-PI,FIRST REPUBLIC BANK Depositary ,25.75,Financial Services,Stocks,NYQ
+BSX-PA,Boston Scientific Corporation 5,116.31,Healthcare,Stocks,NYQ
+BC-PB,Brunswick Corporation 6.625% Se,26.09,N/A,Stocks,NYQ
+USB-PA,"U.S. Bancorp Depositary Shares,",918.00,Financial Services,Stocks,NYQ
+WRB-PE,W.R. Berkley Corporation 5.70% ,25.43,N/A,Stocks,NYQ
+UBP-PK,Urstadt Biddle Properties Inc. ,25.30,Real Estate,Stocks,NYQ
+BC-PC,Brunswick Corporation 6.375% No,25.92,N/A,Stocks,NYQ
+PSB-PZ,"PS Business Parks, Inc. Deposit",25.37,Real Estate,Stocks,NYQ
+NUVB-WT,Nuvation Bio Inc.,1.03,N/A,Stocks,NYQ
+BFAC-UN,Battery Future Acquisition Corp,9.98,Financial Services,Stocks,NYQ
+YTPG,TPG Pace Beneficial II Corp.,9.75,Financial Services,Stocks,NYQ
+BITE-WT,Bite Acquisition Corp.,0.47,N/A,Stocks,NYQ
+IMPX-UN,AEA-Bridges Impact Corp.,10.23,Financial Services,Stocks,NYQ
+BITE-UN,Bite Acquisition Corp.,9.91,Financial Services,Stocks,NYQ
+BANC-PE,"Banc of California, Inc. Deposi",25.42,Financial Services,Stocks,NYQ
+ASB-PE,Associated Banc-Corp Depositary,26.04,Financial Services,Stocks,NYQ
+N,N,N/A,N/A,Stocks,NYQ
+MBSC,M3-Brigade Acquisition III Corp,9.90,Financial Services,Stocks,NYQ
+BMAC-UN,Black Mountain Acquisition Corp,10.07,Financial Services,Stocks,NYQ
+PSB-PX,"PS Business Parks, Inc. Deposit",25.16,Real Estate,Stocks,NYQ
+Q,Q,N/A,N/A,Stocks,NYQ
+GB-WT,Global Blue Group Holding AG,0.40,N/A,Stocks,NYQ
+BSAQ-UN,Black Spade Acquisition Co,10.01,Financial Services,Stocks,NYQ
+WRB-PG,W.R. Berkley Corporation 4.25% ,24.55,N/A,Stocks,NYQ
+BOAS-WT,BOA Acquisition Corp. Redeemabl,0.40,N/A,Stocks,NYQ
+MBAC-UN,M3-Brigade Acquisition II Corp.,10.19,Financial Services,Stocks,NYQ
+GME,GameStop Corporation,93.52,Consumer Cyclical,Stocks,NYQ
+XOM,Exxon Mobil Corporation,75.12,Energy,Stocks,NYQ
+VZ,Verizon Communications Inc.,51.19,Communication Services,Stocks,NYQ
+GE,General Electric Company,89.90,Industrials,Stocks,NYQ
+DIS,Walt Disney Company (The),135.42,Communication Services,Stocks,NYQ
+RBLX,Roblox Corporation,57.06,Communication Services,Stocks,NYQ
+CVX,Chevron Corporation,135.37,Energy,Stocks,NYQ
+CLF,Cleveland-Cliffs Inc.,16.21,Basic Materials,Stocks,NYQ
+QS,QuantumScape Corporation,14.11,Consumer Cyclical,Stocks,NYQ
+MCD,McDonald's Corporation,248.74,Consumer Cyclical,Stocks,NYQ
+JPM,JP Morgan Chase & Co.,145.31,Financial Services,Stocks,NYQ
+OXY,Occidental Petroleum Corporatio,37.26,Energy,Stocks,NYQ
+GM,General Motors Company,51.45,Consumer Cyclical,Stocks,NYQ
+LMT,Lockheed Martin Corporation,389.14,Industrials,Stocks,NYQ
+LC,LendingClub Corporation,15.92,Financial Services,Stocks,NYQ
+WFC,Wells Fargo & Company,53.76,Financial Services,Stocks,NYQ
+MMM,3M Company,170.15,Industrials,Stocks,NYQ
+GLW,Corning Incorporated,40.55,Technology,Stocks,NYQ
+CCL,Carnival Corporation,19.11,Consumer Cyclical,Stocks,NYQ
+NOK,Nokia Corporation Sponsored,5.59,Technology,Stocks,NYQ
+DVN,Devon Energy Corporation,51.74,Energy,Stocks,NYQ
+CHPT,"ChargePoint Holdings, Inc.",11.46,Consumer Cyclical,Stocks,NYQ
+KO,Coca-Cola Company (The),59.65,Consumer Defensive,Stocks,NYQ
+NET,"Cloudflare, Inc.",80.34,Technology,Stocks,NYQ
+MRO,Marathon Oil Corporation,19.85,Energy,Stocks,NYQ
+RTX,Raytheon Technologies Corporati,89.28,Industrials,Stocks,NYQ
+PG,Procter & Gamble Company (The),159.13,Consumer Defensive,Stocks,NYQ
+HAL,Halliburton Company,30.83,Energy,Stocks,NYQ
+NUE,Nucor Corporation,96.74,Basic Materials,Stocks,NYQ
+TGT,Target Corporation,212.18,Consumer Defensive,Stocks,NYQ
+MRK,"Merck & Company, Inc.",80.58,Healthcare,Stocks,NYQ
+COP,ConocoPhillips,89.66,Energy,Stocks,NYQ
+KSS,Kohl's Corporation,59.77,Consumer Cyclical,Stocks,NYQ
+CPE,Callon Petroleum Company,49.01,Energy,Stocks,NYQ
+LVS,Las Vegas Sands Corp.,42.08,Consumer Cyclical,Stocks,NYQ
+KMB,Kimberly-Clark Corporation,137.48,Consumer Defensive,Stocks,NYQ
+NCLH,Norwegian Cruise Line Holdings ,19.85,Consumer Cyclical,Stocks,NYQ
+CAT,"Caterpillar, Inc.",212.17,Industrials,Stocks,NYQ
+CVS,CVS Health Corporation,106.79,Healthcare,Stocks,NYQ
+ORCL,Oracle Corporation,79.78,Technology,Stocks,NYQ
+COF,Capital One Financial Corporati,141.68,Financial Services,Stocks,NYQ
+VLO,Valero Energy Corporation,81.98,Energy,Stocks,NYQ
+DHR,Danaher Corporation,269.97,Healthcare,Stocks,NYQ
+JKS,JinkoSolar Holding Company Limi,40.27,Technology,Stocks,NYQ
+LOW,"Lowe's Companies, Inc.",225.93,Consumer Cyclical,Stocks,NYQ
+CPNG,"Coupang, Inc.",18.99,Consumer Cyclical,Stocks,NYQ
+UMC,United Microelectronics Corpora,9.36,Technology,Stocks,NYQ
+CMG,"Chipotle Mexican Grill, Inc.","1,345.14",Consumer Cyclical,Stocks,NYQ
+MP,MP Materials Corp.,37.45,Basic Materials,Stocks,NYQ
+NOC,Northrop Grumman Corporation,373.99,Industrials,Stocks,NYQ
+LEVI,Levi Strauss & Co,22.02,Consumer Cyclical,Stocks,NYQ
+FDX,FedEx Corporation,241.93,Industrials,Stocks,NYQ
+DE,Deere & Company,375.96,Industrials,Stocks,NYQ
+HYLN,Hyliion Holdings Corp.,3.80,Consumer Cyclical,Stocks,NYQ
+CHWY,"Chewy, Inc.",42.71,Consumer Cyclical,Stocks,NYQ
+SONY,Sony Group Corporation,102.92,Technology,Stocks,NYQ
+RKT,"Rocket Companies, Inc.",12.38,Financial Services,Stocks,NYQ
+CLX,Clorox Company (The),165.47,Consumer Defensive,Stocks,NYQ
+NEM,Newmont Corporation,60.66,Basic Materials,Stocks,NYQ
+KR,Kroger Company (The),45.40,Consumer Defensive,Stocks,NYQ
+SI,Silvergate Capital Corporation,93.26,Financial Services,Stocks,NYQ
+HES,Hess Corporation,89.68,Energy,Stocks,NYQ
+RCL,D/B/A Royal Caribbean Cruises L,75.97,Consumer Cyclical,Stocks,NYQ
+GD,General Dynamics Corporation,208.80,Industrials,Stocks,NYQ
+SWN,Southwestern Energy Company,4.16,Energy,Stocks,NYQ
+EW,Edwards Lifesciences Corporatio,101.96,Healthcare,Stocks,NYQ
+TM,Toyota Motor Corporation,189.96,Consumer Cyclical,Stocks,NYQ
+UNP,Union Pacific Corporation,244.59,Industrials,Stocks,NYQ
+NVTA,Invitae Corporation,9.68,Healthcare,Stocks,NYQ
+MPC,Marathon Petroleum Corporation,71.90,Energy,Stocks,NYQ
+ORC,"Orchid Island Capital, Inc.",3.91,Real Estate,Stocks,NYQ
+CVNA,Carvana Co.,141.68,Consumer Cyclical,Stocks,NYQ
+SHW,Sherwin-Williams Company (The),283.17,Basic Materials,Stocks,NYQ
+SCCO,Southern Copper Corporation,63.97,Basic Materials,Stocks,NYQ
+TWO,Two Harbors Investment Corp,5.49,Real Estate,Stocks,NYQ
+NRZ,New Residential Investment Corp,10.28,Real Estate,Stocks,NYQ
+PXD,Pioneer Natural Resources Compa,213.85,Energy,Stocks,NYQ
+CCI,Crown Castle International Corp,171.57,Real Estate,Stocks,NYQ
+DUK,Duke Energy Corporation (Holdin,103.25,Utilities,Stocks,NYQ
+ETRN,Equitrans Midstream Corporation,8.07,Energy,Stocks,NYQ
+KGC,Kinross Gold Corporation,5.31,Basic Materials,Stocks,NYQ
+WHR,Whirlpool Corporation,199.83,Consumer Cyclical,Stocks,NYQ
+HMY,Harmony Gold Mining Company Lim,3.52,Basic Materials,Stocks,NYQ
+DDD,3D Systems Corporation,16.03,Technology,Stocks,NYQ
+CF,"CF Industries Holdings, Inc.",68.38,Basic Materials,Stocks,NYQ
+WMB,"Williams Companies, Inc. (The)",29.37,Energy,Stocks,NYQ
+SO,Southern Company (The),68.03,Utilities,Stocks,NYQ
+CNI,Canadian National Railway Compa,118.89,Industrials,Stocks,NYQ
+HPE,Hewlett Packard Enterprise Comp,15.81,Technology,Stocks,NYQ
+CCJ,Cameco Corporation,18.42,Energy,Stocks,NYQ
+MOS,Mosaic Company (The),39.49,Basic Materials,Stocks,NYQ
+LSPD,Lightspeed Commerce Inc. Subord,27.16,Technology,Stocks,NYQ
+HL,Hecla Mining Company,4.69,Basic Materials,Stocks,NYQ
+LICY,Li-Cycle Holdings Corp.,6.70,Industrials,Stocks,NYQ
+IP,International Paper Company,46.39,Consumer Cyclical,Stocks,NYQ
+IVR,INVESCO MORTGAGE CAPITAL INC,2.55,Real Estate,Stocks,NYQ
+CLR,"Continental Resources, Inc.",52.16,Energy,Stocks,NYQ
+DQ,DAQO New Energy Corp.,36.07,Technology,Stocks,NYQ
+STOR,STORE Capital Corporation,30.12,Real Estate,Stocks,NYQ
+CI,Cigna Corporation,227.43,Healthcare,Stocks,NYQ
+LEV,The Lion Electric Company,7.63,Industrials,Stocks,NYQ
+BTU,Peabody Energy Corporation,11.04,Energy,Stocks,NYQ
+CHGG,"Chegg, Inc.",24.13,Consumer Defensive,Stocks,NYQ
+SCHW,Charles Schwab Corporation (The,89.70,Financial Services,Stocks,NYQ
+NSC,Norfolk Southern Corporation,269.75,Industrials,Stocks,NYQ
+PCG,Pacific Gas & Electric Co.,12.40,Utilities,Stocks,NYQ
+UWMC,UWM Holdings Corporation,5.01,Financial Services,Stocks,NYQ
+DAC,Danaos Corporation,85.89,Industrials,Stocks,NYQ
+WPC,W. P. Carey Inc. REIT,75.25,Real Estate,Stocks,NYQ
+LEN,Lennar Corporation,91.73,Consumer Cyclical,Stocks,NYQ
+XL,XL Fleet Corp.,1.80,Consumer Cyclical,Stocks,NYQ
+PPL,PPL Corporation,29.35,Utilities,Stocks,NYQ
+OGN,Organon & Co.,30.70,Healthcare,Stocks,NYQ
+CVE,Cenovus Energy Inc,14.49,Energy,Stocks,NYQ
+HSY,The Hershey Company,194.37,Consumer Defensive,Stocks,NYQ
+MAIN,Main Street Capital Corporation,42.82,Financial Services,Stocks,NYQ
+CWH,"Camping World Holdings, Inc.",32.55,Consumer Cyclical,Stocks,NYQ
+LTHM,Livent Corporation,21.14,Basic Materials,Stocks,NYQ
+DG,Dollar General Corporation,205.35,Consumer Defensive,Stocks,NYQ
+KODK,Eastman Kodak Company,3.65,Industrials,Stocks,NYQ
+TFC,Truist Financial Corporation,61.91,Financial Services,Stocks,NYQ
+CL,Colgate-Palmolive Company,82.70,Consumer Defensive,Stocks,NYQ
+HMC,"Honda Motor Company, Ltd.",28.99,Consumer Cyclical,Stocks,NYQ
+CIM,Chimera Investment Corporation,13.97,Real Estate,Stocks,NYQ
+KKR,KKR & Co. Inc.,66.00,Financial Services,Stocks,NYQ
+RF,Regions Financial Corporation,22.91,Financial Services,Stocks,NYQ
+EL,"Estee Lauder Companies, Inc. (T",298.19,Consumer Defensive,Stocks,NYQ
+SM,SM Energy Company,32.95,Energy,Stocks,NYQ
+CNC,Centene Corporation,76.27,Healthcare,Stocks,NYQ
+CS,Credit Suisse Group,9.21,Financial Services,Stocks,NYQ
+CMI,Cummins Inc.,224.08,Industrials,Stocks,NYQ
+COTY,Coty Inc.,8.07,Consumer Defensive,Stocks,NYQ
+PGR,Progressive Corporation (The),107.64,Financial Services,Stocks,NYQ
+CALX,"Calix, Inc",40.40,Technology,Stocks,NYQ
+CTRA,Coterra Energy Inc.,20.99,Energy,Stocks,NYQ
+EGO,Eldorado Gold Corporation,8.62,Basic Materials,Stocks,NYQ
+OLN,Olin Corporation,49.40,Basic Materials,Stocks,NYQ
+MKC,"McCormick & Company, Incorporat",98.20,Consumer Defensive,Stocks,NYQ
+TEL,TE Connectivity Ltd. New Switze,137.27,Technology,Stocks,NYQ
+WPM,Wheaton Precious Metals Corp,39.01,Basic Materials,Stocks,NYQ
+IO,Ion Geophysical Corporation,0.51,Energy,Stocks,NYQ
+MCO,Moody's Corporation,325.92,Financial Services,Stocks,NYQ
+CNQ,Canadian Natural Resources Limi,51.20,Energy,Stocks,NYQ
+ED,"Consolidated Edison, Inc.",82.76,Utilities,Stocks,NYQ
+CPRI,Capri Holdings Limited,55.80,Consumer Cyclical,Stocks,NYQ
+CAH,"Cardinal Health, Inc.",52.31,Healthcare,Stocks,NYQ
+EMR,Emerson Electric Company,90.63,Industrials,Stocks,NYQ
+TJX,"TJX Companies, Inc. (The)",69.62,Consumer Cyclical,Stocks,NYQ
+ORI,Old Republic International Corp,25.21,Financial Services,Stocks,NYQ
+EQT,EQT Corporation,20.28,Energy,Stocks,NYQ
+CP,Canadian Pacific Railway Limite,73.65,Industrials,Stocks,NYQ
+COMP,"Compass, Inc.",7.57,Technology,Stocks,NYQ
+MMC,"Marsh & McLennan Companies, Inc",147.31,Financial Services,Stocks,NYQ
+CARR,Carrier Global Corporation,46.09,Industrials,Stocks,NYQ
+CPG,Crescent Point Energy Corporati,6.39,Energy,Stocks,NYQ
+CHD,"Church & Dwight Company, Inc.",98.66,Consumer Defensive,Stocks,NYQ
+CDE,"Coeur Mining, Inc.",4.51,Basic Materials,Stocks,NYQ
+SLG,SL Green Realty Corp,69.96,Real Estate,Stocks,NYQ
+HRL,Hormel Foods Corporation,46.76,Consumer Defensive,Stocks,NYQ
+SYK,Stryker Corporation,245.33,Healthcare,Stocks,NYQ
+CPB,Campbell Soup Company,44.21,Consumer Defensive,Stocks,NYQ
+TRV,"The Travelers Companies, Inc.",165.66,Financial Services,Stocks,NYQ
+RC,Ready Capital Corproation,13.70,Real Estate,Stocks,NYQ
+WY,Weyerhaeuser Company,37.89,Real Estate,Stocks,NYQ
+UAN,"CVR Partners, LP",94.91,Basic Materials,Stocks,NYQ
+MUR,Murphy Oil Corporation,31.28,Energy,Stocks,NYQ
+VSCO,Victorias Secret & Co.,56.40,Consumer Cyclical,Stocks,NYQ
+MAC,Macerich Company (The),16.34,Real Estate,Stocks,NYQ
+EXK,Endeavour Silver Corporation,3.52,Basic Materials,Stocks,NYQ
+IAG,Iamgold Corporation,2.45,Basic Materials,Stocks,NYQ
+WU,Western Union Company (The),18.20,Financial Services,Stocks,NYQ
+FSK,FS KKR Capital Corp.,21.69,Financial Services,Stocks,NYQ
+ETN,"Eaton Corporation, PLC",155.42,Industrials,Stocks,NYQ
+VFC,V.F. Corporation,67.34,Consumer Cyclical,Stocks,NYQ
+SF,Stifel Financial Corporation,72.29,Financial Services,Stocks,NYQ
+RRC,Range Resources Corporation,18.37,Energy,Stocks,NYQ
+SMG,Scotts Miracle-Gro Company (The,146.94,Basic Materials,Stocks,NYQ
+CTVA,"Corteva, Inc.",46.84,Basic Materials,Stocks,NYQ
+RDW,Redwire Corporation,5.08,Industrials,Stocks,NYQ
+SCI,Service Corporation Internation,58.99,Consumer Cyclical,Stocks,NYQ
+FLR,Fluor Corporation,20.66,Industrials,Stocks,NYQ
+COUR,"Coursera, Inc.",17.95,Consumer Defensive,Stocks,NYQ
+OSK,Oshkosh Corporation (Holding Co,112.49,Industrials,Stocks,NYQ
+ELY,Callaway Golf Company,22.63,Consumer Cyclical,Stocks,NYQ
+MTDR,Matador Resources Company,44.24,Energy,Stocks,NYQ
+HTGC,"Hercules Capital, Inc.",17.29,Financial Services,Stocks,NYQ
+CX,"Cemex, S.A.B. de C.V. Sponsored",5.95,Basic Materials,Stocks,NYQ
+PBA,Pembina Pipeline Corp.,30.99,Energy,Stocks,NYQ
+MFC,Manulife Financial Corporation,20.43,Financial Services,Stocks,NYQ
+TPL,Texas Pacific Land Corporation,"1,007.75",Energy,Stocks,NYQ
+CIEN,Ciena Corporation,63.58,Technology,Stocks,NYQ
+CNK,Cinemark Holdings Inc Cinemark ,14.26,Communication Services,Stocks,NYQ
+EXTN,Exterran Corporation,5.01,Energy,Stocks,NYQ
+LPX,Louisiana-Pacific Corporation,62.92,Industrials,Stocks,NYQ
+CC,Chemours Company (The),32.57,Basic Materials,Stocks,NYQ
+DX,"Dynex Capital, Inc.",15.72,Real Estate,Stocks,NYQ
+CFG,"Citizens Financial Group, Inc.",51.80,Financial Services,Stocks,NYQ
+TAK,Takeda Pharmaceutical Company L,14.42,Healthcare,Stocks,NYQ
+FE,FirstEnergy Corp.,41.26,Utilities,Stocks,NYQ
+MCK,McKesson Corporation,255.10,Healthcare,Stocks,NYQ
+FHN,First Horizon Corporation,17.12,Financial Services,Stocks,NYQ
+YOU,"Clear Secure, Inc.",20.71,Technology,Stocks,NYQ
+SYY,Sysco Corporation,76.66,Consumer Defensive,Stocks,NYQ
+FATH,Fathom Digital Manufacturing Co,9.99,Technology,Stocks,NYQ
+KMX,CarMax Inc,105.54,Consumer Cyclical,Stocks,NYQ
+MTH,Meritage Homes Corporation,98.64,Consumer Cyclical,Stocks,NYQ
+DXC,DXC Technology Company,28.99,Technology,Stocks,NYQ
+CEQP,Crestwood Equity Partners LP,28.53,Energy,Stocks,NYQ
+JCI,Johnson Controls International ,71.55,Industrials,Stocks,NYQ
+CMC,Commercial Metals Company,33.34,Basic Materials,Stocks,NYQ
+STT,State Street Corporation,93.12,Financial Services,Stocks,NYQ
+WRK,Westrock Company,43.86,Consumer Cyclical,Stocks,NYQ
+PING,Ping Identity Holding Corp.,18.68,Technology,Stocks,NYQ
+CNX,CNX Resources Corporation,14.64,Energy,Stocks,NYQ
+ORCC,Owl Rock Capital Corporation,14.39,Financial Services,Stocks,NYQ
+ERF,Enerplus Corporation,11.04,Energy,Stocks,NYQ
+VST,Vistra Corp.,21.31,Utilities,Stocks,NYQ
+SKT,"Tanger Factory Outlet Centers, ",16.40,Real Estate,Stocks,NYQ
+CRK,"Comstock Resources, Inc.",7.34,Energy,Stocks,NYQ
+HFC,HollyFrontier Corporation,34.76,Energy,Stocks,NYQ
+DOV,Dover Corporation,169.03,Industrials,Stocks,NYQ
+FNV,Franco-Nevada Corporation,127.90,Basic Materials,Stocks,NYQ
+CACI,"CACI International, Inc.",243.64,Technology,Stocks,NYQ
+IPOF,Social Capital Hedosophia Holdi,9.80,Financial Services,Stocks,NYQ
+PNW,Pinnacle West Capital Corporati,69.91,Utilities,Stocks,NYQ
+CANO,"Cano Health, Inc.",5.06,Healthcare,Stocks,NYQ
+GPC,Genuine Parts Company,129.94,Consumer Cyclical,Stocks,NYQ
+EMN,Eastman Chemical Company,118.54,Basic Materials,Stocks,NYQ
+MKL,Markel Corporation,"1,186.53",Financial Services,Stocks,NYQ
+USAC,"USA Compression Partners, LP",15.83,Energy,Stocks,NYQ
+WLL,Whiting Petroleum Corporation,72.67,Energy,Stocks,NYQ
+RGR,"Sturm, Ruger & Company, Inc.",64.96,Industrials,Stocks,NYQ
+PTR,PetroChina Company Limited,50.51,Energy,Stocks,NYQ
+OTIS,Otis Worldwide Corporation,82.61,Industrials,Stocks,NYQ
+SFL,SFL Corporation Ltd,8.21,Industrials,Stocks,NYQ
+CZOO,Cazoo Group Ltd,4.38,Technology,Stocks,NYQ
+PH,Parker-Hannifin Corporation,308.68,Industrials,Stocks,NYQ
+CR,Crane Co.,99.21,Industrials,Stocks,NYQ
+SJM,J.M. Smucker Company (The) New,138.99,Consumer Defensive,Stocks,NYQ
+TRP,TC Energy Corporation,50.79,Energy,Stocks,NYQ
+RGS,Regis Corporation,1.38,Consumer Cyclical,Stocks,NYQ
+TREX,"Trex Company, Inc.",85.46,Industrials,Stocks,NYQ
+CLS,"Celestica, Inc.",11.64,Technology,Stocks,NYQ
+VZIO,VIZIO Holding Corp.,13.64,Technology,Stocks,NYQ
+CHS,"Chico's FAS, Inc.",4.38,Consumer Cyclical,Stocks,NYQ
+GOOS,Canada Goose Holdings Inc. Subo,29.51,Consumer Cyclical,Stocks,NYQ
+HUN,Huntsman Corporation,35.49,Basic Materials,Stocks,NYQ
+LNC,Lincoln National Corporation,68.42,Financial Services,Stocks,NYQ
+SNX,TD SYNNEX Corporation,100.12,Technology,Stocks,NYQ
+CMRE,Costamare Inc.,12.56,Industrials,Stocks,NYQ
+CLVT,Clarivate Plc,15.46,Technology,Stocks,NYQ
+CE,Celanese Corporation Celanese C,160.07,Basic Materials,Stocks,NYQ
+RL,Ralph Lauren Corporation,107.19,Consumer Cyclical,Stocks,NYQ
+CRHC,Cohn Robbins Holdings Corp.,9.86,Financial Services,Stocks,NYQ
+CMA,Comerica Incorporated,92.05,Financial Services,Stocks,NYQ
+MGY,Magnolia Oil & Gas Corporation,21.80,Energy,Stocks,NYQ
+VMC,Vulcan Materials Company (Holdi,183.21,Basic Materials,Stocks,NYQ
+DTE,DTE Energy Company,119.81,Utilities,Stocks,NYQ
+RRD,R.R. Donnelley & Sons Company,10.93,Industrials,Stocks,NYQ
+CNHI,CNH Industrial N.V.,14.98,Industrials,Stocks,NYQ
+DRE,Duke Realty Corporation,55.40,Real Estate,Stocks,NYQ
+MX,Magnachip Semiconductor Corpora,17.10,Technology,Stocks,NYQ
+FICO,Fair Isaac Corproation,422.99,Technology,Stocks,NYQ
+CSPR,Casper Sleep Inc.,6.78,Consumer Cyclical,Stocks,NYQ
+MKFG,Markforged Holding Corporation,4.23,Technology,Stocks,NYQ
+AQUA,Evoqua Water Technologies Corp.,37.26,Industrials,Stocks,NYQ
+PRTY,Party City Holdco Inc.,4.58,Consumer Cyclical,Stocks,NYQ
+UGI,UGI Corporation,44.25,Utilities,Stocks,NYQ
+CWEN,"Clearway Energy, Inc.",32.58,Utilities,Stocks,NYQ
+SCU,"Sculptor Capital Management, In",18.59,Financial Services,Stocks,NYQ
+CVI,CVR Energy Inc.,19.71,Energy,Stocks,NYQ
+SNP,China Petroleum & Chemical Corp,52.09,Energy,Stocks,NYQ
+CYH,"Community Health Systems, Inc.",12.71,Healthcare,Stocks,NYQ
+SIX,Six Flags Entertainment Corpora,37.43,Consumer Cyclical,Stocks,NYQ
+WLK,Westlake Chemical Corporation,99.27,Basic Materials,Stocks,NYQ
+DECK,Deckers Outdoor Corporation,298.84,Consumer Cyclical,Stocks,NYQ
+CODI,D/B/A Compass Diversified Holdi,24.73,Industrials,Stocks,NYQ
+SID,Companhia Siderurgica Nacional ,4.78,Basic Materials,Stocks,NYQ
+DDL,Dingdong (Cayman) Limited,4.13,Consumer Defensive,Stocks,NYQ
+CNP,"CenterPoint Energy, Inc (Holdin",27.37,Utilities,Stocks,NYQ
+TDC,Teradata Corporation,38.87,Technology,Stocks,NYQ
+CUK,Carnival Plc,17.64,Consumer Cyclical,Stocks,NYQ
+CRL,Charles River Laboratories Inte,312.24,Healthcare,Stocks,NYQ
+UVV,Universal Corporation,54.57,Consumer Defensive,Stocks,NYQ
+YUMC,"Yum China Holdings, Inc.",44.61,Consumer Cyclical,Stocks,NYQ
+CXW,"CoreCivic, Inc.",10.20,Real Estate,Stocks,NYQ
+LADR,Ladder Capital Corp,11.54,Real Estate,Stocks,NYQ
+KIM,Kimco Realty Corporation,23.40,Real Estate,Stocks,NYQ
+VNT,Vontier Corporation,27.21,Technology,Stocks,NYQ
+FMC,FMC Corporation,108.09,Basic Materials,Stocks,NYQ
+FUN,"Cedar Fair, L.P.",46.68,Consumer Cyclical,Stocks,NYQ
+CBRE,CBRE Group Inc,95.37,Real Estate,Stocks,NYQ
+CTLT,"Catalent, Inc.",96.87,Healthcare,Stocks,NYQ
+GTLS,"Chart Industries, Inc.",110.59,Industrials,Stocks,NYQ
+HXL,Hexcel Corporation,49.30,Industrials,Stocks,NYQ
+OXY-WT,Occidental Petroleum Corporatio,18.23,N/A,Stocks,NYQ
+ICD,"Independence Contract Drilling,",3.40,Energy,Stocks,NYQ
+OC,Owens Corning Inc,86.38,Industrials,Stocks,NYQ
+CRGY,Crescent Energy Company,12.87,Energy,Stocks,NYQ
+CUBE,CubeSmart,49.15,Real Estate,Stocks,NYQ
+ETR,Entergy Corporation,109.59,Utilities,Stocks,NYQ
+THC,Tenet Healthcare Corporation,73.18,Healthcare,Stocks,NYQ
+TMST,TimkenSteel Corporation,14.33,Basic Materials,Stocks,NYQ
+PRGO,Perrigo Company plc,37.94,Healthcare,Stocks,NYQ
+NFG,National Fuel Gas Company,59.76,Energy,Stocks,NYQ
+CCS,"Century Communities, Inc.",62.08,Consumer Cyclical,Stocks,NYQ
+HAE,Haemonetics Corporation,43.77,Healthcare,Stocks,NYQ
+SCM,Stellus Capital Investment Corp,13.40,Financial Services,Stocks,NYQ
+LAW,"CS Disco, Inc.",29.32,Technology,Stocks,NYQ
+GBX,"Greenbrier Companies, Inc. (The",38.03,Industrials,Stocks,NYQ
+PVH,PVH Corp.,92.85,Consumer Cyclical,Stocks,NYQ
+NCR,NCR Corporation,36.66,Technology,Stocks,NYQ
+FNB,F.N.B. Corporation,12.94,Financial Services,Stocks,NYQ
+CDAY,Ceridian HCM Holding Inc.,68.55,Technology,Stocks,NYQ
+PAR,PAR Technology Corporation,34.00,Technology,Stocks,NYQ
+VIST,"Vista Oil & Gas, S.A.B. de C.V.",5.81,Energy,Stocks,NYQ
+LCI,Lannett Co Inc,1.36,Healthcare,Stocks,NYQ
+SNV,Synovus Financial Corp.,48.98,Financial Services,Stocks,NYQ
+MC,Moelis & Company,53.62,Financial Services,Stocks,NYQ
+LGF-A,Lions Gate Entertainment Corpor,15.26,Communication Services,Stocks,NYQ
+CMP,Compass Minerals Intl Inc,54.30,Basic Materials,Stocks,NYQ
+TTC,Toro Company (The),94.12,Industrials,Stocks,NYQ
+WFG,West Fraser Timber Co. Ltd,90.79,Basic Materials,Stocks,NYQ
+OGE,OGE Energy Corp,37.29,Utilities,Stocks,NYQ
+TCS,Container Store (The),9.78,Consumer Cyclical,Stocks,NYQ
+MPLN,MultiPlan Corporation,3.63,Healthcare,Stocks,NYQ
+NYT,New York Times Company (The),37.59,Communication Services,Stocks,NYQ
+CRC,California Resources Corporatio,41.92,Energy,Stocks,NYQ
+GHC,Graham Holdings Company,570.68,Consumer Defensive,Stocks,NYQ
+NWN,Northwest Natural Holding Compa,47.31,Utilities,Stocks,NYQ
+VHC,VirnetX Holding Corp,2.08,Technology,Stocks,NYQ
+CIG,Comp En De Mn Cemig,2.45,Utilities,Stocks,NYQ
+ELP,Companhia Paranaense de Energia,6.22,Utilities,Stocks,NYQ
+TPC,Tutor Perini Corporation,12.18,Industrials,Stocks,NYQ
+SLVM,Sylvamo Corporation,27.54,Basic Materials,Stocks,NYQ
+IPG,"Interpublic Group of Companies,",33.67,Communication Services,Stocks,NYQ
+WAT,Waters Corporation,306.54,Healthcare,Stocks,NYQ
+LFC,China Life Insurance Company Li,8.75,Financial Services,Stocks,NYQ
+NE,Noble Corporation plc,25.43,Energy,Stocks,NYQ
+XIN,Xinyuan Real Estate Co Ltd,0.58,Real Estate,Stocks,NYQ
+GCI,"Gannett Co., Inc.",4.67,Communication Services,Stocks,NYQ
+CHMI,Cherry Hill Mortgage Investment,7.81,Real Estate,Stocks,NYQ
+WFC-PD,Wells Fargo & Company Depositar,22.59,Financial Services,Stocks,NYQ
+CMS,CMS Energy Corporation,63.19,Utilities,Stocks,NYQ
+USFD,US Foods Holding Corp.,34.12,Consumer Defensive,Stocks,NYQ
+SKY,Skyline Champion Corporation,59.53,Consumer Cyclical,Stocks,NYQ
+UIS,Unisys Corporation New,17.06,Technology,Stocks,NYQ
+FF,FutureFuel Corp.,7.50,Basic Materials,Stocks,NYQ
+CAJ,"Canon, Inc.",23.91,Technology,Stocks,NYQ
+RLI,RLI Corp.,102.98,Financial Services,Stocks,NYQ
+FTV,Fortive Corporation,68.66,Technology,Stocks,NYQ
+TU,Telus Corporation,23.17,Communication Services,Stocks,NYQ
+MAS,Masco Corporation,61.56,Industrials,Stocks,NYQ
+CRT,Cross Timbers Royalty Trust,14.16,Energy,Stocks,NYQ
+CCK,"Crown Holdings, Inc.",112.49,Consumer Cyclical,Stocks,NYQ
+TEX,Terex Corporation,41.44,Industrials,Stocks,NYQ
+COO,"The Cooper Companies, Inc.",379.67,Healthcare,Stocks,NYQ
+IDT,IDT Corporation,35.03,Communication Services,Stocks,NYQ
+MTW,"Manitowoc Company, Inc. (The)",17.62,Industrials,Stocks,NYQ
+INT,World Fuel Services Corporation,27.73,Energy,Stocks,NYQ
+DESP,"Despegar.com, Corp.",10.72,Consumer Cyclical,Stocks,NYQ
+CWK,Cushman & Wakefield plc,20.15,Real Estate,Stocks,NYQ
+MSM,"MSC Industrial Direct Company, ",80.96,Industrials,Stocks,NYQ
+CLB,Core Laboratories N.V.,26.54,Energy,Stocks,NYQ
+NVRO,Nevro Corp.,62.76,Healthcare,Stocks,NYQ
+JOE,St. Joe Company (The),44.12,Real Estate,Stocks,NYQ
+GPK,Graphic Packaging Holding Compa,18.19,Consumer Cyclical,Stocks,NYQ
+GDOT,Green Dot Corporation,29.28,Financial Services,Stocks,NYQ
+KNSL,"Kinsale Capital Group, Inc.",184.09,Financial Services,Stocks,NYQ
+CEIX,CONSOL Energy Inc.,20.79,Energy,Stocks,NYQ
+RAAS,Cloopen Group Holding Limited,1.94,Technology,Stocks,NYQ
+CIVI,"Civitas Resources, Inc.",52.36,Energy,Stocks,NYQ
+MCY,Mercury General Corporation,53.98,Financial Services,Stocks,NYQ
+ZEPP,Zepp Health Corporation,4.91,Technology,Stocks,NYQ
+NTCO,Natura &Co Holding S.A.,8.46,Consumer Defensive,Stocks,NYQ
+WEAV,"Weave Communications, Inc.",9.08,Technology,Stocks,NYQ
+CCO,"Clear Channel Outdoor Holdings,",2.75,Communication Services,Stocks,NYQ
+HEI,Heico Corporation,135.21,Industrials,Stocks,NYQ
+TRI,Thomson Reuters Corp,103.27,Industrials,Stocks,NYQ
+GIB,CGI Inc.,80.59,Technology,Stocks,NYQ
+GATX,GATX Corporation,103.02,Industrials,Stocks,NYQ
+CRS,Carpenter Technology Corporatio,28.52,Industrials,Stocks,NYQ
+WLKP,Westlake Chemical Partners LP,26.43,Basic Materials,Stocks,NYQ
+CNMD,CONMED Corporation,130.05,Healthcare,Stocks,NYQ
+EC,Ecopetrol S.A.,14.61,Energy,Stocks,NYQ
+MSP,Datto Holding Corp.,24.14,Technology,Stocks,NYQ
+SKM,"SK Telecom Co., Ltd.",25.82,Communication Services,Stocks,NYQ
+HHC,Howard Hughes Corporation (The),89.94,Real Estate,Stocks,NYQ
+MTG,MGIC Investment Corporation,14.76,Financial Services,Stocks,NYQ
+SEM,Select Medical Holdings Corpora,22.19,Healthcare,Stocks,NYQ
+WBS,Webster Financial Corporation,58.46,Financial Services,Stocks,NYQ
+IMAX,Imax Corporation,15.93,Communication Services,Stocks,NYQ
+EVC,Entravision Communications Corp,5.59,Communication Services,Stocks,NYQ
+TK,Teekay Corporation,3.12,Energy,Stocks,NYQ
+IVC,Invacare Corporation,2.28,Healthcare,Stocks,NYQ
+PSN,Parsons Corporation,30.19,Industrials,Stocks,NYQ
+CAPL,CrossAmerica Partners LP,22.30,Energy,Stocks,NYQ
+SUI,"Sun Communities, Inc.",178.79,Real Estate,Stocks,NYQ
+SQNS,Sequans Communications S.A.,3.75,Technology,Stocks,NYQ
+BAP,Credicorp Ltd.,136.24,Financial Services,Stocks,NYQ
+CSL,Carlisle Companies Incorporated,215.50,Industrials,Stocks,NYQ
+MSGS,Madison Square Garden Sports Co,159.58,Communication Services,Stocks,NYQ
+WCN,"Waste Connections, Inc.",121.49,Industrials,Stocks,NYQ
+SWI,SolarWinds Corporation,12.97,Technology,Stocks,NYQ
+DCI,"Donaldson Company, Inc.",54.04,Industrials,Stocks,NYQ
+CTK,CooTek (Cayman) Inc.,0.32,Technology,Stocks,NYQ
+VCRA,"Vocera Communications, Inc.",78.90,Technology,Stocks,NYQ
+KEX,Kirby Corporation,64.01,Industrials,Stocks,NYQ
+KOF,Coca Cola Femsa S.A.B. de C.V.,52.86,Consumer Defensive,Stocks,NYQ
+IVT,InvenTrust Properties Corp.,26.52,Real Estate,Stocks,NYQ
+VAC,Marriott Vacations Worldwide Co,156.45,Consumer Cyclical,Stocks,NYQ
+NJR,NewJersey Resources Corporation,39.37,Utilities,Stocks,NYQ
+HVT,"Haverty Furniture Companies, In",28.33,Consumer Cyclical,Stocks,NYQ
+CLH,"Clean Harbors, Inc.",88.83,Industrials,Stocks,NYQ
+DLX,Deluxe Corporation,28.78,Communication Services,Stocks,NYQ
+SRC,"Spirit Realty Capital, Inc.",45.42,Real Estate,Stocks,NYQ
+PDS,Precision Drilling Corporation,41.72,Energy,Stocks,NYQ
+RCI,"Rogers Communication, Inc.",50.11,Communication Services,Stocks,NYQ
+RRX,Regal Rexnord Corporation,155.44,Industrials,Stocks,NYQ
+MOD,Modine Manufacturing Company,8.88,Consumer Cyclical,Stocks,NYQ
+GVA,Granite Construction Incorporat,35.41,Industrials,Stocks,NYQ
+KEP,Korea Electric Power Corporatio,8.34,Utilities,Stocks,NYQ
+NVST,Envista Holdings Corporation,41.40,Healthcare,Stocks,NYQ
+GTY,Getty Realty Corporation,28.70,Real Estate,Stocks,NYQ
+PARR,"Par Pacific Holdings, Inc. Comm",13.60,Energy,Stocks,NYQ
+CTO,"CTO Realty Growth, Inc.",57.80,Real Estate,Stocks,NYQ
+PUMP,ProPetro Holding Corp.,10.50,Energy,Stocks,NYQ
+CAL,"Caleres, Inc.",23.33,Consumer Cyclical,Stocks,NYQ
+CW,Curtiss-Wright Corporation,131.54,Industrials,Stocks,NYQ
+TMHC,Taylor Morrison Home Corporatio,29.11,Consumer Cyclical,Stocks,NYQ
+SON,Sonoco Products Company,56.43,Consumer Cyclical,Stocks,NYQ
+VRTV,Veritiv Corporation,89.24,Industrials,Stocks,NYQ
+EHC,Encompass Health Corporation,61.56,Healthcare,Stocks,NYQ
+CGAU,Centerra Gold Inc.,7.99,Basic Materials,Stocks,NYQ
+COE,China Online Education Group,0.87,Consumer Defensive,Stocks,NYQ
+HCC,"Warrior Met Coal, Inc.",26.30,Basic Materials,Stocks,NYQ
+CCCS,CCC Intelligent Solutions Holdi,10.05,Technology,Stocks,NYQ
+PFGC,Performance Food Group Company,41.24,Consumer Defensive,Stocks,NYQ
+MPX,Marine Products Corporation,12.03,Consumer Cyclical,Stocks,NYQ
+STC,Stewart Information Services Co,67.78,Financial Services,Stocks,NYQ
+PACK,Ranpak Holdings Corp,24.27,Consumer Cyclical,Stocks,NYQ
+CEQP-P,Crestwood Equity Partners LP Pr,9.95,Energy,Stocks,NYQ
+IPOD,Social Capital Hedosophia Holdi,9.83,Financial Services,Stocks,NYQ
+CSV,"Carriage Services, Inc.",48.13,Consumer Cyclical,Stocks,NYQ
+CPT,Camden Property Trust,150.51,Real Estate,Stocks,NYQ
+RLGY,Realogy Holdings Corp.,15.85,Real Estate,Stocks,NYQ
+ENIC,Enel Chile S.A.,2.06,Utilities,Stocks,NYQ
+IEX,IDEX Corporation,208.67,Industrials,Stocks,NYQ
+TKR,Timken Company (The),66.39,Industrials,Stocks,NYQ
+BLD,TopBuild Corp.,219.80,Industrials,Stocks,NYQ
+GKOS,Glaukos Corporation,48.55,Healthcare,Stocks,NYQ
+CBT,Cabot Corporation,54.25,Basic Materials,Stocks,NYQ
+CANG,Cango Inc.,3.21,Communication Services,Stocks,NYQ
+CWT,California Water Service Group,60.19,Utilities,Stocks,NYQ
+SAR,Saratoga Investment Corp New,26.32,Financial Services,Stocks,NYQ
+CRH,CRH PLC,48.53,Basic Materials,Stocks,NYQ
+ZETA,Zeta Global Holdings Corp.,7.73,Technology,Stocks,NYQ
+SJR,Shaw Communications Inc.,29.55,Communication Services,Stocks,NYQ
+CYD,China Yuchai International Limi,13.55,Industrials,Stocks,NYQ
+GHM,Graham Corporation,11.75,Industrials,Stocks,NYQ
+CSLT,"Castlight Health, Inc.",2.03,Healthcare,Stocks,NYQ
+CABO,"Cable One, Inc.","1,454.59",Communication Services,Stocks,NYQ
+NPTN,NeoPhotonics Corporation,15.24,Technology,Stocks,NYQ
+MCW,"Mister Car Wash, Inc.",16.12,Consumer Cyclical,Stocks,NYQ
+GFF,Griffon Corporation,21.71,Industrials,Stocks,NYQ
+LEA,Lear Corporation,167.30,Consumer Cyclical,Stocks,NYQ
+CTV,Innovid Corp.,5.40,Communication Services,Stocks,NYQ
+NYC,"New York City REIT, Inc.",10.83,Real Estate,Stocks,NYQ
+FLS,Flowserve Corporation,32.20,Industrials,Stocks,NYQ
+VLRS,Controladora Vuela Compania de ,16.94,Industrials,Stocks,NYQ
+ROG,Rogers Corporation,273.00,Technology,Stocks,NYQ
+CORR,"CorEnergy Infrastructure Trust,",3.31,Real Estate,Stocks,NYQ
+RYI,Ryerson Holding Corporation,18.90,Industrials,Stocks,NYQ
+CHH,"Choice Hotels International, In",138.99,Consumer Cyclical,Stocks,NYQ
+VNCE,Vince Holding Corp.,8.51,Consumer Cyclical,Stocks,NYQ
+CHE,Chemed Corp,452.33,Healthcare,Stocks,NYQ
+MCS,Marcus Corporation (The),16.12,Communication Services,Stocks,NYQ
+CTT,"CatchMark Timber Trust, Inc.",7.92,Real Estate,Stocks,NYQ
+CINT,CI&T Inc,11.56,Technology,Stocks,NYQ
+CNNE,"Cannae Holdings, Inc.",28.36,Consumer Cyclical,Stocks,NYQ
+CVEO,Civeo Corporation (Canada),20.02,Industrials,Stocks,NYQ
+DOOR,Masonite International Corporat,93.58,Industrials,Stocks,NYQ
+SHI,SINOPEC Shangai Petrochemical C,22.79,Energy,Stocks,NYQ
+NXU,Novus Capital Corporation II,9.97,Financial Services,Stocks,NYQ
+KMPR,Kemper Corporation,58.28,Financial Services,Stocks,NYQ
+SSD,"Simpson Manufacturing Company, ",109.87,Industrials,Stocks,NYQ
+CARS,Cars.com Inc.,14.63,Consumer Cyclical,Stocks,NYQ
+CNM,"Core & Main, Inc.",22.90,Industrials,Stocks,NYQ
+FIX,"Comfort Systems USA, Inc.",85.37,Industrials,Stocks,NYQ
+TG,Tredegar Corporation,11.56,Industrials,Stocks,NYQ
+ERO,Ero Copper Corp.,12.47,Basic Materials,Stocks,NYQ
+POR,Portland General Electric Co,51.74,Utilities,Stocks,NYQ
+CNS,Cohen & Steers Inc,81.80,Financial Services,Stocks,NYQ
+CLDT,Chatham Lodging Trust (REIT),12.57,Real Estate,Stocks,NYQ
+CPA,"Copa Holdings, S.A. Copa Holdin",78.80,Industrials,Stocks,NYQ
+CPF,Central Pacific Financial Corp ,29.00,Financial Services,Stocks,NYQ
+LOMA,Loma Negra Compania Industrial ,5.57,Basic Materials,Stocks,NYQ
+KT,KT Corporation,12.70,Communication Services,Stocks,NYQ
+CULP,"Culp, Inc.",8.70,Consumer Cyclical,Stocks,NYQ
+CWEN-A,"Clearway Energy, Inc.",29.94,Utilities,Stocks,NYQ
+SKIL,Skillsoft Corp.,6.88,Consumer Defensive,Stocks,NYQ
+CCU,"Compania Cervecerias Unidas, S.",16.63,Consumer Defensive,Stocks,NYQ
+ELVT,"Elevate Credit, Inc.",2.84,Financial Services,Stocks,NYQ
+CBZ,"CBIZ, Inc.",37.73,Industrials,Stocks,NYQ
+KN,Knowles Corporation,20.84,Technology,Stocks,NYQ
+CEPU,Central Puerto S.A.,2.87,Utilities,Stocks,NYQ
+LNN,Lindsay Corporation,121.25,Industrials,Stocks,NYQ
+UTL,UNITIL Corporation,46.27,Utilities,Stocks,NYQ
+FCN,"FTI Consulting, Inc.",143.23,Industrials,Stocks,NYQ
+CPS,Cooper-Standard Holdings Inc.,19.73,Consumer Cyclical,Stocks,NYQ
+MCG,Membership Collective Group Inc,9.30,Consumer Cyclical,Stocks,NYQ
+CION,CION Investment Corporation,12.10,Financial Services,Stocks,NYQ
+CFX,Colfax Corporation,40.39,Industrials,Stocks,NYQ
+CNA,CNA Financial Corporation,45.32,Financial Services,Stocks,NYQ
+MEC,"Mayville Engineering Company, I",11.43,Industrials,Stocks,NYQ
+CURO,CURO Group Holdings Corp.,13.66,Financial Services,Stocks,NYQ
+CRI,"Carter's, Inc.",91.27,Consumer Cyclical,Stocks,NYQ
+MTRN,Materion Corporation,80.89,Basic Materials,Stocks,NYQ
+PNM,"PNM Resources, Inc. (Holding Co",44.39,Utilities,Stocks,NYQ
+CIO,"City Office REIT, Inc.",16.60,Real Estate,Stocks,NYQ
+CPAC,Cementos Pacasmayo S.A.A.,6.50,Basic Materials,Stocks,NYQ
+TIXT,TELUS International (Cda) Inc. ,26.27,Technology,Stocks,NYQ
+CCRD,CoreCard Corporation,33.65,Technology,Stocks,NYQ
+CAE,CAE Inc.,23.76,Industrials,Stocks,NYQ
+TNL,Travel   Leisure Co.,53.75,Consumer Cyclical,Stocks,NYQ
+KRC,Kilroy Realty Corporation,61.25,Real Estate,Stocks,NYQ
+TRC,Tejon Ranch Co,16.68,Industrials,Stocks,NYQ
+FCPT,"Four Corners Property Trust, In",26.37,Real Estate,Stocks,NYQ
+USM,United States Cellular Corporat,30.14,Communication Services,Stocks,NYQ
+LITB,"LightInTheBox Holding Co., Ltd.",1.10,Consumer Cyclical,Stocks,NYQ
+SCL,Stepan Company,110.13,Basic Materials,Stocks,NYQ
+GPOR,Gulfport Energy Corporation,63.91,Energy,Stocks,NYQ
+LGF-B,Lions Gate Entertainment Corpor,14.14,Communication Services,Stocks,NYQ
+CATO,Cato Corporation (The),15.87,Consumer Cyclical,Stocks,NYQ
+FSS,Federal Signal Corporation,38.02,Industrials,Stocks,NYQ
+NGVT,Ingevity Corporation,64.97,Basic Materials,Stocks,NYQ
+ZWS,Zurn Water Solutions Corporatio,29.50,Utilities,Stocks,NYQ
+ZTO,ZTO Express (Cayman) Inc.,27.99,Industrials,Stocks,NYQ
+FC,Franklin Covey Company,43.96,Industrials,Stocks,NYQ
+SC,Santander Consumer USA Holdings,41.59,Financial Services,Stocks,NYQ
+NC,"NACCO Industries, Inc.",30.51,Energy,Stocks,NYQ
+PIPR,Piper Sandler Companies,148.81,Financial Services,Stocks,NYQ
+WNC,Wabash National Corporation,19.34,Industrials,Stocks,NYQ
+WFC-PC,Wells Fargo & Company Depositar,22.78,Financial Services,Stocks,NYQ
+GLT,Glatfelter Corporation,17.02,Basic Materials,Stocks,NYQ
+CLW,Clearwater Paper Corporation,30.97,Basic Materials,Stocks,NYQ
+EPAC,Enerpac Tool Group Corp.,17.39,Industrials,Stocks,NYQ
+ECOM,ChannelAdvisor Corporation,19.79,Technology,Stocks,NYQ
+CNO,"CNO Financial Group, Inc.",24.57,Financial Services,Stocks,NYQ
+GTES,Gates Industrial Corporation pl,15.02,Industrials,Stocks,NYQ
+NFH,New Frontier Health Corporation,11.95,Healthcare,Stocks,NYQ
+CPK,Chesapeake Utilities Corporatio,131.77,Utilities,Stocks,NYQ
+CSTM,Constellium SE,17.01,Basic Materials,Stocks,NYQ
+JPM-PL,J P Morgan Chase & Co Depositar,24.09,Financial Services,Stocks,NYQ
+OCN,Ocwen Financial Corporation NEW,35.63,Financial Services,Stocks,NYQ
+CUZ,Cousins Properties Incorporated,37.49,Real Estate,Stocks,NYQ
+EPC,Edgewell Personal Care Company,46.35,Consumer Defensive,Stocks,NYQ
+IPOF-WT,Social Capital Hedosophia Holdi,1.03,N/A,Stocks,NYQ
+HNI,HNI Corporation,40.84,Industrials,Stocks,NYQ
+FOE,Ferro Corporation,21.75,Basic Materials,Stocks,NYQ
+LEN-B,Lennar Corporation,77.19,Consumer Cyclical,Stocks,NYQ
+CTS,CTS Corporation,31.97,Technology,Stocks,NYQ
+FBK,FB Financial Corporation,42.52,Financial Services,Stocks,NYQ
+CSAN,Cosan S.A.,17.22,Energy,Stocks,NYQ
+CIAN,Cian PLC,6.35,Real Estate,Stocks,NYQ
+CIR,"CIRCOR International, Inc.",25.87,Industrials,Stocks,NYQ
+GHL,"Greenhill & Co., Inc.",15.91,Financial Services,Stocks,NYQ
+CHT,"Chunghwa Telecom Co., Ltd.",43.52,Communication Services,Stocks,NYQ
+DRH,Diamondrock Hospitality Company,8.63,Real Estate,Stocks,NYQ
+CTOS,"Custom Truck One Source, Inc.",7.88,Industrials,Stocks,NYQ
+HSC,Harsco Corporation,15.20,Industrials,Stocks,NYQ
+KAMN,Kaman Corporation,40.02,Industrials,Stocks,NYQ
+PBH,Prestige Consumer Healthcare In,56.59,Healthcare,Stocks,NYQ
+NEU,NewMarket Corp,335.58,Basic Materials,Stocks,NYQ
+TNC,Tennant Company,74.48,Industrials,Stocks,NYQ
+PRMW,Primo Water Corporation,16.32,Consumer Defensive,Stocks,NYQ
+CLPR,Clipper Realty Inc.,8.57,Real Estate,Stocks,NYQ
+GHLD,Guild Holdings Company,12.53,Financial Services,Stocks,NYQ
+VRS,Verso Corporation,26.34,Basic Materials,Stocks,NYQ
+SXT,Sensient Technologies Corporati,84.60,Basic Materials,Stocks,NYQ
+SCX,L.S. Starrett Company (The),9.08,Industrials,Stocks,NYQ
+NSR,Nomad Royalty Company Ltd.,6.33,Basic Materials,Stocks,NYQ
+HEI-A,Heico Corporation,110.43,Industrials,Stocks,NYQ
+KRA,Kraton Corporation,46.24,Basic Materials,Stocks,NYQ
+ITGR,Integer Holdings Corporation,76.68,Healthcare,Stocks,NYQ
+WFC-PL,Wells Fargo & Company Wells Far,"1,412.00",Financial Services,Stocks,NYQ
+CIA,"Citizens, Inc.",4.57,Financial Services,Stocks,NYQ
+CDRE,"Cadre Holdings, Inc.",20.55,Industrials,Stocks,NYQ
+OFC,Corporate Office Properties Tru,24.42,Real Estate,Stocks,NYQ
+CINR,Ciner Resources LP,16.30,Basic Materials,Stocks,NYQ
+OEC,Orion Engineered Carbons S.A,16.83,Basic Materials,Stocks,NYQ
+CSR,D/B/A Centerspace,89.01,Real Estate,Stocks,NYQ
+CDR,"Cedar Realty Trust, Inc.",22.54,Real Estate,Stocks,NYQ
+EDN,Empresa Distribuidora Y Comerci,4.62,Utilities,Stocks,NYQ
+CELP,"Cypress Environmental Partners,",1.01,Energy,Stocks,NYQ
+CRHC-WT,Cohn Robbins Holdings Corp. Red,0.76,N/A,Stocks,NYQ
+NTST,NetSTREIT Corp.,21.52,Real Estate,Stocks,NYQ
+SPXC,SPX Corporation,49.72,Industrials,Stocks,NYQ
+CMTG,"Claros Mortgage Trust, Inc.",17.54,Real Estate,Stocks,NYQ
+CMCM,Cheetah Mobile Inc.,1.16,Communication Services,Stocks,NYQ
+VATE,INNOVATE Corp.,3.71,Industrials,Stocks,NYQ
+CCV,Churchill Capital Corp V,9.77,Financial Services,Stocks,NYQ
+RM,Regional Management Corp.,49.39,Financial Services,Stocks,NYQ
+PUK,Prudential Public Limited Compa,33.56,Financial Services,Stocks,NYQ
+CIXX,CI Financial Corp.,18.15,Financial Services,Stocks,NYQ
+CVII,Churchill Capital Corp VII,9.71,Financial Services,Stocks,NYQ
+GIC,Global Industrial Company,33.78,Industrials,Stocks,NYQ
+SITC,SITE Centers Corp.,14.44,Real Estate,Stocks,NYQ
+WFC-PZ,Wells Fargo & Company Depositar,23.90,Financial Services,Stocks,NYQ
+CHCT,Community Healthcare Trust Inco,43.54,Real Estate,Stocks,NYQ
+TRNO,Terreno Realty Corporation,70.67,Real Estate,Stocks,NYQ
+GRC,Gorman-Rupp Company (The),39.02,Industrials,Stocks,NYQ
+MSC,Studio City International Holdi,5.71,Consumer Cyclical,Stocks,NYQ
+CNVY,Convey Health Solutions Holding,7.10,Healthcare,Stocks,NYQ
+COF-PJ,Capital One Financial Corporati,24.21,Financial Services,Stocks,NYQ
+VVI,Viad Corp,35.73,Industrials,Stocks,NYQ
+MLP,"Maui Land & Pineapple Company, ",9.90,Real Estate,Stocks,NYQ
+CHRA,"Charah Solutions, Inc.",4.98,Industrials,Stocks,NYQ
+BFS,"Saul Centers, Inc.",48.30,Real Estate,Stocks,NYQ
+CPLG,CorePoint Lodging Inc.,15.72,Real Estate,Stocks,NYQ
+SXI,Standex International Corporati,98.61,Industrials,Stocks,NYQ
+PRA,ProAssurance Corporation,23.25,Financial Services,Stocks,NYQ
+MTVC-UN,Motive Capital Corp II,9.99,Financial Services,Stocks,NYQ
+JPM-PK,J P Morgan Chase & Co Depositar,23.75,Financial Services,Stocks,NYQ
+TAC,TransAlta Corporation,10.53,Utilities,Stocks,NYQ
+IX,Orix Corp,101.80,Financial Services,Stocks,NYQ
+ITCB,Itau CorpBanca,3.50,Financial Services,Stocks,NYQ
+JPM-PM,J P Morgan Chase & Co Depositar,22.99,Financial Services,Stocks,NYQ
+CRD-A,Crawford & Company,7.66,Financial Services,Stocks,NYQ
+CRD-B,Crawford & Company,7.58,Financial Services,Stocks,NYQ
+JPM-PC,J P Morgan Chase & Co Depositar,26.71,Financial Services,Stocks,NYQ
+UNF,Unifirst Corporation,184.65,Industrials,Stocks,NYQ
+PSEC-PA,Prospect Capital Corporation 5.,20.35,Financial Services,Stocks,NYQ
+IPOD-WT,Social Capital Hedosophia Holdi,1.03,N/A,Stocks,NYQ
+NRZ-PD,New Residential Investment Corp,24.86,N/A,Stocks,NYQ
+HMN,Horace Mann Educators Corporati,37.15,Financial Services,Stocks,NYQ
+ECCV,Eagle Point Credit Company Inc.,24.25,N/A,Stocks,NYQ
+RSF,RiverNorth Specialty Finance Co,19.39,Financial Services,Stocks,NYQ
+HRT,HireRight Holdings Corporation,12.69,Industrials,Stocks,NYQ
+CNF,CNFinance Holdings Limited,3.19,Financial Services,Stocks,NYQ
+PRPB,CC Neuberger Principal Holdings,9.89,Financial Services,Stocks,NYQ
+SHG,Shinhan Financial Group Co Ltd,31.72,Financial Services,Stocks,NYQ
+GEF-B,"Greif, Inc. Corporation",57.63,Consumer Cyclical,Stocks,NYQ
+HZN,Horizon Global Corporation,7.71,Consumer Cyclical,Stocks,NYQ
+CIM-PB,Chimera Investment Corporation ,24.90,Real Estate,Stocks,NYQ
+DDT,Dillard's Capital Trust I,26.02,Consumer Cyclical,Stocks,NYQ
+NEE-PQ,"NextEra Energy, Inc. 6.219% Cor",48.60,Utilities,Stocks,NYQ
+SCVX,SCVX Corp.,9.97,Financial Services,Stocks,NYQ
+FEDU,Four Seasons Education (Cayman),0.62,Consumer Defensive,Stocks,NYQ
+GTS,Triple-S Management Corporation,35.61,Healthcare,Stocks,NYQ
+HTPA,Highland Transcend Partners I C,9.92,Financial Services,Stocks,NYQ
+CORS,Corsair Partnering Corporation,9.62,Financial Services,Stocks,NYQ
+NRZ-PC,New Residential Investment Corp,22.53,Real Estate,Stocks,NYQ
+DUK-PA,Duke Energy Corporation Deposit,26.31,Utilities,Stocks,NYQ
+SOJE,Southern Company (The) Series 2,23.28,N/A,Stocks,NYQ
+JPM-PD,J P Morgan Chase & Co Depositar,26.46,Financial Services,Stocks,NYQ
+SOLN,Southern Company (The) 2019 Ser,53.07,Utilities,Stocks,NYQ
+ECCC,Eagle Point Credit Company Inc.,25.13,Financial Services,Stocks,NYQ
+TWO-PB,Two Harbors Investments Corp 7.,24.80,Real Estate,Stocks,NYQ
+PNTM-WT,Pontem Corporation,0.49,N/A,Stocks,NYQ
+FHN-PF,First Horizon Corporation Depos,23.92,Financial Services,Stocks,NYQ
+WFC-PR,Wells Fargo & Company Dep Shs R,26.63,Financial Services,Stocks,NYQ
+CCVI,Churchill Capital Corp VI,9.79,Financial Services,Stocks,NYQ
+CIM-PA,Chimera Investment Corporation ,25.21,Real Estate,Stocks,NYQ
+COF-PL,Capital One Financial Corporati,22.58,Financial Services,Stocks,NYQ
+UGIC,UGI Corporation Corporate,102.48,Utilities,Stocks,NYQ
+IHC,Independence Holding Company,56.84,Financial Services,Stocks,NYQ
+ECCW,Eagle Point Credit Company Inc.,26.12,N/A,Stocks,NYQ
+C-PN,Citigroup Capital XIII 7.875% F,26.79,Financial Services,Stocks,NYQ
+MKC-V,"McCormick & Company, Incorporat",97.70,Consumer Defensive,Stocks,NYQ
+NSTB,Northern Star Investment Corp. ,9.69,Financial Services,Stocks,NYQ
+SCHW-PD,The Charles Schwab Corporation ,25.42,Financial Services,Stocks,NYQ
+MOTV,Motive Capital Corp,9.90,Financial Services,Stocks,NYQ
+WFC-PA,Wells Fargo & Company Depositar,24.05,Financial Services,Stocks,NYQ
+STAR-PI,iStar Inc. Series I Cumulative ,25.42,Real Estate,Stocks,NYQ
+CCZ,Comcast Holdings ZONES,61.73,N/A,Stocks,NYQ
+HL-PB,Hecla Mining Company Preferred ,58.34,Basic Materials,Stocks,NYQ
+PNTM,Pontem Corporation,9.73,Financial Services,Stocks,NYQ
+ENPC,Executive Network Partnering Co,9.80,Financial Services,Stocks,NYQ
+CMRE-PE,Costamare Inc. 8.875% Series E ,26.82,Industrials,Stocks,NYQ
+XPOA,"DPCM Capital, Inc.",9.79,Financial Services,Stocks,NYQ
+CMS-PB,CMS Energy Corporation Preferre,107.93,Utilities,Stocks,NYQ
+WPCA,Warburg Pincus Capital Corporat,9.70,Financial Services,Stocks,NYQ
+TWO-PA,Two Harbors Investments Corp 8.,25.53,Real Estate,Stocks,NYQ
+F-PB,Ford Motor Company 6.20% Notes ,25.73,N/A,Stocks,NYQ
+SOJD,Southern Company (The) Series 2,25.20,N/A,Stocks,NYQ
+C-PJ,Citigroup Inc. Dep Shs Repstg 1,26.62,Financial Services,Stocks,NYQ
+UZF,United States Cellular Corporat,24.54,N/A,Stocks,NYQ
+SI-PA,Silvergate Capital Corporation ,22.43,Financial Services,Stocks,NYQ
+COF-PI,Capital One Financial Corporati,24.81,Financial Services,Stocks,NYQ
+NEE-PP,"NextEra Energy, Inc. 5.279% Cor",48.17,Utilities,Stocks,NYQ
+CIM-PD,Chimera Investment Corporation ,24.80,Real Estate,Stocks,NYQ
+CORR-PA,"CorEnergy Infrastructure Trust,",20.85,Real Estate,Stocks,NYQ
+UWMC-WT,UWM Holdings Corporation,0.41,N/A,Stocks,NYQ
+JPM-PJ,J P Morgan Chase & Co Depositar,25.15,Financial Services,Stocks,NYQ
+NRZ-PB,New Residential Investment Corp,24.45,Real Estate,Stocks,NYQ
+COF-PN,Capital One Financial Corporati,22.70,Financial Services,Stocks,NYQ
+CHMI-PB,Cherry Hill Mortgage Investment,25.00,Real Estate,Stocks,NYQ
+CCM,Concord Medical Services Holdin,2.06,Healthcare,Stocks,NYQ
+CMRE-PC,Costamare Inc. Perpetual Prefer,26.07,Industrials,Stocks,NYQ
+DTP,DTE Energy Company 6.25% Corpor,50.70,Utilities,Stocks,NYQ
+UZE,United States Cellular Corporat,24.68,N/A,Stocks,NYQ
+TWO-PC,Two Harbors Investments Corp 7.,24.47,Real Estate,Stocks,NYQ
+DHR-PB,Danaher Corporation 5.00% Manda,"1,441.18",Healthcare,Stocks,NYQ
+IPOF-UN,Social Capital Hedosophia Holdi,10.06,Financial Services,Stocks,NYQ
+NXU-UN,Novus Capital Corporation II,10.23,Financial Services,Stocks,NYQ
+PCGU,Pacific Gas & Electric Co. Equi,117.61,Utilities,Stocks,NYQ
+SCE-PJ,Southern California Edison Comp,24.40,Financial Services,Stocks,NYQ
+IVR-PC,INVESCO MORTGAGE CAPITAL INC 7.,24.67,Real Estate,Stocks,NYQ
+CMRE-PD,Costamare Inc. 8.75% Series D C,26.44,Industrials,Stocks,NYQ
+CMSD,CMS Energy Corporation 5.875% J,26.03,N/A,Stocks,NYQ
+ECCB,Eagle Point Credit Company Inc.,25.15,Financial Services,Stocks,NYQ
+CIM-PC,Chimera Investment Corporation ,24.62,Real Estate,Stocks,NYQ
+CVII-UN,Churchill Capital Corp VII,9.82,Financial Services,Stocks,NYQ
+SLG-PI,SL Green Realty Corporation Pre,25.71,Real Estate,Stocks,NYQ
+CRHC-UN,Cohn Robbins Holdings Corp.,10.07,Financial Services,Stocks,NYQ
+CVII-WT,Churchill Capital Corp VII,0.70,N/A,Stocks,NYQ
+CLIM,Climate Real Impact Solutions I,9.71,Financial Services,Stocks,NYQ
+DCP-PC,DCP Midstream LP 7.95% Series C,24.99,Energy,Stocks,NYQ
+NRZ-PA,New Residential Investment Corp,25.05,Real Estate,Stocks,NYQ
+IVR-PB,Invesco Mortgage Capital Inc. P,24.57,Real Estate,Stocks,NYQ
+OAK-PB,"Oaktree Capital Group, LLC 6.55",26.10,Financial Services,Stocks,NYQ
+KTH,Structures Products Cp 8% CorTS,31.95,Financial Services,Stocks,NYQ
+CODI-PB,Compass Diversified Holdings 7.,26.50,Industrials,Stocks,NYQ
+DTG,DTE Energy Company 2021 Series ,24.73,N/A,Stocks,NYQ
+SCHW-PJ,The Charles Schwab Corporation ,24.28,Financial Services,Stocks,NYQ
+WPCB,Warburg Pincus Capital Corporat,9.68,Financial Services,Stocks,NYQ
+NRUC,National Rural Utilities Cooper,26.28,N/A,Stocks,NYQ
+CHRB,"Charah Solutions, Inc. 8.50% Se",22.80,N/A,Stocks,NYQ
+LHC,Leo Holdings Corp. II,9.72,Financial Services,Stocks,NYQ
+HPX,HPX Corp.,9.86,Financial Services,Stocks,NYQ
+OAK-PA,"Oaktree Capital Group, LLC 6.62",26.04,Financial Services,Stocks,NYQ
+WFC-PQ,Wells Fargo & Company Depositar,25.63,Financial Services,Stocks,NYQ
+F-PC,Ford Motor Company 6% Notes due,25.58,N/A,Stocks,NYQ
+CMS-PC,CMS Energy Corporation Deposita,22.81,Utilities,Stocks,NYQ
+SJIV,"South Jersey Industries, Inc. C",52.54,Utilities,Stocks,NYQ
+JUN,Juniper II Corp.,9.80,Financial Services,Stocks,NYQ
+TFC-PI,Truist Financial Corporation De,23.78,N/A,Stocks,NYQ
+EP-PC,El Paso Corporation Preferred S,49.96,Energy,Stocks,NYQ
+FNB-PE,F.N.B. Corporation Depositary S,26.51,Financial Services,Stocks,NYQ
+DTB,DTE Energy Company 2020 Series ,24.16,N/A,Stocks,NYQ
+COF-PK,Capital One Financial Corporati,23.95,Financial Services,Stocks,NYQ
+C-PK,Citigroup Inc. Dep Shs Repstg 1,26.78,Financial Services,Stocks,NYQ
+PCPC,Periphas Capital Partnering Cor,24.36,Financial Services,Stocks,NYQ
+CODI-PA,Compass Diversified Holdings 7.,25.37,Industrials,Stocks,NYQ
+CFG-PE,"Citizens Financial Group, Inc. ",24.80,Financial Services,Stocks,NYQ
+CTO-PA,"CTO Realty Growth, Inc. 6.375% ",26.00,Real Estate,Stocks,NYQ
+SCVX-WT,SCVX Corp. Redeemable,0.32,N/A,Stocks,NYQ
+SBII,Sandbridge X2 Corp.,9.68,Financial Services,Stocks,NYQ
+NETC,Nabors Energy Transition Corp.,9.91,Financial Services,Stocks,NYQ
+RF-PE,Regions Financial Corporation D,23.50,Financial Services,Stocks,NYQ
+SNV-PD,Synovus Financial Corp. Fixed-t,25.59,Financial Services,Stocks,NYQ
+CMRE-PB,Costamare Inc. Perpetual Prefer,25.72,Industrials,Stocks,NYQ
+FHN-PE,First Horizon Corporation Depos,26.14,Financial Services,Stocks,NYQ
+CIG-C,Comp En De Mn Cemig,3.45,Utilities,Stocks,NYQ
+SF-PB,Stifel Financial Corporation De,25.66,Financial Services,Stocks,NYQ
+EPWR,Empowerment & Inclusion Capital,9.71,Financial Services,Stocks,NYQ
+CODI-PC,Compass Diversified Holdings 7.,25.95,Industrials,Stocks,NYQ
+PRPB-WT,CC Neuberger Principal Holdings,0.98,N/A,Stocks,NYQ
+CCVI-UN,Churchill Capital Corp VI,9.94,Financial Services,Stocks,NYQ
+STAR-PD,iStar Inc. Series D Cumulative ,25.85,Real Estate,Stocks,NYQ
+EICA,Eagle Point Income Company Inc.,25.09,Financial Services,Stocks,NYQ
+EPR-PC,EPR Properties 5.75% Series C C,24.52,Real Estate,Stocks,NYQ
+GOGN,GoGreen Investments Corporation,9.90,Financial Services,Stocks,NYQ
+TFC-PR,Truist Financial Corporation De,25.19,Financial Services,Stocks,NYQ
+EOCW,Elliott Opportunity II Corp.,9.70,Financial Services,Stocks,NYQ
+SF-PD,Stifel Financial Corporation De,23.05,Financial Services,Stocks,NYQ
+IPOD-UN,Social Capital Hedosophia Holdi,10.07,Financial Services,Stocks,NYQ
+STT-PD,State Street Corporation Deposi,26.30,Financial Services,Stocks,NYQ
+CHMI-PA,Cherry Hill Mortgage Investment,25.53,Real Estate,Stocks,NYQ
+SAK,Saratoga Investment Corp 7.25% ,25.70,N/A,Stocks,NYQ
+EPR-PE,EPR Properties Series E Cumulat,34.50,Real Estate,Stocks,NYQ
+SITC-PA,SITE Centers Corp. 6.375%,25.11,Real Estate,Stocks,NYQ
+SF-PC,Stifel Financial Corporation De,25.75,Financial Services,Stocks,NYQ
+CFG-PD,"Citizens Financial Group, Inc. ",25.84,Financial Services,Stocks,NYQ
+CVE-WT,Cenovus Energy Inc,9.76,N/A,Stocks,NYQ
+RF-PB,Regions Financial Corporation D,27.61,Financial Services,Stocks,NYQ
+NSTD,Northern Star Investment Corp. ,9.69,Financial Services,Stocks,NYQ
+CHAA,Catcha Investment Corp.,9.69,Financial Services,Stocks,NYQ
+RMPL-P,RiverNorth Specialty Finance Co,25.84,Financial Services,Stocks,NYQ
+TY-P,Tri Continental Corporation Pre,57.35,Financial Services,Stocks,NYQ
+HD,"Home Depot, Inc. (The)",356.43,Consumer Cyclical,Stocks,NYQ
+DOW,Dow Inc.,60.18,Basic Materials,Stocks,NYQ
+DIDI,DiDi Global Inc.,3.90,Technology,Stocks,NYQ
+RDS-B,Royal Dutch Shell PLC Royal Dut,51.09,Energy,Stocks,NYQ
+DASH,"DoorDash, Inc.",96.09,Communication Services,Stocks,NYQ
+RDS-A,Royal Dutch Shell PLC Royal Dut,51.11,Energy,Stocks,NYQ
+DOCN,"DigitalOcean Holdings, Inc.",50.68,Technology,Stocks,NYQ
+DM,"Desktop Metal, Inc.",3.51,Technology,Stocks,NYQ
+KD,"Kyndryl Holdings, Inc.",15.70,Technology,Stocks,NYQ
+SBSW,D/B/A Sibanye-Stillwater Limite,14.58,Basic Materials,Stocks,NYQ
+DOMA,"Doma Holdings, Inc.",3.68,Real Estate,Stocks,NYQ
+DELL,Dell Technologies Inc.,55.45,Technology,Stocks,NYQ
+DNMR,"Danimer Scientific, Inc.",4.36,Basic Materials,Stocks,NYQ
+IRM,Iron Mountain Incorporated (Del,43.66,Real Estate,Stocks,NYQ
+DKS,Dick's Sporting Goods Inc,111.92,Consumer Cyclical,Stocks,NYQ
+DOCS,"Doximity, Inc.",40.56,Healthcare,Stocks,NYQ
+DPZ,Domino's Pizza Inc,429.58,Consumer Cyclical,Stocks,NYQ
+DD,"DuPont de Nemours, Inc.",76.49,Basic Materials,Stocks,NYQ
+DHI,"D.R. Horton, Inc.",84.02,Consumer Cyclical,Stocks,NYQ
+OVV,Ovintiv Inc. (DE),37.85,Energy,Stocks,NYQ
+DLR,"Digital Realty Trust, Inc.",145.28,Real Estate,Stocks,NYQ
+DFS,Discover Financial Services,113.22,Financial Services,Stocks,NYQ
+DDS,"Dillard's, Inc.",255.47,Consumer Cyclical,Stocks,NYQ
+DT,"Dynatrace, Inc.",49.00,Technology,Stocks,NYQ
+DEO,Diageo plc,200.89,Consumer Defensive,Stocks,NYQ
+HOG,"Harley-Davidson, Inc.",33.37,Consumer Cyclical,Stocks,NYQ
+DGX,Quest Diagnostics Incorporated,135.08,Healthcare,Stocks,NYQ
+DHT,"DHT Holdings, Inc.",4.97,Energy,Stocks,NYQ
+PAGS,PagSeguro Digital Ltd.,20.00,Technology,Stocks,NYQ
+FND,"Floor & Decor Holdings, Inc.",98.71,Consumer Cyclical,Stocks,NYQ
+QD,Qudian Inc.,0.85,Financial Services,Stocks,NYQ
+SRE,DBA Sempra,135.96,Utilities,Stocks,NYQ
+DBRG,"DigitalBridge Group, Inc.",6.85,Real Estate,Stocks,NYQ
+DRI,"Darden Restaurants, Inc.",135.36,Consumer Cyclical,Stocks,NYQ
+SD,"SandRidge Energy, Inc.",10.62,Energy,Stocks,NYQ
+PD,"PagerDuty, Inc.",30.31,Technology,Stocks,NYQ
+DOLE,Dole plc,13.00,Consumer Defensive,Stocks,NYQ
+DAR,Darling Ingredients Inc.,60.59,Consumer Defensive,Stocks,NYQ
+DSX,Diana Shipping inc.,3.62,Industrials,Stocks,NYQ
+DS,Drive Shack Inc.,1.21,Consumer Cyclical,Stocks,NYQ
+LPG,Dorian LPG Ltd.,12.11,Energy,Stocks,NYQ
+DAN,Dana Incorporated,21.47,Consumer Cyclical,Stocks,NYQ
+DK,"Delek US Holdings, Inc.",15.77,Energy,Stocks,NYQ
+DVA,DaVita Inc.,108.75,Healthcare,Stocks,NYQ
+DOUG,Douglas Elliman Inc.,7.52,Real Estate,Stocks,NYQ
+ES,Eversource Energy (D/B/A),85.74,Utilities,Stocks,NYQ
+DCP,"DCP Midstream,  LP",27.30,Energy,Stocks,NYQ
+DKL,"Delek Logistics Partners, L.P.",43.81,Energy,Stocks,NYQ
+WD,"Walker & Dunlop, Inc",121.79,Financial Services,Stocks,NYQ
+DRD,DRDGOLD Limited,7.78,Basic Materials,Stocks,NYQ
+TWI,"Titan International, Inc. (DE)",9.47,Industrials,Stocks,NYQ
+DEN,Denbury Inc.,71.87,Energy,Stocks,NYQ
+DTM,"DT Midstream, Inc.",50.00,Energy,Stocks,NYQ
+DBD,Diebold Nixdorf Incorporated,8.98,Technology,Stocks,NYQ
+DRQ,"Dril-Quip, Inc.",25.57,Energy,Stocks,NYQ
+NAPA,"The Duckhorn Portfolio, Inc.",18.98,Consumer Defensive,Stocks,NYQ
+DLB,Dolby Laboratories,84.41,Technology,Stocks,NYQ
+DFIN,"Donnelley Financial Solutions, ",34.53,Financial Services,Stocks,NYQ
+DV,"DoubleVerify Holdings, Inc.",23.50,Technology,Stocks,NYQ
+FDP,"Fresh Del Monte Produce, Inc.",27.40,Consumer Defensive,Stocks,NYQ
+TGS,Transportadora de Gas del Sur S,4.55,Energy,Stocks,NYQ
+DMS,"Digital Media Solutions, Inc.",4.57,Communication Services,Stocks,NYQ
+DY,"Dycom Industries, Inc.",83.24,Industrials,Stocks,NYQ
+RDY,Dr. Reddy's Laboratories Ltd,55.33,Healthcare,Stocks,NYQ
+MD,"Mednax, Inc.",24.34,Healthcare,Stocks,NYQ
+DLY,DoubleLine Yield Opportunities ,17.99,Financial Services,Stocks,NYQ
+PLOW,"Douglas Dynamics, Inc.",35.21,Consumer Cyclical,Stocks,NYQ
+DLNG,Dynagas LNG Partners LP,2.77,Energy,Stocks,NYQ
+DCO,Ducommun Incorporated,42.03,Industrials,Stocks,NYQ
+DEI,"Douglas Emmett, Inc.",30.16,Real Estate,Stocks,NYQ
+YRD,Yiren Digital Ltd.,2.32,Financial Services,Stocks,NYQ
+RMM,RiverNorth Managed Duration Mun,18.15,Financial Services,Stocks,NYQ
+DHX,"DHI Group, Inc.",5.07,Industrials,Stocks,NYQ
+DCUE,"Dominion Energy, Inc. 2019 Seri",100.35,Utilities,Stocks,NYQ
+MS-PO,Morgan Stanley Depositary Share,22.66,Financial Services,Stocks,NYQ
+DLR-PK,"Digital Realty Trust, Inc. 5.85",26.71,Real Estate,Stocks,NYQ
+GSL-PB,"Global Ship Lease, Inc. Deposit",25.80,Industrials,Stocks,NYQ
+SYF-PA,Synchrony Financial Depositary ,25.41,Financial Services,Stocks,NYQ
+DLNG-PA,Dynagas LNG Partners LP 9.00% S,26.15,Energy,Stocks,NYQ
+DMYS,"dMY Technology Group, Inc. VI",9.72,Financial Services,Stocks,NYQ
+DCP-PB,DCP Midstream LP 7.875% Series ,24.70,Energy,Stocks,NYQ
+PSA-PR,Public Storage Depositary Share,23.35,Real Estate,Stocks,NYQ
+PSA-PQ,Public Storage Depositary Share,23.12,Real Estate,Stocks,NYQ
+DLNG-PB,Dynagas LNG Partners LP 8.75% S,25.44,Energy,Stocks,NYQ
+PSA-PM,Public Storage Depositary Share,23.60,Real Estate,Stocks,NYQ
+WCC-PA,"WESCO International, Inc. Depos",29.62,N/A,Stocks,NYQ
+FNTC,Direxion Shares ETF Trust Direx,23.24,N/A,Stocks,NYQ
+SREA,DBA Sempra 5.750% Junior Subord,26.35,N/A,Stocks,NYQ
+DBRG-PI,"DigitalBridge Group, Inc. 7.15%",25.10,Real Estate,Stocks,NYQ
+MET-PE,"MetLife, Inc. Depositary shares",25.83,Financial Services,Stocks,NYQ
+PSA-PK,Public Storage Depositary Share,25.19,Real Estate,Stocks,NYQ
+DLR-PJ,"Digital Realty Trust, Inc. 5.25",25.08,Real Estate,Stocks,NYQ
+DS-PB,Drive Shack Inc. Preferred Seri,24.73,Consumer Cyclical,Stocks,NYQ
+PSA-PH,Public Storage Depositary Share,26.45,Real Estate,Stocks,NYQ
+MET-PF,"MetLife, Inc. Depositary Shares",24.95,Financial Services,Stocks,NYQ
+MS-PA,Morgan Stanley Dep Shs repstg 1,23.28,Financial Services,Stocks,NYQ
+PSA-PN,Public Storage Depositary Share,23.34,Real Estate,Stocks,NYQ
+RNR-PG,RenaissanceRe Holdings Ltd. Dep,23.10,Financial Services,Stocks,NYQ
+NI-PB,"NiSource, Inc Depositary Shares",26.39,Utilities,Stocks,NYQ
+DBRG-PH,"DigitalBridge Group, Inc. 7.125",25.10,Real Estate,Stocks,NYQ
+KEY-PJ,KeyCorp Depositary Shares each ,25.52,Financial Services,Stocks,NYQ
+MS-PE,Morgan Stanley DEPOSITARY SHARE,26.51,Financial Services,Stocks,NYQ
+DSX-PB,Diana Shipping Inc. Perpetual P,26.20,Industrials,Stocks,NYQ
+GDV-PH,The Gabelli Dividend & Income T,26.20,N/A,Stocks,NYQ
+DLR-PL,"Digital Realty Trust, Inc. 5.20",25.76,Real Estate,Stocks,NYQ
+KEY-PK,"KeyCorp Depositary Shares, each",25.72,Financial Services,Stocks,NYQ
+PSA-PS,Public Storage Depositary Share,24.62,Real Estate,Stocks,NYQ
+GDV-PK,The Gabelli Dividend & Income T,24.72,Financial Services,Stocks,NYQ
+GDV-PG,Gabelli Dividend 5.25% Series G,25.12,Financial Services,Stocks,NYQ
+PSA-PP,Public Storage Depositary Share,23.15,Real Estate,Stocks,NYQ
+TFC-PO,Truist Financial Corporation De,26.23,Financial Services,Stocks,NYQ
+WFC-PY,Wells Fargo & Company Depositar,25.43,Financial Services,Stocks,NYQ
+KEY-PI,KeyCorp Depositary Shares Each ,28.64,Financial Services,Stocks,NYQ
+MS-PI,Morgan Stanley Depository Share,26.91,Financial Services,Stocks,NYQ
+EQH-PA,"Equitable Holdings, Inc. Deposi",25.25,Financial Services,Stocks,NYQ
+DBRG-PJ,"DigitalBridge Group, Inc. 7.125",25.31,Real Estate,Stocks,NYQ
+MS-PK,Morgan Stanley Depositary Share,27.17,Financial Services,Stocks,NYQ
+MS-PL,Morgan Stanley Depositary Share,24.75,Financial Services,Stocks,NYQ
+FHN-PD,First Horizon Corporation Depos,26.09,N/A,Stocks,NYQ
+DRH-PA,Diamondrock Hospitality Company,27.63,Real Estate,Stocks,NYQ
+EQH-PC,"Equitable Holdings, Inc. Deposi",23.39,Financial Services,Stocks,NYQ
+DS-PC,Drive Shack Inc. Preferred Seri,24.65,Consumer Cyclical,Stocks,NYQ
+FHN-PB,First Horizon Corporation Depos,26.69,N/A,Stocks,NYQ
+CSR-PC,D/B/A Centerspace 6.625% Series,26.09,Real Estate,Stocks,NYQ
+FHN-PC,First Horizon Corporation Depos,27.41,N/A,Stocks,NYQ
+PSA-PG,Public Storage Depositary Share,25.31,Real Estate,Stocks,NYQ
+WBS-PF,Webster Financial Corporation D,25.00,Financial Services,Stocks,NYQ
+RNR-PF,RenaissanceRe Holdings Ltd. Dep,26.14,Financial Services,Stocks,NYQ
+DS-PD,Drive Shack Inc. Pfd Ser D,25.31,Consumer Cyclical,Stocks,NYQ
+DX-PC,"Dynex Capital, Inc. 6.900% Seri",25.11,Real Estate,Stocks,NYQ
+PSA-PF,Public Storage Depositary Share,25.22,Real Estate,Stocks,NYQ
+PSA-PL,Public Storage Depositary Share,25.08,Real Estate,Stocks,NYQ
+STT-PG,State Street Corporation Deposi,27.55,Financial Services,Stocks,NYQ
+MS-PF,Morgan Stanley Dep Shs Rpstg 1/,26.82,Financial Services,Stocks,NYQ
+PSA-PJ,Public Storage Depositary Share,25.04,Real Estate,Stocks,NYQ
+GS-PJ,Goldman Sachs Group Inc Deposit,25.50,Financial Services,Stocks,NYQ
+DMS-WT,"Digital Media Solutions, Inc.",0.38,N/A,Stocks,NYQ
+BFS-PD,"Saul Centers, Inc. Depositary S",25.51,Real Estate,Stocks,NYQ
+NXDT-PA,NexPoint Diversified Real Estat,21.49,Financial Services,Stocks,NYQ
+RF-PC,Regions Financial Corporation D,26.85,Financial Services,Stocks,NYQ
+ALL-PI,Allstate Corporation (The) Depo,25.14,Financial Services,Stocks,NYQ
+ADC-PA,Agree Realty Corporation Deposi,22.94,N/A,Stocks,NYQ
+PGSS-UN,Pegasus Digital Mobility Acquis,10.04,Financial Services,Stocks,NYQ
+BFS-PE,"Saul Centers, Inc. Depositary s",26.37,Real Estate,Stocks,NYQ
+SR-PA,"Spire Inc. Depositary Shares, e",26.06,Utilities,Stocks,NYQ
+PGSS,Pegasus Digital Mobility Acquis,9.80,Financial Services,Stocks,NYQ
+DWIN-WT,Delwinds Insurance Acquisition ,0.41,N/A,Stocks,NYQ
+DMYS-UN,"dMY Technology Group, Inc. VI",10.09,Financial Services,Stocks,NYQ
+PSA-PI,Public Storage Depositary Share,25.41,N/A,Stocks,NYQ
+VOYA-PB,"Voya Financial, Inc. Depositary",28.60,Financial Services,Stocks,NYQ
+DSAQ-UN,Direct Selling Acquisition Corp,10.16,Financial Services,Stocks,NYQ
+XPOA-WT,"DPCM Capital, Inc.",0.44,N/A,Stocks,NYQ
+DNZ-WT,D and Z Media Acquisition Corp.,0.46,N/A,Stocks,NYQ
+PSA-PO,Public Storage Depositary Share,23.43,Real Estate,Stocks,NYQ
+DWIN-UN,Delwinds Insurance Acquisition ,10.07,Financial Services,Stocks,NYQ
+ET,Energy Transfer LP,9.60,Energy,Stocks,NYQ
+SE,Sea Limited,128.28,Communication Services,Stocks,NYQ
+NEE,"NextEra Energy, Inc.",72.51,Utilities,Stocks,NYQ
+EPD,Enterprise Products Partners L.,24.30,Energy,Stocks,NYQ
+TAL,TAL Education Group,2.40,Consumer Defensive,Stocks,NYQ
+ENB,Enbridge Inc,41.20,Energy,Stocks,NYQ
+SU,Suncor Energy  Inc.,28.45,Energy,Stocks,NYQ
+EOG,"EOG Resources, Inc.",109.75,Energy,Stocks,NYQ
+EDU,New Oriental Education & Techno,1.26,Consumer Defensive,Stocks,NYQ
+TME,Tencent Music Entertainment Gro,5.56,Communication Services,Stocks,NYQ
+ESTC,Elastic N.V.,81.61,Technology,Stocks,NYQ
+KOS,Kosmos Energy Ltd.,4.33,Energy,Stocks,NYQ
+VET,Vermilion Energy Inc.,15.35,Energy,Stocks,NYQ
+EPAM,"EPAM Systems, Inc.",433.41,Technology,Stocks,NYQ
+NRG,"NRG Energy, Inc.",38.96,Utilities,Stocks,NYQ
+EFC,Ellington Financial Inc.,17.62,Real Estate,Stocks,NYQ
+EDR,"Endeavor Group Holdings, Inc.",29.63,Communication Services,Stocks,NYQ
+ECL,Ecolab Inc.,183.52,Basic Materials,Stocks,NYQ
+NEP,"NextEra Energy Partners, LP",71.65,Utilities,Stocks,NYQ
+EGY,"VAALCO Energy, Inc.",4.13,Energy,Stocks,NYQ
+PBF,PBF Energy Inc.,16.31,Energy,Stocks,NYQ
+ZEV,"Lightning eMotors, Inc",4.16,Industrials,Stocks,NYQ
+GWH,"ESS Tech, Inc.",5.01,Industrials,Stocks,NYQ
+PEI,Pennsylvania Real Estate Invest,0.82,Real Estate,Stocks,NYQ
+EXPR,"Express, Inc.",2.90,Consumer Cyclical,Stocks,NYQ
+LYV,"Live Nation Entertainment, Inc.",101.64,Communication Services,Stocks,NYQ
+NGL,NGL ENERGY PARTNERS LP,2.15,Energy,Stocks,NYQ
+DEA,"Easterly Government Properties,",20.57,Real Estate,Stocks,NYQ
+EPR,EPR Properties,42.56,Real Estate,Stocks,NYQ
+WE,WeWork Inc.,6.94,Real Estate,Stocks,NYQ
+ESTE,"Earthstone Energy, Inc.",13.23,Energy,Stocks,NYQ
+NS,Nustar Energy L.P.,16.21,Energy,Stocks,NYQ
+ICE,Intercontinental Exchange Inc.,122.40,Financial Services,Stocks,NYQ
+NOVA,Sunnova Energy International In,17.74,Technology,Stocks,NYQ
+ENLC,"EnLink Midstream, LLC",7.87,Energy,Stocks,NYQ
+UP,Wheels Up Experience Inc.,3.58,Industrials,Stocks,NYQ
+DAVA,Endava plc,110.00,Technology,Stocks,NYQ
+ONE,OneSmart International Educatio,3.80,Consumer Defensive,Stocks,NYQ
+EIX,Edison International,61.50,Utilities,Stocks,NYQ
+PEG,Public Service Enterprise Group,65.40,Utilities,Stocks,NYQ
+EVA,Enviva Inc.,64.53,Basic Materials,Stocks,NYQ
+WEC,"WEC Energy Group, Inc.",95.11,Utilities,Stocks,NYQ
+TALO,"Talos Energy, Inc.",10.24,Energy,Stocks,NYQ
+EXR,Extra Space Storage Inc,190.34,Real Estate,Stocks,NYQ
+GEL,"Genesis Energy, L.P.",10.73,Energy,Stocks,NYQ
+WTRG,"Essential Utilities, Inc.",47.20,Utilities,Stocks,NYQ
+ERJ,Embraer S.A.,14.72,Industrials,Stocks,NYQ
+HOV,"Hovnanian Enterprises, Inc.",94.29,Consumer Cyclical,Stocks,NYQ
+WWE,"World Wrestling Entertainment, ",48.83,Communication Services,Stocks,NYQ
+EXP,Eagle Materials Inc,141.29,Basic Materials,Stocks,NYQ
+EQR,Equity Residential,86.67,Real Estate,Stocks,NYQ
+HLX,"Helix Energy Solutions Group, I",3.55,Energy,Stocks,NYQ
+EVRG,"Evergy, Inc.",63.35,Utilities,Stocks,NYQ
+EFX,"Equifax, Inc.",224.92,Industrials,Stocks,NYQ
+HEP,"Holly Energy Partners, L.P.",18.45,Energy,Stocks,NYQ
+EARN,Ellington Residential Mortgage ,10.39,Real Estate,Stocks,NYQ
+EURN,Euronav NV,8.40,Energy,Stocks,NYQ
+NINE,"Nine Energy Service, Inc.",1.23,Energy,Stocks,NYQ
+NUS,"Nu Skin Enterprises, Inc.",48.91,Consumer Defensive,Stocks,NYQ
+MSGE,Madison Square Garden Entertain,66.25,Communication Services,Stocks,NYQ
+ENR,"Energizer Holdings, Inc.",37.29,Industrials,Stocks,NYQ
+ESS,"Essex Property Trust, Inc.",320.75,Real Estate,Stocks,NYQ
+TNP,Tsakos Energy Navigation Ltd,7.47,Energy,Stocks,NYQ
+EVRI,Everi Holdings Inc.,18.65,Consumer Cyclical,Stocks,NYQ
+EVR,Evercore Inc.,116.22,Financial Services,Stocks,NYQ
+PAM,Pampa Energia S.A. Pampa Energi,18.85,Utilities,Stocks,NYQ
+HE,"Hawaiian Electric Industries, I",41.17,Utilities,Stocks,NYQ
+ENVA,"Enova International, Inc.",39.00,Financial Services,Stocks,NYQ
+SXC,"SunCoke Energy, Inc.",6.80,Basic Materials,Stocks,NYQ
+ET-PD,Energy Transfer L.P. 7.625% Ser,24.91,N/A,Stocks,NYQ
+EQH,"Equitable Holdings, Inc.",32.28,Financial Services,Stocks,NYQ
+USX,"U.S. Xpress Enterprises, Inc.",4.29,Industrials,Stocks,NYQ
+ETWO,"E2open Parent Holdings, Inc.",8.43,Technology,Stocks,NYQ
+SEAS,"SeaWorld Entertainment, Inc.",57.19,Consumer Cyclical,Stocks,NYQ
+ELS,"Equity Lifestyle Properties, In",73.58,Real Estate,Stocks,NYQ
+ESRT,"Empire State Realty Trust, Inc.",8.67,Real Estate,Stocks,NYQ
+WTTR,"Select Energy Services, Inc.",6.55,Energy,Stocks,NYQ
+ESI,Element Solutions Inc.,21.58,Basic Materials,Stocks,NYQ
+EBF,"Ennis, Inc.",18.76,Industrials,Stocks,NYQ
+KREF,KKR Real Estate Finance Trust I,21.13,Real Estate,Stocks,NYQ
+RE,"Everest Re Group, Ltd.",277.94,Financial Services,Stocks,NYQ
+ESMT,"EngageSmart, Inc.",19.11,Technology,Stocks,NYQ
+GFL,GFL Environmental Inc. Subordin,31.24,Industrials,Stocks,NYQ
+NREF,"NexPoint Real Estate Finance, I",19.71,Real Estate,Stocks,NYQ
+ZGN,Ermenegildo Zegna N.V.,9.69,Consumer Cyclical,Stocks,NYQ
+EME,"EMCOR Group, Inc.",115.80,Industrials,Stocks,NYQ
+ENS,EnerSys,72.98,Industrials,Stocks,NYQ
+NVT,nVent Electric plc,33.51,Industrials,Stocks,NYQ
+ENV,"Envestnet, Inc",68.85,Technology,Stocks,NYQ
+MNR,Monmouth Real Estate Investment,20.91,Real Estate,Stocks,NYQ
+EPRT,Essential Properties Realty Tru,24.91,Real Estate,Stocks,NYQ
+FET,"Forum Energy Technologies, Inc.",18.71,Energy,Stocks,NYQ
+NETI,Eneti Inc.,6.65,Industrials,Stocks,NYQ
+PEI-PB,Pennsylvania Real Estate Invest,5.64,Real Estate,Stocks,NYQ
+EVH,"Evolent Health, Inc",22.27,Healthcare,Stocks,NYQ
+NRT,North European Oil Royality Tru,10.91,Energy,Stocks,NYQ
+ENFN,"Enfusion, Inc.",12.11,Technology,Stocks,NYQ
+MEG,"Montrose Environmental Group, I",41.41,Industrials,Stocks,NYQ
+GNE,Genie Energy Ltd.,5.01,Utilities,Stocks,NYQ
+ESE,ESCO Technologies Inc.,77.74,Technology,Stocks,NYQ
+FMX,Fomento Economico Mexicano S.A.,77.34,Consumer Defensive,Stocks,NYQ
+XPRO,Expro Group Holdings N.V.,15.43,Energy,Stocks,NYQ
+PEI-PD,Pennsylvania Real Estate Invest,5.00,Real Estate,Stocks,NYQ
+PEI-PC,Pennsylvania Real Estate Invest,5.55,Real Estate,Stocks,NYQ
+EGP,"EastGroup Properties, Inc.",190.86,Real Estate,Stocks,NYQ
+ZME,Zhangmen Education Inc.,1.41,Consumer Defensive,Stocks,NYQ
+MEI,"Methode Electronics, Inc.",42.48,Technology,Stocks,NYQ
+EQC,Equity,25.21,Real Estate,Stocks,NYQ
+NPO,EnPro Industries Inc,103.33,Industrials,Stocks,NYQ
+EEX,"Emerald Holding, Inc.",2.81,Communication Services,Stocks,NYQ
+ESNT,Essent Group Ltd.,43.89,Financial Services,Stocks,NYQ
+EIG,Employers Holdings Inc,38.07,Financial Services,Stocks,NYQ
+WRE,Washington Real Estate Investme,24.02,Real Estate,Stocks,NYQ
+EVTC,"Evertec, Inc.",41.57,Technology,Stocks,NYQ
+RNGR,"Ranger Energy Services, Inc.",10.00,Energy,Stocks,NYQ
+ECVT,Ecovyst Inc.,9.39,Basic Materials,Stocks,NYQ
+JE,"Just Energy Group, Inc.",1.75,Utilities,Stocks,NYQ
+NGL-PB,NGL ENERGY PARTNERS LP 9.00%,17.42,Energy,Stocks,NYQ
+ET-PC,Energy Transfer L.P. 7.375% Ser,24.51,N/A,Stocks,NYQ
+GRP-UN,Granite Real Estate Inc. Staple,74.15,Real Estate,Stocks,NYQ
+UE,Urban Edge Properties,17.88,Real Estate,Stocks,NYQ
+TNP-PF,Tsakos Energy Navigation Ltd Se,23.80,Energy,Stocks,NYQ
+ET-PE,Energy Transfer L.P. 7.600% Ser,25.27,N/A,Stocks,NYQ
+TNP-PD,Tsakos Energy Navigation Ltd 8.,23.76,Energy,Stocks,NYQ
+WTRU,"Essential Utilities, Inc. 6.00%",56.58,Utilities,Stocks,NYQ
+FHS,First High-School Education Gro,1.39,Consumer Defensive,Stocks,NYQ
+NS-PB,Nustar Energy L.P. 7.625% Serie,22.11,Energy,Stocks,NYQ
+EQS,"Equus Total Return, Inc.",2.43,Financial Services,Stocks,NYQ
+NGL-PC,NGL ENERGY PARTNERS LP 9.625%,18.10,Energy,Stocks,NYQ
+RYB,"RYB Education, Inc.",1.78,Consumer Defensive,Stocks,NYQ
+TNP-PE,Tsakos Energy Navigation Ltd Se,24.13,Energy,Stocks,NYQ
+NS-PC,Nustar Energy L.P. 9.00% Series,24.69,Energy,Stocks,NYQ
+EFC-PA,Ellington Financial Inc. 6.750%,24.87,Real Estate,Stocks,NYQ
+MNR-PC,Monmouth Real Estate Investment,25.14,Real Estate,Stocks,NYQ
+GAB-PH,"Gabelli Equity Trust, Inc. (The",25.45,Financial Services,Stocks,NYQ
+STET,ST Energy Transition I Ltd.,9.70,Financial Services,Stocks,NYQ
+KREF-PA,KKR Real Estate Finance Trust I,25.12,Real Estate,Stocks,NYQ
+EFC-PB,Ellington Financial Inc. 6.250%,24.64,Real Estate,Stocks,NYQ
+NEE-PN,"NextEra Energy, Inc. Series N J",26.09,N/A,Stocks,NYQ
+NS-PA,Nustar Energy L.P. 8.50% Series,24.25,Energy,Stocks,NYQ
+ETI-P,Entergy Texas Inc 5.375% Series,25.70,Utilities,Stocks,NYQ
+EQC-PD,Equity,29.10,Real Estate,Stocks,NYQ
+NREF-PA,"NexPoint Real Estate Finance, I",25.58,Real Estate,Stocks,NYQ
+ENPC-WT,Executive Network Partnering Co,0.50,N/A,Stocks,NYQ
+GAB-PJ,"Gabelli Equity Trust, Inc. (The",25.13,Financial Services,Stocks,NYQ
+SCE-PK,Southern California Edison Comp,24.95,Financial Services,Stocks,NYQ
+EPR-PG,EPR Properties 5.750% Series G ,24.79,Real Estate,Stocks,NYQ
+ECC-PD,Eagle Point Credit Company Inc.,24.96,Financial Services,Stocks,NYQ
+GAB-PG,"Gabelli Equity Trust, Inc. (The",25.60,Financial Services,Stocks,NYQ
+GAB-PK,"Gabelli Equity Trust, Inc. (The",25.77,Financial Services,Stocks,NYQ
+GFLU,GFL Environmental Inc. Tangible,71.63,Industrials,Stocks,NYQ
+NEE-PO,"NextEra Energy, Inc. 4.872% Cor",54.66,N/A,Stocks,NYQ
+GNE-PA,Genie Energy Ltd. Series 2012 -,9.09,Utilities,Stocks,NYQ
+ICR-PA,InPoint Commercial Real Estate ,23.32,Real Estate,Stocks,NYQ
+ETWO-WT,"E2open Parent Holdings, Inc.",1.91,N/A,Stocks,NYQ
+FTEV-UN,FinTech Evolution Acquisition G,9.85,Financial Services,Stocks,NYQ
+SEDA,SDCL EDGE Acquisition Corporati,9.69,Financial Services,Stocks,NYQ
+EQHA-WT,EQ Health Acquisition Corp. Red,0.48,N/A,Stocks,NYQ
+AEL-PA,American Equity Investment Life,26.55,Financial Services,Stocks,NYQ
+EPWR-WT,Empowerment & Inclusion Capital,0.44,N/A,Stocks,NYQ
+AEL-PB,American Equity Investment Life,27.39,Financial Services,Stocks,NYQ
+ADEX-UN,Adit EdTech Acquisition Corp.,10.03,Financial Services,Stocks,NYQ
+SEDA-UN,SDCL EDGE Acquisition Corporati,9.90,Financial Services,Stocks,NYQ
+NETC-UN,Nabors Energy Transition Corp.,10.14,Financial Services,Stocks,NYQ
+LHC-UN,"Leo Holdings Corp. Units, each ",9.77,Financial Services,Stocks,NYQ
+STET-UN,ST Energy Transition I Ltd. SAI,9.96,Financial Services,Stocks,NYQ
+EPWR-UN,Empowerment & Inclusion Capital,9.90,Financial Services,Stocks,NYQ
+FCX,"Freeport-McMoRan, Inc.",37.10,Basic Materials,Stocks,NYQ
+FSR,Fisker Inc.,10.18,Consumer Cyclical,Stocks,NYQ
+FUBO,fuboTV Inc.,8.86,Communication Services,Stocks,NYQ
+FVRR,Fiverr International Ltd.,69.76,Communication Services,Stocks,NYQ
+FSLY,"Fastly, Inc.",24.47,Technology,Stocks,NYQ
+TMO,Thermo Fisher Scientific Inc,553.74,Healthcare,Stocks,NYQ
+PRU,"Prudential Financial, Inc.",110.61,Financial Services,Stocks,NYQ
+FLNG,FLEX LNG Ltd.,21.67,Energy,Stocks,NYQ
+FSM,Fortuna Silver Mines Inc,3.28,Basic Materials,Stocks,NYQ
+GNW,Genworth Financial Inc,3.74,Financial Services,Stocks,NYQ
+FTCH,Farfetch Limited,19.12,Consumer Cyclical,Stocks,NYQ
+TSN,"Tyson Foods, Inc.",90.02,Consumer Defensive,Stocks,NYQ
+FL,"Foot Locker, Inc.",44.49,Consumer Cyclical,Stocks,NYQ
+PNC,"PNC Financial Services Group, I",204.96,Financial Services,Stocks,NYQ
+HZO,"MarineMax, Inc.  (FL)",44.30,Consumer Cyclical,Stocks,NYQ
+FNF,FNF Group of Fidelity National ,49.02,Financial Services,Stocks,NYQ
+GFI,Gold Fields Limited,10.07,Basic Materials,Stocks,NYQ
+SYF,Synchrony Financial,44.42,Financial Services,Stocks,NYQ
+MFA,"MFA Financial, Inc.",4.45,Real Estate,Stocks,NYQ
+FRO,Frontline Ltd.,6.59,Energy,Stocks,NYQ
+FIS,Fidelity National Information S,109.24,Technology,Stocks,NYQ
+BEN,"Franklin Resources, Inc.",31.33,Financial Services,Stocks,NYQ
+JEF,Jefferies Financial Group Inc.,34.86,Financial Services,Stocks,NYQ
+UNFI,"United Natural Foods, Inc.",36.25,Consumer Defensive,Stocks,NYQ
+RJF,"Raymond James Financial, Inc.",100.91,Financial Services,Stocks,NYQ
+RACE,Ferrari N.V.,221.12,Consumer Cyclical,Stocks,NYQ
+FIGS,"FIGS, Inc.",20.47,Consumer Cyclical,Stocks,NYQ
+FRT,Federal Realty Investment Trust,122.58,Real Estate,Stocks,NYQ
+LL,"LL Flooring Holdings, Inc.",13.69,Consumer Cyclical,Stocks,NYQ
+IFF,International Flavors & Fragran,131.96,Basic Materials,Stocks,NYQ
+FTK,"Flotek Industries, Inc.",0.73,Energy,Stocks,NYQ
+PLNT,"Planet Fitness, Inc.",81.23,Consumer Cyclical,Stocks,NYQ
+TRTX,"TPG RE Finance Trust, Inc.",12.45,Real Estate,Stocks,NYQ
+FINV,FinVolution Group,3.66,Financial Services,Stocks,NYQ
+HIG,Hartford Financial Services Gro,69.87,Financial Services,Stocks,NYQ
+RFP,Resolute Forest Products Inc.,12.86,Basic Materials,Stocks,NYQ
+FPI,Farmland Partners Inc.,10.79,Real Estate,Stocks,NYQ
+FLO,"Flowers Foods, Inc.",28.11,Consumer Defensive,Stocks,NYQ
+SUNL,"Sunlight Financial Holdings, In",2.50,Financial Services,Stocks,NYQ
+FDS,FactSet Research Systems Inc.,406.84,Financial Services,Stocks,NYQ
+JXN,Jackson Financial Inc.,37.66,Financial Services,Stocks,NYQ
+FORG,"ForgeRock, Inc.",13.93,Technology,Stocks,NYQ
+FCF,First,16.65,Financial Services,Stocks,NYQ
+MFGP,Micro Focus Intl PLC,5.78,Technology,Stocks,NYQ
+MUFG,"Mitsubishi UFJ Financial Group,",6.04,Financial Services,Stocks,NYQ
+OCFT,OneConnect Financial Technology,1.79,Technology,Stocks,NYQ
+FLT,"FleetCor Technologies, Inc.",223.09,Technology,Stocks,NYQ
+LFT,"Lument Finance Trust, Inc.",3.12,Real Estate,Stocks,NYQ
+FTS,Fortis Inc.,46.37,Utilities,Stocks,NYQ
+PFSI,"PennyMac Financial Services, In",61.41,Financial Services,Stocks,NYQ
+SLF,Sun Life Financial Inc.,55.20,Financial Services,Stocks,NYQ
+FN,Fabrinet,105.40,Technology,Stocks,NYQ
+THS,"Treehouse Foods, Inc.",38.78,Consumer Defensive,Stocks,NYQ
+SMFG,Sumitomo Mitsui Financial Group,7.26,Financial Services,Stocks,NYQ
+PFS,"Provident Financial Services, I",23.59,Financial Services,Stocks,NYQ
+VOYA,"Voya Financial, Inc.",68.53,Financial Services,Stocks,NYQ
+FHI,"Federated Hermes, Inc.",32.03,Financial Services,Stocks,NYQ
+MFG,"Mizuho Financial Group, Inc. Sp",2.73,Financial Services,Stocks,NYQ
+KFY,Korn Ferry,63.80,Industrials,Stocks,NYQ
+FERG,Ferguson plc,153.84,Industrials,Stocks,NYQ
+FXLV,F45 Training Holdings Inc.,11.49,Consumer Cyclical,Stocks,NYQ
+GF,GF,13.09,Financial Services,Stocks,NYQ
+FR,"First Industrial Realty Trust, ",59.00,Real Estate,Stocks,NYQ
+FOR,Forestar Group Inc,17.97,Real Estate,Stocks,NYQ
+FPH,"Five Point Holdings, LLC",5.43,Real Estate,Stocks,NYQ
+IFS,Intercorp Financial Services In,30.99,Financial Services,Stocks,NYQ
+XPOF,"Xponential Fitness, Inc.",15.90,Consumer Cyclical,Stocks,NYQ
+FLOW,"SPX FLOW, Inc.",85.15,Industrials,Stocks,NYQ
+NOMD,Nomad Foods Limited,25.13,Consumer Defensive,Stocks,NYQ
+WF,Woori Financial Group Inc.,35.66,Financial Services,Stocks,NYQ
+KF,KF,30.34,Financial Services,Stocks,NYQ
+FT,FT,8.37,Financial Services,Stocks,NYQ
+XYF,X Financial,2.74,Financial Services,Stocks,NYQ
+VEL,"Velocity Financial, Inc.",12.70,Financial Services,Stocks,NYQ
+SFUN,Fang Holdings Limited,3.90,Communication Services,Stocks,NYQ
+KFS,"Kingsway Financial Services, In",5.20,Consumer Cyclical,Stocks,NYQ
+RFM,RiverNorth Flexible Municipal I,20.40,Financial Services,Stocks,NYQ
+HGH,Hartford Financial Services Gro,25.38,N/A,Stocks,NYQ
+NSS,"NuStar Logistics, L.P. 7.625% F",24.97,N/A,Stocks,NYQ
+TFSA,Terra Income Fund VI 7.00% Note,25.64,N/A,Stocks,NYQ
+TRTX-PC,"TPG RE Finance Trust, Inc. 6.25",23.15,Real Estate,Stocks,NYQ
+PNC-PP,"PNC Financial Services Group, I",25.34,Financial Services,Stocks,NYQ
+HFRO-PA,Highland Income Fund 5.375% Ser,24.98,N/A,Stocks,NYQ
+IPVF,InterPrivate III Financial Part,9.92,Financial Services,Stocks,NYQ
+MFA-PB,"MFA Financial, Inc. Preferred S",24.98,Real Estate,Stocks,NYQ
+PFH,"Prudential Financial, Inc. 4.12",23.80,N/A,Stocks,NYQ
+SCE-PH,SCE Trust III Fixed/Floating Ra,24.51,Financial Services,Stocks,NYQ
+GJR,Synthetic Fixed-Income Securiti,24.95,N/A,Stocks,NYQ
+PRE-PJ,PartnerRe Ltd. 4.875% Fixed Rat,25.30,Financial Services,Stocks,NYQ
+PRIF-PK,"Priority Income Fund, Inc. 7.00",24.18,Financial Services,Stocks,NYQ
+PRIF-PI,"Priority Income Fund, Inc. 6.12",25.01,Financial Services,Stocks,NYQ
+GJH,Synthetic Fixed-Income Securiti,10.52,N/A,Stocks,NYQ
+FRT-PC,Federal Realty Investment Trust,25.46,Real Estate,Stocks,NYQ
+GJO,Synthetic Fixed-Income Securiti,23.62,N/A,Stocks,NYQ
+SNV-PE,Synovus Financial Corp. 5.875% ,26.42,Financial Services,Stocks,NYQ
+HVT-A,"Haverty Furniture Companies, In",28.75,Consumer Cyclical,Stocks,NYQ
+GJT,Synthetic Fixed-Income Securiti,20.58,N/A,Stocks,NYQ
+MFA-PC,"MFA Financial, Inc. 6.50% Serie",23.23,Real Estate,Stocks,NYQ
+PRIF-PJ,"Priority Income Fund, Inc. 6.00",25.05,N/A,Stocks,NYQ
+LFT-PA,"Lument Finance Trust, Inc. 7.87",26.25,Real Estate,Stocks,NYQ
+GJP,Synthetic Fixed-Income Securiti,24.05,N/A,Stocks,NYQ
+NFH-WT,New Frontier Health Corporation,2.77,N/A,Stocks,NYQ
+KKRS,KKR Group Finance Co. IX LLC 4.,24.33,N/A,Stocks,NYQ
+PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,24.50,N/A,Stocks,NYQ
+HIG-PG,Hartford Financial Services Gro,26.36,Financial Services,Stocks,NYQ
+CNO-PA,"CNO Financial Group, Inc. 5.125",24.64,N/A,Stocks,NYQ
+HTFB,Horizon Technology Finance Corp,25.94,N/A,Stocks,NYQ
+IPVF-UN,InterPrivate III Financial Part,10.10,Financial Services,Stocks,NYQ
+PRIF-PH,"Priority Income Fund, Inc. 6.00",25.37,Financial Services,Stocks,NYQ
+FACA-UN,Figure Acquisition Corp. I,9.96,Financial Services,Stocks,NYQ
+AGM-PG,Federal Agricultural Mortgage C,24.78,Financial Services,Stocks,NYQ
+AGM-PD,Federal Agricultural Mortgage C,25.43,Financial Services,Stocks,NYQ
+GFX-UN,Golden Falcon Acquisition Corp.,9.95,Financial Services,Stocks,NYQ
+PF,PF,66.66,N/A,Stocks,NYQ
+FCAX-WT,Fortress Capital Acquisition Co,0.55,N/A,Stocks,NYQ
+FVT-WT,Fortress Value Acquisition Corp,0.62,N/A,Stocks,NYQ
+FSNB-UN,Fusion Acquisition Corp. II,9.80,Financial Services,Stocks,NYQ
+FACT-UN,Freedom Acquisition I Corp.,9.81,Financial Services,Stocks,NYQ
+FVT-UN,Fortress Value Acquisition Corp,9.92,Financial Services,Stocks,NYQ
+FLME-UN,Flame Acquisition Corp.,9.86,Financial Services,Stocks,NYQ
+FPAC-UN,Far Peak Acquisition Corporatio,10.16,Financial Services,Stocks,NYQ
+LF,LF,N/A,N/A,Stocks,NYQ
+FCAX-UN,Fortress Capital Acquisition Co,9.82,Financial Services,Stocks,NYQ
+AGM-PE,Federal Agricultural Mortgage C,25.77,Financial Services,Stocks,NYQ
+LFT-RI,"Lument Finance Trust, Inc.",0.05,N/A,Stocks,NYQ
+GDL-PC,The GDL Fund Series C Cumulativ,51.11,N/A,Stocks,NYQ
+FMAC-UN,FirstMark Horizon Acquisition C,10.03,Financial Services,Stocks,NYQ
+FVIV-UN,Fortress Value Acquisition Corp,9.84,Financial Services,Stocks,NYQ
+SPCE,"Virgin Galactic Holdings, Inc.",7.96,Industrials,Stocks,NYQ
+GS,"Goldman Sachs Group, Inc. (The)",341.03,Financial Services,Stocks,NYQ
+GATO,"Gatos Silver, Inc.",2.81,Basic Materials,Stocks,NYQ
+UNH,UnitedHealth Group Incorporated,461.60,Healthcare,Stocks,NYQ
+GSK,GlaxoSmithKline PLC,45.74,Healthcare,Stocks,NYQ
+AUY,Yamana Gold Inc.,4.06,Basic Materials,Stocks,NYQ
+SPG,"Simon Property Group, Inc.",143.89,Real Estate,Stocks,NYQ
+GOTU,Gaotu Techedu Inc.,1.66,Consumer Defensive,Stocks,NYQ
+GNRC,Generac Holdlings Inc.,256.99,Industrials,Stocks,NYQ
+GPS,"Gap, Inc. (The)",17.47,Consumer Cyclical,Stocks,NYQ
+KL,Kirkland Lake Gold Ltd.,36.85,Basic Materials,Stocks,NYQ
+GIS,"General Mills, Inc.",68.35,Consumer Defensive,Stocks,NYQ
+SPGI,S&P Global Inc.,395.08,Financial Services,Stocks,NYQ
+GENI,Genius Sports Limited,5.85,Communication Services,Stocks,NYQ
+GPN,Global Payments Inc.,141.03,Industrials,Stocks,NYQ
+RVLV,"Revolve Group, Inc.",44.12,Consumer Cyclical,Stocks,NYQ
+SG,"Sweetgreen, Inc.",28.49,Consumer Cyclical,Stocks,NYQ
+GEO,Geo Group Inc (The) REIT,7.06,Real Estate,Stocks,NYQ
+GLOP,GasLog Partners LP,4.01,Energy,Stocks,NYQ
+GGB,Gerdau S.A.,5.14,Basic Materials,Stocks,NYQ
+GSL,Global Ship Lease Inc New,24.43,Industrials,Stocks,NYQ
+UNM,Unum Group,25.32,Financial Services,Stocks,NYQ
+GRMN,Garmin Ltd.,118.86,Technology,Stocks,NYQ
+SPIR,"Spire Global, Inc.",2.27,Industrials,Stocks,NYQ
+SAND,Sandstorm Gold Ltd.,5.80,Basic Materials,Stocks,NYQ
+GXO,"GXO Logistics, Inc.",71.86,Industrials,Stocks,NYQ
+VGR,Vector Group Ltd.,11.29,Consumer Defensive,Stocks,NYQ
+ING,"ING Group, N.V.",14.66,Financial Services,Stocks,NYQ
+GNK,Genco Shipping & Trading Limite,15.19,Industrials,Stocks,NYQ
+ICL,ICL Group Ltd.,8.97,Basic Materials,Stocks,NYQ
+SRG,Seritage Growth Properties,9.58,Real Estate,Stocks,NYQ
+GLP,Global Partners LP Global Partn,26.31,Energy,Stocks,NYQ
+GLOB,Globant S.A.,226.90,Technology,Stocks,NYQ
+SWX,"Southwest Gas Holdings, Inc.",66.41,Utilities,Stocks,NYQ
+IGT,International Game Technology,25.21,Consumer Cyclical,Stocks,NYQ
+NGG,"National Grid Transco, PLC Nati",73.31,Utilities,Stocks,NYQ
+GNL,"Global Net Lease, Inc.",13.79,Real Estate,Stocks,NYQ
+GWW,"W.W. Grainger, Inc.",481.58,Industrials,Stocks,NYQ
+IT,"Gartner, Inc.",277.18,Technology,Stocks,NYQ
+EAF,GrafTech International Ltd.,9.88,Industrials,Stocks,NYQ
+TDG,Transdigm Group Incorporated,593.88,Industrials,Stocks,NYQ
+OMC,Omnicom Group Inc.,73.29,Communication Services,Stocks,NYQ
+YALA,Yalla Group Limited,5.42,Technology,Stocks,NYQ
+TGH,Textainer Group Holdings Limite,36.53,Industrials,Stocks,NYQ
+GDDY,GoDaddy Inc.,69.80,Technology,Stocks,NYQ
+MDU,"MDU Resources Group, Inc.",28.83,Industrials,Stocks,NYQ
+NMG,Nouveau Monde Graphite Inc.,6.44,Basic Materials,Stocks,NYQ
+MGP,MGM Growth Properties LLC,37.51,Real Estate,Stocks,NYQ
+GES,"Guess?, Inc.",21.18,Consumer Cyclical,Stocks,NYQ
+OR,Osisko Gold Royalties Ltd,10.80,Basic Materials,Stocks,NYQ
+GMED,"Globus Medical, Inc.",63.68,Healthcare,Stocks,NYQ
+GGG,Graco Inc.,69.82,Industrials,Stocks,NYQ
+QUAD,"Quad Graphics, Inc",4.26,Industrials,Stocks,NYQ
+TGI,"Triumph Group, Inc.",17.27,Industrials,Stocks,NYQ
+GMRE,Global Medical REIT Inc.,16.29,Real Estate,Stocks,NYQ
+GTN,"Gray Television, Inc.",20.17,Communication Services,Stocks,NYQ
+GL,Globe Life Inc.,101.10,Financial Services,Stocks,NYQ
+GWRE,"Guidewire Software, Inc.",93.95,Technology,Stocks,NYQ
+TV,Grupo Televisa S.A.,9.73,Communication Services,Stocks,NYQ
+ORN,"Orion Group Holdings, Inc.",3.21,Industrials,Stocks,NYQ
+SUPV,Grupo Supervielle S.A.,1.76,Financial Services,Stocks,NYQ
+OI,"O-I Glass, Inc.",13.15,Consumer Cyclical,Stocks,NYQ
+GLS,"Gelesis Holdings, Inc.",5.26,Healthcare,Stocks,NYQ
+GPMT,Granite Point Mortgage Trust In,11.76,Real Estate,Stocks,NYQ
+MNSO,MINISO Group Holding Limited,9.03,Consumer Cyclical,Stocks,NYQ
+GEF,Greif Inc.,58.00,Consumer Cyclical,Stocks,NYQ
+NWG,NatWest Group plc,6.58,Financial Services,Stocks,NYQ
+LTH,"Life Time Group Holdings, Inc.",14.20,Consumer Cyclical,Stocks,NYQ
+HCI,"HCI Group, Inc.",64.00,Financial Services,Stocks,NYQ
+RDN,Radian Group Inc.,21.81,Financial Services,Stocks,NYQ
+OGS,"ONE Gas, Inc.",76.76,Utilities,Stocks,NYQ
+RYAN,"Ryan Specialty Group Holdings, ",34.61,Financial Services,Stocks,NYQ
+JHG,Janus Henderson Group plc,35.78,Financial Services,Stocks,NYQ
+SGU,Star Group L.P.,10.39,Energy,Stocks,NYQ
+PGRE,"Paramount Group, Inc.",8.37,Real Estate,Stocks,NYQ
+HGV,Hilton Grand Vacations Inc.,46.03,Consumer Cyclical,Stocks,NYQ
+STVN,Stevanato Group S.p.A.,15.77,Healthcare,Stocks,NYQ
+IHG,Intercontinental Hotels Group,63.45,Consumer Cyclical,Stocks,NYQ
+KORE,"KORE Group Holdings, Inc.",5.05,Financial Services,Stocks,NYQ
+KRG,Kite Realty Group Trust,20.55,Real Estate,Stocks,NYQ
+JBI,"Janus International Group, Inc.",9.43,Industrials,Stocks,NYQ
+MRC,MRC Global Inc.,7.41,Energy,Stocks,NYQ
+TNET,"TriNet Group, Inc.",81.42,Industrials,Stocks,NYQ
+GCO,Genesco Inc.,62.77,Consumer Cyclical,Stocks,NYQ
+TMX,"Terminix Global Holdings, Inc.",41.73,Consumer Cyclical,Stocks,NYQ
+MG,Mistras Group Inc,6.74,Industrials,Stocks,NYQ
+GMS,GMS Inc.,48.22,Industrials,Stocks,NYQ
+GK,GK,24.69,N/A,Stocks,NYQ
+REVG,"REV Group, Inc.",13.05,Industrials,Stocks,NYQ
+THG,Hanover Insurance Group Inc,132.66,Financial Services,Stocks,NYQ
+MOV,Movado Group Inc.,35.81,Consumer Cyclical,Stocks,NYQ
+WTM,White Mountains Insurance Group,"1,013.00",Financial Services,Stocks,NYQ
+SJW,SJW Group,67.41,Utilities,Stocks,NYQ
+GPRK,Geopark Ltd,13.85,Energy,Stocks,NYQ
+VPG,"Vishay Precision Group, Inc.",31.07,Technology,Stocks,NYQ
+GHG,GreenTree Hospitality Group Ltd,5.25,Consumer Cyclical,Stocks,NYQ
+STG,Sunlands Technology Group,4.54,Consumer Defensive,Stocks,NYQ
+NGS,"Natural Gas Services Group, Inc",10.37,Energy,Stocks,NYQ
+OG,Onion Global Limited,2.05,Technology,Stocks,NYQ
+OSG,"Overseas Shipholding Group, Inc",1.74,Energy,Stocks,NYQ
+GBL,"Gamco Investors, Inc.",22.08,Financial Services,Stocks,NYQ
+WHG,Westwood Holdings Group Inc,18.93,Financial Services,Stocks,NYQ
+SRG-PA,Seritage Growth Properties 7.00,21.35,Real Estate,Stocks,NYQ
+GLOP-PA,GasLog Partners LP 8.625% Serie,25.75,Energy,Stocks,NYQ
+GS-PD,"Goldman Sachs Group, Inc. (The)",22.99,Financial Services,Stocks,NYQ
+THR,"Thermon Group Holdings, Inc.",16.53,Industrials,Stocks,NYQ
+GBLI,"Global Indemnity Group, LLC",26.25,Financial Services,Stocks,NYQ
+GLOP-PC,GasLog Partners LP 8.500% Serie,24.89,Energy,Stocks,NYQ
+GSLD,"Global Ship Lease, Inc. 8.00% S",26.05,N/A,Stocks,NYQ
+GLP-PA,Global Partners LP 9.75% Series,26.55,Energy,Stocks,NYQ
+GLOP-PB,GasLog Partners LP 8.200% Serie,24.61,Energy,Stocks,NYQ
+GS-PA,"Goldman Sachs Group, Inc. (The)",22.49,Financial Services,Stocks,NYQ
+VYGG,Vy Global Growth,9.81,Financial Services,Stocks,NYQ
+GMRE-PA,Global Medical REIT Inc. Series,26.04,Real Estate,Stocks,NYQ
+SPG-PJ,"Simon Property Group, Inc. Simo",69.66,Real Estate,Stocks,NYQ
+GIA,"GigCapital 5, Inc.",9.92,Financial Services,Stocks,NYQ
+GS-PK,"Goldman Sachs Group, Inc. (The)",26.57,Financial Services,Stocks,NYQ
+GLP-PB,Global Partners LP 9.50% Series,26.93,Energy,Stocks,NYQ
+GS-PC,"Goldman Sachs Group, Inc. (The)",23.24,Financial Services,Stocks,NYQ
+GUT-PC,Gabelli Utility Trust (The) 5.3,25.46,Financial Services,Stocks,NYQ
+GNL-PA,"Global Net Lease, Inc. 7.25% Se",25.75,Real Estate,Stocks,NYQ
+GNL-PB,"Global Net Lease, Inc. 6.875% S",26.17,Real Estate,Stocks,NYQ
+RKTA,Rocket Internet Growth Opportun,9.68,Financial Services,Stocks,NYQ
+GTN-A,"Gray Television, Inc.",18.81,Communication Services,Stocks,NYQ
+GGT-PG,Gabelli Multi-Media Trust Inc. ,25.90,Financial Services,Stocks,NYQ
+GJS,Goldman Sachs Group Securities ,21.51,N/A,Stocks,NYQ
+GPMT-PA,Granite Point Mortgage Trust In,24.93,Real Estate,Stocks,NYQ
+GBLL,"Global Indemnity Group, LLC 7.8",25.28,N/A,Stocks,NYQ
+TGH-PB,Textainer Group Holdings Limite,25.21,Industrials,Stocks,NYQ
+GNT-PA,"GAMCO Natural Resources, Gold &",25.36,Financial Services,Stocks,NYQ
+VYGG-WT,Vy Global Growth,0.80,N/A,Stocks,NYQ
+STAR-PG,iStar Inc. Series G Cumulative ,25.50,Real Estate,Stocks,NYQ
+GUT-PA,Gabelli Utility Trust (The) 5.6,25.18,N/A,Stocks,NYQ
+ARGO-PA,Argo Group International Holdin,26.46,Financial Services,Stocks,NYQ
+AMH-PG,American Homes 4 Rent Series G ,25.32,Real Estate,Stocks,NYQ
+VGII-UN,Virgin Group Acquisition Corp. ,9.93,Financial Services,Stocks,NYQ
+TGH-PA,Textainer Group Holdings Limite,26.30,Industrials,Stocks,NYQ
+VYGG-UN,Vy Global Growth,9.98,Financial Services,Stocks,NYQ
+APSG-UN,Apollo Strategic Growth Capital,10.18,Financial Services,Stocks,NYQ
+RKTA-UN,Rocket Internet Growth Opportun,9.83,Financial Services,Stocks,NYQ
+GSQD-WT,G Squared Ascend I Inc. Redeema,0.47,N/A,Stocks,NYQ
+SPGS-WT,Simon Property Group Acquisitio,0.65,N/A,Stocks,NYQ
+GL-PD,Globe Life Inc. 4.25% Junior Su,24.15,N/A,Stocks,NYQ
+TDOC,"Teladoc Health, Inc.",67.44,Healthcare,Stocks,NYQ
+TRQ,Turquoise Hill Resources Ltd.,18.40,Basic Materials,Stocks,NYQ
+HPQ,HP Inc.,35.21,Technology,Stocks,NYQ
+OHI,"Omega Healthcare Investors, Inc",30.06,Real Estate,Stocks,NYQ
+RH,RH,366.91,Consumer Cyclical,Stocks,NYQ
+NU,Nu Holdings Ltd.,6.89,Financial Services,Stocks,NYQ
+HUBS,"HubSpot, Inc.",426.87,Technology,Stocks,NYQ
+HCA,"HCA Healthcare, Inc.",228.85,Healthcare,Stocks,NYQ
+YETI,"YETI Holdings, Inc.",60.24,Consumer Cyclical,Stocks,NYQ
+OMF,"OneMain Holdings, Inc.",50.34,Financial Services,Stocks,NYQ
+HUYA,HUYA Inc.,6.25,Communication Services,Stocks,NYQ
+HIMS,"Hims & Hers Health, Inc.",4.19,Consumer Defensive,Stocks,NYQ
+CURV,Torrid Holdings Inc.,8.50,Consumer Cyclical,Stocks,NYQ
+HSBC,"HSBC Holdings, plc.",35.75,Financial Services,Stocks,NYQ
+KIND,"Nextdoor Holdings, Inc.",5.10,Communication Services,Stocks,NYQ
+PSTH,Pershing Square Tontine Holding,19.79,Financial Services,Stocks,NYQ
+HUM,Humana Inc.,383.05,Healthcare,Stocks,NYQ
+VIPS,Vipshop Holdings Limited,8.12,Consumer Cyclical,Stocks,NYQ
+HBI,Hanesbrands Inc.,15.33,Consumer Cyclical,Stocks,NYQ
+KBH,KB Home,39.90,Consumer Cyclical,Stocks,NYQ
+KNX,Knight-Swift Transportation Hol,54.54,Industrials,Stocks,NYQ
+HP,"Helmerich & Payne, Inc.",27.68,Energy,Stocks,NYQ
+LU,Lufax Holding Ltd,4.26,Financial Services,Stocks,NYQ
+HLT,Hilton Worldwide Holdings Inc.,137.25,Consumer Cyclical,Stocks,NYQ
+HLGN,"Heliogen, Inc.",3.30,Utilities,Stocks,NYQ
+HIPO,Hippo Holdings Inc.,1.95,Financial Services,Stocks,NYQ
+LDOS,"Leidos Holdings, Inc.",88.62,Technology,Stocks,NYQ
+OSCR,"Oscar Health, Inc.",5.76,Healthcare,Stocks,NYQ
+HESM,Hess Midstream LP,29.10,Energy,Stocks,NYQ
+RKLY,Rockley Photonics Holdings Limi,2.66,Technology,Stocks,NYQ
+NM,Navios Maritime Holdings Inc.,3.27,Industrials,Stocks,NYQ
+BEKE,KE Holdings Inc,18.53,Real Estate,Stocks,NYQ
+HII,"Huntington Ingalls Industries, ",188.43,Industrials,Stocks,NYQ
+SAIL,SailPoint Technologies Holdings,35.71,Technology,Stocks,NYQ
+YSG,Yatsen Holding Limited,1.28,Consumer Cyclical,Stocks,NYQ
+SGFY,"Signify Health, Inc.",11.42,Healthcare,Stocks,NYQ
+IQV,"IQVIA Holdings, Inc.",231.98,Healthcare,Stocks,NYQ
+SLCA,"U.S. Silica Holdings, Inc.",9.43,Energy,Stocks,NYQ
+OSH,"Oak Street Health, Inc.",15.01,Healthcare,Stocks,NYQ
+TROX,Tronox Holdings plc,22.85,Basic Materials,Stocks,NYQ
+HMLP,Hoegh LNG Partners LP,4.28,Energy,Stocks,NYQ
+MDC,"M.D.C. Holdings, Inc.",46.96,Consumer Cyclical,Stocks,NYQ
+PK,Park Hotels & Resorts Inc.,17.04,Real Estate,Stocks,NYQ
+KEN,Kenon Holdings Ltd.,50.72,Utilities,Stocks,NYQ
+HBM,Hudbay Minerals Inc.,7.21,Basic Materials,Stocks,NYQ
+HLF,Herbalife Nutrition Ltd.,43.62,Consumer Defensive,Stocks,NYQ
+NHI,"National Health Investors, Inc.",57.16,Real Estate,Stocks,NYQ
+MHO,"M/I Homes, Inc.",50.38,Consumer Cyclical,Stocks,NYQ
+SEMR,"SEMrush Holdings, Inc.",15.79,Technology,Stocks,NYQ
+WH,"Wyndham Hotels & Resorts, Inc.",81.00,Consumer Cyclical,Stocks,NYQ
+VRT,"Vertiv Holdings, LLC",19.66,Industrials,Stocks,NYQ
+QTWO,"Q2 Holdings, Inc.",57.36,Technology,Stocks,NYQ
+RNR,RenaissanceRe Holdings Ltd.,153.26,Financial Services,Stocks,NYQ
+PEAK,"Healthpeak Properties, Inc.",34.34,Real Estate,Stocks,NYQ
+LW,"Lamb Weston Holdings, Inc.",63.59,Consumer Defensive,Stocks,NYQ
+INVH,Invitation Homes Inc.,40.11,Real Estate,Stocks,NYQ
+MIC,Macquarie Infrastructure Holdin,3.59,Industrials,Stocks,NYQ
+PWSC,"PowerSchool Holdings, Inc.",14.70,Technology,Stocks,NYQ
+UVE,UNIVERSAL INSURANCE HOLDINGS IN,17.08,Financial Services,Stocks,NYQ
+UHS,"Universal Health Services, Inc.",126.49,Healthcare,Stocks,NYQ
+RHI,Robert Half International Inc.,111.00,Industrials,Stocks,NYQ
+HAYW,"Hayward Holdings, Inc.",17.83,Industrials,Stocks,NYQ
+HLI,"Houlihan Lokey, Inc.",102.14,Financial Services,Stocks,NYQ
+HRI,Herc Holdings Inc.,154.47,Industrials,Stocks,NYQ
+VVNT,"Vivint Smart Home, Inc.",6.18,Industrials,Stocks,NYQ
+MOH,Molina Healthcare Inc,275.85,Healthcare,Stocks,NYQ
+HI,Hillenbrand Inc,45.38,Industrials,Stocks,NYQ
+UHT,Universal Health Realty Income ,56.50,Real Estate,Stocks,NYQ
+PAY,"Paymentus Holdings, Inc.",22.74,Technology,Stocks,NYQ
+ST,Sensata Technologies Holding pl,55.19,Technology,Stocks,NYQ
+HGTY,"Hagerty, Inc.",13.87,Financial Services,Stocks,NYQ
+ZH,Zhihu Inc.,3.60,Communication Services,Stocks,NYQ
+RFL,"Rafael Holdings, Inc.",3.57,Healthcare,Stocks,NYQ
+RAMP,"LiveRamp Holdings, Inc.",40.81,Technology,Stocks,NYQ
+OPY,"Oppenheimer Holdings, Inc.",41.20,Financial Services,Stocks,NYQ
+HUBB,Hubbell Inc,182.75,Industrials,Stocks,NYQ
+POST,"Post Holdings, Inc.",104.74,Consumer Defensive,Stocks,NYQ
+TPH,"Tri Pointe Homes, Inc.",23.38,Consumer Cyclical,Stocks,NYQ
+NMR,Nomura Holdings Inc,4.41,Financial Services,Stocks,NYQ
+PRO,"PROS Holdings, Inc.",26.05,Technology,Stocks,NYQ
+HY,"Hyster-Yale Materials Handling,",41.01,Industrials,Stocks,NYQ
+HT,Hersha Hospitality Trust,8.39,Real Estate,Stocks,NYQ
+JELD,"JELD-WEN Holding, Inc.",22.56,Industrials,Stocks,NYQ
+HLIO,"Helios Technologies, Inc.",73.26,Industrials,Stocks,NYQ
+HR,Healthcare Realty Trust Incorpo,29.93,Real Estate,Stocks,NYQ
+KW,Kennedy-Wilson Holdings Inc.,21.76,Real Estate,Stocks,NYQ
+SHPW,"Shapeways Holdings, Inc.",3.02,Industrials,Stocks,NYQ
+INST,"Instructure Holdings, Inc.",22.63,Technology,Stocks,NYQ
+HRTG,"Heritage Insurance Holdings, In",5.81,Financial Services,Stocks,NYQ
+HTH,Hilltop Holdings Inc.,33.93,Financial Services,Stocks,NYQ
+KOP,Koppers Holdings Inc. Koppers H,29.65,Basic Materials,Stocks,NYQ
+HIW,"Highwoods Properties, Inc.",41.79,Real Estate,Stocks,NYQ
+RMAX,"RE/MAX Holdings, Inc.",28.50,Real Estate,Stocks,NYQ
+SHO,"Sunstone Hotel Investors, Inc. ",10.51,Real Estate,Stocks,NYQ
+IHS,IHS Holding Limited,11.00,Communication Services,Stocks,NYQ
+INN,"Summit Hotel Properties, Inc.",8.89,Real Estate,Stocks,NYQ
+USNA,"USANA Health Sciences, Inc.",94.97,Consumer Defensive,Stocks,NYQ
+KWR,Quaker Houghton,198.31,Basic Materials,Stocks,NYQ
+NVGS,Navigator Holdings Ltd.,8.75,Energy,Stocks,NYQ
+HIL,"Hill International, Inc.",2.00,Industrials,Stocks,NYQ
+PRG,"PROG Holdings, Inc.",37.31,Industrials,Stocks,NYQ
+HMLP-PA,Hoegh LNG Partners LP 8.75% Ser,22.89,Energy,Stocks,NYQ
+WNS,WNS (Holdings) Limited Sponsore,81.90,Technology,Stocks,NYQ
+SPLP,Steel Partners Holdings LP LTD ,33.84,Industrials,Stocks,NYQ
+JHX,James Hardie Industries plc,31.59,Basic Materials,Stocks,NYQ
+RHP,"Ryman Hospitality Properties, I",82.05,Real Estate,Stocks,NYQ
+HPP,"Hudson Pacific Properties, Inc.",22.54,Real Estate,Stocks,NYQ
+PEB,Pebblebrook Hotel Trust,20.63,Real Estate,Stocks,NYQ
+SMHI,SEACOR Marine Holdings Inc.,4.16,Industrials,Stocks,NYQ
+JP,Jupai Holdings Limited,0.75,Financial Services,Stocks,NYQ
+HLLY,Holley Inc.,11.06,Consumer Cyclical,Stocks,NYQ
+PSTH-WT,Pershing Square Tontine Holding,1.25,N/A,Stocks,NYQ
+XHR,"Xenia Hotels & Resorts, Inc.",16.23,Real Estate,Stocks,NYQ
+HNP,Huaneng Power Intl,21.04,Utilities,Stocks,NYQ
+HNGR,"Hanger, Inc.",17.58,Healthcare,Stocks,NYQ
+LEJU,Leju Holdings Limited,0.68,Real Estate,Stocks,NYQ
+LXFR,Luxfer Holdings PLC,16.28,Industrials,Stocks,NYQ
+NOAH,Noah Holdings Limited,28.29,Financial Services,Stocks,NYQ
+IH,iHuman Inc.,2.50,Consumer Defensive,Stocks,NYQ
+NM-PH,Navios Maritime Holdings Inc. S,16.20,Industrials,Stocks,NYQ
+HT-PD,Hersha Hospitality Trust 6.50% ,21.34,Real Estate,Stocks,NYQ
+KUKE,Kuke Music Holding Limited,3.81,Communication Services,Stocks,NYQ
+SPLP-PA,Steel Partners Holdings LP 6.0%,23.61,Industrials,Stocks,NYQ
+MH-PA,"Maiden Holdings, Ltd. Pref Shs ",9.00,Financial Services,Stocks,NYQ
+PRPC,CC Neuberger Principal Holdings,9.72,Financial Services,Stocks,NYQ
+INN-PE,"Summit Hotel Properties, Inc. 6",24.42,Real Estate,Stocks,NYQ
+HT-PE,Hersha Hospitality Trust 6.50% ,21.49,Real Estate,Stocks,NYQ
+NMK-PC,"Niagara Mohawk Holdings, Inc. P",99.98,Utilities,Stocks,NYQ
+PSPC,Post Holdings Partnering Corpor,9.65,Financial Services,Stocks,NYQ
+AXH,"Industrial Human Capital, Inc.",9.88,Financial Services,Stocks,NYQ
+HTPA-WT,Highland Transcend Partners I C,1.03,N/A,Stocks,NYQ
+HT-PC,Hersha Hospitality Trust 6.875%,23.00,Real Estate,Stocks,NYQ
+PEB-PE,Pebblebrook Hotel Trust 6.375% ,24.00,N/A,Stocks,NYQ
+PRPB-UN,CC Neuberger Principal Holdings,10.01,Financial Services,Stocks,NYQ
+NM-PG,Navios Maritime Holdings Inc. S,17.24,Industrials,Stocks,NYQ
+NMK-PB,"Niagara Mohawk Holdings, Inc. P",101.00,Utilities,Stocks,NYQ
+HPP-PC,"Hudson Pacific Properties, Inc.",24.90,Real Estate,Stocks,NYQ
+PEB-PF,Pebblebrook Hotel Trust 6.3% Se,23.96,N/A,Stocks,NYQ
+PEB-PH,Pebblebrook Hotel Trust 5.700% ,23.62,Real Estate,Stocks,NYQ
+AHT-PI,Ashford Hospitality Trust Inc 7,22.58,Real Estate,Stocks,NYQ
+HIGA-WT,H.I.G. Acquisition Corp.,0.40,N/A,Stocks,NYQ
+SHO-PI,"Sunstone Hotel Investors, Inc. ",24.00,Real Estate,Stocks,NYQ
+LHC-WT,Leo Holdings Corp. II Redeemabl,0.48,N/A,Stocks,NYQ
+MH-PD,"Maiden Holdings, Ltd. 6.700% No",10.95,Financial Services,Stocks,NYQ
+AHH-PA,"Armada Hoffler Properties, Inc.",26.16,Real Estate,Stocks,NYQ
+SHO-PH,"Sunstone Hotel Investors, Inc. ",24.92,Real Estate,Stocks,NYQ
+PRPC-UN,CC Neuberger Principal Holdings,9.89,Financial Services,Stocks,NYQ
+PEB-PG,Pebblebrook Hotel Trust 6.375% ,24.88,Real Estate,Stocks,NYQ
+HPX-WT,HPX Corp. Redeemable,0.35,N/A,Stocks,NYQ
+AHT-PH,Ashford Hospitality Trust Inc 7,22.64,Real Estate,Stocks,NYQ
+INN-PF,"Summit Hotel Properties, Inc. 5",24.64,Real Estate,Stocks,NYQ
+AHL-PE,Aspen Insurance Holdings Limite,24.82,Financial Services,Stocks,NYQ
+PSPC-UN,Post Holdings Partnering Corpor,10.00,Financial Services,Stocks,NYQ
+HTAQ-UN,Hunt Companies Acquisition Corp,10.10,Financial Services,Stocks,NYQ
+HW,HW,N/A,N/A,Stocks,NYQ
+AMH-PH,American Homes 4 Rent Series H ,26.40,Real Estate,Stocks,NYQ
+NIO,NIO Inc.,21.11,Consumer Cyclical,Stocks,NYQ
+PLTR,Palantir Technologies Inc.,12.27,Technology,Stocks,NYQ
+PFE,"Pfizer, Inc.",53.37,Healthcare,Stocks,NYQ
+SHOP,Shopify Inc.,815.52,Technology,Stocks,NYQ
+NOW,"ServiceNow, Inc.",528.69,Technology,Stocks,NYQ
+PINS,"Pinterest, Inc.",26.88,Communication Services,Stocks,NYQ
+CRM,Salesforce.com Inc,212.74,Technology,Stocks,NYQ
+XPEV,XPeng Inc.,32.61,Consumer Cyclical,Stocks,NYQ
+SNAP,Snap Inc.,28.27,Communication Services,Stocks,NYQ
+WMT,Walmart Inc.,135.84,Consumer Defensive,Stocks,NYQ
+UBER,"Uber Technologies, Inc.",34.09,Technology,Stocks,NYQ
+SNOW,Snowflake Inc.,244.72,Technology,Stocks,NYQ
+TWTR,"Twitter, Inc.",33.83,Communication Services,Stocks,NYQ
+ZIM,ZIM Integrated Shipping Service,61.57,Industrials,Stocks,NYQ
+NKE,"Nike, Inc.",144.64,Consumer Cyclical,Stocks,NYQ
+KMI,"Kinder Morgan, Inc.",17.48,Energy,Stocks,NYQ
+SKLZ,Skillz Inc.,4.26,Communication Services,Stocks,NYQ
+TWLO,Twilio Inc.,176.75,Communication Services,Stocks,NYQ
+LMND,"Lemonade, Inc.",27.57,Financial Services,Stocks,NYQ
+TEVA,Teva Pharmaceutical Industries ,8.23,Healthcare,Stocks,NYQ
+PATH,"UiPath, Inc.",32.85,Technology,Stocks,NYQ
+UPS,"United Parcel Service, Inc.",194.87,Industrials,Stocks,NYQ
+RMO,"Romeo Power, Inc.",1.83,Consumer Cyclical,Stocks,NYQ
+LUMN,"Lumen Technologies, Inc.",11.88,Communication Services,Stocks,NYQ
+OKE,"ONEOK, Inc.",60.17,Energy,Stocks,NYQ
+IONQ,"IonQ, Inc.",9.51,Technology,Stocks,NYQ
+PM,Philip Morris International Inc,102.25,Consumer Defensive,Stocks,NYQ
+STEM,"Stem, Inc.",10.92,Technology,Stocks,NYQ
+WOLF,"Wolfspeed, Inc.",89.47,Technology,Stocks,NYQ
+IIPR,Innovative Industrial Propertie,179.63,Real Estate,Stocks,NYQ
+TOST,"Toast, Inc.",19.93,Technology,Stocks,NYQ
+MGM,MGM Resorts International,40.62,Consumer Cyclical,Stocks,NYQ
+URI,"United Rentals, Inc.",319.80,Industrials,Stocks,NYQ
+LPI,"Laredo Petroleum, Inc.",67.17,Energy,Stocks,NYQ
+WM,"Waste Management, Inc.",146.25,Industrials,Stocks,NYQ
+VMW,"Vmware, Inc.",124.76,Technology,Stocks,NYQ
+LRN,"Stride, Inc.",33.95,Consumer Defensive,Stocks,NYQ
+ZTS,Zoetis Inc.,187.66,Healthcare,Stocks,NYQ
+MPW,"Medical Properties Trust, Inc.",21.97,Real Estate,Stocks,NYQ
+VLTA,"Volta, Inc.",4.15,Consumer Cyclical,Stocks,NYQ
+JWN,"Nordstrom, Inc.",21.92,Consumer Cyclical,Stocks,NYQ
+VEEV,Veeva Systems Inc.,214.58,Healthcare,Stocks,NYQ
+STAG,"Stag Industrial, Inc.",40.26,Real Estate,Stocks,NYQ
+PLD,"Prologis, Inc.",148.61,Real Estate,Stocks,NYQ
+RNG,"Ringcentral, Inc.",156.46,Technology,Stocks,NYQ
+LEG,"Leggett & Platt, Incorporated",37.89,Consumer Cyclical,Stocks,NYQ
+LYB,LyondellBasell Industries NV,95.85,Basic Materials,Stocks,NYQ
+OUST,"Ouster, Inc.",2.99,Technology,Stocks,NYQ
+MET,"MetLife, Inc.",65.31,Financial Services,Stocks,NYQ
+VICI,VICI Properties Inc.,27.59,Real Estate,Stocks,NYQ
+STWD,"STARWOOD PROPERTY TRUST, INC. S",24.02,Real Estate,Stocks,NYQ
+TISI,"Team, Inc.",0.63,Industrials,Stocks,NYQ
+MATX,"Matson, Inc.",93.49,Industrials,Stocks,NYQ
+JNPR,"Juniper Networks, Inc.",31.45,Technology,Stocks,NYQ
+TXT,Textron Inc.,66.65,Industrials,Stocks,NYQ
+PSTG,"Pure Storage, Inc.",24.56,Technology,Stocks,NYQ
+LDI,"loanDepot, Inc.",4.54,Financial Services,Stocks,NYQ
+WEBR,Weber Inc.,10.26,Consumer Cyclical,Stocks,NYQ
+WSM,"Williams-Sonoma, Inc.",146.37,Consumer Cyclical,Stocks,NYQ
+RSI,"Rush Street Interactive, Inc.",8.57,Consumer Cyclical,Stocks,NYQ
+VSTO,Vista Outdoor Inc.,36.41,Consumer Cyclical,Stocks,NYQ
+SHAK,"Shake Shack, Inc.",60.14,Consumer Cyclical,Stocks,NYQ
+MSCI,MSCI Inc,491.79,Financial Services,Stocks,NYQ
+LHX,"L3Harris Technologies, Inc.",216.27,Industrials,Stocks,NYQ
+EGHT,8x8 Inc,14.25,Technology,Stocks,NYQ
+PAYC,"Paycom Software, Inc.",300.98,Technology,Stocks,NYQ
+IVZ,Invesco Ltd,21.58,Financial Services,Stocks,NYQ
+IRNT,"IronNet, Inc.",2.80,Technology,Stocks,NYQ
+WTI,"W&T Offshore, Inc.",4.20,Energy,Stocks,NYQ
+MAXR,Maxar Technologies Inc.,24.55,Technology,Stocks,NYQ
+NOV,NOV Inc.,16.60,Energy,Stocks,NYQ
+KEYS,Keysight Technologies Inc.,161.12,Technology,Stocks,NYQ
+PII,Polaris Inc.,108.97,Consumer Cyclical,Stocks,NYQ
+MSI,"Motorola Solutions, Inc.",223.09,Technology,Stocks,NYQ
+THO,"Thor Industries, Inc.",90.86,Consumer Cyclical,Stocks,NYQ
+WRBY,Warby Parker Inc.,33.99,Healthcare,Stocks,NYQ
+ROL,"Rollins, Inc.",28.97,Consumer Cyclical,Stocks,NYQ
+ZYME,Zymeworks Inc.,8.30,Healthcare,Stocks,NYQ
+NLS,"Nautilus, Inc.",4.87,Consumer Cyclical,Stocks,NYQ
+MGA,"Magna International, Inc.",78.77,Consumer Cyclical,Stocks,NYQ
+ORA,"Ormat Technologies, Inc.",63.73,Utilities,Stocks,NYQ
+NVR,"NVR, Inc.","5,056.24",Consumer Cyclical,Stocks,NYQ
+INFY,Infosys Limited,21.81,Technology,Stocks,NYQ
+STNG,Scorpio Tankers Inc.,13.45,Energy,Stocks,NYQ
+RLX,RLX Technology Inc.,3.06,Consumer Defensive,Stocks,NYQ
+JBL,Jabil Inc.,58.22,Technology,Stocks,NYQ
+OPAD,Offerpad Solutions Inc.,3.22,Real Estate,Stocks,NYQ
+XPO,"XPO Logistics, Inc.",62.73,Industrials,Stocks,NYQ
+ONTO,Onto Innovation Inc.,84.19,Technology,Stocks,NYQ
+IOT,Samsara Inc.,16.11,Technology,Stocks,NYQ
+MED,MEDIFAST INC,189.78,Consumer Cyclical,Stocks,NYQ
+ONL,Orion Office REIT Inc.,16.04,Real Estate,Stocks,NYQ
+PHM,"PulteGroup, Inc.",50.00,Consumer Cyclical,Stocks,NYQ
+LTC,"LTC Properties, Inc.",35.06,Real Estate,Stocks,NYQ
+MUX,McEwen Mining Inc.,0.85,Basic Materials,Stocks,NYQ
+TEN,Tenneco Inc.,10.15,Consumer Cyclical,Stocks,NYQ
+TDY,Teledyne Technologies Incorpora,397.41,Technology,Stocks,NYQ
+TDW,Tidewater Inc.,15.38,Energy,Stocks,NYQ
+ITW,Illinois Tool Works Inc.,230.57,Industrials,Stocks,NYQ
+WGO,"Winnebago Industries, Inc.",62.65,Consumer Cyclical,Stocks,NYQ
+FOUR,"Shift4 Payments, Inc.",44.53,Technology,Stocks,NYQ
+VLD,"Velo3D, Inc.",5.62,Technology,Stocks,NYQ
+TPR,"Tapestry, Inc.",37.09,Consumer Cyclical,Stocks,NYQ
+WELL,Welltower Inc.,83.43,Real Estate,Stocks,NYQ
+NEX,NexTier Oilfield Solutions Inc.,5.94,Energy,Stocks,NYQ
+RWT,"Redwood Trust, Inc.",11.79,Real Estate,Stocks,NYQ
+ZEN,"Zendesk, Inc.",90.52,Technology,Stocks,NYQ
+IS,ironSource Ltd.,6.35,Technology,Stocks,NYQ
+PPG,"PPG Industries, Inc.",153.40,Basic Materials,Stocks,NYQ
+SQSP,"Squarespace, Inc.",28.74,Technology,Stocks,NYQ
+RES,"RPC, Inc.",5.97,Energy,Stocks,NYQ
+TRGP,"Targa Resources, Inc.",57.74,Energy,Stocks,NYQ
+LAD,"Lithia Motors, Inc.",280.06,Consumer Cyclical,Stocks,NYQ
+COOK,"Traeger, Inc.",8.80,Consumer Cyclical,Stocks,NYQ
+PCOR,"Procore Technologies, Inc.",58.78,Technology,Stocks,NYQ
+NBR,Nabors Industries Ltd.,104.80,Energy,Stocks,NYQ
+SMAR,Smartsheet Inc.,54.53,Technology,Stocks,NYQ
+UPH,"UpHealth, Inc.",1.91,Healthcare,Stocks,NYQ
+MLM,"Martin Marietta Materials, Inc.",372.99,Basic Materials,Stocks,NYQ
+SNA,Snap-On Incorporated,205.08,Industrials,Stocks,NYQ
+SKX,"Skechers U.S.A., Inc.",41.05,Consumer Cyclical,Stocks,NYQ
+ML,MoneyLion Inc.,2.37,Technology,Stocks,NYQ
+OPFI,OppFi Inc.,4.28,Technology,Stocks,NYQ
+TRTN,Triton International Limited,59.09,Industrials,Stocks,NYQ
+ZIP,"ZipRecruiter, Inc.",20.23,Industrials,Stocks,NYQ
+PRLB,"Proto Labs, Inc.",46.58,Industrials,Stocks,NYQ
+OLO,Olo Inc.,15.12,Technology,Stocks,NYQ
+CXM,"Sprinklr, Inc.",10.26,Technology,Stocks,NYQ
+PWR,"Quanta Services, Inc.",96.89,Industrials,Stocks,NYQ
+VTR,"Ventas, Inc.",51.04,Real Estate,Stocks,NYQ
+MTN,"Vail Resorts, Inc.",265.99,Consumer Cyclical,Stocks,NYQ
+NI,NiSource Inc,27.97,Utilities,Stocks,NYQ
+SLQT,"SelectQuote, Inc.",6.86,Financial Services,Stocks,NYQ
+ZUO,"Zuora, Inc.",14.98,Technology,Stocks,NYQ
+NTP,Nam Tai Property Inc.,8.39,Real Estate,Stocks,NYQ
+WST,"West Pharmaceutical Services, I",383.86,Healthcare,Stocks,NYQ
+WTS,"Watts Water Technologies, Inc.",147.88,Industrials,Stocks,NYQ
+RMD,ResMed Inc.,224.89,Healthcare,Stocks,NYQ
+NEWR,"New Relic, Inc.",101.72,Technology,Stocks,NYQ
+SBOW,"SilverBow Resorces, Inc.",22.23,Energy,Stocks,NYQ
+PKI,"PerkinElmer, Inc.",163.84,Healthcare,Stocks,NYQ
+ROP,"Roper Technologies, Inc.",423.48,Industrials,Stocks,NYQ
+OII,"Oceaneering International, Inc.",13.34,Energy,Stocks,NYQ
+TUYA,Tuya Inc.,4.61,Technology,Stocks,NYQ
+DNOW,NOW Inc.,8.75,Energy,Stocks,NYQ
+XYL,Xylem Inc.,100.43,Industrials,Stocks,NYQ
+KLR,"Kaleyra, Inc.",8.06,Communication Services,Stocks,NYQ
+RBOT,Vicarious Surgical Inc.,5.85,Healthcare,Stocks,NYQ
+PMT,PennyMac Mortgage Investment Tr,17.18,Real Estate,Stocks,NYQ
+RSG,"Republic Services, Inc.",123.59,Industrials,Stocks,NYQ
+VSH,"Vishay Intertechnology, Inc.",19.89,Technology,Stocks,NYQ
+MHK,"Mohawk Industries, Inc.",150.85,Consumer Cyclical,Stocks,NYQ
+INFO,IHS Markit Ltd.,111.36,Industrials,Stocks,NYQ
+MTZ,"MasTec, Inc.",83.64,Industrials,Stocks,NYQ
+IRT,"Independence Realty Trust, Inc.",22.04,Real Estate,Stocks,NYQ
+IR,Ingersoll Rand Inc.,54.82,Industrials,Stocks,NYQ
+TTI,"Tetra Technologies, Inc.",2.92,Energy,Stocks,NYQ
+OMI,"Owens & Minor, Inc.",42.25,Healthcare,Stocks,NYQ
+UI,Ubiquiti Inc.,272.31,Technology,Stocks,NYQ
+TYL,"Tyler Technologies, Inc.",433.17,Technology,Stocks,NYQ
+TPX,"Tempur Sealy International, Inc",37.00,Consumer Cyclical,Stocks,NYQ
+YELP,Yelp Inc.,32.30,Communication Services,Stocks,NYQ
+SJI,"South Jersey Industries, Inc.",24.37,Utilities,Stocks,NYQ
+INFA,Informatica Inc.,25.89,Technology,Stocks,NYQ
+TGNA,TEGNA Inc,18.93,Communication Services,Stocks,NYQ
+RVI,Retail Value Inc.,3.10,Real Estate,Stocks,NYQ
+WCC,"WESCO International, Inc.",119.17,Industrials,Stocks,NYQ
+SUP,Superior Industries Internation,3.95,Consumer Cyclical,Stocks,NYQ
+OIS,"Oil States International, Inc.",6.38,Energy,Stocks,NYQ
+IPI,"Intrepid Potash, Inc",37.28,Basic Materials,Stocks,NYQ
+SWCH,"Switch, Inc.",23.66,Technology,Stocks,NYQ
+LBRT,Liberty Oilfield Services Inc.,12.38,Energy,Stocks,NYQ
+UFI,"Unifi, Inc. New",18.50,Consumer Cyclical,Stocks,NYQ
+POLY,"Plantronics, Inc.",24.56,Technology,Stocks,NYQ
+PEN,"Penumbra, Inc.",197.49,Healthcare,Stocks,NYQ
+TFX,Teleflex Incorporated,295.56,Healthcare,Stocks,NYQ
+LSI,"Life Storage, Inc.",130.12,Real Estate,Stocks,NYQ
+INSP,"Inspire Medical Systems, Inc.",195.16,Healthcare,Stocks,NYQ
+TLYS,"Tilly's, Inc.",12.75,Consumer Cyclical,Stocks,NYQ
+MTD,"Mettler-Toledo International, I","1,396.45",Healthcare,Stocks,NYQ
+YEXT,"Yext, Inc.",7.41,Technology,Stocks,NYQ
+SITE,"SiteOne Landscape Supply, Inc.",170.91,Industrials,Stocks,NYQ
+TRN,"Trinity Industries, Inc.",28.12,Industrials,Stocks,NYQ
+ONTF,"ON24, Inc.",15.33,Technology,Stocks,NYQ
+USER,"UserTesting, Inc.",4.89,Technology,Stocks,NYQ
+INSW,"International Seaways, Inc.",14.13,Energy,Stocks,NYQ
+SAFE,Safehold Inc.,58.98,Real Estate,Stocks,NYQ
+REV,"Revlon, Inc. New",9.16,Consumer Defensive,Stocks,NYQ
+PVG,"Pretium Resources, Inc.",13.52,Basic Materials,Stocks,NYQ
+MBI,MBIA Inc.,12.65,Financial Services,Stocks,NYQ
+MIR,"Mirion Technologies, Inc.",7.71,Industrials,Stocks,NYQ
+STAR,iStar Inc.,20.70,Real Estate,Stocks,NYQ
+SII,Sprott Inc.,34.56,Financial Services,Stocks,NYQ
+WOR,"Worthington Industries, Inc.",53.63,Industrials,Stocks,NYQ
+UMH,"UMH Properties, Inc.",22.68,Real Estate,Stocks,NYQ
+NR,"Newpark Resources, Inc.",3.59,Energy,Stocks,NYQ
+WK,Workiva Inc.,111.27,Technology,Stocks,NYQ
+STE,STERIS plc (Ireland),215.16,Healthcare,Stocks,NYQ
+VVV,Valvoline Inc.,32.46,Energy,Stocks,NYQ
+SNDR,"Schneider National, Inc.",24.94,Industrials,Stocks,NYQ
+PHX,PHX Minerals Inc.,2.37,Energy,Stocks,NYQ
+KRO,Kronos Worldwide Inc,14.44,Basic Materials,Stocks,NYQ
+RPM,RPM International Inc.,86.93,Basic Materials,Stocks,NYQ
+SWM,Schweitzer-Mauduit Internationa,30.04,Basic Materials,Stocks,NYQ
+MTOR,"Meritor, Inc.",23.01,Consumer Cyclical,Stocks,NYQ
+JLL,Jones Lang LaSalle Incorporated,237.48,Real Estate,Stocks,NYQ
+WSO,"Watsco, Inc.",271.92,Industrials,Stocks,NYQ
+KBR,"KBR, Inc.",43.28,Industrials,Stocks,NYQ
+LCII,LCI Industries,115.46,Consumer Cyclical,Stocks,NYQ
+TR,"Tootsie Roll Industries, Inc.",33.25,Consumer Defensive,Stocks,NYQ
+SR,Spire Inc.,64.79,Utilities,Stocks,NYQ
+LXU,"LSB Industries, Inc.",9.40,Basic Materials,Stocks,NYQ
+WWW,"Wolverine World Wide, Inc.",25.99,Consumer Cyclical,Stocks,NYQ
+STON,StoneMor Inc.,2.31,Consumer Cyclical,Stocks,NYQ
+VMI,"Valmont Industries, Inc.",208.20,Industrials,Stocks,NYQ
+SUM,"Summit Materials, Inc.",34.90,Basic Materials,Stocks,NYQ
+AGS,"PlayAGS, Inc.",7.72,Consumer Cyclical,Stocks,NYQ
+MLI,"Mueller Industries, Inc.",50.69,Industrials,Stocks,NYQ
+SSTK,"Shutterstock, Inc.",89.05,Communication Services,Stocks,NYQ
+RYN,Rayonier Inc. REIT,35.28,Real Estate,Stocks,NYQ
+SNN,"Smith & Nephew SNATS, Inc.",33.47,Healthcare,Stocks,NYQ
+REZI,"Resideo Technologies, Inc.",22.86,Industrials,Stocks,NYQ
+SCS,Steelcase Inc.,11.99,Industrials,Stocks,NYQ
+IIIN,"Insteel Industries, Inc.",37.11,Industrials,Stocks,NYQ
+RENN,Renren Inc.,20.82,Consumer Cyclical,Stocks,NYQ
+LII,"Lennox International, Inc.",272.45,Industrials,Stocks,NYQ
+NRDY,Nerdy Inc.,4.07,Technology,Stocks,NYQ
+PSTL,"Postal Realty Trust, Inc.",17.01,Real Estate,Stocks,NYQ
+INGR,Ingredion Incorporated,94.57,Consumer Defensive,Stocks,NYQ
+PHR,"Phreesia, Inc.",27.85,Healthcare,Stocks,NYQ
+OWLT,"Owlet, Inc.",1.74,Healthcare,Stocks,NYQ
+PRI,"Primerica, Inc.",146.81,Financial Services,Stocks,NYQ
+SMRT,"SmartRent, Inc.",6.92,Technology,Stocks,NYQ
+UDR,"UDR, Inc.",54.61,Real Estate,Stocks,NYQ
+MUSA,Murphy USA Inc.,188.40,Consumer Cyclical,Stocks,NYQ
+KMT,Kennametal Inc.,33.78,Industrials,Stocks,NYQ
+IDA,"IDACORP, Inc.",106.60,Utilities,Stocks,NYQ
+TFII,TFI International Inc.,91.95,Industrials,Stocks,NYQ
+NSP,"Insperity, Inc.",100.34,Industrials,Stocks,NYQ
+IAA,"IAA, Inc.",42.28,Industrials,Stocks,NYQ
+PX,"P10, Inc.",11.71,Financial Services,Stocks,NYQ
+QUOT,Quotient Technology Inc.,6.40,Communication Services,Stocks,NYQ
+SMP,"Standard Motor Products, Inc.",46.14,Consumer Cyclical,Stocks,NYQ
+WEX,WEX Inc.,149.30,Technology,Stocks,NYQ
+PLYM,"Plymouth Industrial REIT, Inc.",26.85,Real Estate,Stocks,NYQ
+MLR,"Miller Industries, Inc.",31.33,Consumer Cyclical,Stocks,NYQ
+PJT,PJT Partners Inc.,65.17,Financial Services,Stocks,NYQ
+MOGU,MOGU Inc.,0.29,Consumer Cyclical,Stocks,NYQ
+SONX,"Sonendo, Inc.",7.02,Healthcare,Stocks,NYQ
+MMS,"Maximus, Inc.",75.26,Industrials,Stocks,NYQ
+SOI,Solaris Oilfield Infrastructure,7.52,Energy,Stocks,NYQ
+FNA,"Paragon 28, Inc.",13.96,Healthcare,Stocks,NYQ
+LXP,LXP Industrial Trust,14.05,Real Estate,Stocks,NYQ
+UNVR,Univar Solutions Inc.,26.58,Basic Materials,Stocks,NYQ
+TLK,"PT Telekomunikasi Indonesia, Tb",29.67,Communication Services,Stocks,NYQ
+NPK,"National Presto Industries, Inc",81.52,Industrials,Stocks,NYQ
+REXR,"Rexford Industrial Realty, Inc.",69.09,Real Estate,Stocks,NYQ
+LAIX,LAIX Inc.,0.45,Technology,Stocks,NYQ
+MSA,MSA Safety Incorporated,131.73,Industrials,Stocks,NYQ
+MYE,"Myers Industries, Inc.",17.71,Consumer Cyclical,Stocks,NYQ
+WBT,"Welbilt, Inc.",23.63,Industrials,Stocks,NYQ
+VHI,"Valhi, Inc.",26.11,Basic Materials,Stocks,NYQ
+VNE,"Veoneer, Inc.",34.86,Consumer Cyclical,Stocks,NYQ
+WMK,"Weis Markets, Inc.",60.77,Consumer Defensive,Stocks,NYQ
+OXM,"Oxford Industries, Inc.",87.87,Consumer Cyclical,Stocks,NYQ
+PGTI,"PGT Innovations, Inc.",18.50,Industrials,Stocks,NYQ
+OLP,"One Liberty Properties, Inc.",29.70,Real Estate,Stocks,NYQ
+MN,"Manning & Napier, Inc.",7.83,Financial Services,Stocks,NYQ
+NNI,"Nelnet, Inc.",87.19,Financial Services,Stocks,NYQ
+IRS,IRSA Inversiones Y Representaci,4.04,Industrials,Stocks,NYQ
+MLNK,"MeridianLink, Inc.",17.62,Technology,Stocks,NYQ
+ITT,ITT Inc.,90.14,Industrials,Stocks,NYQ
+OUT,OUTFRONT Media Inc.,23.59,Real Estate,Stocks,NYQ
+NP,"Neenah, Inc.",45.42,Basic Materials,Stocks,NYQ
+UTI,Universal Technical Institute I,7.14,Consumer Defensive,Stocks,NYQ
+TDCX,TDCX Inc.,13.06,Industrials,Stocks,NYQ
+DAO,"Youdao, Inc.",11.70,Communication Services,Stocks,NYQ
+PHI,PLDT Inc. Sponsored,35.97,Communication Services,Stocks,NYQ
+WOW,"WideOpenWest, Inc.",18.05,Communication Services,Stocks,NYQ
+NL,"NL Industries, Inc.",6.65,Industrials,Stocks,NYQ
+TCN,Tricon Residential Inc.,14.56,Real Estate,Stocks,NYQ
+STN,Stantec Inc,51.55,Industrials,Stocks,NYQ
+TARO,Taro Pharmaceutical Industries ,47.17,Healthcare,Stocks,NYQ
+SRI,"Stoneridge, Inc.",18.54,Consumer Cyclical,Stocks,NYQ
+JILL,"J. Jill, Inc.",14.50,Consumer Cyclical,Stocks,NYQ
+KAI,Kadant Inc,201.31,Industrials,Stocks,NYQ
+JW-A,"John Wiley & Sons, Inc.",49.30,Communication Services,Stocks,NYQ
+NXRT,"NexPoint Residential Trust, Inc",74.80,Real Estate,Stocks,NYQ
+VAPO,"Vapotherm, Inc.",14.66,Healthcare,Stocks,NYQ
+WDH,Waterdrop Inc.,1.40,Financial Services,Stocks,NYQ
+PDM,"Piedmont Office Realty Trust, I",17.35,Real Estate,Stocks,NYQ
+MOG-A,Moog Inc.,72.99,Industrials,Stocks,NYQ
+OOMA,"Ooma, Inc.",17.25,Communication Services,Stocks,NYQ
+MTX,Minerals Technologies Inc.,68.70,Basic Materials,Stocks,NYQ
+MODN,"Model N, Inc.",25.85,Technology,Stocks,NYQ
+VRE,"Veris Residential, Inc.",15.74,Real Estate,Stocks,NYQ
+USPH,"U.S. Physical Therapy, Inc.",93.45,Healthcare,Stocks,NYQ
+TSQ,"Townsquare Media, Inc.",12.66,Communication Services,Stocks,NYQ
+VEC,"Vectrus, Inc.",45.70,Industrials,Stocks,NYQ
+MAX,"MediaAlpha, Inc.",13.76,Communication Services,Stocks,NYQ
+MMI,"Marcus & Millichap, Inc.",44.14,Real Estate,Stocks,NYQ
+SNDA,"Sonida Senior Living, Inc.",28.86,Healthcare,Stocks,NYQ
+LUB,"Luby's, Inc.",2.82,Consumer Cyclical,Stocks,NYQ
+TBI,"TrueBlue, Inc.",25.48,Industrials,Stocks,NYQ
+IIPR-PA,Innovative Industrial Propertie,30.60,Real Estate,Stocks,NYQ
+JT,Jianpu Technology Inc.,0.88,Financial Services,Stocks,NYQ
+SRT,"StarTek, Inc.",5.01,Industrials,Stocks,NYQ
+SFE,"Safeguard Scientifics, Inc. New",6.22,Financial Services,Stocks,NYQ
+PZN,Pzena Investment Management Inc,9.29,Financial Services,Stocks,NYQ
+TCI,Transcontinental Realty Investo,38.50,Real Estate,Stocks,NYQ
+QVCC,"QVC, Inc. 6.250% Senior Secured",24.65,N/A,Stocks,NYQ
+PMT-PC,PennyMac Mortgage Investment Tr,24.48,Real Estate,Stocks,NYQ
+MOG-B,Moog Inc.,79.08,Industrials,Stocks,NYQ
+MET-PA,"MetLife, Inc. Preferred Series ",24.16,Financial Services,Stocks,NYQ
+MIT,"Mason Industrial Technology, In",9.70,Financial Services,Stocks,NYQ
+OUST-WT,"Ouster, Inc.",0.48,N/A,Stocks,NYQ
+TRTN-PA,Triton International Limited 8.,26.95,Industrials,Stocks,NYQ
+JNJ,Johnson & Johnson,170.59,Healthcare,Stocks,NYQ
+MBT,Mobile TeleSystems Public Joint,7.18,Communication Services,Stocks,NYQ
+SIG,Signet Jewelers Limited,81.76,Consumer Cyclical,Stocks,NYQ
+JBGS,JBG SMITH Properties,26.35,Real Estate,Stocks,NYQ
+JW-B,"John Wiley & Sons, Inc.",51.89,Communication Services,Stocks,NYQ
+SJIJ,"South Jersey Industries, Inc. 5",25.13,N/A,Stocks,NYQ
+RJAC-UN,Jackson Acquisition Company,9.97,Financial Services,Stocks,NYQ
+JWSM-UN,Jaws Mustang Acquisition Corp.,9.90,Financial Services,Stocks,NYQ
+NJ,NJ,N/A,N/A,Stocks,NYQ
+JWSM-WT,Jaws Mustang Acquisition Corp. ,0.73,N/A,Stocks,NYQ
+JATT-UN,JATT Acquisition Corp,10.00,Financial Services,Stocks,NYQ
+JUN-UN,Juniper II Corp.,10.11,Financial Services,Stocks,NYQ
+CJ,CJ,N/A,N/A,Stocks,NYQ
+EJ,EJ,N/A,N/A,Stocks,NYQ
+I,I,N/A,N/A,Stocks,NYQ
+KEY,KeyCorp,24.94,Financial Services,Stocks,NYQ
+PHG,Koninklijke Philips N.V. NY Reg,32.18,Healthcare,Stocks,NYQ
+KNOP,KNOT Offshore Partners LP,15.11,Industrials,Stocks,NYQ
+KRP,Kimbell Royalty Partners,14.84,Energy,Stocks,NYQ
+KKR-PC,KKR & Co. Inc. 6.00% Series C M,83.07,Financial Services,Stocks,NYQ
+KIM-PL,Kimco Realty Corporation Class ,25.42,Real Estate,Stocks,NYQ
+KIM-PM,Kimco Realty Corporation Class ,25.39,Real Estate,Stocks,NYQ
+KS,KS,N/A,N/A,Stocks,NYQ
+HK,HK,N/A,N/A,Stocks,NYQ
+KWAC-UN,Kingswood Acquisition Corp.,10.34,Financial Services,Stocks,NYQ
+KWAC-WT,Kingswood Acquisition Corp.,0.37,N/A,Stocks,NYQ
+PSFE,Paysafe Limited,3.25,Technology,Stocks,NYQ
+RIG,Transocean Ltd (Switzerland),3.27,Energy,Stocks,NYQ
+UL,Unilever PLC,51.20,Consumer Defensive,Stocks,NYQ
+MPLX,MPLX LP,32.13,Energy,Stocks,NYQ
+SOS,SOS Limited,0.63,Technology,Stocks,NYQ
+WEI,Weidai Ltd.,1.85,Financial Services,Stocks,NYQ
+PL,Planet Labs PBC,5.39,Industrials,Stocks,NYQ
+MMP,Magellan Midstream Partners L.P,48.19,Energy,Stocks,NYQ
+SUN,Sunoco LP,43.85,Energy,Stocks,NYQ
+NTR,Nutrien Ltd.,69.30,Basic Materials,Stocks,NYQ
+SHLX,"Shell Midstream Partners, L.P.",12.77,Energy,Stocks,NYQ
+NMM,Navios Maritime Partners LP,26.90,Industrials,Stocks,NYQ
+LIN,Linde plc,311.35,Basic Materials,Stocks,NYQ
+RSKD,Riskified Ltd.,6.13,Technology,Stocks,NYQ
+TECK,Teck Resources Ltd,31.89,Basic Materials,Stocks,NYQ
+MYOV,Myovant Sciences Ltd.,12.40,Healthcare,Stocks,NYQ
+PSXP,Phillips 66 Partners LP,43.15,Energy,Stocks,NYQ
+SSL,Sasol Ltd.,21.50,Energy,Stocks,NYQ
+SPH,"Suburban Propane Partners, L.P.",15.18,Utilities,Stocks,NYQ
+WES,"Western Midstream Partners, LP",24.09,Energy,Stocks,NYQ
+TTM,Tata Motors Ltd Tata Motors Lim,32.70,Consumer Cyclical,Stocks,NYQ
+PBFX,PBF Logistics LP,12.52,Energy,Stocks,NYQ
+WIT,Wipro Limited,7.08,Technology,Stocks,NYQ
+LAZ,"Lazard LTD. Lazard, LTD.",41.93,Financial Services,Stocks,NYQ
+NEW,Puxin Limited,0.20,Consumer Defensive,Stocks,NYQ
+SMLP,"Summit Midstream Partners, LP",24.04,Energy,Stocks,NYQ
+VAL,Valaris Limited,40.22,Energy,Stocks,NYQ
+TSLX,"Sixth Street Specialty Lending,",23.43,Financial Services,Stocks,NYQ
+TNK,Teekay Tankers Ltd.,10.52,Energy,Stocks,NYQ
+SRLP,Sprague Resources LP,17.23,Energy,Stocks,NYQ
+VLN,Valens Semiconductor Ltd.,5.73,Technology,Stocks,NYQ
+SMWB,Similarweb Ltd.,12.61,Communication Services,Stocks,NYQ
+FENG,Phoenix New Media Limited,0.71,Communication Services,Stocks,NYQ
+USDP,USD Partners LP,5.56,Industrials,Stocks,NYQ
+NRP,Natural Resource Partners LP Li,35.44,Energy,Stocks,NYQ
+RLJ-PA,RLJ Lodging Trust $1.95 Series ,27.75,Real Estate,Stocks,NYQ
+SRL,Scully Royalty Ltd.,8.68,Financial Services,Stocks,NYQ
+RLJ,RLJ Lodging Trust,13.11,Real Estate,Stocks,NYQ
+TUFN,Tufin Software Technologies Ltd,8.28,Technology,Stocks,NYQ
+TGP-PA,Teekay LNG Partners L.P. 9.00% ,25.17,Energy,Stocks,NYQ
+PSFE-WT,Paysafe Limited,0.58,N/A,Stocks,NYQ
+SKE,Skeena Resources Limited,11.12,Basic Materials,Stocks,NYQ
+MIXT,MiX Telematics Limited,11.33,Technology,Stocks,NYQ
+SPNT,SiriusPoint Ltd.,8.19,Financial Services,Stocks,NYQ
+TGP-PB,Teekay LNG Partners L.P. 8.50% ,25.50,Energy,Stocks,NYQ
+LEAP,"Ribbit LEAP, Ltd.",9.85,Financial Services,Stocks,NYQ
+SPNT-PB,SiriusPoint Ltd. 8.00% Resettab,27.29,Financial Services,Stocks,NYQ
+TRTN-PD,Triton International Limited 6.,26.14,Industrials,Stocks,NYQ
+LXP-PC,LXP Industrial Trust 6.5% Serie,58.34,Real Estate,Stocks,NYQ
+VNO-PL,Vornado Realty Trust Pfd Ser L ,25.13,Real Estate,Stocks,NYQ
+TRTN-PC,Triton International Limited 7.,25.97,Industrials,Stocks,NYQ
+TRTN-PE,Triton International Limited 5.,25.03,Industrials,Stocks,NYQ
+CLDT-PA,Chatham Lodging Trust (REIT) 6.,25.45,Real Estate,Stocks,NYQ
+TRTN-PB,Triton International Limited 8.,26.58,Industrials,Stocks,NYQ
+LCW,Learn CW Investment Corporation,9.70,Financial Services,Stocks,NYQ
+TSM,Taiwan Semiconductor Manufactur,116.38,Technology,Stocks,NYQ
+MS,Morgan Stanley,101.15,Financial Services,Stocks,NYQ
+MDT,Medtronic plc.,103.18,Healthcare,Stocks,NYQ
+SQM,Sociedad Quimica y Minera S.A.,51.58,Basic Materials,Stocks,NYQ
+MSB,Mesabi Trust,30.89,Basic Materials,Stocks,NYQ
+MTL,Mechel PAO,2.77,Basic Materials,Stocks,NYQ
+MANU,Manchester,13.42,Communication Services,Stocks,NYQ
+MVO,MV Oil Trust,9.07,Energy,Stocks,NYQ
+MTR,Mesa Royalty Trust,7.31,Energy,Stocks,NYQ
+MAN,ManpowerGroup,101.88,Industrials,Stocks,NYQ
+MWA,MUELLER WATER PRODUCTS,12.27,Industrials,Stocks,NYQ
+VNTR,Venator Materials PLC,2.39,Basic Materials,Stocks,NYQ
+MTL-P,Mechel PAO,1.75,Basic Materials,Stocks,NYQ
+PMT-PA,PennyMac Mortgage Investment Tr,25.91,Real Estate,Stocks,NYQ
+PMT-PB,PennyMac Mortgage Investment Tr,26.20,Real Estate,Stocks,NYQ
+MTVC,Motive Capital Corp II,9.95,N/A,Stocks,NYQ
+MPLN-WT,MultiPlan Corporation,1.04,N/A,Stocks,NYQ
+MOTV-UN,Motive Capital Corp,10.17,Financial Services,Stocks,NYQ
+MACC,Mission Advancement Corp.,9.65,Financial Services,Stocks,NYQ
+MY,MY,N/A,N/A,Stocks,NYQ
+TMAC-WT,The Music Acquisition Corporati,0.43,N/A,Stocks,NYQ
+AMPI-UN,"Advanced Merger Partners, Inc.",9.75,Financial Services,Stocks,NYQ
+MW,MW,N/A,N/A,Stocks,NYQ
+MOTV-WT,Motive Capital Corp,0.78,N/A,Stocks,NYQ
+MIT-WT,"Mason Industrial Technology, In",0.45,N/A,Stocks,NYQ
+IM,IM,N/A,N/A,Stocks,NYQ
+OPA-UN,Magnum Opus Acquisition Limited,10.49,Financial Services,Stocks,NYQ
+GGT-PE,Gabelli Multi-Media Trust Inc. ,25.28,Financial Services,Stocks,NYQ
+MACC-UN,Mission Advancement Corp.,9.82,Financial Services,Stocks,NYQ
+MDH-WT,MDH Acquisition Corp.,0.36,N/A,Stocks,NYQ
+SLB,Schlumberger N.V.,38.86,Energy,Stocks,NYQ
+STM,STMicroelectronics N.V.,43.85,Technology,Stocks,NYQ
+STLA,Stellantis N.V.,19.35,Consumer Cyclical,Stocks,NYQ
+WBX,Wallbox N.V.,11.95,Technology,Stocks,NYQ
+NNN,National Retail Properties,42.91,Real Estate,Stocks,NYQ
+NLSN,Nielsen N.V.,18.04,Industrials,Stocks,NYQ
+UGP,Ultrapar Participacoes S.A. (Ne,2.78,Energy,Stocks,NYQ
+QGEN,Qiagen N.V.,47.33,Healthcare,Stocks,NYQ
+NEXA,Nexa Resources S.A.,7.98,Basic Materials,Stocks,NYQ
+NTZ,"Natuzzi, S.p.A.",11.47,Consumer Cyclical,Stocks,NYQ
+NXU-WT,Novus Capital Corporation II Re,0.91,N/A,Stocks,NYQ
+NSTC,Northern Star Investment Corp. ,9.69,Financial Services,Stocks,NYQ
+NSTC-UN,Northern Star Investment Corp. ,9.79,Financial Services,Stocks,NYQ
+NQ,NQ,N/A,N/A,Stocks,NYQ
+NSTB-WT,Northern Star Investment Corp. ,0.50,N/A,Stocks,NYQ
+ANAC-WT,Arctos NorthStar Acquisition Co,0.59,N/A,Stocks,NYQ
+NSTD-UN,Northern Star Investment Corp. ,9.82,Financial Services,Stocks,NYQ
+ANAC-UN,Arctos NorthStar Acquisition Co,9.80,Financial Services,Stocks,NYQ
+ORAN,Orange,11.47,Communication Services,Stocks,NYQ
+CIO-PA,"City Office REIT, Inc. 6.625% S",25.06,Real Estate,Stocks,NYQ
+CTOS-WT,"Custom Truck One Source, Inc.",2.31,N/A,Stocks,NYQ
+TLGA-WT,TLG Acquisition One Corp.,0.46,N/A,Stocks,NYQ
+OCA-UN,Omnichannel Acquisition Corp.,10.02,Financial Services,Stocks,NYQ
+OA,OA,N/A,N/A,Stocks,NYQ
+RIO,Rio Tinto Plc,75.09,Basic Materials,Stocks,NYQ
+PSX,Phillips 66,85.82,Energy,Stocks,NYQ
+FTI,TechnipFMC plc,6.63,Energy,Stocks,NYQ
+PSA,Public Storage,346.26,Real Estate,Stocks,NYQ
+DOC,Physicians Realty Trust,17.64,Real Estate,Stocks,NYQ
+PKX,POSCO,54.58,Basic Materials,Stocks,NYQ
+TT,Trane Technologies plc,169.20,Industrials,Stocks,NYQ
+TSE,Trinseo PLC,53.77,Basic Materials,Stocks,NYQ
+PNR,Pentair plc.,61.41,Industrials,Stocks,NYQ
+PRT,PermRock Royalty Trust Trust,8.56,Energy,Stocks,NYQ
+PSO,"Pearson, Plc",8.37,Communication Services,Stocks,NYQ
+ZVIA,Zevia PBC,7.45,Consumer Defensive,Stocks,NYQ
+PVL,Permianville Royalty Trust Trus,2.20,Energy,Stocks,NYQ
+WPP,WPP plc,76.02,Communication Services,Stocks,NYQ
+RELX,RELX PLC PLC,29.84,Communication Services,Stocks,NYQ
+PRM,"Perimeter Solutions, SA",12.19,Basic Materials,Stocks,NYQ
+IBER,Ibere Pharmaceuticals,9.69,Financial Services,Stocks,NYQ
+SCE-PG,SCE Trust II Trust Preferred Se,24.92,Financial Services,Stocks,NYQ
+UMH-PC,"UMH Properties, Inc. 6.75% Seri",25.38,Real Estate,Stocks,NYQ
+KTN,Structured Products Corp 8.205%,31.27,N/A,Stocks,NYQ
+TPTA,"Terra Property Trust, Inc. 6.00",25.27,N/A,Stocks,NYQ
+PICC,Pivotal Investment Corporation ,9.69,Financial Services,Stocks,NYQ
+PIAI-WT,Prime Impact Acquisition I,0.44,N/A,Stocks,NYQ
+WPCA-UN,Warburg Pincus Capital Corporat,9.90,Financial Services,Stocks,NYQ
+PHYT,Pyrophyte Acquisition Corp.,9.86,Financial Services,Stocks,NYQ
+PDOT-UN,Peridot Acquisition Corp. II,9.78,Financial Services,Stocks,NYQ
+UMH-PD,"UMH Properties, Inc. 6.375% Ser",25.81,Real Estate,Stocks,NYQ
+AQ,AQ,N/A,N/A,Stocks,NYQ
+LQ,LQ,N/A,N/A,Stocks,NYQ
+PQ,PQ,N/A,N/A,Stocks,NYQ
+WQGA-UN,World Quantum Growth Acquisitio,10.00,Financial Services,Stocks,NYQ
+SBR,Sabine Royalty Trust,49.50,Energy,Stocks,NYQ
+VNO,Vornado Realty Trust,39.46,Real Estate,Stocks,NYQ
+WSR,Whitestone REIT,9.99,Real Estate,Stocks,NYQ
+TREC,Trecora Resources,8.08,Basic Materials,Stocks,NYQ
+RPT,RPT Realty,12.26,Real Estate,Stocks,NYQ
+VNO-PM,Vornado Realty Trust 5.25% Seri,25.50,Real Estate,Stocks,NYQ
+RPT-PD,RPT Realty 7.25%,56.09,Real Estate,Stocks,NYQ
+VNO-PO,Vornado Realty Trust 4.45% Seri,22.76,Real Estate,Stocks,NYQ
+RCA,Ready Capital Corporation 7.00%,26.35,N/A,Stocks,NYQ
+RC-PE,Ready Capital Corporation 6.50%,24.03,Real Estate,Stocks,NYQ
+CDR-PB,"Cedar Realty Trust, Inc. 7.25% ",25.33,Real Estate,Stocks,NYQ
+RC-PC,Ready Capital Corporation 6.25%,25.06,N/A,Stocks,NYQ
+RCC,Ready Capital Corporation 5.75%,25.60,N/A,Stocks,NYQ
+OPP-PA,RiverNorth/DoubleLine Strategic,24.17,N/A,Stocks,NYQ
+RCB,Ready Capital Corporation 6.20%,25.56,N/A,Stocks,NYQ
+OPP-PB,RiverNorth/DoubleLine Strategic,24.92,Financial Services,Stocks,NYQ
+CDR-PC,"Cedar Realty Trust, Inc. 6.50% ",25.00,Real Estate,Stocks,NYQ
+SRC-PA,"Spirit Realty Capital, Inc. 6.0",25.30,Real Estate,Stocks,NYQ
+REXR-PC,"Rexford Industrial Realty, Inc.",25.70,Real Estate,Stocks,NYQ
+ROSS-UN,Ross Acquisition Corp II,9.87,Financial Services,Stocks,NYQ
+RCFA-UN,RCF Acquisition Corp.,10.05,Financial Services,Stocks,NYQ
+RONI-UN,Rice Acquisition Corp. II,10.03,Financial Services,Stocks,NYQ
+ACR-PD,ACRES Commercial Realty Corp. 7,25.00,Real Estate,Stocks,NYQ
+REXR-PB,"Rexford Industrial Realty, Inc.",25.66,Real Estate,Stocks,NYQ
+CPTK-WT,Crown PropTech Acquisitions Red,0.50,N/A,Stocks,NYQ
+CLIM-WT,Climate Real Impact Solutions I,0.70,N/A,Stocks,NYQ
+WR,WR,N/A,N/A,Stocks,NYQ
+RBAC-UN,RedBall Acquisition Corp.,10.11,Financial Services,Stocks,NYQ
+CLIM-UN,Climate Real Impact Solutions I,9.84,Financial Services,Stocks,NYQ
+TACA-WT,Trepont Acquisition Corp I Rede,0.34,N/A,Stocks,NYQ
+RRAC-UN,Rigel Resource Acquisition Corp,10.05,Financial Services,Stocks,NYQ
+CHAA-WT,Catcha Investment Corp. Redeema,0.45,N/A,Stocks,NYQ
+VR,VR,N/A,N/A,Stocks,NYQ
+SPOT,Spotify Technology S.A.,171.32,Communication Services,Stocks,NYQ
+VALE,VALE S.A.,15.57,Basic Materials,Stocks,NYQ
+SAP,SAP  SE,122.38,Technology,Stocks,NYQ
+TTE,TotalEnergies SE,57.83,Energy,Stocks,NYQ
+TX,Ternium S.A. Ternium S.A.,40.95,Basic Materials,Stocks,NYQ
+TEF,Telefonica SA,4.56,Communication Services,Stocks,NYQ
+TS,Tenaris S.A.,24.54,Energy,Stocks,NYQ
+SUZ,Suzano S.A.,10.84,Basic Materials,Stocks,NYQ
+SSU,SIGNA Sports,7.31,Consumer Cyclical,Stocks,NYQ
+TIMB,TIM S.A.,11.78,Communication Services,Stocks,NYQ
+SBBA,Scorpio Tankers Inc. 7.00% Seni,24.87,N/A,Stocks,NYQ
+UZD,United States Cellular Corporat,25.55,N/A,Stocks,NYQ
+INSW-PA,"International Seaways, Inc. 8.5",26.19,N/A,Stocks,NYQ
+SCE-PL,SCE TRUST VI,24.65,Financial Services,Stocks,NYQ
+TRU,TransUnion,95.97,Industrials,Stocks,NYQ
+TY,TY,30.25,Financial Services,Stocks,NYQ
+TWOA,two,9.67,Financial Services,Stocks,NYQ
+FLYA-UN,SOAR Technology Acquisition Cor,10.23,Financial Services,Stocks,NYQ
+ATEK-UN,Athena Technology Acquisition C,9.98,Financial Services,Stocks,NYQ
+TDW-WTA,Tidewater Inc. Series A,0.71,N/A,Stocks,NYQ
+TINV-UN,Tiga Acquisition Corp.,10.45,Financial Services,Stocks,NYQ
+TCOA-UN,Trajectory Alpha Acquisition Co,9.94,Financial Services,Stocks,NYQ
+TINV-WT,Tiga Acquisition Corp.,0.63,N/A,Stocks,NYQ
+TACA-UN,Trepont Acquisition Corp I,10.14,Financial Services,Stocks,NYQ
+ATA-UN,Americas Technology Acquisition,10.30,Financial Services,Stocks,NYQ
+TWNI-WT,Tailwind International Acquisit,0.43,N/A,Stocks,NYQ
+TSPQ-UN,TCW Special Purpose Acquisition,9.85,Financial Services,Stocks,NYQ
+CLAS-UN,CLASS ACCELERATION CORP UNIT 1 ,9.97,Financial Services,Stocks,NYQ
+UN,UN,N/A,N/A,Stocks,NYQ
+VTEX,VTEX,6.28,Technology,Stocks,NYQ
+CCV-UN,Churchill Capital Corp V,9.95,Financial Services,Stocks,NYQ
+CCV-WT,Churchill Capital Corp V,0.73,N/A,Stocks,NYQ
+CCVI-WT,Churchill Capital Corp VI,0.89,N/A,Stocks,NYQ
+NCV-PA,Virtus AllianzGI Convertible & ,26.03,Financial Services,Stocks,NYQ
+AV,AV,N/A,N/A,Stocks,NYQ
+VNO-PN,Vornado Realty Trust 5.25% Seri,25.53,N/A,Stocks,NYQ
+VE,VE,N/A,N/A,Stocks,NYQ
+EV,EV,0.00,N/A,Stocks,NYQ
+WSO-B,"Watsco, Inc.",275.00,Industrials,Stocks,NYQ
+WARR-UN,Warrior Technologies Acquisitio,10.02,Financial Services,Stocks,NYQ
+WG,WG,N/A,N/A,Stocks,NYQ
+WP,WP,N/A,N/A,Stocks,NYQ
+WRB-PF,W.R. Berkley Corporation 5.10% ,25.06,N/A,Stocks,NYQ
+DW,DW,N/A,N/A,Stocks,NYQ
+WX,WX,N/A,N/A,Stocks,NYQ
+WAVC-UN,Waverley Capital Acquisition Co,9.88,Financial Services,Stocks,NYQ
+WRAC-UN,Williams Rowland Acquisition Co,10.10,Financial Services,Stocks,NYQ
+WPCB-UN,Warburg Pincus Capital Corporat,9.93,Financial Services,Stocks,NYQ
+WRB-PH,W.R. Berkley Corporation 4.125%,24.24,N/A,Stocks,NYQ
+ZX,ZX,N/A,N/A,Stocks,NYQ
+SBII-UN,Sandbridge X2 Corp.,9.91,Financial Services,Stocks,NYQ
+YSAC-UN,Yellowstone Acquisition Company,9.07,N/A,Stocks,NYQ
+GY,GY,N/A,N/A,Stocks,NYQ
+ZA,ZA,N/A,N/A,Stocks,NYQ
+ZF,ZF,11.22,Financial Services,Stocks,NYQ
+DNZ-UN,D and Z Media Acquisition Corp.,9.90,Financial Services,Stocks,NYQ

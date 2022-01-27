@@ -1,0 +1,1776 @@
+Symbol,Name,Last Price,Industry/Category,Type,Exchange
+AAPL,Apple Inc.,159.16,Technology,Stocks,NMS
+AMZN,"Amazon.com, Inc.","2,794.72",Consumer Cyclical,Stocks,NMS
+AMD,"Advanced Micro Devices, Inc.",102.57,Technology,Stocks,NMS
+RIVN,"Rivian Automotive, Inc.",53.94,Consumer Cyclical,Stocks,NMS
+GOOG,Alphabet Inc.,"2,582.42",Communication Services,Stocks,NMS
+GOOGL,Alphabet Inc.,"2,579.39",Communication Services,Stocks,NMS
+AFRM,"Affirm Holdings, Inc.",51.01,Technology,Stocks,NMS
+ABNB,"Airbnb, Inc.",138.41,Consumer Cyclical,Stocks,NMS
+AMAT,"Applied Materials, Inc.",130.15,Technology,Stocks,NMS
+AAL,"American Airlines Group, Inc.",15.78,Industrials,Stocks,NMS
+ARVL,Arrival,3.06,Consumer Cyclical,Stocks,NMS
+MURFU,Murphy Canyon Acquisition Corp.,0.00,Financial Services,Stocks,NMS
+ATAKU,Aurora Technology Acquisition C,0.00,Financial Services,Stocks,NMS
+APXI,APx Acquisition Corp. I Class A,0.00,N/A,Stocks,NMS
+APXIW,APx Acquisition Corp. I Warrant,0.00,N/A,Stocks,NMS
+AREBW,"American Rebel Holdings, Inc. W",0.00,Consumer Cyclical,Stocks,NMS
+ADBE,Adobe Inc.,493.05,Technology,Stocks,NMS
+ASML,ASML Holding N.V. - New York Re,634.66,Technology,Stocks,NMS
+ATVI,"Activision Blizzard, Inc",78.91,Communication Services,Stocks,NMS
+ADP,"Automatic Data Processing, Inc.",196.42,Industrials,Stocks,NMS
+LI,Li Auto Inc.,23.45,Consumer Cyclical,Stocks,NMS
+UAL,"United Airlines Holdings, Inc.",40.93,Industrials,Stocks,NMS
+DISCA,"Discovery, Inc. - Series A",25.24,Communication Services,Stocks,NMS
+APA,APA Corporation,32.95,Energy,Stocks,NMS
+ARWR,"Arrowhead Pharmaceuticals, Inc.",48.20,Healthcare,Stocks,NMS
+ACB,Aurora Cannabis Inc.,3.79,Healthcare,Stocks,NMS
+PANW,"Palo Alto Networks, Inc.",485.22,Technology,Stocks,NMS
+AGNC,AGNC Investment Corp.,14.81,Real Estate,Stocks,NMS
+Z,"Zillow Group, Inc.",46.78,Communication Services,Stocks,NMS
+WBA,"Walgreens Boots Alliance, Inc.",50.00,Healthcare,Stocks,NMS
+AVXL,Anavex Life Sciences Corp.,11.56,Healthcare,Stocks,NMS
+LULU,lululemon athletica inc.,306.52,Consumer Cyclical,Stocks,NMS
+ASTR,"Astra Space, Inc.",4.33,Industrials,Stocks,NMS
+TEAM,Atlassian Corporation Plc,290.89,Technology,Stocks,NMS
+ABCL,AbCellera Biologics Inc.,7.77,Healthcare,Stocks,NMS
+JBLU,JetBlue Airways Corporation,13.88,Industrials,Stocks,NMS
+AMRS,"Amyris, Inc.",3.93,Basic Materials,Stocks,NMS
+AMGN,Amgen Inc.,224.00,Healthcare,Stocks,NMS
+OTLY,Oatly Group AB,6.25,Consumer Defensive,Stocks,NMS
+ABUS,Arbutus Biopharma Corporation,2.42,Healthcare,Stocks,NMS
+ALLK,Allakos Inc.,6.20,Healthcare,Stocks,NMS
+PAA,"Plains All American Pipeline, L",10.73,Energy,Stocks,NMS
+ADSK,"Autodesk, Inc.",228.66,Technology,Stocks,NMS
+ADI,"Analog Devices, Inc.",154.59,Technology,Stocks,NMS
+AXON,"Axon Enterprise, Inc.",129.40,Industrials,Stocks,NMS
+ASO,"Academy Sports and Outdoors, In",36.88,Consumer Cyclical,Stocks,NMS
+AZN,Astrazeneca PLC,59.52,Healthcare,Stocks,NMS
+HA,"Hawaiian Holdings, Inc.",16.07,Industrials,Stocks,NMS
+ACLS,"Axcelis Technologies, Inc.",57.30,Technology,Stocks,NMS
+KLIC,"Kulicke and Soffa Industries, I",50.99,Technology,Stocks,NMS
+ALGN,"Align Technology, Inc.",455.62,Healthcare,Stocks,NMS
+EA,Electronic Arts Inc.,131.06,Communication Services,Stocks,NMS
+PAAS,Pan American Silver Corp.,21.52,Basic Materials,Stocks,NMS
+CAR,"Avis Budget Group, Inc.",164.50,Industrials,Stocks,NMS
+AMBA,"Ambarella, Inc.",127.80,Technology,Stocks,NMS
+ARAY,Accuray Incorporated,3.45,Healthcare,Stocks,NMS
+MDRX,Allscripts Healthcare Solutions,19.69,Healthcare,Stocks,NMS
+ASTS,"AST SpaceMobile, Inc.",5.13,Communication Services,Stocks,NMS
+ACAD,ACADIA Pharmaceuticals Inc.,21.53,Healthcare,Stocks,NMS
+AUR,"Aurora Innovation, Inc.",4.33,Technology,Stocks,NMS
+AEP,American Electric Power Company,89.40,Utilities,Stocks,NMS
+APPH,"AppHarvest, Inc.",3.27,Consumer Defensive,Stocks,NMS
+WOOF,Petco Health and Wellness Compa,17.86,Consumer Cyclical,Stocks,NMS
+ARNA,"Arena Pharmaceuticals, Inc.",89.79,Healthcare,Stocks,NMS
+ALNA,"Allena Pharmaceuticals, Inc.",0.34,Healthcare,Stocks,NMS
+BIRD,"Allbirds, Inc.",11.67,Consumer Cyclical,Stocks,NMS
+AVPT,"AvePoint, Inc.",5.36,Technology,Stocks,NMS
+AOSL,Alpha and Omega Semiconductor L,40.53,Technology,Stocks,NMS
+AKAM,"Akamai Technologies, Inc.",110.19,Technology,Stocks,NMS
+ARLP,"Alliance Resource Partners, L.P",14.39,Energy,Stocks,NMS
+APP,Applovin Corporation,59.78,Technology,Stocks,NMS
+AMKR,"Amkor Technology, Inc.",20.36,Technology,Stocks,NMS
+CMPS,COMPASS Pathways Plc - American,14.12,Healthcare,Stocks,NMS
+ALLO,"Allogene Therapeutics, Inc.",10.50,Healthcare,Stocks,NMS
+AVIR,"Atea Pharmaceuticals, Inc.",6.43,Healthcare,Stocks,NMS
+ATRA,"Atara Biotherapeutics, Inc.",14.26,Healthcare,Stocks,NMS
+AVT,"Avnet, Inc.",39.95,Technology,Stocks,NMS
+ALNY,"Alnylam Pharmaceuticals, Inc.",127.18,Healthcare,Stocks,NMS
+AMSC,American Superconductor Corpora,7.38,Industrials,Stocks,NMS
+ADAP,Adaptimmune Therapeutics plc,2.71,Healthcare,Stocks,NMS
+APTX,Aptinyx Inc.,3.14,Healthcare,Stocks,NMS
+ORPH,Orphazyme A/S,1.89,Healthcare,Stocks,NMS
+ORLY,"O'Reilly Automotive, Inc.",634.67,Consumer Cyclical,Stocks,NMS
+ARCB,ArcBest Corporation,83.88,Industrials,Stocks,NMS
+AZPN,"Aspen Technology, Inc.",145.75,Technology,Stocks,NMS
+AAWW,Atlas Air Worldwide Holdings,76.08,Industrials,Stocks,NMS
+API,"Agora, Inc.",9.29,Technology,Stocks,NMS
+ADPT,Adaptive Biotechnologies Corpor,14.36,Healthcare,Stocks,NMS
+APLS,"Apellis Pharmaceuticals, Inc.",37.22,Healthcare,Stocks,NMS
+ARBK,Argo Blockchain plc,9.24,Financial Services,Stocks,NMS
+ANSS,"ANSYS, Inc.",309.62,Technology,Stocks,NMS
+APRE,"Aprea Therapeutics, Inc.",1.91,Healthcare,Stocks,NMS
+ATNX,"Athenex, Inc.",0.94,Healthcare,Stocks,NMS
+AY,Atlantica Sustainable Infrastru,31.87,Utilities,Stocks,NMS
+AVAV,"AeroVironment, Inc.",54.00,Industrials,Stocks,NMS
+AUDC,AudioCodes Ltd.,28.17,Technology,Stocks,NMS
+ANGI,Angi Inc.,7.58,Communication Services,Stocks,NMS
+MESA,"Mesa Air Group, Inc.",4.67,Industrials,Stocks,NMS
+SRAD,Sportradar Group AG,12.65,Technology,Stocks,NMS
+ABMD,"ABIOMED, Inc.",277.30,Healthcare,Stocks,NMS
+ACTG,Acacia Research Corporation,4.22,Industrials,Stocks,NMS
+RCII,Rent-A-Center Inc.,41.78,Industrials,Stocks,NMS
+GLPI,"Gaming and Leisure Properties, ",42.80,Real Estate,Stocks,NMS
+ARGX,argenx SE,254.45,Healthcare,Stocks,NMS
+ACOR,"Acorda Therapeutics, Inc.",1.71,Healthcare,Stocks,NMS
+CENX,Century Aluminum Company,15.51,Basic Materials,Stocks,NMS
+ARHS,"Arhaus, Inc.",8.25,Consumer Cyclical,Stocks,NMS
+JKHY,"Jack Henry & Associates, Inc.",157.22,Technology,Stocks,NMS
+ACGL,Arch Capital Group Ltd.,44.78,Financial Services,Stocks,NMS
+AXTI,AXT Inc,6.76,Technology,Stocks,NMS
+BCEL,"Atreca, Inc.",1.74,Healthcare,Stocks,NMS
+VRSK,"Verisk Analytics, Inc.",188.30,Industrials,Stocks,NMS
+ACCD,"Accolade, Inc.",15.89,Healthcare,Stocks,NMS
+ANDE,"The Andersons, Inc.",37.90,Consumer Defensive,Stocks,NMS
+AMED,Amedisys Inc,124.79,Healthcare,Stocks,NMS
+AFIN,"American Finance Trust, Inc.",8.06,Real Estate,Stocks,NMS
+AVNW,"Aviat Networks, Inc.",28.14,Technology,Stocks,NMS
+ALKS,Alkermes plc,24.56,Healthcare,Stocks,NMS
+ATRO,Astronics Corporation,11.61,Industrials,Stocks,NMS
+HOLI,Hollysys Automation Technologie,13.64,Industrials,Stocks,NMS
+ACVA,ACV Auctions Inc.,12.32,Technology,Stocks,NMS
+LNT,Alliant Energy Corporation,58.91,Utilities,Stocks,NMS
+GMAB,Genmab A/S,31.71,Healthcare,Stocks,NMS
+AMCX,AMC Networks Inc.,38.56,Communication Services,Stocks,NMS
+ALTR,Altair Engineering Inc.,57.74,Technology,Stocks,NMS
+AVDX,"AvidXchange Holdings, Inc.",8.80,Technology,Stocks,NMS
+ABSI,Absci Corporation,5.87,Healthcare,Stocks,NMS
+ALEC,"Alector, Inc.",14.10,Healthcare,Stocks,NMS
+AFIB,"Acutus Medical, Inc.",2.03,Healthcare,Stocks,NMS
+RAIL,"Freightcar America, Inc.",3.19,Industrials,Stocks,NMS
+APYX,Apyx Medical Corporation,10.77,Healthcare,Stocks,NMS
+ALGM,"Allegro MicroSystems, Inc.",25.61,Technology,Stocks,NMS
+MOLN,Molecular Partners AG,27.96,Healthcare,Stocks,NMS
+ALXO,ALX Oncology Holdings Inc.,14.36,Healthcare,Stocks,NMS
+ADTN,"ADTRAN, Inc.",17.71,Technology,Stocks,NMS
+AVRO,"AVROBIO, Inc.",1.74,Healthcare,Stocks,NMS
+AGYS,"Agilysys, Inc.",35.31,Technology,Stocks,NMS
+AGIO,"Agios Pharmaceuticals, Inc.",29.23,Healthcare,Stocks,NMS
+ALLT,Allot Ltd.,8.72,Technology,Stocks,NMS
+AMYT,Amryt Pharma plc,10.64,Healthcare,Stocks,NMS
+AOUT,"American Outdoor Brands, Inc.",15.93,Consumer Cyclical,Stocks,NMS
+AZTA,"Azenta, Inc.",76.38,Healthcare,Stocks,NMS
+AVID,"Avid Technology, Inc.",28.23,Communication Services,Stocks,NMS
+ALCO,"Alico, Inc.",35.50,Consumer Defensive,Stocks,NMS
+ASND,Ascendis Pharma A/S,115.01,Healthcare,Stocks,NMS
+ALGT,Allegiant Travel Company,171.98,Industrials,Stocks,NMS
+ARVN,"Arvinas, Inc.",65.28,Healthcare,Stocks,NMS
+CACC,Credit Acceptance Corporation,526.96,Financial Services,Stocks,NMS
+AEIS,"Advanced Energy Industries, Inc",79.24,Industrials,Stocks,NMS
+AMRK,"A-Mark Precious Metals, Inc.",58.81,Financial Services,Stocks,NMS
+CALT,Calliditas Therapeutics AB,18.66,Healthcare,Stocks,NMS
+ALGS,"Aligos Therapeutics, Inc.",2.75,Healthcare,Stocks,NMS
+ASMB,"Assembly Biosciences, Inc.",1.71,Healthcare,Stocks,NMS
+ARAV,"Aravive, Inc.",2.08,Healthcare,Stocks,NMS
+ATEC,"Alphatec Holdings, Inc.",9.45,Healthcare,Stocks,NMS
+UHAL,Amerco,588.25,Industrials,Stocks,NMS
+USAP,Universal Stainless & Alloy Pro,8.59,Basic Materials,Stocks,NMS
+TA,TravelCenters of America Inc.,42.19,Consumer Cyclical,Stocks,NMS
+ATHA,"Athira Pharma, Inc.",9.91,Healthcare,Stocks,NMS
+ASPS,Altisource Portfolio Solutions ,10.69,Financial Services,Stocks,NMS
+DOX,Amdocs Limited,74.46,Technology,Stocks,NMS
+ATLC,Atlanticus Holdings Corporation,63.30,Financial Services,Stocks,NMS
+AUTL,Autolus Therapeutics plc,3.74,Healthcare,Stocks,NMS
+MANH,"Manhattan Associates, Inc.",124.55,Technology,Stocks,NMS
+WRLD,World Acceptance Corporation,182.73,Financial Services,Stocks,NMS
+CRESY,Cresud S.A.C.I.F. y A.,4.79,Industrials,Stocks,NMS
+AKRO,"Akero Therapeutics, Inc.",16.44,Healthcare,Stocks,NMS
+ALKT,"Alkami Technology, Inc.",13.73,Technology,Stocks,NMS
+AMLX,"Amylyx Pharmaceuticals, Inc.",18.94,Healthcare,Stocks,NMS
+AROW,Arrow Financial Corporation,35.39,Financial Services,Stocks,NMS
+ALRM,"Alarm.com Holdings, Inc.",68.87,Technology,Stocks,NMS
+ALHC,"Alignment Healthcare, Inc.",6.42,Healthcare,Stocks,NMS
+APOG,"Apogee Enterprises, Inc.",45.14,Industrials,Stocks,NMS
+AMPH,"Amphastar Pharmaceuticals, Inc.",25.03,Healthcare,Stocks,NMS
+LAMR,Lamar Advertising Company,104.63,Real Estate,Stocks,NMS
+AXNX,"Axonics, Inc.",43.74,Healthcare,Stocks,NMS
+AUB,Atlantic Union Bankshares Corpo,39.61,Financial Services,Stocks,NMS
+ALVR,"AlloVir, Inc.",6.89,Healthcare,Stocks,NMS
+ATSG,"Air Transport Services Group, I",26.01,Industrials,Stocks,NMS
+ANAB,"AnaptysBio, Inc.",29.99,Healthcare,Stocks,NMS
+AAON,"AAON, Inc.",61.96,Industrials,Stocks,NMS
+AMTI,Applied Molecular Transport Inc,8.01,Healthcare,Stocks,NMS
+ASYS,"Amtech Systems, Inc.",8.06,Technology,Stocks,NMS
+GABC,"German American Bancorp, Inc.",38.93,Financial Services,Stocks,NMS
+MOR,MorphoSys AG,7.44,Healthcare,Stocks,NMS
+BZ,KANZHUN LIMITED - American Depo,27.95,Industrials,Stocks,NMS
+ADV,Advantage Solutions Inc.,6.47,Communication Services,Stocks,NMS
+ACRS,"Aclaris Therapeutics, Inc.",10.10,Healthcare,Stocks,NMS
+ARTNA,Artesian Resources Corporation,47.48,Utilities,Stocks,NMS
+SNCY,"Sun Country Airlines Holdings, ",24.28,Industrials,Stocks,NMS
+ACIW,"ACI Worldwide, Inc.",32.30,Technology,Stocks,NMS
+FWRD,Forward Air Corporation,101.45,Industrials,Stocks,NMS
+ABCB,Ameris Bancorp,49.67,Financial Services,Stocks,NMS
+AVAH,Aveanna Healthcare Holdings Inc,5.40,Healthcare,Stocks,NMS
+ATAX,America First Multifamily Inves,6.55,Financial Services,Stocks,NMS
+ACHL,Achilles Therapeutics plc,3.55,Healthcare,Stocks,NMS
+ABST,Absolute Software Corporation,7.49,Technology,Stocks,NMS
+IAS,Integral Ad Science Holding Cor,14.82,Communication Services,Stocks,NMS
+ADUS,Addus HomeCare Corporation,73.50,Healthcare,Stocks,NMS
+ARQT,"Arcutis Biotherapeutics, Inc.",14.38,Healthcare,Stocks,NMS
+GIII,"G-III Apparel Group, LTD.",25.93,Consumer Cyclical,Stocks,NMS
+ACHC,"Acadia Healthcare Company, Inc.",50.85,Healthcare,Stocks,NMS
+AGNCP,AGNC Investment Corp. - Deposit,24.50,Real Estate,Stocks,NMS
+AKYA,"Akoya BioSciences, Inc.",9.99,Healthcare,Stocks,NMS
+ABOS,"Acumen Pharmaceuticals, Inc.",4.85,Healthcare,Stocks,NMS
+AFYA,Afya Limited,14.04,Consumer Defensive,Stocks,NMS
+VIACP,ViacomCBS Inc. - 5.75% Series A,56.26,Communication Services,Stocks,NMS
+LILA,Liberty Latin America Ltd.,10.54,Communication Services,Stocks,NMS
+KALU,Kaiser Aluminum Corporation,92.88,Basic Materials,Stocks,NMS
+AMSF,"AMERISAFE, Inc.",51.53,Financial Services,Stocks,NMS
+APR,"Apria, Inc.",37.20,Healthcare,Stocks,NMS
+ANGN,Angion Biomedica Corp.,2.17,Healthcare,Stocks,NMS
+CRMT,"America's Car-Mart, Inc.",92.12,Consumer Cyclical,Stocks,NMS
+ANGO,"AngioDynamics, Inc.",20.46,Healthcare,Stocks,NMS
+ASTE,"Astec Industries, Inc.",63.13,Industrials,Stocks,NMS
+AMWD,American Woodmark Corporation,58.42,Consumer Cyclical,Stocks,NMS
+ANNX,"Annexon, Inc.",7.00,Healthcare,Stocks,NMS
+LILAK,Liberty Latin America Ltd.,10.30,Communication Services,Stocks,NMS
+AMNB,"American National Bankshares, I",37.55,Financial Services,Stocks,NMS
+FA,First Advantage Corporation,15.82,Industrials,Stocks,NMS
+AKUS,"Akouos, Inc.",5.72,Healthcare,Stocks,NMS
+MYNA,Mynaric AG - American Depositor,10.18,Technology,Stocks,NMS
+AMTB,Amerant Bancorp Inc.,33.72,Financial Services,Stocks,NMS
+AMSWA,"American Software, Inc.",22.08,Technology,Stocks,NMS
+ANIK,Anika Therapeutics Inc.,31.50,Healthcare,Stocks,NMS
+ATRI,Atrion Corporation,607.31,Healthcare,Stocks,NMS
+GET,Getnet Adquirencia e Servicos p,1.20,Technology,Stocks,NMS
+ISSC,Innovative Solutions and Suppor,6.61,Industrials,Stocks,NMS
+ANAT,"American National Group, Inc.",188.42,Financial Services,Stocks,NMS
+AIMC,Altra Industrial Motion Corp.,46.48,Industrials,Stocks,NMS
+ARCE,Arco Platform Limited,20.68,Consumer Defensive,Stocks,NMS
+FCRD,First Eagle Alternative Capital,4.35,Financial Services,Stocks,NMS
+APEI,"American Public Education, Inc.",20.46,Consumer Defensive,Stocks,NMS
+AGFS,"AgroFresh Solutions, Inc.",1.97,Consumer Defensive,Stocks,NMS
+STFC,State Auto Financial Corporatio,51.58,Financial Services,Stocks,NMS
+OMAB,Grupo Aeroportuario del Centro ,51.21,Industrials,Stocks,NMS
+ATNI,"ATN International, Inc.",38.84,Communication Services,Stocks,NMS
+ITRN,Ituran Location and Control Ltd,23.00,Technology,Stocks,NMS
+CPSI,"Computer Programs and Systems, ",27.50,Healthcare,Stocks,NMS
+ABCM,Abcam plc,16.99,Healthcare,Stocks,NMS
+VECT,VectivBio Holding AG,4.93,Healthcare,Stocks,NMS
+ACBI,"Atlantic Capital Bancshares, In",29.60,Financial Services,Stocks,NMS
+MPAA,"Motorcar Parts of America, Inc.",16.46,Consumer Cyclical,Stocks,NMS
+AGNCO,AGNC Investment Corp. - Deposit,24.75,Real Estate,Stocks,NMS
+ZEAL,Zealand Pharma A/S,18.71,Healthcare,Stocks,NMS
+AGNCM,AGNC Investment Corp. - Deposit,24.94,Real Estate,Stocks,NMS
+ATLCP,Atlanticus Holdings Corporation,25.24,Financial Services,Stocks,NMS
+APPHW,"AppHarvest, Inc.",0.52,Consumer Defensive,Stocks,NMS
+OZKAP,Bank OZK - 4.625% Series A Non-,23.62,Financial Services,Stocks,NMS
+AFINP,"American Finance Trust, Inc. - ",26.08,Real Estate,Stocks,NMS
+BGRYW,Revolution Acceleration Acquisi,0.58,Industrials,Stocks,NMS
+AGNCN,AGNC Investment Corp. - Deposit,24.97,Real Estate,Stocks,NMS
+ASTSW,"AST SpaceMobile, Inc.",1.75,Communication Services,Stocks,NMS
+BIOS,BioPlus Acquisition Corp. Class,0.00,Financial Services,Stocks,NMS
+GTXAP,Garrett Motion Inc. - Series A ,7.80,Consumer Cyclical,Stocks,NMS
+AFINO,"American Finance Trust, Inc. - ",26.26,Real Estate,Stocks,NMS
+BOCN,Blue Ocean Acquisition Corp Cla,0.00,Financial Services,Stocks,NMS
+TANNL,TravelCenters of America Inc.  ,25.90,N/A,Stocks,NMS
+AEPPZ,American Electric Power Company,52.42,Utilities,Stocks,NMS
+ACGLN,Arch Capital Group Ltd. - Depos,24.20,Financial Services,Stocks,NMS
+AUBAP,Atlantic Union Bankshares Corpo,26.77,Financial Services,Stocks,NMS
+TANNI,TravelCenters of America Inc.  ,25.95,N/A,Stocks,NMS
+AEPPL,American Electric Power Company,50.18,Utilities,Stocks,NMS
+TANNZ,TravelCenters of America Inc.  ,25.60,N/A,Stocks,NMS
+MAPSW,Silver Spike Acquisition Corp.,0.98,Technology,Stocks,NMS
+ACGLO,Arch Capital Group Ltd. - Depos,25.12,Financial Services,Stocks,NMS
+ADVWW,Advantage Solutions Inc.,2.35,Communication Services,Stocks,NMS
+FB,"Meta Platforms, Inc.",294.61,Communication Services,Stocks,NMS
+TLRY,"Tilray Brands, Inc. - Class 2",5.22,Healthcare,Stocks,NMS
+BNTX,BioNTech SE,154.54,Healthcare,Stocks,NMS
+AVGO,Broadcom Inc.,542.31,Technology,Stocks,NMS
+TCBP,TC BioPharm (Holdings) plc,0.00,Healthcare,Stocks,NMS
+BYND,"Beyond Meat, Inc.",56.56,Consumer Defensive,Stocks,NMS
+BBBY,Bed Bath & Beyond Inc.,13.83,Consumer Cyclical,Stocks,NMS
+BIDU,"Baidu, Inc.",143.73,Communication Services,Stocks,NMS
+BCRX,"BioCryst Pharmaceuticals, Inc.",14.12,Healthcare,Stocks,NMS
+VIR,"Vir Biotechnology, Inc.",31.26,Healthcare,Stocks,NMS
+SBLK,Star Bulk Carriers Corp.,21.48,Industrials,Stocks,NMS
+PACB,Pacific Biosciences of Californ,9.42,Healthcare,Stocks,NMS
+BIIB,Biogen Inc.,218.94,Healthcare,Stocks,NMS
+HBAN,Huntington Bancshares Incorpora,15.06,Financial Services,Stocks,NMS
+BILI,Bilibili Inc.,30.25,Communication Services,Stocks,NMS
+BEAM,Beam Therapeutics Inc.,59.69,Healthcare,Stocks,NMS
+BKR,Baker Hughes Company,27.30,Energy,Stocks,NMS
+BMBL,Bumble Inc.,26.78,Technology,Stocks,NMS
+BKNG,Booking Holdings Inc. Common St,"2,359.65",Consumer Cyclical,Stocks,NMS
+ULTA,"Ulta Beauty, Inc.",351.58,Consumer Cyclical,Stocks,NMS
+SWBI,"Smith & Wesson Brands, Inc.",16.08,Industrials,Stocks,NMS
+XERS,"Xeris Biopharma Holdings, Inc.",2.00,Healthcare,Stocks,NMS
+BGFV,Big 5 Sporting Goods Corporatio,18.94,Consumer Cyclical,Stocks,NMS
+GRTS,"Gritstone bio, Inc.",4.74,Healthcare,Stocks,NMS
+BBIO,"BridgeBio Pharma, Inc.",8.95,Healthcare,Stocks,NMS
+BLUE,"bluebird bio, Inc.",7.30,Healthcare,Stocks,NMS
+BDSI,BioDelivery Sciences Internatio,3.66,Healthcare,Stocks,NMS
+FITB,Fifth Third Bancorp,44.23,Financial Services,Stocks,NMS
+MNST,Monster Beverage Corporation,83.17,Consumer Defensive,Stocks,NMS
+FIVE,"Five Below, Inc.",154.40,Consumer Cyclical,Stocks,NMS
+TWST,Twist Bioscience Corporation,51.34,Healthcare,Stocks,NMS
+SBNY,Signature Bank,296.48,Financial Services,Stocks,NMS
+BZUN,Baozun Inc.,11.53,Consumer Cyclical,Stocks,NMS
+CBRL,Cracker Barrel Old Country Stor,114.81,Consumer Cyclical,Stocks,NMS
+NWL,Newell Brands Inc.,23.15,Consumer Defensive,Stocks,NMS
+BMRN,BioMarin Pharmaceutical Inc.,83.05,Healthcare,Stocks,NMS
+EGLE,Eagle Bulk Shipping Inc.,43.63,Industrials,Stocks,NMS
+FCNCA,"First Citizens BancShares, Inc.",770.06,Financial Services,Stocks,NMS
+LOB,"Live Oak Bancshares, Inc.",54.00,Financial Services,Stocks,NMS
+VLY,Valley National Bancorp,13.35,Financial Services,Stocks,NMS
+BLI,"Berkeley Lights, Inc.",8.20,Healthcare,Stocks,NMS
+GBT,"Global Blood Therapeutics, Inc.",25.68,Healthcare,Stocks,NMS
+PBYI,Puma Biotechnology Inc,2.25,Healthcare,Stocks,NMS
+ZION,Zions Bancorporation N.A.,66.99,Financial Services,Stocks,NMS
+CRBU,"Caribou Biosciences, Inc.",10.07,Healthcare,Stocks,NMS
+BGRY,"Berkshire Grey, Inc.",3.12,Industrials,Stocks,NMS
+BSY,"Bentley Systems, Incorporated",37.09,Technology,Stocks,NMS
+BAND,Bandwidth Inc.,55.79,Technology,Stocks,NMS
+TSVT,"2seventy bio, Inc.",16.76,Healthcare,Stocks,NMS
+SLDB,Solid Biosciences Inc.,1.13,Healthcare,Stocks,NMS
+PLAY,"Dave & Buster's Entertainment, ",34.12,Communication Services,Stocks,NMS
+IBKR,"Interactive Brokers Group, Inc.",64.84,Financial Services,Stocks,NMS
+CALA,"Calithera Biosciences, Inc.",0.41,Healthcare,Stocks,NMS
+HOPE,"Hope Bancorp, Inc.",16.69,Financial Services,Stocks,NMS
+PRVB,"Provention Bio, Inc.",3.40,Healthcare,Stocks,NMS
+JACK,Jack In The Box Inc.,89.50,Consumer Cyclical,Stocks,NMS
+BGNE,"BeiGene, Ltd.",202.90,Healthcare,Stocks,NMS
+BHF,"Brighthouse Financial, Inc.",52.80,Financial Services,Stocks,NMS
+UBX,"Unity Biotechnology, Inc.",1.03,Healthcare,Stocks,NMS
+BL,"BlackLine, Inc.",82.58,Technology,Stocks,NMS
+WB,Weibo Corporation,31.00,Communication Services,Stocks,NMS
+TCPC,BlackRock TCP Capital Corp.,13.30,Financial Services,Stocks,NMS
+NWBI,"Northwest Bancshares, Inc.",14.02,Financial Services,Stocks,NMS
+SPRB,"Spruce Biosciences, Inc.",2.26,Healthcare,Stocks,NMS
+RRGB,"Red Robin Gourmet Burgers, Inc.",13.80,Consumer Cyclical,Stocks,NMS
+EWBC,"East West Bancorp, Inc.",82.61,Financial Services,Stocks,NMS
+IGMS,"IGM Biosciences, Inc.",16.85,Healthcare,Stocks,NMS
+EBC,"Eastern Bankshares, Inc.",20.29,Financial Services,Stocks,NMS
+BKCC,BlackRock Capital Investment Co,4.07,Financial Services,Stocks,NMS
+DTIL,"Precision BioSciences, Inc.",4.25,Healthcare,Stocks,NMS
+NAUT,"Nautilus Biotechnology, Inc.",3.87,Healthcare,Stocks,NMS
+TECH,Bio-Techne Corp,353.85,Healthcare,Stocks,NMS
+NBIX,"Neurocrine Biosciences, Inc.",72.45,Healthcare,Stocks,NMS
+BRZE,"Braze, Inc.",48.53,Technology,Stocks,NMS
+BLMN,"Bloomin' Brands, Inc.",19.47,Consumer Cyclical,Stocks,NMS
+SANA,"Sana Biotechnology, Inc.",7.95,Healthcare,Stocks,NMS
+ISBC,"Investors Bancorp, Inc.",16.25,Financial Services,Stocks,NMS
+OZK,Bank OZK,46.46,Financial Services,Stocks,NMS
+BLU,BELLUS Health Inc.,5.64,Healthcare,Stocks,NMS
+OB,Outbrain Inc.,12.47,Communication Services,Stocks,NMS
+UBSI,"United Bankshares, Inc.",35.20,Financial Services,Stocks,NMS
+BDTX,"Black Diamond Therapeutics, Inc",3.58,Healthcare,Stocks,NMS
+FIBK,"First Interstate BancSystem, In",37.55,Financial Services,Stocks,NMS
+DRVN,Driven Brands Holdings Inc.,26.39,Consumer Cyclical,Stocks,NMS
+BGCP,"BGC Partners, Inc.",4.00,Financial Services,Stocks,NMS
+BPMC,Blueprint Medicines Corporation,70.11,Healthcare,Stocks,NMS
+ISEE,"IVERIC bio, Inc.",12.35,Healthcare,Stocks,NMS
+BOLT,"Bolt Biotherapeutics, Inc.",3.25,Healthcare,Stocks,NMS
+BSET,"Bassett Furniture Industries, I",13.89,Consumer Cyclical,Stocks,NMS
+FARM,Farmer Brothers Company,6.03,Consumer Defensive,Stocks,NMS
+PEBO,Peoples Bancorp Inc.,32.77,Financial Services,Stocks,NMS
+GBDC,"Golub Capital BDC, Inc.",15.53,Financial Services,Stocks,NMS
+PACW,PacWest Bancorp,46.03,Financial Services,Stocks,NMS
+BRY,Berry Corporation (bry),8.62,Energy,Stocks,NMS
+VIVO,Meridian Bioscience Inc.,20.67,Healthcare,Stocks,NMS
+KLDO,"Kaleido Biosciences, Inc.",1.89,Healthcare,Stocks,NMS
+HBNC,"Horizon Bancorp, Inc.",21.01,Financial Services,Stocks,NMS
+TRIB,Trinity Biotech plc,1.16,Healthcare,Stocks,NMS
+GRCL,Gracell Biotechnologies Inc.,3.32,Healthcare,Stocks,NMS
+CGBD,"TCG BDC, Inc.",13.91,Financial Services,Stocks,NMS
+AVGOP,Broadcom Inc. - 8.00% Mandatory,"1,708.36",Technology,Stocks,NMS
+FIZZ,National Beverage Corp.,41.90,Consumer Defensive,Stocks,NMS
+WASH,"Washington Trust Bancorp, Inc.",57.54,Financial Services,Stocks,NMS
+BMEA,"Biomea Fusion, Inc.",6.63,Healthcare,Stocks,NMS
+DOOO,BRP Inc.,79.30,Consumer Cyclical,Stocks,NMS
+FFIN,"First Financial Bankshares, Inc",46.81,Financial Services,Stocks,NMS
+BRKR,Bruker Corporation,63.02,Healthcare,Stocks,NMS
+SBGI,"Sinclair Broadcast Group, Inc.",26.30,Communication Services,Stocks,NMS
+BJRI,"BJ's Restaurants, Inc.",29.06,Consumer Cyclical,Stocks,NMS
+PASG,"Passage Bio, Inc.",4.50,Healthcare,Stocks,NMS
+BBQ,"BBQ Holdings, Inc.",14.58,Consumer Cyclical,Stocks,NMS
+TRST,TrustCo Bank Corp NY,33.99,Financial Services,Stocks,NMS
+LEGN,Legend Biotech Corporation,35.78,Healthcare,Stocks,NMS
+PCRX,"Pacira BioSciences, Inc.",61.44,Healthcare,Stocks,NMS
+COLB,"Columbia Banking System, Inc.",34.44,Financial Services,Stocks,NMS
+TIL,"Instil Bio, Inc.",10.47,Healthcare,Stocks,NMS
+BUSE,First Busey Corporation,27.60,Financial Services,Stocks,NMS
+BLFY,Blue Foundry Bancorp,14.52,Financial Services,Stocks,NMS
+GOSS,"Gossamer Bio, Inc.",8.71,Healthcare,Stocks,NMS
+BTRS,BTRS Holdings Inc. - Class 1,5.73,Technology,Stocks,NMS
+CBSH,"Commerce Bancshares, Inc.",66.98,Financial Services,Stocks,NMS
+ONB,Old National Bancorp,18.45,Financial Services,Stocks,NMS
+STBA,"S&T Bancorp, Inc.",30.71,Financial Services,Stocks,NMS
+BLKB,"Blackbaud, Inc.",66.02,Technology,Stocks,NMS
+BRKL,"Brookline Bancorp, Inc.",16.92,Financial Services,Stocks,NMS
+CATY,Cathay General Bancorp,42.63,Financial Services,Stocks,NMS
+LBAI,"Lakeland Bancorp, Inc.",18.87,Financial Services,Stocks,NMS
+BVS,Bioventus Inc.,12.56,Healthcare,Stocks,NMS
+NBTB,NBT Bancorp Inc.,38.25,Financial Services,Stocks,NMS
+BRAG,Bragg Gaming Group Inc.,4.62,Communication Services,Stocks,NMS
+CABA,"Cabaletta Bio, Inc.",2.58,Healthcare,Stocks,NMS
+RXDX,"Prometheus Biosciences, Inc.",32.90,Healthcare,Stocks,NMS
+IBCP,Independent Bank Corporation,24.41,Financial Services,Stocks,NMS
+BRP,"BRP Group, Inc.",26.89,Financial Services,Stocks,NMS
+BECN,"Beacon Roofing Supply, Inc.",51.78,Industrials,Stocks,NMS
+JBSS,"John B. Sanfilippo & Son, Inc.",82.42,Consumer Defensive,Stocks,NMS
+TBK,"Triumph Bancorp, Inc.",81.84,Financial Services,Stocks,NMS
+DISCB,"Discovery, Inc. - Series B",31.30,Communication Services,Stocks,NMS
+IOBT,"IO Biotech, Inc.",7.29,Healthcare,Stocks,NMS
+CTBI,"Community Trust Bancorp, Inc.",44.29,Financial Services,Stocks,NMS
+FFBC,First Financial Bancorp.,24.79,Financial Services,Stocks,NMS
+BCYC,Bicycle Therapeutics plc,46.32,Healthcare,Stocks,NMS
+VRA,"Vera Bradley, Inc.",7.85,Consumer Cyclical,Stocks,NMS
+RCKY,"Rocky Brands, Inc.",40.55,Consumer Cyclical,Stocks,NMS
+CTKB,"Cytek Biosciences, Inc.",13.46,Healthcare,Stocks,NMS
+BCOV,Brightcove Inc.,9.08,Technology,Stocks,NMS
+WNEB,"Western New England Bancorp, In",9.23,Financial Services,Stocks,NMS
+SYBT,"Stock Yards Bancorp, Inc.",59.17,Financial Services,Stocks,NMS
+ROLL,RBC Bearings Incorporated,178.98,Industrials,Stocks,NMS
+BELFB,Bel Fuse Inc.,12.20,Technology,Stocks,NMS
+BOKF,BOK Financial Corporation,98.77,Financial Services,Stocks,NMS
+NGM,"NGM Biopharmaceuticals, Inc.",15.40,Healthcare,Stocks,NMS
+TCBI,"Texas Capital Bancshares, Inc.",61.86,Financial Services,Stocks,NMS
+EVLO,"Evelo Biosciences, Inc.",4.43,Healthcare,Stocks,NMS
+RBB,RBB Bancorp,26.85,Financial Services,Stocks,NMS
+TOWN,Towne Bank,31.13,Financial Services,Stocks,NMS
+MSBI,"Midland States Bancorp, Inc.",26.57,Financial Services,Stocks,NMS
+NFBK,"Northfield Bancorp, Inc.",15.85,Financial Services,Stocks,NMS
+FBNC,First Bancorp,44.04,Financial Services,Stocks,NMS
+HONE,"HarborOne Bancorp, Inc.",14.24,Financial Services,Stocks,NMS
+SASR,"Sandy Spring Bancorp, Inc.",46.80,Financial Services,Stocks,NMS
+BANR,Banner Corporation,61.24,Financial Services,Stocks,NMS
+VOR,Vor Biopharma Inc.,7.61,Healthcare,Stocks,NMS
+UCBI,"United Community Banks, Inc.",35.08,Financial Services,Stocks,NMS
+CNOB,"ConnectOne Bancorp, Inc.",33.97,Financial Services,Stocks,NMS
+BIOX,Bioceres Crop Solutions Corp.,12.21,Basic Materials,Stocks,NMS
+BCOR,"Blucora, Inc.",15.45,Financial Services,Stocks,NMS
+DAWN,"Day One Biopharmaceuticals, Inc",13.25,Healthcare,Stocks,NMS
+EPAY,"Bottomline Technologies, Inc.",56.32,Technology,Stocks,NMS
+IBTX,"Independent Bank Group, Inc",74.63,Financial Services,Stocks,NMS
+MCBC,Macatawa Bank Corporation,9.09,Financial Services,Stocks,NMS
+DCOM,"Dime Community Bancshares, Inc.",35.10,Financial Services,Stocks,NMS
+LBRDA,Liberty Broadband Corporation,137.71,Communication Services,Stocks,NMS
+INDB,Independent Bank Corp.,82.73,Financial Services,Stocks,NMS
+TBBK,"The Bancorp, Inc.",26.75,Financial Services,Stocks,NMS
+BCPC,Balchem Corporation,142.75,Basic Materials,Stocks,NMS
+LCUT,"Lifetime Brands, Inc.",15.76,Consumer Cyclical,Stocks,NMS
+FCBC,"First Community Bankshares, Inc",32.64,Financial Services,Stocks,NMS
+SBCF,Seacoast Banking Corporation of,36.67,Financial Services,Stocks,NMS
+LBRDK,Liberty Broadband Corporation,139.59,Communication Services,Stocks,NMS
+OSBC,"Old Second Bancorp, Inc.",13.33,Financial Services,Stocks,NMS
+KRON,"Kronos Bio, Inc.",9.20,Healthcare,Stocks,NMS
+BFST,"Business First Bancshares, Inc.",27.20,Financial Services,Stocks,NMS
+RVSB,Riverview Bancorp Inc,7.65,Financial Services,Stocks,NMS
+PCB,PCB Bancorp,22.54,Financial Services,Stocks,NMS
+OBNK,"Origin Bancorp, Inc.",41.86,Financial Services,Stocks,NMS
+EQBK,"Equity Bancshares, Inc.",33.09,Financial Services,Stocks,NMS
+GBIO,Generation Bio Co.,5.87,Healthcare,Stocks,NMS
+TCBK,TriCo Bancshares,43.50,Financial Services,Stocks,NMS
+IDYA,"IDEAYA Biosciences, Inc.",15.21,Healthcare,Stocks,NMS
+CFB,"CrossFirst Bankshares, Inc.",15.57,Financial Services,Stocks,NMS
+WTBA,West Bancorporation,29.99,Financial Services,Stocks,NMS
+BBSI,"Barrett Business Services, Inc.",64.37,Industrials,Stocks,NMS
+CBNK,"Capital Bancorp, Inc.",25.44,Financial Services,Stocks,NMS
+MCBS,"MetroCity Bankshares, Inc.",25.40,Financial Services,Stocks,NMS
+PWOD,"Penns Woods Bancorp, Inc.",24.10,Financial Services,Stocks,NMS
+SBSI,"Southside Bancshares, Inc.",41.80,Financial Services,Stocks,NMS
+LBC,Luther Burbank Corporation,13.19,Financial Services,Stocks,NMS
+EBTC,Enterprise Bancorp Inc,41.79,Financial Services,Stocks,NMS
+ICMB,Investcorp Credit Management BD,5.19,Financial Services,Stocks,NMS
+BANF,BancFirst Corporation,74.55,Financial Services,Stocks,NMS
+STXB,"Spirit of Texas Bancshares, Inc",27.68,Financial Services,Stocks,NMS
+BPRN,The Bank of Princeton,30.22,Financial Services,Stocks,NMS
+BSVN,Bank7 Corp.,23.28,Financial Services,Stocks,NMS
+GSBC,"Great Southern Bancorp, Inc.",58.49,Financial Services,Stocks,NMS
+RBCAA,"Republic Bancorp, Inc.",48.59,Financial Services,Stocks,NMS
+KNTE,Kinnate Biopharma Inc.,10.76,Healthcare,Stocks,NMS
+FMBI,"First Midwest Bancorp, Inc.",20.90,Financial Services,Stocks,NMS
+HBCP,"Home Bancorp, Inc.",39.96,Financial Services,Stocks,NMS
+CARE,"Carter Bankshares, Inc.",15.17,Financial Services,Stocks,NMS
+PFBC,Preferred Bank,78.71,Financial Services,Stocks,NMS
+PPBI,Pacific Premier Bancorp Inc,37.50,Financial Services,Stocks,NMS
+MBWM,Mercantile Bank Corporation,38.43,Financial Services,Stocks,NMS
+FNLC,"First Bancorp, Inc (ME)",32.45,Financial Services,Stocks,NMS
+COGT,"Cogent Biosciences, Inc.",6.79,Healthcare,Stocks,NMS
+CCBG,Capital City Bank Group,27.76,Financial Services,Stocks,NMS
+IBOC,International Bancshares Corpor,42.28,Financial Services,Stocks,NMS
+BSRR,Sierra Bancorp,26.58,Financial Services,Stocks,NMS
+SSBK,"Southern States Bancshares, Inc",20.91,Financial Services,Stocks,NMS
+INBK,First Internet Bancorp,48.80,Financial Services,Stocks,NMS
+ESSA,"ESSA Bancorp, Inc.",17.48,Financial Services,Stocks,NMS
+RPID,"Rapid Micro Biosystems, Inc.",6.70,Healthcare,Stocks,NMS
+FBIZ,First Business Financial Servic,30.71,Financial Services,Stocks,NMS
+TYRA,"Tyra Biosciences, Inc.",11.35,Healthcare,Stocks,NMS
+BFIN,BankFinancial Corporation,10.76,Financial Services,Stocks,NMS
+SHBI,Shore Bancshares Inc,19.82,Financial Services,Stocks,NMS
+SOVO,"Sovos Brands, Inc.",13.92,Consumer Defensive,Stocks,NMS
+BCML,BayCom Corp,20.40,Financial Services,Stocks,NMS
+HTBI,"HomeTrust Bancshares, Inc.",31.30,Financial Services,Stocks,NMS
+BPYPM,Brookfield Property Partners L.,24.60,Financial Services,Stocks,NMS
+LEVL,"Level One Bancorp, Inc.",39.58,Financial Services,Stocks,NMS
+WABC,Westamerica Bancorporation,57.64,Financial Services,Stocks,NMS
+BELFA,Bel Fuse Inc.,15.26,Technology,Stocks,NMS
+VTYX,"Ventyx Biosciences, Inc.",15.06,Healthcare,Stocks,NMS
+TCBX,"Third Coast Bancshares, Inc.",24.08,Financial Services,Stocks,NMS
+TBNK,Territorial Bancorp Inc.,24.62,Financial Services,Stocks,NMS
+IMGO,"Imago BioSciences, Inc.",17.00,Healthcare,Stocks,NMS
+HWBK,"Hawthorn Bancshares, Inc.",25.66,Financial Services,Stocks,NMS
+NRIM,Northrim BanCorp Inc,43.53,Financial Services,Stocks,NMS
+CALB,California BanCorp,21.94,Financial Services,Stocks,NMS
+UBFO,United Security Bancshares,8.18,Financial Services,Stocks,NMS
+FSBC,Five Star Bancorp,28.54,Financial Services,Stocks,NMS
+RRBI,"Red River Bancshares, Inc.",51.11,Financial Services,Stocks,NMS
+GNTY,"Guaranty Bancshares, Inc.",36.26,Financial Services,Stocks,NMS
+TBLD,Thornburg Income Builder Opport,18.30,Financial Services,Stocks,NMS
+BPYPO,Brookfield Property Partners L.,23.91,Real Estate,Stocks,NMS
+DCOMP,"Dime Community Bancshares, Inc.",24.42,Financial Services,Stocks,NMS
+SBNYP,Signature Bank - Depositary sha,24.30,Financial Services,Stocks,NMS
+HBANP,Huntington Bancshares Incorpora,22.98,Financial Services,Stocks,NMS
+HBANM,Huntington Bancshares Incorpora,25.50,Financial Services,Stocks,NMS
+BPYPP,Brookfield Property Partners L.,24.57,Real Estate,Stocks,NMS
+FITBO,Fifth Third Bancorp - Depositar,25.11,Financial Services,Stocks,NMS
+FITBI,Fifth Third Bancorp - Depositar,27.12,Financial Services,Stocks,NMS
+LBRDP,Liberty Broadband Corporation -,28.15,Communication Services,Stocks,NMS
+BHFAP,"Brighthouse Financial, Inc. - D",25.93,Financial Services,Stocks,NMS
+BHFAN,"Brighthouse Financial, Inc. - d",24.76,Financial Services,Stocks,NMS
+FITBP,Fifth Third Bancorp - Depositar,25.57,Financial Services,Stocks,NMS
+TCBIO,"Texas Capital Bancshares, Inc. ",25.29,Financial Services,Stocks,NMS
+FMBIP,"First Midwest Bancorp, Inc. - D",27.46,Financial Services,Stocks,NMS
+BPYPN,Brookfield Property Partners L.,22.42,Real Estate,Stocks,NMS
+FCNCP,"First Citizens BancShares, Inc.",25.55,Financial Services,Stocks,NMS
+BHFAO,"Brighthouse Financial, Inc. - D",26.30,Financial Services,Stocks,NMS
+FMBIO,"First Midwest Bancorp, Inc. - D",27.24,Financial Services,Stocks,NMS
+ROLLP,RBC Bearings Incorporated - 5.0,95.79,Industrials,Stocks,NMS
+BHFAM,"Brighthouse Financial, Inc. - D",24.40,Financial Services,Stocks,NMS
+UCBIO,"United Community Banks, Inc. - ",26.96,Financial Services,Stocks,NMS
+FCNCO,"First Citizens BancShares, Inc.",26.54,Financial Services,Stocks,NMS
+CNOBP,"ConnectOne Bancorp, Inc. - Depo",25.26,Financial Services,Stocks,NMS
+TBKCP,"Triumph Bancorp, Inc. - Deposit",26.69,Financial Services,Stocks,NMS
+LEVLP,"Level One Bancorp, Inc. - Depos",27.11,Financial Services,Stocks,NMS
+VLYPO,Valley National Bancorp - 5.5% ,24.92,Financial Services,Stocks,NMS
+INBKZ,First Internet Bancorp - Fixed-,25.55,N/A,Stocks,NMS
+VLYPP,Valley National Bancorp - 6.25%,26.43,Financial Services,Stocks,NMS
+BOCNW,Blue Ocean Acquisition Corp War,0.00,Financial Services,Stocks,NMS
+MSFT,Microsoft Corporation,299.92,Technology,Stocks,NMS
+NVDA,NVIDIA Corporation,219.44,Technology,Stocks,NMS
+INTC,Intel Corporation,48.07,Technology,Stocks,NMS
+COIN,"Coinbase Global, Inc.",170.20,Technology,Stocks,NMS
+LRCX,Lam Research Corporation,555.30,Technology,Stocks,NMS
+NKLA,Nikola Corporation,6.97,Consumer Cyclical,Stocks,NMS
+ZM,"Zoom Video Communications, Inc.",136.81,Technology,Stocks,NMS
+COST,Costco Wholesale Corporation,482.52,Consumer Defensive,Stocks,NMS
+WISH,ContextLogic Inc.,2.23,Consumer Cyclical,Stocks,NMS
+CRWD,"CrowdStrike Holdings, Inc.",159.81,Technology,Stocks,NMS
+CRDO,Credo Technology Group Holding ,11.65,Technology,Stocks,NMS
+TCHI,iShares MSCI China Multisector ,0.00,N/A,Stocks,NMS
+SMSA,"Samsara Vision, Inc. Common Sto",0.00,Healthcare,Stocks,NMS
+SSIC,Silver Spike Investment Corp. C,0.00,Healthcare,Stocks,NMS
+CSCO,"Cisco Systems, Inc.",54.62,Technology,Stocks,NMS
+SBUX,Starbucks Corporation,95.33,Consumer Cyclical,Stocks,NMS
+RIDE,Lordstown Motors Corp.,2.47,Consumer Cyclical,Stocks,NMS
+CLNE,Clean Energy Fuels Corp.,5.67,Energy,Stocks,NMS
+CLOV,"Clover Health Investments, Corp",2.25,Healthcare,Stocks,NMS
+CMCSA,Comcast Corporation,48.01,Communication Services,Stocks,NMS
+HUT,Hut 8 Mining Corp.,5.12,Financial Services,Stocks,NMS
+CRTX,"Cortexyme, Inc.",5.59,Healthcare,Stocks,NMS
+WDC,Western Digital Corporation,53.72,Technology,Stocks,NMS
+GERN,Geron Corporation,1.01,Healthcare,Stocks,NMS
+CGC,Canopy Growth Corporation,6.85,Healthcare,Stocks,NMS
+KLAC,KLA Corporation,361.80,Technology,Stocks,NMS
+ON,ON Semiconductor Corporation,53.67,Technology,Stocks,NMS
+CRSR,"Corsair Gaming, Inc.",18.44,Technology,Stocks,NMS
+CROX,"Crocs, Inc.",93.78,Consumer Cyclical,Stocks,NMS
+FANG,"Diamondback Energy, Inc. - Comm",128.64,Energy,Stocks,NMS
+CLVS,"Clovis Oncology, Inc.",1.83,Healthcare,Stocks,NMS
+GOEV,Canoo Inc.,5.27,Consumer Cyclical,Stocks,NMS
+KHC,The Kraft Heinz Company,36.09,Consumer Defensive,Stocks,NMS
+SPWR,SunPower Corporation,15.12,Technology,Stocks,NMS
+NAVI,Navient Corporation,16.64,Financial Services,Stocks,NMS
+CSX,CSX Corporation,33.56,Industrials,Stocks,NMS
+CFLT,"Confluent, Inc.",58.25,Technology,Stocks,NMS
+TSCO,Tractor Supply Company,209.25,Consumer Cyclical,Stocks,NMS
+ME,23andMe Holding Co.,4.21,Healthcare,Stocks,NMS
+SIMO,Silicon Motion Technology Corpo,79.05,Technology,Stocks,NMS
+QDEL,Quidel Corporation,91.50,Healthcare,Stocks,NMS
+PSEC,Prospect Capital Corporation,8.25,Financial Services,Stocks,NMS
+CCXI,"ChemoCentryx, Inc.",24.14,Healthcare,Stocks,NMS
+CHK,Chesapeake Energy Corporation,69.12,Energy,Stocks,NMS
+CORZ,"Core Scientific, Inc.",7.20,Technology,Stocks,NMS
+CSIQ,Canadian Solar Inc.,25.07,Technology,Stocks,NMS
+CZR,"Caesars Entertainment, Inc.",70.40,Consumer Cyclical,Stocks,NMS
+CTXS,"Citrix Systems, Inc.",100.71,Technology,Stocks,NMS
+CRNC,Cerence Inc.,58.95,Technology,Stocks,NMS
+DISCK,"Discovery, Inc. - Series C",24.74,Communication Services,Stocks,NMS
+CHTR,"Charter Communications, Inc.",561.03,Communication Services,Stocks,NMS
+INCY,Incyte Corporation,71.59,Healthcare,Stocks,NMS
+HNST,"The Honest Company, Inc.",5.83,Consumer Cyclical,Stocks,NMS
+EXC,Exelon Corporation,56.13,Utilities,Stocks,NMS
+IRBT,iRobot Corporation,59.62,Consumer Cyclical,Stocks,NMS
+COUP,Coupa Software Incorporated,120.07,Technology,Stocks,NMS
+SSSS,SuRo Capital Corp.,11.88,Financial Services,Stocks,NMS
+CME,CME Group Inc.,223.24,Financial Services,Stocks,NMS
+INSG,Inseego Corp.,4.04,Technology,Stocks,NMS
+KC,Kingsoft Cloud Holdings Limited,7.76,Technology,Stocks,NMS
+ITCI,Intra-Cellular Therapies Inc.,45.46,Healthcare,Stocks,NMS
+RDFN,Redfin Corporation,25.82,Real Estate,Stocks,NMS
+GT,The Goodyear Tire & Rubber Comp,19.79,Consumer Cyclical,Stocks,NMS
+XRX,Xerox Holdings Corporation,20.43,Technology,Stocks,NMS
+OLED,Universal Display Corporation,140.55,Technology,Stocks,NMS
+DCT,"Duck Creek Technologies, Inc.",23.02,Technology,Stocks,NMS
+ENVX,Enovix Corporation,13.68,Industrials,Stocks,NMS
+CDNS,"Cadence Design Systems, Inc.",138.98,Technology,Stocks,NMS
+WEN,Wendy's Company (The),22.17,Consumer Cyclical,Stocks,NMS
+CG,The Carlyle Group Inc.,46.95,Financial Services,Stocks,NMS
+COKE,"Coca-Cola Consolidated, Inc.",566.85,Consumer Defensive,Stocks,NMS
+CSGP,"CoStar Group, Inc.",65.82,Real Estate,Stocks,NMS
+ZBRA,Zebra Technologies Corporation,473.23,Technology,Stocks,NMS
+CHKP,Check Point Software Technologi,117.44,Technology,Stocks,NMS
+PLTK,Playtika Holding Corp.,15.13,Communication Services,Stocks,NMS
+UCTT,"Ultra Clean Holdings, Inc.",45.25,Technology,Stocks,NMS
+SABR,Sabre Corporation,8.55,Technology,Stocks,NMS
+FAST,Fastenal Company,54.83,Industrials,Stocks,NMS
+INFN,Infinera Corporation,7.93,Technology,Stocks,NMS
+CERN,Cerner Corporation,91.38,Healthcare,Stocks,NMS
+COHU,"Cohu, Inc.",30.52,Technology,Stocks,NMS
+YELL,Yellow Corporation,9.53,Industrials,Stocks,NMS
+CTSH,Cognizant Technology Solutions ,81.79,Technology,Stocks,NMS
+CYBR,CyberArk Software Ltd.,127.81,Technology,Stocks,NMS
+GAIN,Gladstone Investment Corporatio,15.30,Financial Services,Stocks,NMS
+TMC,TMC the metals company Inc.,1.20,Basic Materials,Stocks,NMS
+PECO,"Phillips Edison & Company, Inc.",30.88,Real Estate,Stocks,NMS
+CRUS,"Cirrus Logic, Inc.",82.83,Technology,Stocks,NMS
+DMRC,Digimarc Corporation,29.25,Technology,Stocks,NMS
+IMMR,Immersion Corporation,4.78,Technology,Stocks,NMS
+GOOD,Gladstone Commercial Corporatio,22.55,Real Estate,Stocks,NMS
+LSCC,Lattice Semiconductor Corporati,48.86,Technology,Stocks,NMS
+SBRA,"Sabra Health Care REIT, Inc.",13.26,Real Estate,Stocks,NMS
+CAKE,The Cheesecake Factory Incorpor,35.00,Consumer Cyclical,Stocks,NMS
+DISH,DISH Network Corporation,30.27,Communication Services,Stocks,NMS
+HLTH,Cue Health Inc.,7.56,Healthcare,Stocks,NMS
+SLM,SLM Corporation,17.52,Financial Services,Stocks,NMS
+SEIC,SEI Investments Company,55.77,Financial Services,Stocks,NMS
+POOL,Pool Corporation,451.75,Consumer Cyclical,Stocks,NMS
+NVEI,Nuvei Corporation - Subordinate,54.71,Technology,Stocks,NMS
+CPRT,"Copart, Inc.",121.51,Industrials,Stocks,NMS
+PODD,Insulet Corporation,194.80,Healthcare,Stocks,NMS
+COMM,"CommScope Holding Company, Inc.",8.99,Technology,Stocks,NMS
+HRZN,Horizon Technology Finance Corp,14.35,Financial Services,Stocks,NMS
+RGEN,Repligen Corporation,177.07,Healthcare,Stocks,NMS
+SPI,"SPI Energy Co., Ltd.",2.69,Technology,Stocks,NMS
+QRTEA,Liberty Interactive Corporation,7.70,Consumer Cyclical,Stocks,NMS
+CLMT,Calumet Specialty Products Part,14.07,Energy,Stocks,NMS
+SNBR,Sleep Number Corporation,70.58,Consumer Cyclical,Stocks,NMS
+CTAS,Cintas Corporation,377.72,Industrials,Stocks,NMS
+OCSL,Oaktree Specialty Lending Corpo,7.40,Financial Services,Stocks,NMS
+SMFR,Sema4 Holdings Corp.,2.93,Healthcare,Stocks,NMS
+CAMP,CalAmp Corp.,5.36,Technology,Stocks,NMS
+RBBN,Ribbon Communications Inc.,4.09,Communication Services,Stocks,NMS
+NCMI,"National CineMedia, Inc.",2.50,Communication Services,Stocks,NMS
+MEOH,Methanex Corporation,46.68,Basic Materials,Stocks,NMS
+NUAN,"Nuance Communications, Inc.",54.90,Technology,Stocks,NMS
+FLDM,Fluidigm Corporation,2.80,Healthcare,Stocks,NMS
+HAFC,Hanmi Financial Corporation,26.39,Financial Services,Stocks,NMS
+MASI,Masimo Corporation,199.49,Healthcare,Stocks,NMS
+CEGVV,Constellation Energy Corporatio,45.76,Utilities,Stocks,NMS
+PFLT,PennantPark Floating Rate Capit,12.62,Financial Services,Stocks,NMS
+CNXC,Concentrix Corporation,179.48,Technology,Stocks,NMS
+PRTS,"CarParts.com, Inc.",8.29,Consumer Cyclical,Stocks,NMS
+CRNT,Ceragon Networks Ltd.,2.09,Technology,Stocks,NMS
+XPER,Xperi Holding Corporation,16.34,Technology,Stocks,NMS
+GLAD,Gladstone Capital Corporation,10.53,Financial Services,Stocks,NMS
+CNDT,Conduent Incorporated,4.63,Technology,Stocks,NMS
+WIRE,Encore Wire Corporation,105.75,Industrials,Stocks,NMS
+CGNX,Cognex Corporation,62.62,Technology,Stocks,NMS
+ROCC,Ranger Oil Corporation,31.30,Energy,Stocks,NMS
+CTRN,"Citi Trends, Inc.",48.25,Consumer Cyclical,Stocks,NMS
+CINF,Cincinnati Financial Corporatio,113.47,Financial Services,Stocks,NMS
+CRCT,"Cricut, Inc.",19.00,Technology,Stocks,NMS
+IRDM,Iridium Communications Inc,34.07,Communication Services,Stocks,NMS
+SSNC,"SS&C Technologies Holdings, Inc",76.41,Technology,Stocks,NMS
+LKQ,LKQ Corporation,53.61,Consumer Cyclical,Stocks,NMS
+BASE,"Couchbase, Inc.",19.46,Technology,Stocks,NMS
+CHRW,"C.H. Robinson Worldwide, Inc.",102.82,Industrials,Stocks,NMS
+VICR,Vicor Corporation,82.76,Technology,Stocks,NMS
+COCO,"The Vita Coco Company, Inc.",9.66,Consumer Defensive,Stocks,NMS
+PLXS,Plexus Corp.,74.57,Technology,Stocks,NMS
+CHNG,Change Healthcare Inc.,19.10,Healthcare,Stocks,NMS
+CDW,CDW Corporation,181.73,Technology,Stocks,NMS
+FOX,Fox Corporation,35.01,Communication Services,Stocks,NMS
+CIFR,Cipher Mining Inc.,2.75,Financial Services,Stocks,NMS
+VIOT,"Viomi Technology Co., Ltd",1.98,Consumer Cyclical,Stocks,NMS
+ODP,The ODP Corporation,41.94,Consumer Cyclical,Stocks,NMS
+UTHR,United Therapeutics Corporation,195.17,Healthcare,Stocks,NMS
+CASY,"Caseys General Stores, Inc.",185.46,Consumer Defensive,Stocks,NMS
+CTMX,"CytomX Therapeutics, Inc.",4.18,Healthcare,Stocks,NMS
+SBAC,SBA Communications Corporation,306.18,Real Estate,Stocks,NMS
+VOXX,VOXX International Corporation,10.00,Technology,Stocks,NMS
+SMCI,"Super Micro Computer, Inc.",38.82,Technology,Stocks,NMS
+ROAD,"Construction Partners, Inc.",25.27,Industrials,Stocks,NMS
+CVLT,"Commvault Systems, Inc.",66.55,Technology,Stocks,NMS
+NATI,National Instruments Corporatio,38.78,Technology,Stocks,NMS
+PLCE,"Children's Place, Inc. (The)",70.15,Consumer Cyclical,Stocks,NMS
+NTRS,Northern Trust Corporation,114.74,Financial Services,Stocks,NMS
+IPGP,IPG Photonics Corporation,142.58,Technology,Stocks,NMS
+PCTY,Paylocity Holding Corporation,182.99,Technology,Stocks,NMS
+GNTX,Gentex Corporation,31.28,Consumer Cyclical,Stocks,NMS
+FYBR,"Frontier Communications Parent,",26.16,Communication Services,Stocks,NMS
+PFC,Premier Financial Corp.,28.89,Financial Services,Stocks,NMS
+CCRN,"Cross Country Healthcare, Inc.",19.23,Healthcare,Stocks,NMS
+CDXS,"Codexis, Inc.",17.96,Healthcare,Stocks,NMS
+TFSL,TFS Financial Corporation,17.13,Financial Services,Stocks,NMS
+CLBK,"Columbia Financial, Inc.",21.43,Financial Services,Stocks,NMS
+WDFC,WD-40 Company,220.80,Basic Materials,Stocks,NMS
+CYTK,"Cytokinetics, Incorporated",29.74,Healthcare,Stocks,NMS
+CGNT,Cognyte Software Ltd.,10.46,Technology,Stocks,NMS
+PRTA,Prothena Corporation plc,31.45,Healthcare,Stocks,NMS
+PCH,PotlatchDeltic Corporation - Co,51.64,Real Estate,Stocks,NMS
+CBAY,CymaBay Therapeutics Inc.,2.77,Healthcare,Stocks,NMS
+CPIX,Cumberland Pharmaceuticals Inc.,3.30,Healthcare,Stocks,NMS
+UMBF,UMB Financial Corporation,96.11,Financial Services,Stocks,NMS
+FOXA,Fox Corporation,38.25,Communication Services,Stocks,NMS
+SGMS,Scientific Games Corp,54.93,Consumer Cyclical,Stocks,NMS
+CYXT,"Cyxtera Technologies, Inc.",10.92,Technology,Stocks,NMS
+CMTL,Comtech Telecommunications Corp,19.33,Technology,Stocks,NMS
+CPLP,Capital Product Partners L.P.,15.19,Industrials,Stocks,NMS
+COHR,"Coherent, Inc.",252.47,Technology,Stocks,NMS
+CASA,"Casa Systems, Inc.",4.14,Technology,Stocks,NMS
+MFIN,Medallion Financial Corp.,6.63,Financial Services,Stocks,NMS
+HMHC,Houghton Mifflin Harcourt Compa,16.18,Consumer Defensive,Stocks,NMS
+MCFE,McAfee Corp.,25.66,Technology,Stocks,NMS
+UMPQ,Umpqua Holdings Corporation,19.99,Financial Services,Stocks,NMS
+OCDX,Ortho Clinical Diagnostics Hold,16.46,Healthcare,Stocks,NMS
+PFMT,Performant Financial Corporatio,1.93,Industrials,Stocks,NMS
+TAST,"Carrols Restaurant Group, Inc.",2.33,Consumer Cyclical,Stocks,NMS
+MRCC,Monroe Capital Corporation,10.69,Financial Services,Stocks,NMS
+SUNS,SLR Senior Investment Corp.,13.60,Financial Services,Stocks,NMS
+COLM,Columbia Sportswear Company,87.15,Consumer Cyclical,Stocks,NMS
+CVLG,"Covenant Logistics Group, Inc.",20.97,Industrials,Stocks,NMS
+CSWC,Capital Southwest Corporation,24.07,Financial Services,Stocks,NMS
+SPTN,SpartanNash Company,24.39,Consumer Defensive,Stocks,NMS
+OTTR,Otter Tail Corporation,62.04,Utilities,Stocks,NMS
+CLBT,Cellebrite DI Ltd.,5.35,Technology,Stocks,NMS
+JAMF,Jamf Holding Corp.,30.65,Technology,Stocks,NMS
+CVET,"Covetrus, Inc.",17.17,Healthcare,Stocks,NMS
+CONN,"Conn's, Inc.",23.35,Consumer Cyclical,Stocks,NMS
+CEVA,"CEVA, Inc.",33.60,Technology,Stocks,NMS
+WMG,Warner Music Group Corp.,39.35,Communication Services,Stocks,NMS
+CCOI,"Cogent Communications Holdings,",61.31,Communication Services,Stocks,NMS
+CYCN,"Cyclerion Therapeutics, Inc.",1.07,Healthcare,Stocks,NMS
+VG,Vonage Holdings Corp.,20.81,Communication Services,Stocks,NMS
+CTRE,"CareTrust REIT, Inc.",20.55,Real Estate,Stocks,NMS
+COWN,Cowen Inc.,30.53,Financial Services,Stocks,NMS
+NDSN,Nordson Corporation,223.88,Industrials,Stocks,NMS
+TRMK,Trustmark Corporation,32.22,Financial Services,Stocks,NMS
+FLYW,Flywire Corporation - Voting,25.33,Technology,Stocks,NMS
+CHX,ChampionX Corporation,23.38,Energy,Stocks,NMS
+SFNC,Simmons First National Corporat,28.53,Financial Services,Stocks,NMS
+CONE,CyrusOne Inc,89.41,Real Estate,Stocks,NMS
+CWCO,Consolidated Water Co. Ltd.,9.81,Utilities,Stocks,NMS
+PRIM,Primoris Services Corporation,25.29,Industrials,Stocks,NMS
+PDCO,"Patterson Companies, Inc.",27.82,Healthcare,Stocks,NMS
+HAIN,"The Hain Celestial Group, Inc.",35.58,Consumer Defensive,Stocks,NMS
+CRTO,Criteo S.A.,31.80,Communication Services,Stocks,NMS
+SMTC,Semtech Corporation,66.99,Technology,Stocks,NMS
+CMPR,Cimpress PLC,67.14,Communication Services,Stocks,NMS
+SATS,EchoStar Corporation,23.49,Technology,Stocks,NMS
+CERT,"Certara, Inc.",23.87,Healthcare,Stocks,NMS
+NEOG,Neogen Corporation,34.45,Healthcare,Stocks,NMS
+CDK,"CDK Global, Inc.",41.60,Technology,Stocks,NMS
+HWC,Hancock Whitney Corporation,52.43,Financial Services,Stocks,NMS
+OFS,OFS Capital Corporation,9.86,Financial Services,Stocks,NMS
+NWE,NorthWestern Corporation,58.14,Utilities,Stocks,NMS
+PNNT,PennantPark Investment Corporat,6.87,Financial Services,Stocks,NMS
+OTEX,Open Text Corporation,45.34,Technology,Stocks,NMS
+CARG,"CarGurus, Inc.",29.33,Communication Services,Stocks,NMS
+CHDN,"Churchill Downs, Incorporated",199.28,Consumer Cyclical,Stocks,NMS
+FDUS,Fidus Investment Corporation,17.49,Financial Services,Stocks,NMS
+GO,Grocery Outlet Holding Corp.,24.55,Consumer Defensive,Stocks,NMS
+PPC,Pilgrim's Pride Corporation,27.09,Consumer Defensive,Stocks,NMS
+DNAY,"Codex DNA, Inc.",6.86,Healthcare,Stocks,NMS
+CALM,"Cal-Maine Foods, Inc.",38.80,Consumer Defensive,Stocks,NMS
+CVGI,"Commercial Vehicle Group, Inc.",7.63,Consumer Cyclical,Stocks,NMS
+NDLS,Noodles & Company,7.89,Consumer Cyclical,Stocks,NMS
+REG,Regency Centers Corporation,69.77,Real Estate,Stocks,NMS
+SCVL,"Shoe Carnival, Inc.",33.16,Consumer Cyclical,Stocks,NMS
+RNST,Renasant Corporation,36.54,Financial Services,Stocks,NMS
+CCLP,CSI Compressco LP,1.35,Energy,Stocks,NMS
+NWSA,News Corporation,21.08,Communication Services,Stocks,NMS
+PRGS,Progress Software Corporation,44.12,Technology,Stocks,NMS
+HOFT,Hooker Furnishings Corporation,21.41,Consumer Cyclical,Stocks,NMS
+FOXF,Fox Factory Holding Corp.,122.44,Consumer Cyclical,Stocks,NMS
+CTLP,"Cantaloupe, Inc.",7.44,Technology,Stocks,NMS
+BATRA,Liberty Media Corporation - Ser,26.53,Communication Services,Stocks,NMS
+TIGO,Millicom International Cellular,26.25,Communication Services,Stocks,NMS
+HCAT,"Health Catalyst, Inc",27.65,Healthcare,Stocks,NMS
+SANM,Sanmina Corporation,35.82,Technology,Stocks,NMS
+SHEN,Shenandoah Telecommunications C,21.89,Communication Services,Stocks,NMS
+PRDO,Perdoceo Education Corporation,10.77,Consumer Defensive,Stocks,NMS
+COLL,"Collegium Pharmaceutical, Inc.",17.74,Healthcare,Stocks,NMS
+MSEX,Middlesex Water Company,99.44,Utilities,Stocks,NMS
+CVGW,"Calavo Growers, Inc.",40.18,Consumer Defensive,Stocks,NMS
+CWST,"Casella Waste Systems, Inc.",73.00,Industrials,Stocks,NMS
+MIDD,The Middleby Corporation,177.34,Industrials,Stocks,NMS
+TSAT,Telesat Corporation,21.48,Technology,Stocks,NMS
+VCTR,"Victory Capital Holdings, Inc. ",31.19,Financial Services,Stocks,NMS
+CNSL,Consolidated Communications Hol,7.07,Communication Services,Stocks,NMS
+STRL,Sterling Construction Company I,25.28,Industrials,Stocks,NMS
+CFFN,"Capitol Federal Financial, Inc.",11.11,Financial Services,Stocks,NMS
+GOEVW,Canoo Inc.,1.28,Consumer Cyclical,Stocks,NMS
+SP,SP Plus Corporation,27.19,Industrials,Stocks,NMS
+DH,Definitive Healthcare Corp.,20.37,Healthcare,Stocks,NMS
+SSB,SouthState Corporation,82.65,Financial Services,Stocks,NMS
+FULT,Fulton Financial Corporation,17.84,Financial Services,Stocks,NMS
+CVCO,"Cavco Industries, Inc.",252.17,Consumer Cyclical,Stocks,NMS
+OPCH,"Option Care Health, Inc.",22.05,Healthcare,Stocks,NMS
+WTFC,Wintrust Financial Corporation,95.72,Financial Services,Stocks,NMS
+FRME,First Merchants Corporation,41.52,Financial Services,Stocks,NMS
+CMCO,Columbus McKinnon Corporation,42.84,Industrials,Stocks,NMS
+CD,Chindata Group Holdings Limited,4.19,Technology,Stocks,NMS
+CECE,CECO Environmental Corp.,6.25,Industrials,Stocks,NMS
+SPNS,Sapiens International Corporati,29.68,Technology,Stocks,NMS
+REYN,Reynolds Consumer Products Inc.,30.11,Consumer Cyclical,Stocks,NMS
+SSP,E.W. Scripps Company (The),19.44,Communication Services,Stocks,NMS
+FELE,"Franklin Electric Co., Inc.",84.82,Industrials,Stocks,NMS
+PFHD,Professional Holding Corp.,21.25,Financial Services,Stocks,NMS
+CCMP,"CMC Materials, Inc.",173.76,Technology,Stocks,NMS
+MTRX,Matrix Service Company,6.94,Industrials,Stocks,NMS
+MATW,Matthews International Corporat,33.31,Industrials,Stocks,NMS
+SENEA,Seneca Foods Corp.,44.72,Consumer Defensive,Stocks,NMS
+LSXMA,Liberty Media Corporation - Ser,44.64,Communication Services,Stocks,NMS
+ISO,IsoPlexis Corporation,6.27,Healthcare,Stocks,NMS
+GLDD,Great Lakes Dredge & Dock Corpo,13.40,Industrials,Stocks,NMS
+LKFN,Lakeland Financial Corporation,80.00,Financial Services,Stocks,NMS
+CCCC,"C4 Therapeutics, Inc.",20.65,Healthcare,Stocks,NMS
+UVSP,Univest Financial Corporation,29.50,Financial Services,Stocks,NMS
+CHSCP,CHS Inc - 8%  Cumulative Redeem,30.50,Consumer Defensive,Stocks,NMS
+PBPB,Potbelly Corporation,5.18,Consumer Cyclical,Stocks,NMS
+UTSI,UTStarcom Holdings Corp,0.85,Technology,Stocks,NMS
+DDI,"DoubleDown Interactive Co., Ltd",12.90,Communication Services,Stocks,NMS
+CVRX,"CVRx, Inc.",7.70,Healthcare,Stocks,NMS
+LANC,Lancaster Colony Corporation,158.75,Consumer Defensive,Stocks,NMS
+OCFC,OceanFirst Financial Corp.,22.18,Financial Services,Stocks,NMS
+WSFS,WSFS Financial Corporation,51.05,Financial Services,Stocks,NMS
+MANT,ManTech International Corporati,72.42,Technology,Stocks,NMS
+CHEF,"The Chefs' Warehouse, Inc.",28.82,Consumer Defensive,Stocks,NMS
+FWONK,Liberty Media Corporation - Ser,57.36,Communication Services,Stocks,NMS
+SPSC,"SPS Commerce, Inc.",113.82,Technology,Stocks,NMS
+CSII,"Cardiovascular Systems, Inc.",16.84,Healthcare,Stocks,NMS
+CVBF,CVB Financial Corporation,22.28,Financial Services,Stocks,NMS
+CNTA,Centessa Pharmaceuticals plc,8.90,Healthcare,Stocks,NMS
+JJSF,J & J Snack Foods Corp.,152.11,Consumer Defensive,Stocks,NMS
+EFSC,Enterprise Financial Services C,48.53,Financial Services,Stocks,NMS
+VC,Visteon Corporation,97.47,Consumer Cyclical,Stocks,NMS
+HMPT,Home Point Capital Inc.,3.99,Financial Services,Stocks,NMS
+LINC,Lincoln Educational Services Co,6.59,Consumer Defensive,Stocks,NMS
+TRIN,Trinity Capital Inc.,17.46,Financial Services,Stocks,NMS
+CMAX,"CareMax, Inc.",5.59,Healthcare,Stocks,NMS
+ITIC,Investors Title Company,194.53,Financial Services,Stocks,NMS
+SCPL,SciPlay Corporation,11.28,Communication Services,Stocks,NMS
+IMOS,ChipMOS TECHNOLOGIES INC.,31.30,Technology,Stocks,NMS
+CCEP,Coca-Cola Europacific Partners ,55.70,Consumer Defensive,Stocks,NMS
+ERIE,Erie Indemnity Company,172.91,Financial Services,Stocks,NMS
+SCOR,"comScore, Inc.",2.81,Communication Services,Stocks,NMS
+IPSC,"Century Therapeutics, Inc.",12.98,Healthcare,Stocks,NMS
+TMCI,"Treace Medical Concepts, Inc.",17.52,Healthcare,Stocks,NMS
+LMNR,Limoneira Co,15.00,Consumer Defensive,Stocks,NMS
+INNV,InnovAge Holding Corp.,4.80,Healthcare,Stocks,NMS
+HTBK,Heritage Commerce Corp,12.09,Financial Services,Stocks,NMS
+YORW,The York Water Company,44.46,Utilities,Stocks,NMS
+FFIC,Flushing Financial Corporation,24.46,Financial Services,Stocks,NMS
+CASS,"Cass Information Systems, Inc",39.58,Industrials,Stocks,NMS
+LUNG,Pulmonx Corporation,21.77,Healthcare,Stocks,NMS
+CLAR,Clarus Corporation,21.12,Consumer Cyclical,Stocks,NMS
+RGP,"Resources Connection, Inc.",17.11,Industrials,Stocks,NMS
+HFWA,Heritage Financial Corporation,24.19,Financial Services,Stocks,NMS
+CHUY,"Chuy's Holdings, Inc.",24.58,Consumer Cyclical,Stocks,NMS
+CTG,"Computer Task Group, Incorporat",8.06,Technology,Stocks,NMS
+HURN,Huron Consulting Group Inc.,43.38,Industrials,Stocks,NMS
+KDNY,"Chinook Therapeutics, Inc.",12.07,Healthcare,Stocks,NMS
+FSTR,L.B. Foster Company,15.00,Industrials,Stocks,NMS
+ECPG,Encore Capital Group Inc,64.52,Financial Services,Stocks,NMS
+SPNE,SeaSpine Holdings Corporation,11.31,Healthcare,Stocks,NMS
+CAC,Camden National Corporation,50.21,Financial Services,Stocks,NMS
+CUTR,"Cutera, Inc.",32.12,Healthcare,Stocks,NMS
+IART,Integra LifeSciences Holdings C,62.86,Healthcare,Stocks,NMS
+CBTX,"CBTX, Inc.",30.33,Financial Services,Stocks,NMS
+VREX,Varex Imaging Corporation,26.31,Healthcare,Stocks,NMS
+HCM,HUTCHMED (China) Limited,25.50,Healthcare,Stocks,NMS
+CCB,Coastal Financial Corporation,48.10,Financial Services,Stocks,NMS
+SCWX,SecureWorks Corp.,13.82,Technology,Stocks,NMS
+LOPE,"Grand Canyon Education, Inc.",82.28,Consumer Defensive,Stocks,NMS
+CIGI,Colliers International Group In,140.81,Real Estate,Stocks,NMS
+CCSI,"Consensus Cloud Solutions, Inc.",53.38,Technology,Stocks,NMS
+LSXMK,Liberty Media Corporation - Ser,44.70,Communication Services,Stocks,NMS
+OPRT,Oportun Financial Corporation,18.10,Financial Services,Stocks,NMS
+CCNE,CNB Financial Corporation,26.48,Financial Services,Stocks,NMS
+LEGH,Legacy Housing Corporation,24.35,Consumer Cyclical,Stocks,NMS
+MCRI,"Monarch Casino & Resort, Inc.",59.41,Consumer Cyclical,Stocks,NMS
+TSC,"TriState Capital Holdings, Inc.",30.55,Financial Services,Stocks,NMS
+CRNX,"Crinetics Pharmaceuticals, Inc.",17.15,Healthcare,Stocks,NMS
+FWONA,Liberty Media Corporation - Ser,52.51,Communication Services,Stocks,NMS
+CENT,Central Garden & Pet Company,45.00,Consumer Defensive,Stocks,NMS
+SRRK,Scholar Rock Holding Corporatio,16.29,Healthcare,Stocks,NMS
+HCCI,"Heritage-Crystal Clean, Inc.",27.47,Industrials,Stocks,NMS
+SCHL,Scholastic Corporation,40.24,Communication Services,Stocks,NMS
+CHCO,City Holding Company,79.34,Financial Services,Stocks,NMS
+FSV,FirstService Corporation,153.50,Real Estate,Stocks,NMS
+CRVL,CorVel Corp.,169.52,Financial Services,Stocks,NMS
+CPZ,Calamos Long/Short Equity & Dyn,20.01,Financial Services,Stocks,NMS
+SNPO,Snap One Holdings Corp.,17.69,Technology,Stocks,NMS
+CGEM,"Cullinan Oncology, Inc.",12.35,Healthcare,Stocks,NMS
+CSGS,"CSG Systems International, Inc.",55.84,Technology,Stocks,NMS
+NWS,News Corporation,21.04,Communication Services,Stocks,NMS
+STER,Sterling Check Corp.,18.28,Technology,Stocks,NMS
+IRCP,IRSA Propiedades Comerciales S.,2.17,Real Estate,Stocks,NMS
+CHSCO,CHS Inc,27.10,Consumer Defensive,Stocks,NMS
+DWSN,Dawson Geophysical Company,2.33,Energy,Stocks,NMS
+SHC,Sotera Health Company,19.63,Healthcare,Stocks,NMS
+PLPC,Preformed Line Products Company,58.14,Industrials,Stocks,NMS
+CRAI,"CRA International,Inc.",81.19,Industrials,Stocks,NMS
+SRCE,1st Source Corporation,49.14,Financial Services,Stocks,NMS
+CFFI,C&F Financial Corporation,52.00,Financial Services,Stocks,NMS
+PTNR,Partner Communications Company ,8.41,Communication Services,Stocks,NMS
+NRC,National Research Corporation,39.20,Healthcare,Stocks,NMS
+LNDC,Landec Corporation,10.44,Consumer Defensive,Stocks,NMS
+CYT,"Cyteir Therapeutics, Inc.",5.63,Healthcare,Stocks,NMS
+CSTE,Caesarstone Ltd.,11.99,Industrials,Stocks,NMS
+MRBK,Meridian Corporation,35.00,Financial Services,Stocks,NMS
+CSWI,"CSW Industrials, Inc.",110.87,Industrials,Stocks,NMS
+HURC,"Hurco Companies, Inc.",31.50,Industrials,Stocks,NMS
+GEOS,Geospace Technologies Corporati,8.54,Energy,Stocks,NMS
+PKOH,Park-Ohio Holdings Corp.,19.49,Industrials,Stocks,NMS
+CHMG,Chemung Financial Corp,46.42,Financial Services,Stocks,NMS
+VSEC,VSE Corporation,50.13,Industrials,Stocks,NMS
+EWCZ,"European Wax Center, Inc.",22.67,Consumer Defensive,Stocks,NMS
+PGC,Peapack-Gladstone Financial Cor,34.54,Financial Services,Stocks,NMS
+RWAY,Runway Growth Finance Corp.,12.80,Financial Services,Stocks,NMS
+NWPX,Northwest Pipe Company,28.75,Industrials,Stocks,NMS
+BANX,StoneCastle Financial Corp,21.71,Financial Services,Stocks,NMS
+BATRK,Liberty Media Corporation - Ser,25.67,Communication Services,Stocks,NMS
+RLYB,Rallybio Corporation,9.89,Healthcare,Stocks,NMS
+CNXN,"PC Connection, Inc.",42.21,Technology,Stocks,NMS
+CENTA,Central Garden & Pet Company,42.28,Consumer Defensive,Stocks,NMS
+EXCVV,Exelon Corporation,41.02,N/A,Stocks,NMS
+CSTR,"CapStar Financial Holdings, Inc",20.92,Financial Services,Stocks,NMS
+TRS,TriMas Corporation,34.21,Industrials,Stocks,NMS
+SLMBP,SLM Corporation - Floating Rate,57.50,Financial Services,Stocks,NMS
+PFIS,Peoples Financial Services Corp,49.37,Financial Services,Stocks,NMS
+THFF,First Financial Corporation Ind,44.64,Financial Services,Stocks,NMS
+CHKEL,Chesapeake Energy Corporation,36.38,Energy,Stocks,NMS
+SANG,Sangoma Technologies Corporatio,14.65,Technology,Stocks,NMS
+JSM,Navient Corporation - 6% Senior,24.90,N/A,Stocks,NMS
+CIH,China Index Holdings Limited - ,1.07,Technology,Stocks,NMS
+QRTEB,Liberty Interactive Corporation,7.87,Consumer Cyclical,Stocks,NMS
+CHSCL,CHS Inc,28.15,Consumer Defensive,Stocks,NMS
+CHSCM,CHS Inc,26.75,Consumer Defensive,Stocks,NMS
+SENEB,Seneca Foods Corp.,47.11,Consumer Defensive,Stocks,NMS
+OXLCO,Oxford Lane Capital Corp. - Pre,24.90,Financial Services,Stocks,NMS
+OXLCP,Oxford Lane Capital Corp. - 6.2,25.05,Financial Services,Stocks,NMS
+FULTP,Fulton Financial Corporation - ,24.90,Financial Services,Stocks,NMS
+NTRSO,Northern Trust Corporation - De,25.08,Financial Services,Stocks,NMS
+GOODN,Gladstone Commercial Corporatio,26.15,Real Estate,Stocks,NMS
+CHSCN,CHS Inc - Preferred,26.60,Consumer Defensive,Stocks,NMS
+GOODO,Gladstone Commercial Corporatio,26.05,Real Estate,Stocks,NMS
+CHNGU,Change Healthcare Inc. - Tangib,63.07,Healthcare,Stocks,NMS
+OXLCM,Oxford Lane Capital Corp. - 6.7,25.35,Financial Services,Stocks,NMS
+CGABL,The Carlyle Group Inc. - 4.625%,24.10,N/A,Stocks,NMS
+CCNEP,CNB Financial Corporation - Dep,27.60,Financial Services,Stocks,NMS
+LSXMB,Liberty Media Corporation - Ser,47.84,Communication Services,Stocks,NMS
+HWCPZ,Hancock Whitney Corporation - 6,26.71,N/A,Stocks,NMS
+TSCBP,"TriState Capital Holdings, Inc.",26.31,Financial Services,Stocks,NMS
+BPOPM,"Popular, Inc. - Popular Capital",25.65,Financial Services,Stocks,NMS
+OCFCP,OceanFirst Financial Corp. - De,27.59,Financial Services,Stocks,NMS
+GAINN,Gladstone Investment Corporatio,25.45,N/A,Stocks,NMS
+SABRP,Sabre Corporation - 6.50% Serie,113.97,Technology,Stocks,NMS
+OXSQG,Oxford Square Capital Corp. - 5,25.56,N/A,Stocks,NMS
+OXLCZ,Oxford Lane Capital Corp. - 5.0,24.85,N/A,Stocks,NMS
+EFSCP,Enterprise Financial Services C,24.80,Financial Services,Stocks,NMS
+WTFCP,Wintrust Financial Corporation ,27.38,Financial Services,Stocks,NMS
+OXLCL,Oxford Lane Capital Corp. - 6.7,26.33,N/A,Stocks,NMS
+DKNG,DraftKings Inc.,19.39,Consumer Cyclical,Stocks,NMS
+DRCT,"Direct Digital Holdings, Inc.",0.00,Communication Services,Stocks,NMS
+DOCU,"DocuSign, Inc.",110.69,Technology,Stocks,NMS
+DDOG,"Datadog, Inc.",128.15,Technology,Stocks,NMS
+JD,"JD.com, Inc.",66.68,Consumer Cyclical,Stocks,NMS
+STLD,"Steel Dynamics, Inc.",54.34,Basic Materials,Stocks,NMS
+DOYU,DouYu International Holdings Li,2.52,Communication Services,Stocks,NMS
+IEP,Icahn Enterprises L.P. - Deposi,52.77,Industrials,Stocks,NMS
+DXCM,"DexCom, Inc.",383.52,Healthcare,Stocks,NMS
+DBX,"Dropbox, Inc.",22.90,Technology,Stocks,NMS
+DLO,DLocal Limited,25.15,Technology,Stocks,NMS
+DLTR,"Dollar Tree, Inc.",128.30,Consumer Defensive,Stocks,NMS
+KTOS,Kratos Defense & Security Solut,16.19,Industrials,Stocks,NMS
+QFIN,"360 DigiTech, Inc.",18.18,Financial Services,Stocks,NMS
+DUOL,"Duolingo, Inc.",86.88,Technology,Stocks,NMS
+KDP,Keurig Dr Pepper Inc.,37.60,Consumer Defensive,Stocks,NMS
+ODFL,"Old Dominion Freight Line, Inc.",285.98,Industrials,Stocks,NMS
+HEPS,D-Market Electronic Services & ,1.81,Consumer Cyclical,Stocks,NMS
+DADA,Dada Nexus Limited,9.31,Consumer Cyclical,Stocks,NMS
+KRNT,Kornit Digital Ltd.,93.07,Industrials,Stocks,NMS
+DCPH,"Deciphera Pharmaceuticals, Inc.",7.72,Healthcare,Stocks,NMS
+DMLP,"Dorchester Minerals, L.P.",23.39,Energy,Stocks,NMS
+DIOD,Diodes Incorporated,84.37,Technology,Stocks,NMS
+DNLI,Denali Therapeutics Inc.,31.45,Healthcare,Stocks,NMS
+QQQX,Nuveen NASDAQ 100 Dynamic Overw,25.96,Financial Services,Stocks,NMS
+DLTH,Duluth Holdings Inc.,14.52,Consumer Cyclical,Stocks,NMS
+DHC,Diversified Healthcare Trust,2.90,Real Estate,Stocks,NMS
+XRAY,DENTSPLY SIRONA Inc.,52.76,Healthcare,Stocks,NMS
+DXPE,"DXP Enterprises, Inc.",30.07,Industrials,Stocks,NMS
+DFH,"Dream Finders Homes, Inc.",17.58,Consumer Cyclical,Stocks,NMS
+BOOM,DMC Global Inc.,39.39,Energy,Stocks,NMS
+DCBO,Docebo Inc.,52.00,Technology,Stocks,NMS
+DGII,Digi International Inc.,21.50,Technology,Stocks,NMS
+ZD,"Ziff Davis, Inc.",101.94,Communication Services,Stocks,NMS
+DAKT,"Daktronics, Inc.",4.79,Technology,Stocks,NMS
+DSEY,"Diversey Holdings, Ltd.",10.73,Consumer Cyclical,Stocks,NMS
+DYN,"Dyne Therapeutics, Inc.",6.84,Healthcare,Stocks,NMS
+DSGX,The Descartes Systems Group Inc,66.21,Technology,Stocks,NMS
+DORM,"Dorman Products, Inc.",90.83,Consumer Cyclical,Stocks,NMS
+DSGN,"Design Therapeutics, Inc.",11.34,Healthcare,Stocks,NMS
+DBVT,DBV Technologies S.A.,1.44,Healthcare,Stocks,NMS
+DRTT,DIRTT Environmental Solutions L,1.62,Industrials,Stocks,NMS
+DHIL,"Diamond Hill Investment Group, ",178.15,Financial Services,Stocks,NMS
+DBTX,"Decibel Therapeutics, Inc.",4.09,Healthcare,Stocks,NMS
+DGICA,"Donegal Group, Inc.",14.26,Financial Services,Stocks,NMS
+TWIN,"Twin Disc, Incorporated",10.82,Industrials,Stocks,NMS
+DHCNI,Diversified Healthcare Trust  -,20.56,N/A,Stocks,NMS
+DHCNL,Diversified Healthcare Trust  -,21.87,N/A,Stocks,NMS
+SIVBP,SVB Financial Group - Depositar,25.20,Financial Services,Stocks,NMS
+DGICB,"Donegal Group, Inc.",13.22,Financial Services,Stocks,NMS
+ESGRO,Enstar Group Limited - Deposito,26.33,Financial Services,Stocks,NMS
+ESGRP,Enstar Group Limited - Deposita,27.56,Financial Services,Stocks,NMS
+WSBCP,"WesBanco, Inc. - Depositary Sha",27.20,Financial Services,Stocks,NMS
+CMAXW,Deerfield Healthcare Technology,0.83,Healthcare,Stocks,NMS
+WAFDP,"Washington Federal, Inc. - Depo",24.54,Financial Services,Stocks,NMS
+DR,DR,N/A,N/A,Stocks,NMS
+VDNT,VERDANT EARTH TECHNOLOGIES LTD,0.00,Utilities,Stocks,NMS
+ETSY,"Etsy, Inc.",139.54,Consumer Cyclical,Stocks,NMS
+EVGO,EVgo Inc.,7.37,Consumer Cyclical,Stocks,NMS
+EBON,Ebang International Holdings In,0.88,Technology,Stocks,NMS
+ERIC,Ericsson,12.09,Technology,Stocks,NMS
+EDIT,"Editas Medicine, Inc.",17.42,Healthcare,Stocks,NMS
+ENDP,Endo International plc,3.02,Healthcare,Stocks,NMS
+EPZM,"Epizyme, Inc.",1.06,Healthcare,Stocks,NMS
+EBAY,eBay Inc.,56.70,Consumer Cyclical,Stocks,NMS
+EXEL,"Exelixis, Inc.",17.42,Healthcare,Stocks,NMS
+GLBE,Global-E Online Ltd.,31.10,Consumer Cyclical,Stocks,NMS
+EAR,"Eargo, Inc.",4.31,Healthcare,Stocks,NMS
+EXTR,"Extreme Networks, Inc.",12.15,Technology,Stocks,NMS
+EXPE,"Expedia Group, Inc.",171.23,Consumer Cyclical,Stocks,NMS
+PETS,"PetMed Express, Inc.",25.62,Healthcare,Stocks,NMS
+EQIX,"Equinix, Inc.",683.02,Real Estate,Stocks,NMS
+XEL,Xcel Energy Inc.,68.94,Utilities,Stocks,NMS
+GRUB,Just Eat Takeaway.com N.V.,9.22,Consumer Cyclical,Stocks,NMS
+ECOR,"electroCore, Inc.",0.68,Healthcare,Stocks,NMS
+VNOM,Viper Energy Partners LP,27.25,Energy,Stocks,NMS
+FLNC,"Fluence Energy, Inc.",17.56,Utilities,Stocks,NMS
+ENTG,"Entegris, Inc.",109.73,Technology,Stocks,NMS
+REGI,"Renewable Energy Group, Inc.",38.90,Energy,Stocks,NMS
+MLCO,Melco Resorts & Entertainment L,9.74,Consumer Cyclical,Stocks,NMS
+KLXE,"KLX Energy Services Holdings, I",4.95,Energy,Stocks,NMS
+PDCE,"PDC Energy, Inc.",58.82,Energy,Stocks,NMS
+ELMS,"Electric Last Mile Solutions, I",4.70,Consumer Cyclical,Stocks,NMS
+NFE,New Fortress Energy Inc.,19.97,Utilities,Stocks,NMS
+EXPD,Expeditors International of Was,110.75,Industrials,Stocks,NMS
+EHTH,"eHealth, Inc.",21.06,Financial Services,Stocks,NMS
+PTEN,"Patterson-UTI Energy, Inc.",9.90,Energy,Stocks,NMS
+EGLX,Enthusiast Gaming Holdings Inc.,1.94,Communication Services,Stocks,NMS
+EEFT,"Euronet Worldwide, Inc.",133.25,Technology,Stocks,NMS
+RNW,ReNew Energy Global plc,5.45,Utilities,Stocks,NMS
+ESLT,Elbit Systems Ltd.,161.64,Industrials,Stocks,NMS
+EXAI,Exscientia Plc,15.86,Healthcare,Stocks,NMS
+HTLD,"Heartland Express, Inc.",14.60,Industrials,Stocks,NMS
+EBIX,"Ebix, Inc.",28.37,Technology,Stocks,NMS
+IREN,Iris Energy Limited,10.15,Financial Services,Stocks,NMS
+EXFY,"Expensify, Inc.",25.15,Technology,Stocks,NMS
+ERII,"Energy Recovery, Inc.",18.49,Industrials,Stocks,NMS
+KE,"Kimball Electronics, Inc.",18.74,Industrials,Stocks,NMS
+RELL,"Richardson Electronics, Ltd.",12.32,Technology,Stocks,NMS
+YQ,17 Education & Technology Group,1.01,Consumer Defensive,Stocks,NMS
+LEE,"Lee Enterprises, Incorporated",33.47,Communication Services,Stocks,NMS
+LECO,"Lincoln Electric Holdings, Inc.",124.83,Industrials,Stocks,NMS
+TUSK,"Mammoth Energy Services, Inc.",1.65,Industrials,Stocks,NMS
+EVCM,EverCommerce Inc.,10.89,Technology,Stocks,NMS
+WERN,"Werner Enterprises, Inc.",43.18,Industrials,Stocks,NMS
+LOCO,"El Pollo Loco Holdings, Inc.",12.88,Consumer Cyclical,Stocks,NMS
+EZPW,"EZCORP, Inc.",5.80,Financial Services,Stocks,NMS
+MGIC,Magic Software Enterprises Ltd.,18.36,Technology,Stocks,NMS
+ACT,"Enact Holdings, Inc.",20.86,Financial Services,Stocks,NMS
+STRA,"Strategic Education, Inc.",57.30,Consumer Defensive,Stocks,NMS
+ENSG,"The Ensign Group, Inc.",73.41,Healthcare,Stocks,NMS
+EXPO,"Exponent, Inc.",90.68,Industrials,Stocks,NMS
+EWTX,"Edgewise Therapeutics, Inc.",13.77,Healthcare,Stocks,NMS
+ECOL,"US Ecology, Inc.",26.82,Industrials,Stocks,NMS
+ESGR,Enstar Group Limited,264.00,Financial Services,Stocks,NMS
+ENTA,"Enanta Pharmaceuticals, Inc.",56.06,Healthcare,Stocks,NMS
+MGEE,MGE Energy Inc.,75.50,Utilities,Stocks,NMS
+PLUS,ePlus inc.,43.41,Technology,Stocks,NMS
+EVO,Evotec SE,19.14,Healthcare,Stocks,NMS
+NSIT,"Insight Enterprises, Inc.",91.39,Technology,Stocks,NMS
+PTVE,Pactiv Evergreen Inc.,10.85,Consumer Cyclical,Stocks,NMS
+HEES,"H&E Equipment Services, Inc.",40.95,Industrials,Stocks,NMS
+ERAS,"Erasca, Inc.",11.04,Healthcare,Stocks,NMS
+EXLS,"ExlService Holdings, Inc.",115.00,Technology,Stocks,NMS
+ERYP,Erytech Pharma S.A.,1.88,Healthcare,Stocks,NMS
+RUSHA,"Rush Enterprises, Inc.",52.27,Consumer Cyclical,Stocks,NMS
+EM,Smart Share Global Limited,1.83,Consumer Cyclical,Stocks,NMS
+ELEV,"Elevation Oncology, Inc.",4.43,Healthcare,Stocks,NMS
+LAUR,"Laureate Education, Inc.",11.53,Consumer Defensive,Stocks,NMS
+UEIC,Universal Electronics Inc.,34.00,Technology,Stocks,NMS
+GEG,"Great Elm Group, Inc.",1.96,Healthcare,Stocks,NMS
+RUSHB,"Rush Enterprises, Inc.",50.64,Consumer Cyclical,Stocks,NMS
+FFIV,"F5, Inc.",202.11,Technology,Stocks,NMS
+FTNT,"Fortinet, Inc.",269.72,Technology,Stocks,NMS
+WPRT,Westport Fuel Systems Inc,1.75,Consumer Cyclical,Stocks,NMS
+FLWS,"1-800-FLOWERS.COM, Inc.",15.08,Consumer Cyclical,Stocks,NMS
+FSLR,"First Solar, Inc.",72.22,Technology,Stocks,NMS
+TIGR,UP Fintech Holding Limited,3.80,Financial Services,Stocks,NMS
+SFIX,"Stitch Fix, Inc.",14.78,Consumer Cyclical,Stocks,NMS
+FLEX,Flex Ltd.,15.69,Technology,Stocks,NMS
+FISV,"Fiserv, Inc.",100.28,Technology,Stocks,NMS
+SIVB,SVB Financial Group,542.74,Financial Services,Stocks,NMS
+FRSH,Freshworks Inc.,20.60,Technology,Stocks,NMS
+SFM,"Sprouts Farmers Market, Inc.",28.27,Consumer Defensive,Stocks,NMS
+PFG,Principal Financial Group Inc,72.41,Financial Services,Stocks,NMS
+FNKO,"Funko, Inc.",15.98,Consumer Cyclical,Stocks,NMS
+FGEN,"FibroGen, Inc",14.01,Healthcare,Stocks,NMS
+VIRT,"Virtu Financial, Inc.",29.89,Financial Services,Stocks,NMS
+ULCC,"Frontier Group Holdings, Inc.",12.33,Industrials,Stocks,NMS
+CASH,"Meta Financial Group, Inc.",56.61,Financial Services,Stocks,NMS
+FOSL,"Fossil Group, Inc.",10.23,Consumer Cyclical,Stocks,NMS
+SAFM,"Sanderson Farms, Inc.",183.04,Consumer Defensive,Stocks,NMS
+LPLA,LPL Financial Holdings Inc.,162.83,Financial Services,Stocks,NMS
+FORM,"FormFactor, Inc.",39.11,Technology,Stocks,NMS
+FRLN,Freeline Therapeutics Holdings ,1.17,Healthcare,Stocks,NMS
+FWRG,"First Watch Restaurant Group, I",13.72,Consumer Cyclical,Stocks,NMS
+FTRP,Field Trip Health Ltd.,1.82,Healthcare,Stocks,NMS
+FREQ,"Frequency Therapeutics, Inc.",4.99,Healthcare,Stocks,NMS
+FLXS,"Flexsteel Industries, Inc.",23.57,Consumer Cyclical,Stocks,NMS
+WHF,"WhiteHorse Finance, Inc.",15.13,Financial Services,Stocks,NMS
+FOCS,Focus Financial Partners Inc.,47.46,Financial Services,Stocks,NMS
+PNFP,"Pinnacle Financial Partners, In",95.95,Financial Services,Stocks,NMS
+FCFS,"FirstCash Holdings, Inc.",67.06,Financial Services,Stocks,NMS
+FARO,"FARO Technologies, Inc.",50.37,Technology,Stocks,NMS
+FHB,"First Hawaiian, Inc.",28.17,Financial Services,Stocks,NMS
+KRNY,Kearny Financial,12.99,Financial Services,Stocks,NMS
+FUSN,Fusion Pharmaceuticals Inc.,7.29,Healthcare,Stocks,NMS
+FISI,"Financial Institutions, Inc.",31.93,Financial Services,Stocks,NMS
+HTLF,"Heartland Financial USA, Inc.",51.34,Financial Services,Stocks,NMS
+QRTEP,"Qurate Retail, Inc. - 8.0% Fixe",101.30,Consumer Cyclical,Stocks,NMS
+WAFD,"Washington Federal, Inc.",34.76,Financial Services,Stocks,NMS
+WSBF,"Waterstone Financial, Inc.",20.65,Financial Services,Stocks,NMS
+HBT,"HBT Financial, Inc.",18.29,Financial Services,Stocks,NMS
+FRTA,"Forterra, Inc.",23.25,Industrials,Stocks,NMS
+FNCH,"Finch Therapeutics Group, Inc.",7.59,Healthcare,Stocks,NMS
+MOFG,"MidWestOne Financial Group, Inc",30.88,Financial Services,Stocks,NMS
+FRGI,"Fiesta Restaurant Group, Inc.",9.14,Consumer Cyclical,Stocks,NMS
+FANH,Fanhua Inc.,6.48,Financial Services,Stocks,NMS
+NATH,"Nathan's Famous, Inc.",52.77,Consumer Cyclical,Stocks,NMS
+FTDR,"frontdoor, inc.",34.39,Consumer Cyclical,Stocks,NMS
+UFCS,"United Fire Group, Inc",24.11,Financial Services,Stocks,NMS
+SPFI,"South Plains Financial, Inc.",28.34,Financial Services,Stocks,NMS
+FUNC,First,19.50,Financial Services,Stocks,NMS
+FORR,"Forrester Research, Inc.",53.75,Industrials,Stocks,NMS
+SMMF,"Summit Financial Group, Inc.",27.30,Financial Services,Stocks,NMS
+FRPH,"FRP Holdings, Inc.",55.20,Real Estate,Stocks,NMS
+FFNW,"First Financial Northwest, Inc.",16.66,Financial Services,Stocks,NMS
+PROV,"Provident Financial Holdings, I",16.98,Financial Services,Stocks,NMS
+GIFI,"Gulf Island Fabrication, Inc.",4.00,Industrials,Stocks,NMS
+MYFW,"First Western Financial, Inc.",33.00,Financial Services,Stocks,NMS
+SVVC,Firsthand Technology Value Fund,3.82,Financial Services,Stocks,NMS
+NICK,"Nicholas Financial, Inc.",10.95,Financial Services,Stocks,NMS
+FORTY,Formula Systems (1985) Ltd.,108.65,Technology,Stocks,NMS
+HTLFP,"Heartland Financial USA, Inc. -",27.02,Financial Services,Stocks,NMS
+FOSLL,"Fossil Group, Inc. - 7% Senior ",25.14,N/A,Stocks,NMS
+PNFPP,"Pinnacle Financial Partners, In",26.41,Financial Services,Stocks,NMS
+WTFCM,Wintrust Financial Corporation ,27.00,Financial Services,Stocks,NMS
+LCID,"Lucid Group, Inc.",28.70,Consumer Cyclical,Stocks,NMS
+GILD,"Gilead Sciences, Inc.",67.27,Healthcare,Stocks,NMS
+PENN,"Penn National Gaming, Inc.",42.35,Consumer Cyclical,Stocks,NMS
+GRPN,"Groupon, Inc.",27.86,Communication Services,Stocks,NMS
+TROW,"T. Rowe Price Group, Inc.",149.85,Financial Services,Stocks,NMS
+GFS,GlobalFoundries Inc.,44.71,Technology,Stocks,NMS
+GRAB,Grab Holdings Limited,5.71,Financial Services,Stocks,NMS
+HTZ,"Hertz Global Holdings, Inc",17.74,Industrials,Stocks,NMS
+GOGL,Golden Ocean Group Limited,8.84,Industrials,Stocks,NMS
+GLPG,Galapagos NV,65.30,Healthcare,Stocks,NMS
+GTLB,GitLab Inc.,60.40,Technology,Stocks,NMS
+VOD,Vodafone Group Plc,16.80,Communication Services,Stocks,NMS
+GPRO,"GoPro, Inc.",8.34,Technology,Stocks,NMS
+MTCH,"Match Group, Inc.",106.50,Communication Services,Stocks,NMS
+GREE,Greenidge Generation Holdings I,10.73,Financial Services,Stocks,NMS
+GDRX,"GoodRx Holdings, Inc.",21.67,Healthcare,Stocks,NMS
+GTHX,"G1 Therapeutics, Inc.",9.17,Healthcare,Stocks,NMS
+ZG,"Zillow Group, Inc.",45.99,Communication Services,Stocks,NMS
+GH,"Guardant Health, Inc.",61.59,Healthcare,Stocks,NMS
+MOMO,Hello Group Inc.,8.73,Communication Services,Stocks,NMS
+KNDI,"Kandi Technologies Group, Inc.",2.84,Consumer Cyclical,Stocks,NMS
+TXG,"10x Genomics, Inc.",85.86,Healthcare,Stocks,NMS
+GILT,Gilat Satellite Networks Ltd.,7.21,Technology,Stocks,NMS
+SGH,"SMART Global Holdings, Inc.",53.65,Technology,Stocks,NMS
+GLNG,Golar LNG Limited,14.09,Energy,Stocks,NMS
+GOCO,"GoHealth, Inc.",2.29,Financial Services,Stocks,NMS
+RELY,"Remitly Global, Inc.",11.49,Technology,Stocks,NMS
+UNIT,Uniti Group Inc.,11.45,Real Estate,Stocks,NMS
+HYFM,"Hydrofarm Holdings Group, Inc.",17.37,Industrials,Stocks,NMS
+GRIN,Grindrod Shipping Holdings Ltd.,16.60,Industrials,Stocks,NMS
+PAGP,"Plains GP Holdings, L.P.",11.67,Energy,Stocks,NMS
+WEJO,Wejo Group Limited,3.69,Technology,Stocks,NMS
+RGLD,"Royal Gold, Inc.",99.97,Basic Materials,Stocks,NMS
+HCSG,"Healthcare Services Group, Inc.",17.37,Healthcare,Stocks,NMS
+TCOM,Trip.com Group Limited,24.35,Consumer Cyclical,Stocks,NMS
+TSHA,"Taysha Gene Therapies, Inc.",6.82,Healthcare,Stocks,NMS
+NMRK,"Newmark Group, Inc.",14.57,Real Estate,Stocks,NMS
+NXST,"Nexstar Media Group, Inc.",154.67,Communication Services,Stocks,NMS
+GOGO,Gogo Inc.,12.42,Communication Services,Stocks,NMS
+GRFS,"Grifols, S.A.",11.68,Healthcare,Stocks,NMS
+GLTO,"Galecto, Inc.",2.27,Healthcare,Stocks,NMS
+SIOX,Sio Gene Therapies Inc.,1.05,Healthcare,Stocks,NMS
+GSHD,"Goosehead Insurance, Inc.",83.23,Financial Services,Stocks,NMS
+GTX,Garrett Motion Inc.,6.98,Consumer Cyclical,Stocks,NMS
+LFST,"LifeStance Health Group, Inc.",6.62,Healthcare,Stocks,NMS
+HHR,HeadHunter Group PLC,42.18,Industrials,Stocks,NMS
+GPRE,"Green Plains, Inc.",28.43,Basic Materials,Stocks,NMS
+PRVA,"Privia Health Group, Inc.",19.19,Healthcare,Stocks,NMS
+SAFT,"Safety Insurance Group, Inc.",80.80,Financial Services,Stocks,NMS
+LBTYA,Liberty Global plc,25.44,Communication Services,Stocks,NMS
+LHCG,LHC Group,114.10,Healthcare,Stocks,NMS
+GURE,"Gulf Resources, Inc.",4.38,Basic Materials,Stocks,NMS
+OMIC,"Singular Genomics Systems, Inc.",6.08,Healthcare,Stocks,NMS
+GSIT,"GSI Technology, Inc.",4.27,Technology,Stocks,NMS
+MNTV,Momentive Global Inc.,16.79,Technology,Stocks,NMS
+RUTH,"Ruth's Hospitality Group, Inc.",18.96,Consumer Cyclical,Stocks,NMS
+VNET,"VNET Group, Inc.",8.14,Technology,Stocks,NMS
+MYGN,"Myriad Genetics, Inc.",24.55,Healthcare,Stocks,NMS
+SOPH,SOPHiA GENETICS SA,11.83,Healthcare,Stocks,NMS
+MYRG,"MYR Group, Inc.",89.22,Industrials,Stocks,NMS
+HTHT,Huazhu Group Limited,35.91,Consumer Cyclical,Stocks,NMS
+SWIM,"Latham Group, Inc.",14.40,Industrials,Stocks,NMS
+GLRE,"Greenlight Reinsurance, Ltd.",7.09,Financial Services,Stocks,NMS
+GSKY,"GreenSky, Inc.",10.10,Technology,Stocks,NMS
+LBTYK,Liberty Global plc,25.45,Communication Services,Stocks,NMS
+SHYF,"The Shyft Group, Inc.",40.97,Industrials,Stocks,NMS
+ROCK,"Gibraltar Industries, Inc.",53.26,Industrials,Stocks,NMS
+STEP,StepStone Group Inc.,31.55,Financial Services,Stocks,NMS
+HUBG,"Hub Group, Inc.",73.85,Industrials,Stocks,NMS
+THRM,Gentherm Inc,87.45,Consumer Cyclical,Stocks,NMS
+SNEX,StoneX Group Inc.,63.24,Financial Services,Stocks,NMS
+SIGI,"Selective Insurance Group, Inc.",76.41,Financial Services,Stocks,NMS
+REPL,"Replimune Group, Inc.",18.55,Healthcare,Stocks,NMS
+WEYS,"Weyco Group, Inc.",22.91,Consumer Cyclical,Stocks,NMS
+HSON,"Hudson Global, Inc.",28.02,Industrials,Stocks,NMS
+PRAA,"PRA Group, Inc.",45.42,Financial Services,Stocks,NMS
+PNTG,"The Pennant Group, Inc.",15.58,Healthcare,Stocks,NMS
+JRVR,"James River Group Holdings, Ltd",26.65,Financial Services,Stocks,NMS
+HCKT,"The Hackett Group, Inc.",18.77,Technology,Stocks,NMS
+NWLI,"National Western Life Group, In",209.80,Financial Services,Stocks,NMS
+TIG,"Trean Insurance Group, Inc.",7.69,Financial Services,Stocks,NMS
+GNFT,GENFIT S.A.,3.94,Healthcare,Stocks,NMS
+SIGIP,"Selective Insurance Group, Inc.",23.71,Financial Services,Stocks,NMS
+GREEL,Greenidge Generation Holdings I,21.23,N/A,Stocks,NMS
+LBTYB,Liberty Global plc,25.40,Communication Services,Stocks,NMS
+GAINZ,Gladstone Investment Corporatio,25.28,N/A,Stocks,NMS
+PYPL,"PayPal Holdings, Inc.",158.11,Financial Services,Stocks,NMS
+UPST,"Upstart Holdings, Inc.",90.13,Financial Services,Stocks,NMS
+STX,Seagate Technology Holdings PLC,103.68,Technology,Stocks,NMS
+OPK,"Opko Health, Inc.",2.87,Healthcare,Stocks,NMS
+HIMX,"Himax Technologies, Inc.",10.46,Technology,Stocks,NMS
+HYZN,Hyzon Motors Inc.,4.44,Consumer Cyclical,Stocks,NMS
+HON,Honeywell International Inc.,200.65,Industrials,Stocks,NMS
+SIRI,Sirius XM Holdings Inc.,6.13,Communication Services,Stocks,NMS
+TSP,TuSimple Holdings Inc.,15.91,Industrials,Stocks,NMS
+OGI,Organigram Holdings Inc.,1.31,Healthcare,Stocks,NMS
+MVST,"Microvast Holdings, Inc.",5.13,Industrials,Stocks,NMS
+HAS,"Hasbro, Inc.",88.47,Consumer Cyclical,Stocks,NMS
+HCP,"HashiCorp, Inc.",58.65,Technology,Stocks,NMS
+WTRH,Waitr Holdings Inc.,0.56,Technology,Stocks,NMS
+LITE,Lumentum Holdings Inc.,97.25,Technology,Stocks,NMS
+HZNP,Horizon Therapeutics Public Lim,87.35,Healthcare,Stocks,NMS
+IMCR,Immunocore Holdings plc,20.74,Healthcare,Stocks,NMS
+MKTX,"MarketAxess Holdings, Inc.",330.12,Financial Services,Stocks,NMS
+SRGA,"Surgalign Holdings, Inc.",0.65,Healthcare,Stocks,NMS
+LX,LexinFintech Holdings Ltd.,2.97,Financial Services,Stocks,NMS
+OZON,Ozon Holdings PLC,18.29,Consumer Cyclical,Stocks,NMS
+MTSI,MACOM Technology Solutions Hold,58.08,Technology,Stocks,NMS
+HALO,"Halozyme Therapeutics, Inc.",31.97,Healthcare,Stocks,NMS
+ICHR,Ichor Holdings,37.48,Technology,Stocks,NMS
+JBHT,"J.B. Hunt Transport Services, I",188.11,Industrials,Stocks,NMS
+HOLX,"Hologic, Inc.",68.08,Healthcare,Stocks,NMS
+MRVI,"Maravai LifeSciences Holdings, ",25.25,Healthcare,Stocks,NMS
+SPWH,"Sportsman's Warehouse Holdings,",10.15,Consumer Cyclical,Stocks,NMS
+OLPX,"Olaplex Holdings, Inc.",19.70,Consumer Cyclical,Stocks,NMS
+SOND,Sonder Holdings Inc.,9.36,Consumer Cyclical,Stocks,NMS
+TENB,"Tenable Holdings, Inc.",44.99,Technology,Stocks,NMS
+ONEM,"1Life Healthcare, Inc.",9.64,Healthcare,Stocks,NMS
+HIBB,"Hibbett, Inc.",60.12,Consumer Cyclical,Stocks,NMS
+SLGN,Silgan Holdings Inc.,44.30,Consumer Cyclical,Stocks,NMS
+HLIT,Harmonic Inc.,10.11,Technology,Stocks,NMS
+LGIH,"LGI Homes, Inc.",116.49,Consumer Cyclical,Stocks,NMS
+NXGN,"NextGen Healthcare, Inc.",18.61,Healthcare,Stocks,NMS
+HUMA,"Humacyte, Inc.",5.03,Healthcare,Stocks,NMS
+LHDX,"Lucira Health, Inc.",4.72,Healthcare,Stocks,NMS
+HQY,"HealthEquity, Inc.",51.82,Healthcare,Stocks,NMS
+HSIC,"Henry Schein, Inc.",74.77,Healthcare,Stocks,NMS
+TWKS,"Thoughtworks Holding, Inc.",19.09,Technology,Stocks,NMS
+RYAAY,Ryanair Holdings plc,110.95,Industrials,Stocks,NMS
+FIXX,"Homology Medicines, Inc.",3.03,Healthcare,Stocks,NMS
+HOOK,HOOKIPA Pharma Inc.,1.34,Healthcare,Stocks,NMS
+MGTX,MeiraGTx Holdings plc,14.00,Healthcare,Stocks,NMS
+HST,Host Hotels,16.59,Real Estate,Stocks,NMS
+HARP,"Harpoon Therapeutics, Inc.",4.93,Healthcare,Stocks,NMS
+MEDP,"Medpace Holdings, Inc.",165.25,Healthcare,Stocks,NMS
+PLMR,"Palomar Holdings, Inc.",48.98,Financial Services,Stocks,NMS
+HELE,Helen of Troy Limited,205.59,Consumer Defensive,Stocks,NMS
+THRN,"Thorne Healthtech, Inc.",4.72,Consumer Defensive,Stocks,NMS
+SYNH,"Syneos Health, Inc.",85.40,Healthcare,Stocks,NMS
+PYCR,"Paycor HCM, Inc.",23.86,Technology,Stocks,NMS
+HLNE,Hamilton Lane Incorporated,81.89,Financial Services,Stocks,NMS
+NH,"NantHealth, Inc.",0.80,Healthcare,Stocks,NMS
+HAYN,"Haynes International, Inc.",33.72,Industrials,Stocks,NMS
+SPOK,"Spok Holdings, Inc.",9.80,Healthcare,Stocks,NMS
+HWKN,"Hawkins, Inc.",36.55,Basic Materials,Stocks,NMS
+EYE,"National Vision Holdings, Inc.",38.57,Consumer Cyclical,Stocks,NMS
+TTEC,"TTEC Holdings, Inc.",75.22,Technology,Stocks,NMS
+LTRPA,"Liberty TripAdvisor Holdings, I",1.98,Communication Services,Stocks,NMS
+ULH,"Universal Logistics Holdings, I",16.30,Industrials,Stocks,NMS
+PLYA,Playa Hotels & Resorts N.V.,7.19,Consumer Cyclical,Stocks,NMS
+HMST,"HomeStreet, Inc.",47.23,Financial Services,Stocks,NMS
+HSII,Heidrick & Struggles Internatio,42.62,Industrials,Stocks,NMS
+TVTY,"Tivity Health, Inc.",24.46,Healthcare,Stocks,NMS
+LVOX,"LiveVox Holding, Inc.",4.48,Technology,Stocks,NMS
+HSTM,"HealthStream, Inc.",24.02,Healthcare,Stocks,NMS
+PATI,"Patriot Transportation Holding,",8.02,Industrials,Stocks,NMS
+LTRPB,"Liberty TripAdvisor Holdings, I",15.45,Communication Services,Stocks,NMS
+TSCAP,"TriState Capital Holdings, Inc.",26.01,Financial Services,Stocks,NMS
+LVOXU,"LiveVox Holding, Inc.",4.75,Technology,Stocks,NMS
+TSLA,"Tesla, Inc.",830.02,Consumer Cyclical,Stocks,NMS
+NFLX,"Netflix, Inc.",386.86,Communication Services,Stocks,NMS
+NVAX,"Novavax, Inc.",72.92,Healthcare,Stocks,NMS
+SOFI,"SoFi Technologies, Inc.",11.36,Financial Services,Stocks,NMS
+MRNA,"Moderna, Inc.",148.58,Healthcare,Stocks,NMS
+HOOD,"Robinhood Markets, Inc.",11.62,Technology,Stocks,NMS
+TXN,Texas Instruments Incorporated,174.81,Technology,Stocks,NMS
+MU,"Micron Technology, Inc.",78.72,Technology,Stocks,NMS
+QCOM,QUALCOMM Incorporated,161.20,Technology,Stocks,NMS
+PTON,"Peloton Interactive, Inc.",23.97,Consumer Cyclical,Stocks,NMS
+LAZR,"Luminar Technologies, Inc.",12.65,Technology,Stocks,NMS
+INO,"Inovio Pharmaceuticals, Inc.",3.72,Healthcare,Stocks,NMS
+ROKU,"Roku, Inc.",147.82,Communication Services,Stocks,NMS
+TER,"Teradyne, Inc.",111.24,Technology,Stocks,NMS
+MRVL,"Marvell Technology, Inc.",64.89,Technology,Stocks,NMS
+XLNX,"Xilinx, Inc.",173.42,Technology,Stocks,NMS
+VIAC,ViacomCBS Inc.,31.41,Communication Services,Stocks,NMS
+SDC,"SmileDirectClub, Inc.",2.17,Healthcare,Stocks,NMS
+MELI,"MercadoLibre, Inc.",992.50,Consumer Cyclical,Stocks,NMS
+VRTX,Vertex Pharmaceuticals Incorpor,228.22,Healthcare,Stocks,NMS
+XM,Qualtrics International Inc.,25.71,Technology,Stocks,NMS
+MSTR,MicroStrategy Incorporated,319.45,Technology,Stocks,NMS
+ISRG,"Intuitive Surgical, Inc.",262.77,Healthcare,Stocks,NMS
+OPEN,Opendoor Technologies Inc,8.50,Real Estate,Stocks,NMS
+PEP,"Pepsico, Inc.",169.37,Consumer Defensive,Stocks,NMS
+PDD,Pinduoduo Inc.,50.83,Consumer Cyclical,Stocks,NMS
+IQ,"iQIYI, Inc.",3.42,Communication Services,Stocks,NMS
+OKTA,"Okta, Inc.",175.60,Technology,Stocks,NMS
+SLDP,"Solid Power, Inc.",6.22,Industrials,Stocks,NMS
+VTRS,Viatris Inc.,14.59,Healthcare,Stocks,NMS
+INMD,InMode Ltd.,41.17,Healthcare,Stocks,NMS
+TMUS,"T-Mobile US, Inc.",106.03,Communication Services,Stocks,NMS
+ZS,"Zscaler, Inc.",223.08,Technology,Stocks,NMS
+RUN,Sunrun Inc.,23.27,Technology,Stocks,NMS
+SWKS,"Skyworks Solutions, Inc.",137.35,Technology,Stocks,NMS
+ROOT,"Root, Inc.",1.58,Financial Services,Stocks,NMS
+LOGI,Logitech International S.A. - R,80.81,Technology,Stocks,NMS
+ILMN,"Illumina, Inc.",324.36,Healthcare,Stocks,NMS
+MQ,"Marqeta, Inc.",10.28,Technology,Stocks,NMS
+ZNGA,Zynga Inc.,8.63,Communication Services,Stocks,NMS
+VLDR,"Velodyne Lidar, Inc.",3.38,Technology,Stocks,NMS
+INTU,Intuit Inc.,517.22,Technology,Stocks,NMS
+REGN,"Regeneron Pharmaceuticals, Inc.",608.72,Healthcare,Stocks,NMS
+SEDG,"SolarEdge Technologies, Inc.",209.82,Technology,Stocks,NMS
+SPPI,"Spectrum Pharmaceuticals, Inc.",0.63,Healthcare,Stocks,NMS
+MAT,"Mattel, Inc.",19.86,Consumer Cyclical,Stocks,NMS
+PTRA,Proterra Inc,6.89,Consumer Cyclical,Stocks,NMS
+NDAQ,"Nasdaq, Inc.",172.31,Financial Services,Stocks,NMS
+LLNW,"Limelight Networks, Inc.",4.06,Technology,Stocks,NMS
+WDAY,"Workday, Inc.",226.18,Technology,Stocks,NMS
+IBRX,"ImmunityBio, Inc.",5.05,Healthcare,Stocks,NMS
+QRVO,"Qorvo, Inc.",127.72,Technology,Stocks,NMS
+SPLK,Splunk Inc.,109.25,Technology,Stocks,NMS
+MKSI,"MKS Instruments, Inc.",145.45,Technology,Stocks,NMS
+PTLO,Portillo's Inc.,24.39,Consumer Cyclical,Stocks,NMS
+MGI,"Moneygram International, Inc.",8.76,Financial Services,Stocks,NMS
+SRPT,"Sarepta Therapeutics, Inc.",66.88,Healthcare,Stocks,NMS
+LYFT,"Lyft, Inc.",34.93,Technology,Stocks,NMS
+VRM,"Vroom, Inc.",6.82,Consumer Cyclical,Stocks,NMS
+MCHP,Microchip Technology Incorporat,71.04,Technology,Stocks,NMS
+SONO,"Sonos, Inc.",22.20,Technology,Stocks,NMS
+MGNI,"Magnite, Inc.",11.89,Communication Services,Stocks,NMS
+MDLZ,"Mondelez International, Inc.",67.47,Consumer Defensive,Stocks,NMS
+MDGL,"Madrigal Pharmaceuticals, Inc.",55.89,Healthcare,Stocks,NMS
+TTWO,"Take-Two Interactive Software, ",157.25,Communication Services,Stocks,NMS
+NTNX,"Nutanix, Inc.",24.71,Technology,Stocks,NMS
+ZI,ZoomInfo Technologies Inc.,46.31,Technology,Stocks,NMS
+TXMD,"TherapeuticsMD, Inc.",0.27,Healthcare,Stocks,NMS
+IDXX,"IDEXX Laboratories, Inc.",471.08,Healthcare,Stocks,NMS
+IIVI,II-VI Incorporated,59.37,Technology,Stocks,NMS
+SNPS,"Synopsys, Inc.",285.36,Technology,Stocks,NMS
+MAR,Marriott International,153.71,Consumer Cyclical,Stocks,NMS
+ICPT,"Intercept Pharmaceuticals, Inc.",14.44,Healthcare,Stocks,NMS
+UPWK,Upwork Inc.,23.44,Industrials,Stocks,NMS
+SDGR,"Schrodinger, Inc.",25.49,Healthcare,Stocks,NMS
+PTC,PTC Inc.,109.78,Technology,Stocks,NMS
+PAYX,"Paychex, Inc.",111.60,Industrials,Stocks,NMS
+NYMT,"New York Mortgage Trust, Inc.",3.59,Real Estate,Stocks,NMS
+KPTI,Karyopharm Therapeutics Inc.,7.83,Healthcare,Stocks,NMS
+SEAC,"SeaChange International, Inc.",1.09,Technology,Stocks,NMS
+TASK,"TaskUs, Inc.",27.63,Technology,Stocks,NMS
+LTCH,"Latch, Inc.",5.64,Technology,Stocks,NMS
+SYNA,Synaptics Incorporated,181.06,Technology,Stocks,NMS
+REAL,"The RealReal, Inc.",8.13,Consumer Cyclical,Stocks,NMS
+MNTS,Momentus Inc.,3.13,Industrials,Stocks,NMS
+SGEN,Seagen Inc.,122.91,Healthcare,Stocks,NMS
+DNUT,"Krispy Kreme, Inc.",14.09,Consumer Defensive,Stocks,NMS
+NTAP,"NetApp, Inc.",83.83,Technology,Stocks,NMS
+PRPL,"Purple Innovation, Inc.",7.36,Consumer Cyclical,Stocks,NMS
+ZIOP,ZIOPHARM Oncology Inc,0.87,Healthcare,Stocks,NMS
+WW,"WW International, Inc.",12.04,Consumer Cyclical,Stocks,NMS
+PCAR,PACCAR Inc.,93.22,Industrials,Stocks,NMS
+IMGN,"ImmunoGen, Inc.",5.09,Healthcare,Stocks,NMS
+KMPH,"KemPharm, Inc.",6.17,Healthcare,Stocks,NMS
+POSH,"Poshmark, Inc.",13.78,Consumer Cyclical,Stocks,NMS
+TPG,TPG Inc.,32.50,Financial Services,Stocks,NMS
+TWOU,"2U, Inc.",13.50,Consumer Defensive,Stocks,NMS
+IONS,"Ionis Pharmaceuticals, Inc.",30.14,Healthcare,Stocks,NMS
+TRMB,Trimble Inc.,67.13,Technology,Stocks,NMS
+MPWR,"Monolithic Power Systems, Inc.",361.12,Technology,Stocks,NMS
+ROST,"Ross Stores, Inc.",94.87,Consumer Cyclical,Stocks,NMS
+SWAV,"ShockWave Medical, Inc.",127.96,Healthcare,Stocks,NMS
+MNDT,"Mandiant, Inc.",14.08,Technology,Stocks,NMS
+SGMO,"Sangamo Therapeutics, Inc.",5.52,Healthcare,Stocks,NMS
+RIGL,"Rigel Pharmaceuticals, Inc.",2.31,Healthcare,Stocks,NMS
+MXL,"MaxLinear, Inc",52.70,Technology,Stocks,NMS
+KALA,"Kala Pharmaceuticals, Inc.",0.77,Healthcare,Stocks,NMS
+OAS,Oasis Petroleum Inc.,135.36,Energy,Stocks,NMS
+LXRX,"Lexicon Pharmaceuticals, Inc.",2.92,Healthcare,Stocks,NMS
+SUMO,"Sumo Logic, Inc.",10.78,Technology,Stocks,NMS
+NLOK,NortonLifeLock Inc.,25.31,Technology,Stocks,NMS
+SHCR,"Sharecare, Inc.",2.84,Healthcare,Stocks,NMS
+TRIP,"TripAdvisor, Inc.",25.10,Consumer Cyclical,Stocks,NMS
+ZYXI,"Zynex, Inc.",7.20,Healthcare,Stocks,NMS
+VYNE,VYNE Therapeutics Inc.,0.54,Healthcare,Stocks,NMS
+SSRM,SSR Mining Inc.,16.19,Basic Materials,Stocks,NMS
+MAPS,"WM Technology, Inc.",4.44,Technology,Stocks,NMS
+RMBS,"Rambus, Inc.",23.76,Technology,Stocks,NMS
+RXT,"Rackspace Technology, Inc.",11.93,Technology,Stocks,NMS
+INFI,"Infinity Pharmaceuticals, Inc.",1.11,Healthcare,Stocks,NMS
+XP,XP Inc.,31.27,Financial Services,Stocks,NMS
+VMEO,"Vimeo, Inc.",12.78,Technology,Stocks,NMS
+NCNO,"nCino, Inc.",41.03,Technology,Stocks,NMS
+YY,JOYY Inc.,44.39,Communication Services,Stocks,NMS
+NTES,"NetEase, Inc.",94.54,Communication Services,Stocks,NMS
+PGEN,"Precigen, Inc.",2.45,Healthcare,Stocks,NMS
+WING,Wingstop Inc.,143.96,Consumer Cyclical,Stocks,NMS
+DSP,Viant Technology Inc.,6.62,Technology,Stocks,NMS
+UDMY,"Udemy, Inc.",14.71,Consumer Defensive,Stocks,NMS
+STKL,"SunOpta, Inc.",4.65,Consumer Defensive,Stocks,NMS
+TW,Tradeweb Markets Inc.,80.52,Financial Services,Stocks,NMS
+LPSN,"LivePerson, Inc.",25.89,Technology,Stocks,NMS
+KNBE,"KnowBe4, Inc.",21.69,Technology,Stocks,NMS
+OIIM,O2Micro International Limited,3.85,Technology,Stocks,NMS
+VRSN,"VeriSign, Inc.",207.44,Technology,Stocks,NMS
+PZZA,"Papa John's International, Inc.",118.07,Consumer Cyclical,Stocks,NMS
+TALK,"Talkspace, Inc.",1.34,Healthcare,Stocks,NMS
+PLAB,"Photronics, Inc.",16.88,Technology,Stocks,NMS
+VRNS,"Varonis Systems, Inc.",32.76,Technology,Stocks,NMS
+TREE,"LendingTree, Inc.",114.34,Financial Services,Stocks,NMS
+IAC,IAC/InterActiveCorp,124.71,Communication Services,Stocks,NMS
+VYGR,"Voyager Therapeutics, Inc.",2.79,Healthcare,Stocks,NMS
+NARI,"Inari Medical, Inc.",64.92,Healthcare,Stocks,NMS
+OSUR,"OraSure Technologies, Inc.",8.25,Healthcare,Stocks,NMS
+NTRA,"Natera, Inc.",61.90,Healthcare,Stocks,NMS
+URBN,"Urban Outfitters, Inc.",28.17,Consumer Cyclical,Stocks,NMS
+PI,"Impinj, Inc.",71.67,Technology,Stocks,NMS
+PGNY,"Progyny, Inc.",36.81,Healthcare,Stocks,NMS
+TCDA,"Tricida, Inc.",9.73,Healthcare,Stocks,NMS
+TXRH,"Texas Roadhouse, Inc.",80.12,Consumer Cyclical,Stocks,NMS
+IFRX,InflaRx N.V.,3.48,Healthcare,Stocks,NMS
+QLYS,"Qualys, Inc.",121.20,Technology,Stocks,NMS
+LSTR,"Landstar System, Inc.",151.19,Industrials,Stocks,NMS
+RENT,"Rent the Runway, Inc.",4.87,Consumer Cyclical,Stocks,NMS
+BPOP,"Popular, Inc.",86.32,Financial Services,Stocks,NMS
+MCRB,"Seres Therapeutics, Inc.",7.43,Healthcare,Stocks,NMS
+MRSN,"Mersana Therapeutics, Inc.",4.30,Healthcare,Stocks,NMS
+PRFT,"Perficient, Inc.",95.20,Technology,Stocks,NMS
+OPI,Office Properties Income Trust,24.46,Real Estate,Stocks,NMS
+VSAT,"ViaSat, Inc.",44.50,Technology,Stocks,NMS
+ZY,Zymergen Inc.,4.65,Basic Materials,Stocks,NMS
+INSM,"Insmed, Inc.",20.42,Healthcare,Stocks,NMS
+TTEK,"Tetra Tech, Inc.",128.60,Industrials,Stocks,NMS
+IMRA,IMARA Inc.,1.35,Healthcare,Stocks,NMS
+LYTS,LSI Industries Inc.,7.07,Technology,Stocks,NMS
+LESL,"Leslie's, Inc.",19.35,Consumer Cyclical,Stocks,NMS
+SYRS,"Syros Pharmaceuticals, Inc.",1.85,Healthcare,Stocks,NMS
+VIAV,Viavi Solutions Inc.,15.64,Technology,Stocks,NMS
+KIRK,"Kirkland's, Inc.",15.65,Consumer Cyclical,Stocks,NMS
+RNWK,"RealNetworks, Inc.",0.77,Communication Services,Stocks,NMS
+IMKTA,"Ingles Markets, Incorporated",76.48,Consumer Defensive,Stocks,NMS
+WFRD,Weatherford International plc,30.35,Energy,Stocks,NMS
+TCRR,TCR2 Therapeutics Inc.,3.15,Healthcare,Stocks,NMS
+SAIA,"Saia, Inc.",266.15,Industrials,Stocks,NMS
+SCHN,"Schnitzer Steel Industries, Inc",37.72,Basic Materials,Stocks,NMS
+PEGA,Pegasystems Inc.,91.50,Technology,Stocks,NMS
+SWIR,"Sierra Wireless, Inc.",13.89,Technology,Stocks,NMS
+WSBC,"WesBanco, Inc.",35.02,Financial Services,Stocks,NMS
+LZ,"LegalZoom.com, Inc.",15.01,Communication Services,Stocks,NMS
+PRLD,Prelude Therapeutics Incorporat,9.16,Healthcare,Stocks,NMS
+IRTC,"iRhythm Technologies, Inc.",114.90,Healthcare,Stocks,NMS
+SLAB,"Silicon Laboratories, Inc.",150.64,Technology,Stocks,NMS
+LGO,Largo Inc.,8.28,Basic Materials,Stocks,NMS
+VERV,"Verve Therapeutics, Inc.",26.57,Healthcare,Stocks,NMS
+MRTX,"Mirati Therapeutics, Inc.",107.83,Healthcare,Stocks,NMS
+MNRO,"Monro, Inc.",50.50,Consumer Cyclical,Stocks,NMS
+SVRA,"Savara, Inc.",1.17,Healthcare,Stocks,NMS
+XMTR,"Xometry, Inc.",45.00,Industrials,Stocks,NMS
+RXRX,"Recursion Pharmaceuticals, Inc.",10.22,Healthcare,Stocks,NMS
+TDUP,ThredUp Inc.,8.08,Consumer Cyclical,Stocks,NMS
+VCSA,"Vacasa, Inc.",6.43,Technology,Stocks,NMS
+IDCC,"InterDigital, Inc.",65.74,Communication Services,Stocks,NMS
+METC,"Ramaco Resources, Inc.",12.01,Basic Materials,Stocks,NMS
+JOUT,Johnson Outdoors Inc.,84.63,Consumer Cyclical,Stocks,NMS
+OMCL,"Omnicell, Inc.",145.69,Healthcare,Stocks,NMS
+RRR,"Red Rock Resorts, Inc.",43.25,Consumer Cyclical,Stocks,NMS
+VIACA,ViacomCBS Inc.,34.46,Communication Services,Stocks,NMS
+YMAB,"Y-mAbs Therapeutics, Inc.",8.70,Healthcare,Stocks,NMS
+TLMD,"SOC Telemed, Inc.",0.58,Healthcare,Stocks,NMS
+OM,"Outset Medical, Inc.",34.77,Healthcare,Stocks,NMS
+MRCY,Mercury Systems Inc,54.63,Industrials,Stocks,NMS
+IRWD,"Ironwood Pharmaceuticals, Inc.",10.64,Healthcare,Stocks,NMS
+JNCE,"Jounce Therapeutics, Inc.",6.98,Healthcare,Stocks,NMS
+RGNX,REGENXBIO Inc.,24.87,Healthcare,Stocks,NMS
+POWI,"Power Integrations, Inc.",75.37,Technology,Stocks,NMS
+SND,"Smart Sand, Inc.",1.95,Energy,Stocks,NMS
+NUVA,"NuVasive, Inc.",50.05,Healthcare,Stocks,NMS
+INVA,"Innoviva, Inc.",15.86,Healthcare,Stocks,NMS
+OVID,Ovid Therapeutics Inc.,2.65,Healthcare,Stocks,NMS
+PATK,"Patrick Industries, Inc.",61.56,Consumer Cyclical,Stocks,NMS
+USAK,"USA Truck, Inc.",17.70,Industrials,Stocks,NMS
+SEER,"Seer, Inc.",13.36,Healthcare,Stocks,NMS
+NTCT,"NetScout Systems, Inc.",31.40,Technology,Stocks,NMS
+KURA,"Kura Oncology, Inc.",12.69,Healthcare,Stocks,NMS
+SLP,"Simulations Plus, Inc.",38.91,Healthcare,Stocks,NMS
+SKYW,"SkyWest, Inc.",37.48,Industrials,Stocks,NMS
+KLTR,"Kaltura, Inc.",3.17,Technology,Stocks,NMS
+MORN,"Morningstar, Inc.",263.95,Financial Services,Stocks,NMS
+LFUS,"Littelfuse, Inc.",254.73,Technology,Stocks,NMS
+SGHT,"Sight Sciences, Inc.",13.64,Healthcare,Stocks,NMS
+TPTX,"Turning Point Therapeutics, Inc",31.97,Healthcare,Stocks,NMS
+SNCR,"Synchronoss Technologies, Inc.",2.09,Technology,Stocks,NMS
+UFPI,"UFP Industries, Inc.",78.50,Basic Materials,Stocks,NMS
+JAKK,"JAKKS Pacific, Inc.",7.75,Consumer Cyclical,Stocks,NMS
+ICLR,ICON plc,256.66,Healthcare,Stocks,NMS
+VRNT,Verint Systems Inc.,51.26,Technology,Stocks,NMS
+PETQ,"PetIQ, Inc.",19.14,Healthcare,Stocks,NMS
+OPTN,"OptiNose, Inc.",2.20,Healthcare,Stocks,NMS
+ILPT,Industrial Logistics Properties,21.96,Real Estate,Stocks,NMS
+OSIS,"OSI Systems, Inc.",81.84,Technology,Stocks,NMS
+ZEUS,"Olympic Steel, Inc.",20.75,Basic Materials,Stocks,NMS
+RARE,Ultragenyx Pharmaceutical Inc.,64.33,Healthcare,Stocks,NMS
+ZUMZ,Zumiez Inc.,43.19,Consumer Cyclical,Stocks,NMS
+SEAT,Vivid Seats Inc.,8.14,Communication Services,Stocks,NMS
+MTEM,"Molecular Templates, Inc.",2.86,Healthcare,Stocks,NMS
+IMUX,"Immunic, Inc.",10.97,Healthcare,Stocks,NMS
+SPRO,"Spero Therapeutics, Inc.",11.40,Healthcare,Stocks,NMS
+RUBY,"Rubius Therapeutics, Inc.",6.40,Healthcare,Stocks,NMS
+MXCT,"MaxCyte, Inc.",6.00,Healthcare,Stocks,NMS
+PCTI,"PCTEL, Inc.",5.07,Technology,Stocks,NMS
+MGNX,"MacroGenics, Inc.",11.31,Healthcare,Stocks,NMS
+NTGR,"NETGEAR, Inc.",25.82,Technology,Stocks,NMS
+INGN,"Inogen, Inc",29.01,Healthcare,Stocks,NMS
+LASR,"nLIGHT, Inc.",19.10,Technology,Stocks,NMS
+SILK,"Silk Road Medical, Inc.",29.43,Healthcare,Stocks,NMS
+VECO,Veeco Instruments Inc.,25.93,Technology,Stocks,NMS
+ITRI,"Itron, Inc.",59.77,Technology,Stocks,NMS
+VIA,"Via Renewables, Inc.",11.32,Utilities,Stocks,NMS
+MLKN,"MillerKnoll, Inc.",36.70,Consumer Cyclical,Stocks,NMS
+VIRX,"Viracta Therapeutics, Inc.",2.40,Healthcare,Stocks,NMS
+PSTX,"Poseida Therapeutics, Inc.",4.49,Healthcare,Stocks,NMS
+IMVT,"Immunovant, Inc.",6.69,Healthcare,Stocks,NMS
+PTCT,"PTC Therapeutics, Inc.",38.52,Healthcare,Stocks,NMS
+SIEN,"Sientra, Inc.",2.48,Healthcare,Stocks,NMS
+AVO,"Mission Produce, Inc.",13.54,Consumer Defensive,Stocks,NMS
+LYLT,Loyalty Ventures Inc.,29.81,Technology,Stocks,NMS
+NSSC,"NAPCO Security Technologies, In",19.28,Industrials,Stocks,NMS
+TRUE,"TrueCar, Inc.",3.21,Communication Services,Stocks,NMS
+SRCL,"Stericycle, Inc.",55.69,Industrials,Stocks,NMS
+RCM,R1 RCM Inc.,21.73,Healthcare,Stocks,NMS
+WWD,"Woodward, Inc.",107.47,Industrials,Stocks,NMS
+OMGA,"Omega Therapeutics, Inc.",10.79,Healthcare,Stocks,NMS
+QTT,Qutoutiao Inc.,2.01,Communication Services,Stocks,NMS
+NXTC,"NextCure, Inc.",5.12,Healthcare,Stocks,NMS
+OLMA,"Olema Pharmaceuticals, Inc.",5.74,Healthcare,Stocks,NMS
+WETF,"WisdomTree Investments, Inc.",5.70,Financial Services,Stocks,NMS
+SGTX,"Sigilon Therapeutics, Inc.",1.69,Healthcare,Stocks,NMS
+TITN,Titan Machinery Inc.,29.44,Industrials,Stocks,NMS
+VLGEA,"Village Super Market, Inc.",22.15,Consumer Defensive,Stocks,NMS
+KZR,"Kezar Life Sciences, Inc.",12.35,Healthcare,Stocks,NMS
+OTIC,"Otonomy, Inc.",1.72,Healthcare,Stocks,NMS
+TARS,"Tarsus Pharmaceuticals, Inc.",18.25,Healthcare,Stocks,NMS
+POWL,"Powell Industries, Inc.",29.99,Industrials,Stocks,NMS
+OYST,"Oyster Point Pharma, Inc.",11.94,Healthcare,Stocks,NMS
+NKTX,"Nkarta, Inc.",8.94,Healthcare,Stocks,NMS
+RLMD,"Relmada Therapeutics, Inc.",17.42,Healthcare,Stocks,NMS
+MGPI,"MGP Ingredients, Inc.",75.55,Consumer Defensive,Stocks,NMS
+VRTS,"Virtus Investment Partners, Inc",245.40,Financial Services,Stocks,NMS
+LYEL,"Lyell Immunopharma, Inc.",5.14,Healthcare,Stocks,NMS
+THRX,"Theseus Pharmaceuticals, Inc.",8.75,Healthcare,Stocks,NMS
+PAX,Patria Investments Limited,16.45,Financial Services,Stocks,NMS
+XBIT,XBiotech Inc.,10.29,Healthcare,Stocks,NMS
+ORIC,"Oric Pharmaceuticals, Inc.",9.52,Healthcare,Stocks,NMS
+MMSI,"Merit Medical Systems, Inc.",52.65,Healthcare,Stocks,NMS
+NOVT,Novanta Inc.,128.38,Technology,Stocks,NMS
+RVMD,"Revolution Medicines, Inc.",19.98,Healthcare,Stocks,NMS
+GLUE,"Monte Rosa Therapeutics, Inc.",10.36,Healthcare,Stocks,NMS
+RPTX,Repare Therapeutics Inc.,13.82,Healthcare,Stocks,NMS
+PRAX,"Praxis Precision Medicines, Inc",12.89,Healthcare,Stocks,NMS
+TTMI,"TTM Technologies, Inc.",13.17,Technology,Stocks,NMS
+RAIN,Rain Therapeutics Inc.,7.88,Healthcare,Stocks,NMS
+STTK,"Shattuck Labs, Inc.",6.06,Healthcare,Stocks,NMS
+SREV,"ServiceSource International, In",1.04,Technology,Stocks,NMS
+SWTX,"SpringWorks Therapeutics, Inc.",51.98,Healthcare,Stocks,NMS
+VINP,Vinci Partners Investments Ltd.,12.24,Financial Services,Stocks,NMS
+GASS,"StealthGas, Inc.",2.11,Industrials,Stocks,NMS
+FDMT,"4D Molecular Therapeutics, Inc.",14.20,Healthcare,Stocks,NMS
+PHAT,"Phathom Pharmaceuticals, Inc.",16.20,Healthcare,Stocks,NMS
+ZVO,Zovio Inc.,1.15,Consumer Defensive,Stocks,NMS
+KELYA,"Kelly Services, Inc.",16.60,Industrials,Stocks,NMS
+INTA,"Intapp, Inc.",18.13,Technology,Stocks,NMS
+TNYA,"Tenaya Therapeutics, Inc.",9.58,Healthcare,Stocks,NMS
+KBAL,"Kimball International, Inc.",9.61,Consumer Cyclical,Stocks,NMS
+IHRT,"iHeartMedia, Inc.",19.75,Communication Services,Stocks,NMS
+MERC,Mercer International Inc.,10.97,Basic Materials,Stocks,NMS
+ICVX,"Icosavax, Inc.",14.50,Healthcare,Stocks,NMS
+PLRX,"Pliant Therapeutics, Inc.",11.48,Healthcare,Stocks,NMS
+IPAR,"Inter Parfums, Inc.",96.90,Consumer Defensive,Stocks,NMS
+MIND,"MIND Technology, Inc.",1.39,Technology,Stocks,NMS
+STOK,"Stoke Therapeutics, Inc.",17.85,Healthcare,Stocks,NMS
+STRS,Stratus Properties Inc.,33.50,Real Estate,Stocks,NMS
+TESS,TESSCO Technologies Incorporate,5.65,Technology,Stocks,NMS
+NNBR,"NN, Inc.",3.70,Industrials,Stocks,NMS
+LQDT,"Liquidity Services, Inc.",17.90,Consumer Cyclical,Stocks,NMS
+JOBS,"51job, Inc.",49.84,Industrials,Stocks,NMS
+UTMD,"Utah Medical Products, Inc.",93.52,Healthcare,Stocks,NMS
+SGRY,"Surgery Partners, Inc.",41.21,Healthcare,Stocks,NMS
+TERN,"Terns Pharmaceuticals, Inc.",5.03,Healthcare,Stocks,NMS
+IVAC,"Intevac, Inc.",5.29,Industrials,Stocks,NMS
+HOWL,"Werewolf Therapeutics, Inc.",8.42,Healthcare,Stocks,NMS
+IIIV,"i3 Verticals, Inc.",21.41,Technology,Stocks,NMS
+KFRC,"Kforce, Inc.",66.52,Industrials,Stocks,NMS
+MIST,Milestone Pharmaceuticals Inc.,6.95,Healthcare,Stocks,NMS
+VWTR,"Vidler Water Resources, Inc.",11.44,Utilities,Stocks,NMS
+IPHA,Innate Pharma S.A.,3.74,Healthcare,Stocks,NMS
+MTEX,"Mannatech, Incorporated",34.72,Consumer Defensive,Stocks,NMS
+VLDRW,"Velodyne Lidar, Inc.",0.61,Technology,Stocks,NMS
+XLO,"Xilio Therapeutics, Inc.",14.31,Healthcare,Stocks,NMS
+KRT,Karat Packaging Inc.,16.52,Consumer Cyclical,Stocks,NMS
+STGW,Stagwell Inc.,6.96,Communication Services,Stocks,NMS
+MLAB,"Mesa Laboratories, Inc.",271.99,Technology,Stocks,NMS
+INZY,"Inozyme Pharma, Inc.",6.97,Healthcare,Stocks,NMS
+PINC,"Premier, Inc.",37.62,Healthcare,Stocks,NMS
+OFIX,Orthofix Medical Inc.,29.78,Healthcare,Stocks,NMS
+SNDX,"Syndax Pharmaceuticals, Inc.",14.89,Healthcare,Stocks,NMS
+VIGL,"Vigil Neuroscience, Inc.",13.96,Healthcare,Stocks,NMS
+PDFS,"PDF Solutions, Inc.",26.34,Technology,Stocks,NMS
+SCSC,"ScanSource, Inc.",30.05,Technology,Stocks,NMS
+ICUI,"ICU Medical, Inc.",203.51,Healthcare,Stocks,NMS
+MINDP,"MIND Technology, Inc. - Series ",17.30,Technology,Stocks,NMS
+IIVIP,II-VI Incorporated - 6.00% Seri,252.93,Technology,Stocks,NMS
+ICFI,"ICF International, Inc.",92.11,Industrials,Stocks,NMS
+LAWS,"Lawson Products, Inc.",46.20,Industrials,Stocks,NMS
+TILE,"Interface, Inc.",12.76,Consumer Cyclical,Stocks,NMS
+PCVX,"Vaxcyte, Inc.",17.53,Healthcare,Stocks,NMS
+TEDU,"Tarena International, Inc.",1.96,Consumer Defensive,Stocks,NMS
+MODV,ModivCare Inc.,113.49,Healthcare,Stocks,NMS
+PSMT,"PriceSmart, Inc.",71.51,Consumer Defensive,Stocks,NMS
+SCPH,scPharmaceuticals Inc.,3.90,Healthcare,Stocks,NMS
+QNST,"QuinStreet, Inc.",15.55,Communication Services,Stocks,NMS
+IOSP,Innospec Inc.,93.07,Basic Materials,Stocks,NMS
+PMVP,"PMV Pharmaceuticals, Inc.",15.80,Healthcare,Stocks,NMS
+SRDX,"Surmodics, Inc.",42.37,Healthcare,Stocks,NMS
+KVHI,"KVH Industries, Inc.",8.79,Technology,Stocks,NMS
+NTUS,Natus Medical Incorporated,22.33,Healthcare,Stocks,NMS
+NYMTM,"New York Mortgage Trust, Inc. -",25.00,Real Estate,Stocks,NMS
+MCHX,"Marchex, Inc.",2.24,Communication Services,Stocks,NMS
+UEPS,"Net 1 UEPS Technologies, Inc.",4.67,Technology,Stocks,NMS
+PYXS,"Pyxis Oncology, Inc.",8.51,Healthcare,Stocks,NMS
+NUVL,"Nuvalent, Inc.",12.47,Healthcare,Stocks,NMS
+ROIC,Retail Opportunity Investments ,18.08,Real Estate,Stocks,NMS
+TLMDW,"SOC Telemed, Inc.",0.08,Healthcare,Stocks,NMS
+VIASP,"Via Renewables, Inc. - 8.75% Se",25.24,Utilities,Stocks,NMS
+NYMTN,"New York Mortgage Trust, Inc. -",25.13,Real Estate,Stocks,NMS
+NYMTZ,"New York Mortgage Trust, Inc. -",24.35,Real Estate,Stocks,NMS
+KELYB,"Kelly Services, Inc.",17.00,Industrials,Stocks,NMS
+METCL,"Ramaco Resources, Inc. - 9.00% ",27.10,N/A,Stocks,NMS
+FROG,JFrog Ltd.,23.98,Technology,Stocks,NMS
+JAZZ,Jazz Pharmaceuticals plc,135.05,Healthcare,Stocks,NMS
+1,1,0.00,N/A,Stocks,NMS
+KNSA,"Kiniksa Pharmaceuticals, Ltd.",10.61,Healthcare,Stocks,NMS
+KMDA,Kamada Ltd.,5.92,Healthcare,Stocks,NMS
+LK,LK,N/A,N/A,Stocks,NMS
+NK,NK,N/A,N/A,Stocks,NMS
+STNE,StoneCo Ltd.,13.87,Technology,Stocks,NMS
+WYNN,"Wynn Resorts, Limited",82.75,Consumer Cyclical,Stocks,NMS
+MNDY,monday.com Ltd.,185.02,Technology,Stocks,NMS
+WIX,Wix.com Ltd.,117.11,Technology,Stocks,NMS
+PERI,Perion Network Ltd,17.69,Communication Services,Stocks,NMS
+MAXN,"Maxeon Solar Technologies, Ltd.",9.50,Technology,Stocks,NMS
+TBLA,Taboola.com Ltd.,5.55,Communication Services,Stocks,NMS
+NVCR,NovoCure Limited,60.15,Healthcare,Stocks,NMS
+MESO,Mesoblast Limited,3.96,Healthcare,Stocks,NMS
+NICE,NICE Ltd,237.27,Technology,Stocks,NMS
+SSYS,"Stratasys, Ltd.",21.07,Technology,Stocks,NMS
+UXIN,Uxin Limited,1.00,Communication Services,Stocks,NMS
+TSEM,Tower Semiconductor Ltd.,31.83,Technology,Stocks,NMS
+LILM,Lilium N.V.,4.75,Industrials,Stocks,NMS
+VEON,VEON Ltd.,1.38,Communication Services,Stocks,NMS
+MRTN,"Marten Transport, Ltd.",16.66,Industrials,Stocks,NMS
+NVMI,Nova Ltd.,109.30,Technology,Stocks,NMS
+SILC,Silicom Ltd,43.02,Technology,Stocks,NMS
+OMP,Oasis Midstream Partners LP,24.88,Energy,Stocks,NMS
+MIME,Mimecast Limited,79.02,Technology,Stocks,NMS
+WKME,WalkMe Ltd.,15.19,Technology,Stocks,NMS
+SOHU,Sohu.com Limited,16.55,Communication Services,Stocks,NMS
+WTW,Willis Towers Watson Public Lim,222.99,Financial Services,Stocks,NMS
+MMYT,MakeMyTrip Limited,23.31,Consumer Cyclical,Stocks,NMS
+RDWR,Radware Ltd.,31.97,Technology,Stocks,NMS
+RTLR,Rattler Midstream LP,12.58,Energy,Stocks,NMS
+MMLP,Martin Midstream Partners L.P.,2.98,Energy,Stocks,NMS
+VSTA,Vasta Platform Limited,5.10,Consumer Defensive,Stocks,NMS
+OPRA,Opera Limited,6.25,Communication Services,Stocks,NMS
+XNET,Xunlei Limited,1.66,Communication Services,Stocks,NMS
+LVTX,LAVA Therapeutics N.V.,5.53,Healthcare,Stocks,NMS
+SHOO,"Steven Madden, Ltd.",40.05,Consumer Cyclical,Stocks,NMS
+LIVN,LivaNova PLC,72.52,Healthcare,Stocks,NMS
+USLM,"United States Lime & Minerals, ",122.25,Basic Materials,Stocks,NMS
+OPT,Opthea Limited,7.10,Healthcare,Stocks,NMS
+VTRU,Vitru Limited,13.78,Consumer Defensive,Stocks,NMS
+MTLS,Materialise NV,17.97,Technology,Stocks,NMS
+MGRC,McGrath RentCorp,76.12,Industrials,Stocks,NMS
+NYMTL,"New York Mortgage Trust, Inc. -",24.20,Real Estate,Stocks,NMS
+NXPI,NXP Semiconductors N.V.,187.96,Technology,Stocks,NMS
+NKTR,Nektar Therapeutics,10.36,Healthcare,Stocks,NMS
+YNDX,Yandex N.V.,43.05,Communication Services,Stocks,NMS
+NBRV,Nabriva Therapeutics plc,0.44,Healthcare,Stocks,NMS
+NCNA,NuCana plc,2.60,Healthcare,Stocks,NMS
+TRVG,trivago N.V.,2.06,Communication Services,Stocks,NMS
+QURE,uniQure N.V.,16.63,Healthcare,Stocks,NMS
+NBTX,Nanobiotix S.A.,7.69,Healthcare,Stocks,NMS
+PHVS,Pharvaris N.V.,17.00,Healthcare,Stocks,NMS
+OBSV,ObsEva SA,1.53,Healthcare,Stocks,NMS
+ORTX,Orchard Therapeutics plc,0.88,Healthcare,Stocks,NMS
+OXSQZ,Oxford Square Capital Corp. - 6,25.40,N/A,Stocks,NMS
+OFSSH,OFS Capital Corporation - 4.95%,25.23,N/A,Stocks,NMS
+RPRX,Royalty Pharma plc,38.68,Healthcare,Stocks,NMS
+PBCT,People's,19.27,Financial Services,Stocks,NMS
+QIWI,QIWI plc,6.99,Technology,Stocks,NMS
+TRMD,TORM plc,7.38,Energy,Stocks,NMS
+SVC,Service Properties Trust - Shar,7.76,Real Estate,Stocks,NMS
+RVLP,RVL Pharmaceuticals plc,1.10,Healthcare,Stocks,NMS
+PWP,Perella Weinberg Partners,9.57,Financial Services,Stocks,NMS
+PBCTP,People's,26.58,Financial Services,Stocks,NMS
+SNY,Sanofi,52.86,Healthcare,Stocks,NMS
+VALN,Valneva SE,32.42,Healthcare,Stocks,NMS
+TZOO,Travelzoo,8.75,Communication Services,Stocks,NMS
+ZU,ZU,N/A,N/A,Stocks,NMS
+VBNK,VersaBank,11.50,Financial Services,Stocks,NMS
+VA,VA,N/A,N/A,Stocks,NMS
+CY,CY,N/A,N/A,Stocks,NMS
+ZP,ZP,N/A,N/A,Stocks,NMS

@@ -1,0 +1,174 @@
+Symbol,Name,Last Price,Industry/Category,Type,Exchange
+ATM.NZ,The a2 Milk Company Limited Ord,5.57,Consumer Defensive,Stocks,NZE
+AIR.NZ,Air New Zealand Limited (NS) Or,1.42,Industrials,Stocks,NZE
+ANZ.NZ,Australia and New Zealand Banki,29.05,Financial Services,Stocks,NZE
+AIA.NZ,Auckland International Airport ,7.25,Industrials,Stocks,NZE
+ARV.NZ,Arvida Group Limited Ordinary S,1.71,Healthcare,Stocks,NZE
+MHM.NZ,MHM Automation Limited,0.58,Industrials,Stocks,NZE
+ARG.NZ,Argosy Property Limited Ordinar,1.50,Real Estate,Stocks,NZE
+ARB.NZ,ArborGen Holdings Limited Ordin,0.24,Basic Materials,Stocks,NZE
+AFT.NZ,AFT Pharmaceuticals Ltd Ordinar,4.08,Healthcare,Stocks,NZE
+BOT.NZ,Smartshares Automation and Robo,4.38,N/A,Stocks,NZE
+TRA.NZ,Turners Automotive Group Ltd Or,4.20,Consumer Cyclical,Stocks,NZE
+FBU.NZ,Fletcher Building Limited Ordin,6.65,Basic Materials,Stocks,NZE
+WBC.NZ,Westpac Banking Corporation Ord,21.58,Financial Services,Stocks,NZE
+BGP.NZ,Briscoe Group Limited Ordinary ,6.10,Consumer Cyclical,Stocks,NZE
+RUA.NZ,RUA Bioscience Limited Ordinary,0.47,Healthcare,Stocks,NZE
+MFB.NZ,My Food Bag Group Limited Ordin,1.12,Consumer Cyclical,Stocks,NZE
+BRM.NZ,Barramundi Limited Ordinary Sha,0.85,Financial Services,Stocks,NZE
+RBD.NZ,Restaurant Brands NZ Limited Or,14.50,Consumer Cyclical,Stocks,NZE
+BFG.NZ,Burger Fuel Group Limited Ordin,0.35,Consumer Cyclical,Stocks,NZE
+BLT.NZ,Blis Technologies Limited Ordin,0.04,Healthcare,Stocks,NZE
+BGI.NZ,Blackwell Global Holdings Limit,0.01,Financial Services,Stocks,NZE
+NZB.NZ,Smartshares NZ Bond ETF Units,2.98,N/A,Stocks,NZE
+MEL030.NZ,MEL 14/03/2023 4.53% Green Bond,2.38,N/A,Stocks,NZE
+BRW.NZ,Bremworth Limited Ordinary Shar,0.54,Consumer Cyclical,Stocks,NZE
+FPH.NZ,Fisher & Paykel Healthcare Corp,29.45,Healthcare,Stocks,NZE
+CEN.NZ,Contact Energy Limited Ordinary,7.69,Utilities,Stocks,NZE
+FCG.NZ,Fonterra Co-operative Group Lim,2.95,Consumer Defensive,Stocks,NZE
+MDZ.NZ,Smartshares NZ Mid Cap ETF Unit,6.15,N/A,Stocks,NZE
+CO2.NZ,Carbon Fund Units,2.24,N/A,Stocks,NZE
+NZR.NZ,The New Zealand Refining Compan,0.94,Energy,Stocks,NZE
+WDT.NZ,Wellington Drive Technologies L,0.18,Industrials,Stocks,NZE
+DGC.NZ,DGL Group Limited Ordinary Shar,2.72,Industrials,Stocks,NZE
+DIV.NZ,Smartshares NZ Dividend ETF Uni,1.26,N/A,Stocks,NZE
+DGL.NZ,Delegat Group Limited Ordinary ,13.40,Consumer Defensive,Stocks,NZE
+ASD.NZ,Smartshares Australian Dividend,1.60,N/A,Stocks,NZE
+SDL.NZ,Solution Dynamics Limited Ordin,2.80,Technology,Stocks,NZE
+EBO.NZ,Ebos Group Limited Ordinary Sha,38.85,Healthcare,Stocks,NZE
+GNE.NZ,Genesis Energy Limited Ordinary,2.72,Utilities,Stocks,NZE
+PEB.NZ,Pacific Edge Limited Ordinary S,1.14,Healthcare,Stocks,NZE
+MEL.NZ,Meridian Energy Limited (NS) Or,4.57,Utilities,Stocks,NZE
+USF.NZ,Smartshares US 500 ETF Units,12.02,N/A,Stocks,NZE
+SKC.NZ,SkyCity Entertainment Group Lim,2.77,Consumer Cyclical,Stocks,NZE
+FNZ.NZ,Smartshares NZ Top 50 ETF Units,3.25,N/A,Stocks,NZE
+USG.NZ,Smartshares US Large Growth ETF,7.93,N/A,Stocks,NZE
+TNZ.NZ,Smartshares NZ Top 10 ETF Units,1.96,N/A,Stocks,NZE
+TWF.NZ,Smartshares Total World ETF Uni,3.03,N/A,Stocks,NZE
+NZG.NZ,Smartshares S&P/NZX 50 ETF Unit,2.58,N/A,Stocks,NZE
+ZEL.NZ,Z Energy Limited Ordinary Share,3.52,Energy,Stocks,NZE
+ERD.NZ,EROAD Limited Ordinary Shares,4.35,Technology,Stocks,NZE
+EVO.NZ,Evolve Education Group Limited ,0.83,Consumer Defensive,Stocks,NZE
+MWE.NZ,Marlborough Wine Estates Group ,0.23,Consumer Defensive,Stocks,NZE
+USV.NZ,Smartshares US Large Value ETF ,4.31,N/A,Stocks,NZE
+AUS.NZ,Smartshares S&P/ASX 200 ETF Uni,2.93,N/A,Stocks,NZE
+OZY.NZ,Smartshares Australian Top 20 E,4.11,N/A,Stocks,NZE
+USA.NZ,Smartshares US Equities ESG ETF,3.05,N/A,Stocks,NZE
+EMF.NZ,Smartshares Emerging Markets ET,1.46,N/A,Stocks,NZE
+NPF.NZ,Smartshares NZ Property ETF Uni,1.46,N/A,Stocks,NZE
+EMG.NZ,Smartshares Emerging Markets Eq,2.43,N/A,Stocks,NZE
+NZC.NZ,Smartshares NZ Cash ETF Units,2.96,N/A,Stocks,NZE
+JPN.NZ,Smartshares Japan Equities ESG ,2.19,N/A,Stocks,NZE
+EUF.NZ,Smartshares Europe ETF Units,1.99,N/A,Stocks,NZE
+EUG.NZ,Smartshares Europe Equities ESG,2.80,N/A,Stocks,NZE
+FSF.NZ,Fonterra Shareholders' Fund Uni,3.56,Financial Services,Stocks,NZE
+FRE.NZ,Freightways Limited Ordinary Sh,12.10,Industrials,Stocks,NZE
+PFI.NZ,Property For Industry Limited O,2.78,Real Estate,Stocks,NZE
+ALF.NZ,Allied Farmers Limited Ordinary,0.79,Consumer Defensive,Stocks,NZE
+FCT.NZ,F&C Investment Trust PLC Ordina,17.43,N/A,Stocks,NZE
+PLP.NZ,Private Land and Property Fund ,1.24,N/A,Stocks,NZE
+SUM.NZ,Summerset Group Holdings Limite,11.98,Healthcare,Stocks,NZE
+TRU.NZ,TruScreen Group Limited Ordinar,0.08,Healthcare,Stocks,NZE
+HGH.NZ,Heartland Group Holdings Limite,2.39,Financial Services,Stocks,NZE
+WHS.NZ,The Warehouse Group Limited Ord,3.20,Consumer Cyclical,Stocks,NZE
+HLG.NZ,Hallenstein Glasson Holdings Li,6.52,Consumer Cyclical,Stocks,NZE
+KPG.NZ,Kiwi Property Group Limited Ord,1.15,Real Estate,Stocks,NZE
+GTK.NZ,Gentrack Group Limited Ordinary,1.75,Technology,Stocks,NZE
+PX1.NZ,Plexure Group Limited Ordinary ,0.42,Technology,Stocks,NZE
+MLN.NZ,Marlin Global Limited Ordinary ,1.35,Financial Services,Stocks,NZE
+MOV.NZ,Move Logistics Group Ltd Ordina,1.49,Industrials,Stocks,NZE
+VGL.NZ,Vista Group International Ltd O,2.04,Technology,Stocks,NZE
+GMT.NZ,Goodman Property Trust (NS) Ord,2.52,Real Estate,Stocks,NZE
+GXH.NZ,Green Cross Health Limited Ordi,1.18,Healthcare,Stocks,NZE
+IKE.NZ,ikeGPS Group Limited Ordinary S,0.84,Technology,Stocks,NZE
+NTL.NZ,New Talisman Gold Mines Limited,0.00,Basic Materials,Stocks,NZE
+MPG.NZ,Metro Performance Glass Limited,0.33,Industrials,Stocks,NZE
+AGL.NZ,Accordant Group Limited Ordinar,1.84,Industrials,Stocks,NZE
+TGG.NZ,T&G Global Limited Ordinary Sha,2.86,Consumer Defensive,Stocks,NZE
+GSH.NZ,Good Spirits Hospitality Limite,0.07,Consumer Cyclical,Stocks,NZE
+RYM.NZ,Ryman Healthcare Limited Ordina,10.24,Healthcare,Stocks,NZE
+PPH.NZ,Pushpay Holdings Limited Ordina,1.12,Technology,Stocks,NZE
+OCA.NZ,Oceania Healthcare Limited Ordi,1.19,Healthcare,Stocks,NZE
+KMD.NZ,Kathmandu Holdings Limited Ordi,1.34,Consumer Cyclical,Stocks,NZE
+SKL.NZ,Skellerup Holdings Limited Ordi,5.90,Industrials,Stocks,NZE
+STU.NZ,Steel & Tube Holdings Limited O,1.55,Basic Materials,Stocks,NZE
+SPY.NZ,Smartpay Holdings Limited Ordin,0.78,Technology,Stocks,NZE
+THL.NZ,Tourism Holdings Limited Ordina,2.70,Consumer Cyclical,Stocks,NZE
+VHP.NZ,Vital Healthcare Property Trust,3.05,Real Estate,Stocks,NZE
+MHJ.NZ,Michael Hill International Ltd ,1.39,Consumer Cyclical,Stocks,NZE
+MCK.NZ,Millennium & Copthorne Hotels N,2.21,Consumer Cyclical,Stocks,NZE
+NPH.NZ,Napier Port Holdings Limited Or,2.98,Industrials,Stocks,NZE
+HMY.NZ,Harmoney Corp Limited Ordinary ,1.81,Financial Services,Stocks,NZE
+TWL.NZ,Trade Window Holdings Limited O,2.47,Technology,Stocks,NZE
+MMH.NZ,Marsden Maritime Holdings Limit,6.29,Industrials,Stocks,NZE
+IFT.NZ,Infratil Limited Ordinary Share,7.70,Utilities,Stocks,NZE
+JPG.NZ,JPMorgan Global Growth & Income,9.12,N/A,Stocks,NZE
+KFL.NZ,Kingfish Limited Ordinary Share,1.76,Financial Services,Stocks,NZE
+NZK.NZ,NZ King Salmon Investments Limi,1.20,Consumer Defensive,Stocks,NZE
+KPG030.NZ,KPG 19/12/24 4.33% - Kiwi Prope,2.88,N/A,Stocks,NZE
+KPG040.NZ,KPG 12/11/25 4.06% - Kiwi Prope,3.40,N/A,Stocks,NZE
+KPG020.NZ,KPG 07/09/23 4.00% - Kiwi Prope,2.85,N/A,Stocks,NZE
+KWB010.NZ,KWB 11/12/2030 2.36% Kiwibank L,3.60,N/A,Stocks,NZE
+KPG050.NZ,KPG 19/07/2028 2.85% Kiwi Prope,3.43,N/A,Stocks,NZE
+SPK.NZ,Spark New Zealand Limited Ordin,4.38,Communication Services,Stocks,NZE
+MFT.NZ,Mainfreight Limited Ordinary Sh,85.60,Industrials,Stocks,NZE
+RAK.NZ,Rakon Limited Ordinary Shares,1.73,Industrials,Stocks,NZE
+SKT.NZ,Sky Network Television Limited ,2.40,Communication Services,Stocks,NZE
+NZX.NZ,NZX Limited Ordinary Shares,1.73,Financial Services,Stocks,NZE
+MCY.NZ,Mercury NZ Limited Ordinary Sha,5.70,Utilities,Stocks,NZE
+PGW.NZ,PGG Wrightson Limited Ordinary ,5.14,Industrials,Stocks,NZE
+SKO.NZ,Serko Limited Ordinary Shares,5.31,Technology,Stocks,NZE
+WIN.NZ,Winton Land Limited (NS) Ordina,3.48,Real Estate,Stocks,NZE
+SAN.NZ,Sanford Limited (NS) Ordinary S,4.52,Consumer Defensive,Stocks,NZE
+TWR.NZ,Tower Limited Ordinary Shares,0.68,Financial Services,Stocks,NZE
+SML.NZ,Synlait Milk Limited (NS) Ordin,3.16,Consumer Defensive,Stocks,NZE
+NZM.NZ,NZME Limited Ordinary Shares,1.18,Communication Services,Stocks,NZE
+VSL.NZ,Vulcan Steel Limited Ordinary S,9.89,Basic Materials,Stocks,NZE
+CNU.NZ,Chorus Limited (NS) Ordinary Sh,6.78,Communication Services,Stocks,NZE
+SEK.NZ,Seeka Limited Ordinary Shares,5.15,Consumer Defensive,Stocks,NZE
+VCT.NZ,Vector Limited (NS) Ordinary Sh,3.84,Utilities,Stocks,NZE
+NWF.NZ,NZ Windfarms Limited Ordinary S,0.22,Utilities,Stocks,NZE
+POT.NZ,Port of Tauranga Ltd Ordinary S,6.47,Industrials,Stocks,NZE
+SCL.NZ,Scales Corporation Limited Ordi,4.98,Consumer Defensive,Stocks,NZE
+IPL.NZ,Investore Property Limited (NS),1.82,Real Estate,Stocks,NZE
+CBD.NZ,Cannasouth Limited Ordinary Sha,0.34,Healthcare,Stocks,NZE
+SCT.NZ,Scott Technology Limited Ordina,3.28,Industrials,Stocks,NZE
+TPW.NZ,Trustpower Limited Ordinary Sha,7.02,Utilities,Stocks,NZE
+CVT.NZ,Comvita Limited Ordinary Shares,3.44,Consumer Defensive,Stocks,NZE
+AMP.NZ,AMP Limited Ordinary Shares,0.92,Financial Services,Stocks,NZE
+CDI.NZ,CDL Investments New Zealand Lim,1.10,Real Estate,Stocks,NZE
+MEE.NZ,Me Today Limited Ordinary Share,0.06,Consumer Defensive,Stocks,NZE
+SPG.NZ,Stride Prop & Stride Invest Mgm,2.00,Real Estate,Stocks,NZE
+MZY.NZ,Smartshares Australian Mid Cap ,8.96,N/A,Stocks,NZE
+NZL.NZ,New Zealand Rural Land Company ,1.14,Real Estate,Stocks,NZE
+PCT.NZ,Precinct Properties New Zealand,1.60,Real Estate,Stocks,NZE
+SPN.NZ,South Port New Zealand Limited ,8.35,Industrials,Stocks,NZE
+NZO.NZ,New Zealand Oil & Gas Ltd Ordin,0.47,Energy,Stocks,NZE
+MCY020.NZ,MCY 11/07/2049 3.60% Mercury NZ,3.45,N/A,Stocks,NZE
+TWH.NZ,Smartshares Total World (NZD He,3.24,N/A,Stocks,NZE
+ANB160.NZ,ANB 20/03/2024 3.03% ANZ Bank N,2.74,N/A,Stocks,NZE
+APL.NZ,Asset Plus Limited Ordinary Sha,0.29,Real Estate,Stocks,NZE
+GEN.NZ,General Capital Limited Ordinar,0.05,Financial Services,Stocks,NZE
+ENS.NZ,Enprise Group Limited Ordinary ,1.20,Technology,Stocks,NZE
+VNT.NZ,Ventia Services Group Limited O,2.42,Industrials,Stocks,NZE
+PYS.NZ,PaySauce Limited Ordinary Share,0.29,Technology,Stocks,NZE
+SVR.NZ,Savor Limited Ordinary Shares,0.42,Consumer Cyclical,Stocks,NZE
+CRP.NZ,Chatham Rock Phosphate Limited ,0.14,Basic Materials,Stocks,NZE
+ASR.NZ,Smartshares Australian Resource,5.76,N/A,Stocks,NZE
+RAD.NZ,Radius Residential Care Limited,0.42,Healthcare,Stocks,NZE
+USM.NZ,Smartshares US Mid Cap ETF Unit,6.71,N/A,Stocks,NZE
+USS.NZ,Smartshares US Small Cap ETF Un,6.00,N/A,Stocks,NZE
+GBF.NZ,Smartshares Global Bond ETF Uni,3.29,N/A,Stocks,NZE
+APA.NZ,Smartshares Asia Pacific ETF Un,2.24,N/A,Stocks,NZE
+VCT080.NZ,VCT 15/06/22 5.70%  Vector Limi,3.00,N/A,Stocks,NZE
+VTL.NZ,Vital Limited Ordinary Shares,0.49,Communication Services,Stocks,NZE
+VCT090.NZ,VCT 27/05/25 3.45% Vector Limit,3.00,N/A,Stocks,NZE
+VCT100.NZ,VCT 26/11/2027 3.69% Vector Lim,3.67,N/A,Stocks,NZE
+WIA080.NZ,WIA 24/09/2031 3.32% Wellington,3.60,N/A,Stocks,NZE
+WIA070.NZ,WIA 14/08/2026 2.50% Wellington,3.57,N/A,Stocks,NZE
+WIA050.NZ,WIA 16/06/2025 5.00% Wellington,3.30,N/A,Stocks,NZE
+WIA030.NZ,WIA 12/05/23 4.25% Wellington I,2.95,N/A,Stocks,NZE
+WEL010.NZ,WEL 02/08/2023 4.90% WEL Networ,3.10,N/A,Stocks,NZE
+WIA060.NZ,WIA 01/04/2030 4.00% Wellington,3.30,N/A,Stocks,NZE
+FWL.NZ,Foley Wines Limited Ordinary Sh,1.52,Consumer Defensive,Stocks,NZE
+ZEL060.NZ,ZEL 03/09/2024 4.00% Z Energy L,3.22,N/A,Stocks,NZE

@@ -1,0 +1,932 @@
+Symbol,Name,Last Price,Industry/Category,Type,Exchange
+DWAC,Digital World Acquisition Corp.,66.43,Financial Services,Stocks,NGM
+AMRN,Amarin Corporation plc,3.30,Healthcare,Stocks,NGM
+KSCP,"Knightscope, Inc. Class A Commo",5.91,N/A,Stocks,NGM
+SATL,CF Acquisition Corp. V,5.93,Technology,Stocks,NGM
+SATLW,CF Acquisition Corp. V,0.54,Technology,Stocks,NGM
+KYCHU,Keyarch Acquisition Corporation,9.97,Financial Services,Stocks,NGM
+SUNFU,Sunfire Acquisition Corp Ltd,10.00,Financial Services,Stocks,NGM
+CRSP,CRISPR Therapeutics AG,58.76,Healthcare,Stocks,NGM
+AXSM,"Axsome Therapeutics, Inc.",24.34,Healthcare,Stocks,NGM
+AUPH,Aurinia Pharmaceuticals Inc,14.65,Healthcare,Stocks,NGM
+ADGI,"Adagio Therapeutics, Inc.",6.59,Healthcare,Stocks,NGM
+APM,Aptorum Group Limited,1.61,Healthcare,Stocks,NGM
+ARDX,"Ardelyx, Inc.",0.77,Healthcare,Stocks,NGM
+ARRY,"Array Technologies, Inc.",9.02,Technology,Stocks,NGM
+ACRX,"AcelRx Pharmaceuticals, Inc.",0.42,Healthcare,Stocks,NGM
+ADMA,ADMA Biologics Inc,1.36,Healthcare,Stocks,NGM
+AKBA,"Akebia Therapeutics, Inc.",1.83,Healthcare,Stocks,NGM
+AVDL,Avadel Pharmaceuticals plc,5.46,Healthcare,Stocks,NGM
+AMTX,"Aemetis, Inc",8.31,Energy,Stocks,NGM
+FUV,"Arcimoto, Inc.",5.71,Consumer Cyclical,Stocks,NGM
+ARCT,Arcturus Therapeutics Holdings ,21.48,Healthcare,Stocks,NGM
+APPN,Appian Corporation,50.38,Technology,Stocks,NGM
+AQST,"Aquestive Therapeutics, Inc.",2.57,Healthcare,Stocks,NGM
+ATAI,ATAI Life Sciences N.V.,4.66,Healthcare,Stocks,NGM
+REE,REE Automotive Ltd.,3.95,Consumer Cyclical,Stocks,NGM
+ALLR,"Allarity Therapeutics, Inc.",7.28,Healthcare,Stocks,NGM
+AFMD,Affimed N.V.,3.69,Healthcare,Stocks,NGM
+ALT,"Altimmune, Inc.",6.53,Healthcare,Stocks,NGM
+AGTC,Applied Genetic Technologies Co,1.57,Healthcare,Stocks,NGM
+AAOI,"Applied Optoelectronics, Inc.",3.77,Technology,Stocks,NGM
+FOLD,"Amicus Therapeutics, Inc.",8.70,Healthcare,Stocks,NGM
+DWACU,Digital World Acquisition Corp.,76.17,Financial Services,Stocks,NGM
+ACMR,"ACM Research, Inc.",71.03,Technology,Stocks,NGM
+AFCG,"AFC Gamma, Inc.",18.24,Real Estate,Stocks,NGM
+WKEY,WISeKey International Holding A,3.25,Technology,Stocks,NGM
+ADVM,"Adverum Biotechnologies, Inc.",1.50,Healthcare,Stocks,NGM
+ATCX,"Atlas Technical Consultants, In",10.10,Industrials,Stocks,NGM
+ADES,"Advanced Emissions Solutions, I",6.02,Industrials,Stocks,NGM
+APLT,"Applied Therapeutics, Inc.",2.79,Healthcare,Stocks,NGM
+ALTM,Altus Midstream Company,61.30,Energy,Stocks,NGM
+MTBCP,"CareCloud, Inc. - 11% Series A ",25.31,Healthcare,Stocks,NGM
+AERI,"Aerie Pharmaceuticals, Inc.",6.86,Healthcare,Stocks,NGM
+ACIU,AC Immune SA,4.11,Healthcare,Stocks,NGM
+RNLX,Renalytix AI plc,12.30,Healthcare,Stocks,NGM
+APPF,"AppFolio, Inc.",108.98,Technology,Stocks,NGM
+AXLA,Axcella Health Inc.,1.61,Healthcare,Stocks,NGM
+STRC,Sarcos Technology and Robotics ,5.83,Technology,Stocks,NGM
+ASLN,ASLAN Pharmaceuticals Limited,0.90,Healthcare,Stocks,NGM
+ALPN,"Alpine Immune Sciences, Inc.",7.79,Healthcare,Stocks,NGM
+JG,Aurora Mobile Limited,0.79,Technology,Stocks,NGM
+ANIP,"ANI Pharmaceuticals, Inc.",40.45,Healthcare,Stocks,NGM
+OTRKP,"Ontrak, Inc. - 9.50% Series A C",10.59,Healthcare,Stocks,NGM
+AIRS,"AirSculpt Technologies, Inc.",13.00,Healthcare,Stocks,NGM
+IPA,ImmunoPrecise Antibodies Ltd.,5.51,Healthcare,Stocks,NGM
+ASTL,Algoma Steel Group Inc.,8.36,Basic Materials,Stocks,NGM
+TRMR,Tremor International Ltd. - Ame,12.96,Communication Services,Stocks,NGM
+ATXS,"Astria Therapeutics, Inc.",4.02,Healthcare,Stocks,NGM
+ACET,"Adicet Bio, Inc.",11.53,Healthcare,Stocks,NGM
+AYLA,"Ayala Pharmaceuticals, Inc.",5.52,Healthcare,Stocks,NGM
+OLK,Olink Holding AB (publ),14.69,Healthcare,Stocks,NGM
+AIP,"Arteris, Inc.",12.94,Technology,Stocks,NGM
+AHG,Akso Health Group,1.53,Financial Services,Stocks,NGM
+AACG,ATA Creativity Global,1.54,Consumer Defensive,Stocks,NGM
+ALIM,"Alimera Sciences, Inc.",4.03,Healthcare,Stocks,NGM
+AWRE,"Aware, Inc.",2.71,Technology,Stocks,NGM
+ANPC,"AnPac Bio-Medical Science Co., ",0.72,Healthcare,Stocks,NGM
+AGLE,"Aeglea BioTherapeutics, Inc.",3.99,Healthcare,Stocks,NGM
+AMOT,"Allied Motion Technologies, Inc",35.18,Technology,Stocks,NGM
+YJ,Yunji Inc. - American Depositor,0.68,Consumer Cyclical,Stocks,NGM
+ASRV,AmeriServ Financial Inc.,4.25,Financial Services,Stocks,NGM
+AAME,Atlantic American Corporation,2.49,Financial Services,Stocks,NGM
+ICLK,iClick Interactive Asia Group L,3.55,Communication Services,Stocks,NGM
+ASPU,Aspen Group Inc.,2.04,Consumer Defensive,Stocks,NGM
+APEN,"Apollo Endosurgery, Inc.",5.01,Healthcare,Stocks,NGM
+ARIZ,Arisz Acquisition Corp.,9.85,Financial Services,Stocks,NGM
+SY,So-Young International Inc. - A,2.26,Healthcare,Stocks,NGM
+NVAC,NorthView Acquisition Corporati,9.74,Financial Services,Stocks,NGM
+NAII,Natural Alternatives Internatio,12.75,Consumer Defensive,Stocks,NGM
+ADAG,Adagene Inc.,6.98,Healthcare,Stocks,NGM
+AMAL,Amalgamated Financial Corp.,17.00,Financial Services,Stocks,NGM
+ABTX,"Allegiance Bancshares, Inc.",43.72,Financial Services,Stocks,NGM
+RNA,"Avidity Biosciences, Inc.",14.20,Healthcare,Stocks,NGM
+ALJJ,"ALJ Regional Holdings, Inc.",1.74,Industrials,Stocks,NGM
+SLN,Silence Therapeutics Plc - Amer,21.00,Healthcare,Stocks,NGM
+REFI,Chicago Atlantic Real Estate Fi,18.50,Real Estate,Stocks,NGM
+ATRC,"AtriCure, Inc.",59.39,Healthcare,Stocks,NGM
+AURA,"Aura Biosciences, Inc.",17.76,Healthcare,Stocks,NGM
+AUBN,"Auburn National Bancorporation,",33.60,Financial Services,Stocks,NGM
+ALOT,"AstroNova, Inc.",12.70,Technology,Stocks,NGM
+AVTE,"Aerovate Therapeutics, Inc.",9.75,Healthcare,Stocks,NGM
+QH,Quhuo Limited - American Deposi,0.78,Technology,Stocks,NGM
+INTE,Integral Acquisition Corporatio,9.81,Financial Services,Stocks,NGM
+ARKR,Ark Restaurants Corp.,15.74,Consumer Cyclical,Stocks,NGM
+AZYO,"Aziyo Biologics, Inc.",5.63,Healthcare,Stocks,NGM
+HNNA,"Hennessy Advisors, Inc.",10.91,Financial Services,Stocks,NGM
+GEEX,Games & Esports Experience Acqu,10.89,Financial Services,Stocks,NGM
+PAHC,Phibro Animal Health Corporatio,19.05,Healthcare,Stocks,NGM
+OLIT,OmniLit Acquisition Corp.,9.84,Financial Services,Stocks,NGM
+CMCA,Capitalworks Emerging Markets A,9.86,Financial Services,Stocks,NGM
+BNOX,Bionomics Limited - American De,10.70,Healthcare,Stocks,NGM
+AIRT,"Air T, Inc.",22.80,Industrials,Stocks,NGM
+UNAM,Unico American Corporation,2.84,Financial Services,Stocks,NGM
+SAMG,Silvercrest Asset Management Gr,16.80,Financial Services,Stocks,NGM
+TLGY,TLGY Acquisition Corporation,9.96,Financial Services,Stocks,NGM
+TKNO,"Alpha Teknova, Inc.",14.41,Healthcare,Stocks,NGM
+BPACW,Bullpen Parlay Acquisition Comp,0.36,Financial Services,Stocks,NGM
+AIH,Aesthetic Medical International,3.18,Healthcare,Stocks,NGM
+ONYX,Onyx Acquisition Co. I,9.90,Financial Services,Stocks,NGM
+IVA,Inventiva S.A. - American Depos,12.12,Healthcare,Stocks,NGM
+ATLCL,Atlanticus Holdings Corporation,25.20,N/A,Stocks,NGM
+GEEXW,Games & Esports Experience Acqu,0.34,Financial Services,Stocks,NGM
+AIRTP,"Air T, Inc. - Trust Preferred S",23.86,Industrials,Stocks,NGM
+ARBKL,Argo Blockchain plc - 8.75% Sen,22.18,N/A,Stocks,NGM
+FFIEW,Property Solutions Acquisition ,0.59,Consumer Cyclical,Stocks,NGM
+NVACR,NorthView Acquisition Corporati,0.19,N/A,Stocks,NGM
+HCMAU,HCM Acquisition Corp,9.99,Financial Services,Stocks,NGM
+MLAI,McLaren Technology Acquisition ,9.86,Financial Services,Stocks,NGM
+ARGU,Argus Capital Corp.,9.85,Financial Services,Stocks,NGM
+ATCOL,Atlas Corp. - 7.125% Notes due ,25.90,N/A,Stocks,NGM
+AFACU,Arena Fortify Acquisition Corp.,10.07,Financial Services,Stocks,NGM
+ROSE,Rose Hill Acquisition Corporati,9.91,Financial Services,Stocks,NGM
+ARTE,Artemis Strategic Investment Co,9.86,Financial Services,Stocks,NGM
+BMAQ,Blockchain Moon Acquisition Cor,9.76,Financial Services,Stocks,NGM
+ROC,ROC Energy Acquisition Corp.,9.87,Financial Services,Stocks,NGM
+WTMA,Welsbach Technology Metals Acqu,9.79,Financial Services,Stocks,NGM
+LFMDP,"LifeMD, Inc. - 8.875% Series A ",17.75,Healthcare,Stocks,NGM
+AEHA,Aesther Healthcare Acquisition ,10.00,Financial Services,Stocks,NGM
+AFAC,Arena Fortify Acquisition Corp.,9.87,Financial Services,Stocks,NGM
+AACI,Armada Acquisition Corp. I,9.80,Financial Services,Stocks,NGM
+OLITU,OmniLit Acquisition Corp.,9.99,Financial Services,Stocks,NGM
+ARTEU,Artemis Strategic Investment Co,10.06,Financial Services,Stocks,NGM
+ENER,Accretion Acquisition Corp.,9.73,Financial Services,Stocks,NGM
+BPAC,Bullpen Parlay Acquisition Comp,9.80,Financial Services,Stocks,NGM
+UTAA,UTA Acquisition Corporation,9.83,Financial Services,Stocks,NGM
+ARIZU,Arisz Acquisition Corp.,10.24,Financial Services,Stocks,NGM
+AIBBU,AIB Acquisition Corporation,9.95,Financial Services,Stocks,NGM
+TLGYU,TLGY Acquisition Corporation,10.07,Financial Services,Stocks,NGM
+DAOO,Crypto 1 Acquisition Corp,9.82,Financial Services,Stocks,NGM
+CNGLU,Canna-Global Acquisition Corp,10.11,Financial Services,Stocks,NGM
+PUYI,Puyi Inc. - American Depository,6.49,Financial Services,Stocks,NGM
+ARCK,Arbor Rapha Capital Bioholdings,9.95,Financial Services,Stocks,NGM
+AEAEU,AltEnergy Acquisition Corp.,10.04,Financial Services,Stocks,NGM
+LAX,8i Acquisition 2 Corp.,9.73,Financial Services,Stocks,NGM
+ARIZR,Arisz Acquisition Corp.,0.16,N/A,Stocks,NGM
+MLAIU,McLaren Technology Acquisition ,10.00,Financial Services,Stocks,NGM
+CNGL,Canna-Global Acquisition Corp,9.85,Financial Services,Stocks,NGM
+UTAAW,UTA Acquisition Corporation War,0.43,Financial Services,Stocks,NGM
+AVHI,Achari Ventures Holdings Corp. ,9.84,Financial Services,Stocks,NGM
+DAOOU,Crypto 1 Acquisition Corp,10.02,Financial Services,Stocks,NGM
+VBOCU,Viscogliosi Brothers Acquisitio,9.96,Financial Services,Stocks,NGM
+SCRMU,Screaming Eagle Acquisition Cor,9.90,Financial Services,Stocks,NGM
+BMAQR,Blockchain Moon Acquisition Cor,0.24,N/A,Stocks,NGM
+ARGUU,Argus Capital Corp.,10.09,Financial Services,Stocks,NGM
+KACL,Kairous Acquisition Corp. Limit,9.82,Financial Services,Stocks,NGM
+ARCKU,Arbor Rapha Capital Bioholdings,10.04,Financial Services,Stocks,NGM
+WTMAU,Welsbach Technology Metals Acqu,10.01,Financial Services,Stocks,NGM
+AOGOU,Arogo Capital Acquisition Corp.,10.03,Financial Services,Stocks,NGM
+HPLTU,Home Plate Acquisition Corporat,9.90,Financial Services,Stocks,NGM
+DUETU,DUET Acquisition Corp.,10.00,Financial Services,Stocks,NGM
+SMAP,SportsMap Tech Acquisition Corp,9.84,Financial Services,Stocks,NGM
+BIOSU,BioPlus Acquisition Corp.,9.98,Financial Services,Stocks,NGM
+UTAAU,UTA Acquisition Corporation,9.98,Financial Services,Stocks,NGM
+AEAE,AltEnergy Acquisition Corp.,9.84,Financial Services,Stocks,NGM
+ALSA,Alpha Star Acquisition Corporat,9.80,Financial Services,Stocks,NGM
+NVACW,NorthView Acquisition Corporati,0.22,Financial Services,Stocks,NGM
+BRKHU,BurTech Acquisition Corp.,9.98,Financial Services,Stocks,NGM
+ALSAU,Alpha Star Acquisition Corporat,10.15,Financial Services,Stocks,NGM
+BRACU,Broad Capital Acquisition Corp,10.00,Financial Services,Stocks,NGM
+ALORU,ALSP Orchid Acquisition Corpora,10.02,Financial Services,Stocks,NGM
+BPACU,Bullpen Parlay Acquisition Comp,9.97,Financial Services,Stocks,NGM
+AVAC,Avalon Acquisition Inc.,9.85,Financial Services,Stocks,NGM
+JWAC,Jupiter Wellness Acquisition Co,9.82,Financial Services,Stocks,NGM
+GIAC,Gesher I Acquisition Corp.,9.73,Financial Services,Stocks,NGM
+IGTAR,Inception Growth Acquisition Li,0.21,N/A,Stocks,NGM
+DMAQ,Deep Medicine Acquisition Corp.,9.85,Financial Services,Stocks,NGM
+OLITW,OmniLit Acquisition Corp. Warra,0.26,Financial Services,Stocks,NGM
+FIAC,Focus Impact Acquisition Corp.,9.84,Financial Services,Stocks,NGM
+ITAQU,Industrial Tech Acquisitions II,10.00,Financial Services,Stocks,NGM
+MTRY,Monterey Bio Acquisition Corpor,9.88,Financial Services,Stocks,NGM
+BHACU,Crixus BH3 Acquisition Company,9.99,Financial Services,Stocks,NGM
+IQMD,Intelligent Medicine Acquisitio,9.91,Financial Services,Stocks,NGM
+AEHAU,Aesther Healthcare Acquisition ,10.17,Financial Services,Stocks,NGM
+GATE,Marblegate Acquisition Corp.,9.78,Financial Services,Stocks,NGM
+CCAI,Cascadia Acquisition Corp.,9.68,Financial Services,Stocks,NGM
+PCXCU,Parsec Capital Acquisitions Cor,10.17,Financial Services,Stocks,NGM
+BCSAU,Blockchain Coinvestors Acquisit,10.04,Financial Services,Stocks,NGM
+CRECU,Crescera Capital Acquisition Co,9.99,Financial Services,Stocks,NGM
+GDNR,Gardiner Healthcare Acquisition,9.80,Financial Services,Stocks,NGM
+VHNAU,Vahanna Tech Edge Acquisition I,10.02,Financial Services,Stocks,NGM
+CSLMU,"Consilium Acquisition Corp I, L",10.00,Financial Services,Stocks,NGM
+KACLW,Kairous Acquisition Corp. Limit,0.24,Financial Services,Stocks,NGM
+BOCNU,Blue Ocean Acquisition Corp,9.97,Financial Services,Stocks,NGM
+KACLR,Kairous Acquisition Corp. Limit,0.21,N/A,Stocks,NGM
+ESACU,ESGEN Acquisition Corporation,10.03,Financial Services,Stocks,NGM
+PBAX,Phoenix Biotech Acquisition Cor,9.91,Financial Services,Stocks,NGM
+CFFSU,CF Acquisition Corp. VII,9.98,Financial Services,Stocks,NGM
+BIOSW,BioPlus Acquisition Corp. Warra,0.25,Financial Services,Stocks,NGM
+AHRNU,Ahren Acquisition Corp.,9.97,Financial Services,Stocks,NGM
+AEAEW,ALTENERGY ACQUISITION CORP C/WT,0.48,Financial Services,Stocks,NGM
+AACIU,Armada Acquisition Corp. I,9.99,Financial Services,Stocks,NGM
+BHAC,Crixus BH3 Acquisition Company,9.81,Financial Services,Stocks,NGM
+OHAAU,OPY Acquisition Corp. I,10.00,Financial Services,Stocks,NGM
+CITEU,Cartica Acquisition Corp,10.04,Financial Services,Stocks,NGM
+LGST,Semper Paratus Acquisition Corp,9.87,Financial Services,Stocks,NGM
+CCTS,Cactus Acquisition Corp. 1 Limi,9.81,Financial Services,Stocks,NGM
+DMAQR,Deep Medicine Acquisition Corp.,0.28,N/A,Stocks,NGM
+LSPRU,Larkspur Health Acquisition Cor,9.94,Financial Services,Stocks,NGM
+ALOR,ALSP Orchid Acquisition Corpora,9.99,Financial Services,Stocks,NGM
+IGTA,Inception Growth Acquisition Li,9.76,Financial Services,Stocks,NGM
+ROCAR,ROC Energy Acquisition Corp.,0.25,N/A,Stocks,NGM
+FIACU,Focus Impact Acquisition Corp.,10.03,Financial Services,Stocks,NGM
+DHAC,Digital Health Acquisition Corp,9.89,Financial Services,Stocks,NGM
+ENTF,Enterprise 4.0 Technology Acqui,9.84,Financial Services,Stocks,NGM
+HNNAZ,"Hennessy Advisors, Inc. - 4.875",26.06,N/A,Stocks,NGM
+PCX,Parsec Capital Acquisitions Cor,9.91,Financial Services,Stocks,NGM
+JMAC,Maxpro Capital Acquisition Corp,9.95,Financial Services,Stocks,NGM
+BCSA,Blockchain Coinvestors Acquisit,9.84,Financial Services,Stocks,NGM
+BMAQU,Blockchain Moon Acquisition Cor,10.15,Financial Services,Stocks,NGM
+CDAQU,Compass Digital Acquisition Cor,9.89,Financial Services,Stocks,NGM
+WTMAR,Welsbach Technology Metals Acqu,0.23,N/A,Stocks,NGM
+SGII,Seaport Global Acquisition II C,9.84,Financial Services,Stocks,NGM
+DHACU,Digital Health Acquisition Corp,10.15,Financial Services,Stocks,NGM
+LAXXU,8i Acquisition 2 Corp.,10.25,Financial Services,Stocks,NGM
+ZTAQU,Zimmer Energy Transition Acquis,9.96,Financial Services,Stocks,NGM
+CDAQ,Compass Digital Acquisition Cor,9.65,Financial Services,Stocks,NGM
+THACU,Thrive Acquisition Corporation,10.05,Financial Services,Stocks,NGM
+LFAC,LF Capital Acquisition Corp. II,9.88,Financial Services,Stocks,NGM
+FATP,Fat Projects Acquisition Corp,9.78,Financial Services,Stocks,NGM
+GMFIU,Aetherium Acquisition Corp.,9.96,Financial Services,Stocks,NGM
+FNVTU,Finnovate Acquisition Corp.,10.02,Financial Services,Stocks,NGM
+ADALU,Anthemis Digital Acquisitions I,10.09,Financial Services,Stocks,NGM
+IXAQU,IX Acquisition Corp.,9.81,Financial Services,Stocks,NGM
+JMACU,Maxpro Capital Acquisition Corp,10.20,Financial Services,Stocks,NGM
+ENTFU,Enterprise 4.0 Technology Acqui,10.03,Financial Services,Stocks,NGM
+ADAL,Anthemis Digital Acquisitions I,9.84,Financial Services,Stocks,NGM
+CMCAU,Capitalworks Emerging Markets A,9.98,Financial Services,Stocks,NGM
+ENERR,Accretion Acquisition Corp.,0.27,N/A,Stocks,NGM
+DPCSU,DP Cap Acquisition Corp I,10.05,Financial Services,Stocks,NGM
+VMGA,VMG Consumer Acquisition Corp.,9.85,Financial Services,Stocks,NGM
+ESAC,ESGEN Acquisition Corporation,9.88,Financial Services,Stocks,NGM
+APXIU,APx Acquisition Corp. I,10.02,Financial Services,Stocks,NGM
+IQMDU,Intelligent Medicine Acquisitio,10.11,Financial Services,Stocks,NGM
+IXAQ,IX Acquisition Corp.,9.74,Financial Services,Stocks,NGM
+TGVC,TG Venture Acquisition Corp.,9.79,Financial Services,Stocks,NGM
+ENERU,Accretion Acquisition Corp.,10.00,Financial Services,Stocks,NGM
+CREC,Crescera Capital Acquisition Co,9.79,Financial Services,Stocks,NGM
+EMLDU,FTAC Emerald Acquisition Corp.,9.93,Financial Services,Stocks,NGM
+MAAQU,Mana Capital Acquisition Corp.,10.29,Financial Services,Stocks,NGM
+SVNAU,7 Acquisition Corporation,10.00,Financial Services,Stocks,NGM
+FRBNU,Forbion European Acquisition Co,9.96,Financial Services,Stocks,NGM
+CNGLW,Canna-Global Acquisition Corp W,0.23,Financial Services,Stocks,NGM
+LIBYU,Liberty Resources Acquisition C,10.13,Financial Services,Stocks,NGM
+INTEU,Integral Acquisition Corporatio,10.00,Financial Services,Stocks,NGM
+CCAIU,Cascadia Acquisition Corp.,9.90,Financial Services,Stocks,NGM
+IGTAW,Inception Growth Acquisition Li,0.24,Financial Services,Stocks,NGM
+WAVSU,Western Acquisition Ventures Co,9.95,Financial Services,Stocks,NGM
+LFACU,LF Capital Acquisition Corp. II,10.04,Financial Services,Stocks,NGM
+SAMA,Schultze Special Purpose Acquis,9.73,Financial Services,Stocks,NGM
+FRLA,Fortune Rise Acquisition Corpor,9.97,Financial Services,Stocks,NGM
+MAAQ,Mana Capital Acquisition Corp.,9.81,Financial Services,Stocks,NGM
+SCMAU,Seaport Calibre Materials Acqui,9.99,Financial Services,Stocks,NGM
+ACABU,Atlantic Coastal Acquisition Co,9.99,Financial Services,Stocks,NGM
+FNVT,Finnovate Acquisition Corp.,9.83,Financial Services,Stocks,NGM
+ESACW,ESGEN ACQUISITION CORP C/WTS (T,0.35,Financial Services,Stocks,NGM
+PEPLU,PepperLime Health Acquisition C,10.20,Financial Services,Stocks,NGM
+HPLT,Home Plate Acquisition Corporat,9.65,Financial Services,Stocks,NGM
+NCACU,Newcourt Acquisition Corp,10.12,Financial Services,Stocks,NGM
+ROSEU,Rose Hill Acquisition Corporati,10.02,Financial Services,Stocks,NGM
+WWACU,Worldwide Webb Acquisition Corp,9.92,Financial Services,Stocks,NGM
+FXCO,Financial Strategies Acquisitio,9.83,Financial Services,Stocks,NGM
+ZT,Zimmer Energy Transition Acquis,9.70,Financial Services,Stocks,NGM
+GATEU,Marblegate Acquisition Corp.,9.88,Financial Services,Stocks,NGM
+ROCLU,Roth CH Acquisition V Co.,9.98,Financial Services,Stocks,NGM
+GIACU,Gesher I Acquisition Corp.,10.03,Financial Services,Stocks,NGM
+RNER,Mount Rainier Acquisition Corp.,9.86,Financial Services,Stocks,NGM
+IVCPU,Swiftmerge Acquisition Corp.,9.91,Financial Services,Stocks,NGM
+ZING,FTAC Zeus Acquisition Corp.,9.81,Financial Services,Stocks,NGM
+ALSAR,Alpha Star Acquisition Corporat,0.30,N/A,Stocks,NGM
+LIBY,Liberty Resources Acquisition C,9.90,Financial Services,Stocks,NGM
+BLDP,"Ballard Power Systems, Inc.",8.94,Industrials,Stocks,NGM
+BITF,Bitfarms Ltd.,3.10,Financial Services,Stocks,NGM
+BIGC,"BigCommerce Holdings, Inc. - Se",28.82,Technology,Stocks,NGM
+SESN,"Sesen Bio, Inc.",0.69,Healthcare,Stocks,NGM
+OLLI,Ollie's Bargain Outlet Holdings,44.06,Consumer Defensive,Stocks,NGM
+RDHL,Redhill Biopharma Ltd.,2.23,Healthcare,Stocks,NGM
+TTOO,"T2 Biosystems, Inc.",0.39,Healthcare,Stocks,NGM
+RILY,"B. Riley Financial, Inc.",55.73,Financial Services,Stocks,NGM
+HEAR,Turtle Beach Corporation,18.63,Technology,Stocks,NGM
+CLSD,"Clearside Biomedical, Inc.",1.84,Healthcare,Stocks,NGM
+IOVA,"Iovance Biotherapeutics, Inc.",13.83,Healthcare,Stocks,NGM
+SELB,"Selecta Biosciences, Inc.",2.24,Healthcare,Stocks,NGM
+MBIO,"Mustang Bio, Inc.",1.07,Healthcare,Stocks,NGM
+BZFD,"BuzzFeed, Inc.",3.84,Communication Services,Stocks,NGM
+NEWT,Newtek Business Services Corp.,26.10,Financial Services,Stocks,NGM
+BLZE,"Backblaze, Inc.",12.11,Technology,Stocks,NGM
+FRBK,"Republic First Bancorp, Inc.",4.31,Financial Services,Stocks,NGM
+CHRS,"Coherus BioSciences, Inc.",11.47,Healthcare,Stocks,NGM
+BRLT,"Brilliant Earth Group, Inc.",11.68,Consumer Cyclical,Stocks,NGM
+BKEP,Blueknight Energy Partners L.P.,3.56,Energy,Stocks,NGM
+BTX,"Brooklyn ImmunoTherapeutics, In",2.48,Healthcare,Stocks,NGM
+BFI,BurgerFi International Inc,4.85,Consumer Cyclical,Stocks,NGM
+MBUU,"Malibu Boats, Inc.",60.70,Consumer Cyclical,Stocks,NGM
+VBLT,Vascular Biogenics Ltd.,1.21,Healthcare,Stocks,NGM
+IMBI,"iMedia Brands, Inc.",4.81,Consumer Cyclical,Stocks,NGM
+MREO,Mereo BioPharma Group plc,1.08,Healthcare,Stocks,NGM
+SNSE,"Sensei Biotherapeutics, Inc.",4.33,Healthcare,Stocks,NGM
+SABS,"SAB Biotherapeutics, Inc.",4.78,Healthcare,Stocks,NGM
+EIGR,"Eiger BioPharmaceuticals, Inc.",3.84,Healthcare,Stocks,NGM
+CDAK,"Codiak BioSciences, Inc.",5.96,Healthcare,Stocks,NGM
+CLGN,CollPlant Biotechnologies Ltd.,9.07,Healthcare,Stocks,NGM
+GRPH,"Graphite Bio, Inc.",8.12,Healthcare,Stocks,NGM
+LMNL,Liminal BioSciences Inc.,0.85,Healthcare,Stocks,NGM
+TLIS,Talis Biomedical Corporation,2.63,Healthcare,Stocks,NGM
+FRBA,First Bank,14.26,Financial Services,Stocks,NGM
+CSTL,"Castle Biosciences, Inc.",35.56,Healthcare,Stocks,NGM
+PRCT,PROCEPT BioRobotics Corporation,16.89,Healthcare,Stocks,NGM
+BWAY,Brainsway Ltd.,7.12,Healthcare,Stocks,NGM
+TBPH,"Theravance Biopharma, Inc.",8.34,Healthcare,Stocks,NGM
+OPBK,OP Bancorp,11.85,Financial Services,Stocks,NGM
+RNDB,"Randolph Bancorp, Inc.",25.00,Financial Services,Stocks,NGM
+MITO,Stealth BioTherapeutics Corp.,0.62,Healthcare,Stocks,NGM
+PDLB,PDL Community Bancorp,15.25,Financial Services,Stocks,NGM
+KRYS,"Krystal Biotech, Inc.",51.99,Healthcare,Stocks,NGM
+PRDS,"Pardes Biosciences, Inc.",10.82,Healthcare,Stocks,NGM
+SCPS,Scopus BioPharma Inc.,0.97,Healthcare,Stocks,NGM
+HRMY,"Harmony Biosciences Holdings, I",33.15,Healthcare,Stocks,NGM
+BCBP,"BCB Bancorp, Inc. (NJ)",16.35,Financial Services,Stocks,NGM
+MCFT,"MasterCraft Boat Holdings, Inc.",24.06,Consumer Cyclical,Stocks,NGM
+PEBK,Peoples Bancorp of North Caroli,28.95,Financial Services,Stocks,NGM
+BBGI,"Beasley Broadcast Group, Inc.",1.87,Communication Services,Stocks,NGM
+BDSX,"Biodesix, Inc.",3.21,Healthcare,Stocks,NGM
+BNFT,"Benefitfocus, Inc.",10.94,Technology,Stocks,NGM
+HBIO,"Harvard Bioscience, Inc.",5.59,Healthcare,Stocks,NGM
+HCWB,HCW Biologics Inc.,2.01,Healthcare,Stocks,NGM
+BCAB,"BioAtla, Inc.",8.83,Healthcare,Stocks,NGM
+BLBD,Blue Bird Corporation,14.26,Consumer Cyclical,Stocks,NGM
+TSBK,"Timberland Bancorp, Inc.",27.25,Financial Services,Stocks,NGM
+LABP,"Landos Biopharma, Inc.",3.13,Healthcare,Stocks,NGM
+NBN,Northeast Bank,36.44,Financial Services,Stocks,NGM
+BLCT,BlueCity Holdings Limited,1.21,Communication Services,Stocks,NGM
+CNTB,Connect Biopharma Holdings Limi,4.11,Healthcare,Stocks,NGM
+BWFG,"Bankwell Financial Group, Inc.",33.50,Financial Services,Stocks,NGM
+TELA,"TELA Bio, Inc.",11.35,Healthcare,Stocks,NGM
+UNB,"Union Bankshares, Inc.",31.40,Financial Services,Stocks,NGM
+MPB,Mid Penn Bancorp,29.36,Financial Services,Stocks,NGM
+BNR,Burning Rock Biotech Limited,8.26,Healthcare,Stocks,NGM
+STRO,"Sutro Biopharma, Inc.",10.06,Healthcare,Stocks,NGM
+FBMS,"The First Bancshares, Inc.",36.82,Financial Services,Stocks,NGM
+CCAP,"Crescent Capital BDC, Inc.",17.92,Financial Services,Stocks,NGM
+EBMT,"Eagle Bancorp Montana, Inc.",22.66,Financial Services,Stocks,NGM
+FMBH,"First Mid Bancshares, Inc.",40.50,Financial Services,Stocks,NGM
+FINW,FinWise Bancorp,16.64,Financial Services,Stocks,NGM
+UNTY,"Unity Bancorp, Inc.",30.07,Financial Services,Stocks,NGM
+SFST,"Southern First Bancshares, Inc.",60.70,Financial Services,Stocks,NGM
+CBAN,"Colony Bankcorp, Inc.",17.31,Financial Services,Stocks,NGM
+CVLY,"Codorus Valley Bancorp, Inc",21.84,Financial Services,Stocks,NGM
+FNWB,First Northwest Bancorp,20.75,Financial Services,Stocks,NGM
+FDBC,"Fidelity D & D Bancorp, Inc.",51.60,Financial Services,Stocks,NGM
+BWMN,Bowman Consulting Group Ltd.,19.20,Industrials,Stocks,NGM
+BFIIW,BurgerFi International Inc,0.58,Consumer Cyclical,Stocks,NGM
+CZWI,"Citizens Community Bancorp, Inc",14.00,Financial Services,Stocks,NGM
+LARK,Landmark Bancorp Inc.,28.50,Financial Services,Stocks,NGM
+SSBI,Summit State Bank,15.85,Financial Services,Stocks,NGM
+XELB,"Xcel Brands, Inc",1.11,Consumer Cyclical,Stocks,NGM
+SMBC,"Southern Missouri Bancorp, Inc.",54.75,Financial Services,Stocks,NGM
+FGBI,"First Guaranty Bancshares, Inc.",20.76,Financial Services,Stocks,NGM
+OVBC,Ohio Valley Banc Corp.,30.11,Financial Services,Stocks,NGM
+SIBN,"SI-BONE, Inc.",19.14,Healthcare,Stocks,NGM
+UBOH,"United Bancshares, Inc.",31.00,Financial Services,Stocks,NGM
+KFFB,Kentucky First Federal Bancorp,7.30,Financial Services,Stocks,NGM
+BKEPP,Blueknight Energy Partners L.P.,8.49,Energy,Stocks,NGM
+BRID,Bridgford Foods Corporation,12.49,Consumer Defensive,Stocks,NGM
+GFED,"Guaranty Federal Bancshares, In",32.25,Financial Services,Stocks,NGM
+MGYR,"Magyar Bancorp, Inc.",12.05,Financial Services,Stocks,NGM
+MLVF,"Malvern Bancorp, Inc.",15.41,Financial Services,Stocks,NGM
+PBIP,"Prudential Bancorp, Inc.",14.04,Financial Services,Stocks,NGM
+CWBC,Community West Bancshares,14.14,Financial Services,Stocks,NGM
+PNBK,Patriot National Bancorp Inc.,14.72,Financial Services,Stocks,NGM
+RILYG,"B. Riley Financial, Inc. - 5.00",24.35,N/A,Stocks,NGM
+RILYZ,"B. Riley Financial, Inc. - 5.25",24.15,N/A,Stocks,NGM
+RILYT,"B. Riley Financial, Inc. - 6.00",24.91,N/A,Stocks,NGM
+LSBK,"Lake Shore Bancorp, Inc.",14.92,Financial Services,Stocks,NGM
+IMBIL,"iMedia Brands, Inc. - 8.5% Seni",21.30,N/A,Stocks,NGM
+CBRG,Chain Bridge I,9.86,Financial Services,Stocks,NGM
+RILYP,"B. Riley Financial, Inc. - Depo",26.12,Financial Services,Stocks,NGM
+RILYL,"B. Riley Financial, Inc. - Depo",26.83,Financial Services,Stocks,NGM
+RILYK,"B. Riley Financial, Inc. - 5.50",25.10,N/A,Stocks,NGM
+FGBIP,"First Guaranty Bancshares, Inc.",26.53,Financial Services,Stocks,NGM
+BLEU,bleuacacia ltd,9.65,Financial Services,Stocks,NGM
+BLEUU,bleuacacia ltd,10.01,Financial Services,Stocks,NGM
+RILYM,"B. Riley Financial, Inc. - 6.37",25.28,N/A,Stocks,NGM
+ZIONP,Zions Bancorporation N.A. - Dep,24.34,Financial Services,Stocks,NGM
+RILYN,"B. Riley Financial, Inc. - 6.50",25.52,N/A,Stocks,NGM
+RILYO,"B. Riley Financial, Inc. - 6.75",25.50,N/A,Stocks,NGM
+ZIONO,Zions Bancorporation N.A. - Dep,25.58,Financial Services,Stocks,NGM
+CBRGU,Chain Bridge I,10.06,Financial Services,Stocks,NGM
+NEWTL,Newtek Business Services Corp. ,25.12,N/A,Stocks,NGM
+BLEUR,bleuacacia ltd,0.15,N/A,Stocks,NGM
+NEWTZ,Newtek Business Services Corp. ,25.54,N/A,Stocks,NGM
+THCP,Thunder Bridge Capital Partners,9.65,Financial Services,Stocks,NGM
+PBAXU,Phoenix Biotech Acquisition Cor,10.05,Financial Services,Stocks,NGM
+THCPU,Thunder Bridge Capital Partners,9.79,Financial Services,Stocks,NGM
+MTRYU,Monterey Bio Acquisition Corpor,10.14,Financial Services,Stocks,NGM
+TNXP,Tonix Pharmaceuticals Holding C,0.22,Healthcare,Stocks,NGM
+CIDM,Cinedigm Corp,0.76,Communication Services,Stocks,NGM
+CRON,Cronos Group Inc. Common Share,3.30,Healthcare,Stocks,NGM
+CAN,Canaan Inc.,3.71,Technology,Stocks,NGM
+MNKD,MannKind Corporation,3.39,Healthcare,Stocks,NGM
+GMDA,Gamida Cell Ltd.,2.88,Healthcare,Stocks,NGM
+WIMI,WiMi Hologram Cloud Inc.,2.66,Communication Services,Stocks,NGM
+TNDM,"Tandem Diabetes Care, Inc.",111.18,Healthcare,Stocks,NGM
+LAND,Gladstone Land Corporation,29.10,Real Estate,Stocks,NGM
+OMER,Omeros Corporation,5.36,Healthcare,Stocks,NGM
+CVAC,CureVac N.V.,16.70,Healthcare,Stocks,NGM
+CLFD,"Clearfield, Inc.",48.65,Technology,Stocks,NGM
+NVTS,Navitas Semiconductor Corporati,8.65,Technology,Stocks,NGM
+CGEN,Compugen Ltd.,3.31,Healthcare,Stocks,NGM
+EOLS,"Evolus, Inc. Common Stock",6.70,Healthcare,Stocks,NGM
+LOTZ,"CarLotz, Inc.",1.71,Consumer Cyclical,Stocks,NGM
+TPIC,"TPI Composites, Inc.",10.68,Industrials,Stocks,NGM
+CARA,"Cara Therapeutics, Inc.",10.99,Healthcare,Stocks,NGM
+GRVY,"GRAVITY Co., Ltd.",58.89,Communication Services,Stocks,NGM
+CAMT,Camtek Ltd.,33.00,Technology,Stocks,NGM
+SITM,SiTime Corporation,191.29,Technology,Stocks,NGM
+LOVE,The Lovesac Company,47.18,Consumer Cyclical,Stocks,NGM
+CMRX,"Chimerix, Inc.",5.19,Healthcare,Stocks,NGM
+TLS,Telos Corporation,10.57,Technology,Stocks,NGM
+DOGZ,Dogness (International) Corpora,3.19,Consumer Defensive,Stocks,NGM
+CPOP,"Pop Culture Group Co., Ltd",1.31,Communication Services,Stocks,NGM
+CDTX,"Cidara Therapeutics, Inc.",0.77,Healthcare,Stocks,NGM
+CRIS,"Curis, Inc.",3.07,Healthcare,Stocks,NGM
+STAA,STAAR Surgical Company,65.39,Healthcare,Stocks,NGM
+CRBP,Corbus Pharmaceuticals Holdings,0.41,Healthcare,Stocks,NGM
+CERS,Cerus Corporation,4.81,Healthcare,Stocks,NGM
+CRMD,CorMedix Inc.,3.85,Healthcare,Stocks,NGM
+CDNA,"CareDx, Inc.",36.85,Healthcare,Stocks,NGM
+MTBC,"CareCloud, Inc.",5.14,Healthcare,Stocks,NGM
+EMKR,EMCORE Corporation,5.48,Technology,Stocks,NGM
+CMBM,Cambium Networks Corporation,20.26,Technology,Stocks,NGM
+CDLX,"Cardlytics, Inc. Common Stock",59.66,Communication Services,Stocks,NGM
+NMFC,New Mountain Finance Corporatio,13.09,Financial Services,Stocks,NGM
+CRXT,"Clarus Therapeutics Holdings, I",1.27,Healthcare,Stocks,NGM
+CRVS,"Corvus Pharmaceuticals, Inc.",1.62,Healthcare,Stocks,NGM
+OCX,OncoCyte Corporation,1.52,Healthcare,Stocks,NGM
+LPRO,Open Lending Corporation,16.63,Financial Services,Stocks,NGM
+GECC,Great Elm Capital Corp.,2.97,Financial Services,Stocks,NGM
+CLXT,"Calyxt, Inc.",1.66,Consumer Defensive,Stocks,NGM
+CLLS,Cellectis S.A.,6.12,Healthcare,Stocks,NGM
+XOMA,XOMA Corporation,20.33,Healthcare,Stocks,NGM
+CSSE,Chicken Soup for the Soul Enter,9.26,Communication Services,Stocks,NGM
+QMCO,Quantum Corporation,4.52,Technology,Stocks,NGM
+QTRX,Quanterix Corporation,27.11,Healthcare,Stocks,NGM
+CPSS,"Consumer Portfolio Services, In",10.82,Financial Services,Stocks,NGM
+SLRC,Solar Capital Ltd.,18.20,Financial Services,Stocks,NGM
+FNHC,FedNat Holding Company,1.29,Financial Services,Stocks,NGM
+EDUC,Educational Development Corpora,7.42,Communication Services,Stocks,NGM
+RMCF,Rocky Mountain Chocolate Factor,7.65,Consumer Defensive,Stocks,NGM
+PTMN,Portman Ridge Finance Corporati,24.25,Financial Services,Stocks,NGM
+CLPS,CLPS Incorporation,1.81,Technology,Stocks,NGM
+ULBI,Ultralife Corporation,5.40,Industrials,Stocks,NGM
+HLMN,Hillman Solutions Corp.,8.26,Industrials,Stocks,NGM
+CGTX,"Cognition Therapeutics, Inc.",3.60,Healthcare,Stocks,NGM
+VERO,Venus Concept Inc.,1.42,Healthcare,Stocks,NGM
+OCC,Optical Cable Corporation,4.92,Technology,Stocks,NGM
+MNDO,MIND C.T.I. Ltd.,3.03,Technology,Stocks,NGM
+CYBE,CyberOptics Corporation,34.57,Technology,Stocks,NGM
+CINC,"CinCor Pharma, Inc.",16.00,Healthcare,Stocks,NGM
+SYNL,Synalloy Corporation,16.52,Basic Materials,Stocks,NGM
+CNCE,"Concert Pharmaceuticals, Inc.",2.90,Healthcare,Stocks,NGM
+JCS,"Communications Systems, Inc.",2.02,Technology,Stocks,NGM
+RGF,"The Real Good Food Company, Inc",5.84,Consumer Defensive,Stocks,NGM
+SGC,"Superior Group of Companies, In",19.71,Consumer Cyclical,Stocks,NGM
+CVT,Cvent Holding Corp.,6.57,Technology,Stocks,NGM
+KEQU,Kewaunee Scientific Corporation,14.21,Consumer Cyclical,Stocks,NGM
+CMPI,"Checkmate Pharmaceuticals, Inc.",2.05,Healthcare,Stocks,NGM
+CMCT,CIM Commercial Trust Corporatio,7.26,Real Estate,Stocks,NGM
+TOUR,Tuniu Corporation,1.18,Consumer Cyclical,Stocks,NGM
+PMTS,CPI Card Group Inc.,13.75,Financial Services,Stocks,NGM
+REDU,RISE Education Cayman Ltd,0.45,Consumer Defensive,Stocks,NGM
+MEKA,MELI Kaszek Pioneer Corp,10.33,Financial Services,Stocks,NGM
+NWFL,Norwood Financial Corp.,27.40,Financial Services,Stocks,NGM
+CDZI,"Cadiz, Inc.",2.50,Utilities,Stocks,NGM
+WINA,Winmark Corporation,212.85,Consumer Cyclical,Stocks,NGM
+KTCC,Key Tronic Corporation,6.04,Technology,Stocks,NGM
+CADL,"Candel Therapeutics, Inc.",4.81,Healthcare,Stocks,NGM
+IIN,IntriCon Corporation,13.70,Healthcare,Stocks,NGM
+CMPO,"CompoSecure, Inc.",7.75,Industrials,Stocks,NGM
+STRT,STRATTEC SECURITY CORPORATION,39.30,Consumer Cyclical,Stocks,NGM
+CSPI,CSP Inc.,8.31,Technology,Stocks,NGM
+CYAD,Celyad Oncology SA,3.45,Healthcare,Stocks,NGM
+CMLS,Cumulus Media Inc.,10.73,Communication Services,Stocks,NGM
+LANDO,Gladstone Land Corporation - 6.,25.70,Real Estate,Stocks,NGM
+IMRX,Immuneering Corporation,10.61,Healthcare,Stocks,NGM
+CNFR,"Conifer Holdings, Inc.",2.38,Financial Services,Stocks,NGM
+EML,Eastern Company (The),23.31,Industrials,Stocks,NGM
+IRIX,IRIDEX Corporation,5.04,Healthcare,Stocks,NGM
+KIDS,OrthoPediatrics Corp.,45.45,Healthcare,Stocks,NGM
+CNTG,Centogene N.V.,4.05,Healthcare,Stocks,NGM
+FRST,Primis Financial Corp.,14.84,Financial Services,Stocks,NGM
+ISTR,Investar Holding Corporation,18.52,Financial Services,Stocks,NGM
+WLFC,Willis Lease Finance Corporatio,35.11,Industrials,Stocks,NGM
+CSSEP,Chicken Soup for the Soul Enter,26.74,Communication Services,Stocks,NGM
+CBFV,"CB Financial Services, Inc.",24.27,Financial Services,Stocks,NGM
+PFX,PhenixFIN Corporation,40.68,Financial Services,Stocks,NGM
+CPHC,Canterbury Park Holding Corpora,17.94,Consumer Cyclical,Stocks,NGM
+SNFCA,Security National Financial Cor,9.00,Financial Services,Stocks,NGM
+VIRC,Virco Manufacturing Corporation,3.00,Consumer Cyclical,Stocks,NGM
+CIZN,Citizens Holding Company,18.09,Financial Services,Stocks,NGM
+SGA,"Saga Communications, Inc.",22.04,Communication Services,Stocks,NGM
+LANDM,Gladstone Land Corporation - 5.,25.50,Real Estate,Stocks,NGM
+CDZIP,"Cadiz, Inc. - Depositary Shares",13.38,Utilities,Stocks,NGM
+CSSEN,Chicken Soup for the Soul Enter,25.42,N/A,Stocks,NGM
+WVFC,WVS Financial Corp.,15.72,Financial Services,Stocks,NGM
+XOMAO,XOMA Corporation - Depositary S,25.75,Healthcare,Stocks,NGM
+CIIGU,"CIIG Capital Partners II, Inc.",10.20,Financial Services,Stocks,NGM
+XOMAP,XOMA Corporation - 8.625% Serie,25.80,Healthcare,Stocks,NGM
+CIIG,"CIIG Capital Partners II, Inc.",9.81,Financial Services,Stocks,NGM
+LOTZW,"CarLotz, Inc.",0.27,Consumer Cyclical,Stocks,NGM
+PPYAU,Papaya Growth Opportunity Corp.,9.99,Financial Services,Stocks,NGM
+SSSSL,SuRo Capital Corp. - 6.00% Note,25.49,N/A,Stocks,NGM
+FEXDU,Fintech Ecosystem Development C,10.15,Financial Services,Stocks,NGM
+ENCPU,Energem Corp,10.13,Financial Services,Stocks,NGM
+LION,Lionheart III Corp,9.86,Financial Services,Stocks,NGM
+ENCP,Energem Corp,9.89,Financial Services,Stocks,NGM
+HCVI,Hennessy Capital Investment Cor,9.64,Financial Services,Stocks,NGM
+FEXD,Fintech Ecosystem Development C,9.87,Financial Services,Stocks,NGM
+LXEH,"Lixiang Education Holding Co., ",5.80,Consumer Defensive,Stocks,NGM
+DMAT,GLOBAL X DISRUPTIVE MATERIALS E,23.25,N/A,Stocks,NGM
+TTD,"The Trade Desk, Inc.",60.17,Technology,Stocks,NGM
+DAVE,Dave Inc.,9.21,Technology,Stocks,NGM
+DCFC,Tritium DCFC Limited,8.09,Industrials,Stocks,NGM
+SDIG,"Stronghold Digital Mining, Inc.",7.60,Financial Services,Stocks,NGM
+DOMO,"Domo, Inc.",40.43,Technology,Stocks,NGM
+MASS,908 Devices Inc.,13.18,Healthcare,Stocks,NGM
+LUCD,Lucid Diagnostics Inc.,2.85,Healthcare,Stocks,NGM
+DXLG,"Destination XL Group, Inc.",4.38,Consumer Cyclical,Stocks,NGM
+DTEA,DAVIDsTEA Inc.,3.17,Consumer Defensive,Stocks,NGM
+DXYN,"The Dixie Group, Inc.",4.00,Consumer Cyclical,Stocks,NGM
+DSWL,"Deswell Industries, Inc.",3.75,Technology,Stocks,NGM
+DCFCW,Tritium DCFC Limited,1.26,Industrials,Stocks,NGM
+DICE,"DICE Therapeutics, Inc.",14.92,Healthcare,Stocks,NGM
+XPDBU,Power & Digital Infrastructure ,10.07,Financial Services,Stocks,NGM
+HOVNP,Hovnanian Enterprises Inc - Dep,21.85,Consumer Cyclical,Stocks,NGM
+FEXDR,Fintech Ecosystem Development C,0.20,N/A,Stocks,NGM
+FCEL,"FuelCell Energy, Inc.",3.56,Industrials,Stocks,NGM
+ENPH,"Enphase Energy, Inc.",119.97,Technology,Stocks,NGM
+EH,EHang Holdings Limited,15.36,Industrials,Stocks,NGM
+STRR,"Star Equity Holdings, Inc.",1.29,Healthcare,Stocks,NGM
+EXPI,"eXp World Holdings, Inc.",23.84,Real Estate,Stocks,NGM
+EDAP,EDAP TMS S.A.,6.79,Healthcare,Stocks,NGM
+ESPR,"Esperion Therapeutics, Inc.",3.65,Healthcare,Stocks,NGM
+ETON,"Eton Pharmaceuticals, Inc.",3.46,Healthcare,Stocks,NGM
+FFIE,Faraday Future Intelligent Elec,4.20,Consumer Cyclical,Stocks,NGM
+EVGN,Evogene Ltd.,1.29,Healthcare,Stocks,NGM
+EVBG,"Everbridge, Inc.",45.30,Technology,Stocks,NGM
+EQRX,"EQRx, Inc.",4.20,Healthcare,Stocks,NGM
+MRAM,"Everspin Technologies, Inc.",7.98,Technology,Stocks,NGM
+EMBK,"Embark Technology, Inc.",3.35,Technology,Stocks,NGM
+EVER,"EverQuote, Inc.",15.35,Communication Services,Stocks,NGM
+ELOX,"Eloxx Pharmaceuticals, Inc.",0.45,Healthcare,Stocks,NGM
+RDBX,Redbox Entertainment Inc.,5.31,Financial Services,Stocks,NGM
+ETTX,Entasis Therapeutics Holdings I,1.58,Healthcare,Stocks,NGM
+VWE,"Vintage Wine Estates, Inc.",7.88,Consumer Defensive,Stocks,NGM
+STRRP,"Star Equity Holdings, Inc. - Se",10.25,Healthcare,Stocks,NGM
+EQ,"Equillium, Inc.",3.90,Healthcare,Stocks,NGM
+EYPT,"EyePoint Pharmaceuticals, Inc.",8.81,Healthcare,Stocks,NGM
+HPK,"HighPeak Energy, Inc.",18.39,Energy,Stocks,NGM
+GDEN,"Golden Entertainment, Inc.",43.59,Consumer Cyclical,Stocks,NGM
+EGRX,"Eagle Pharmaceuticals, Inc.",44.59,Healthcare,Stocks,NGM
+ENJY,"Enjoy Technology, Inc.",3.08,Consumer Cyclical,Stocks,NGM
+ESCA,"Escalade, Incorporated",13.63,Consumer Cyclical,Stocks,NGM
+EVOP,"EVO Payments, Inc.",23.44,Technology,Stocks,NGM
+MOHO,ECMOHO Limited,0.28,Consumer Cyclical,Stocks,NGM
+TRDA,"Entrada Therapeutics, Inc.",8.37,Healthcare,Stocks,NGM
+EVK,"Ever-Glory International Group,",1.94,Consumer Cyclical,Stocks,NGM
+EPSN,Epsilon Energy Ltd.,5.42,Energy,Stocks,NGM
+XGN,Exagen Inc.,8.71,Healthcare,Stocks,NGM
+FEIM,"Frequency Electronics, Inc.",9.07,Technology,Stocks,NGM
+ELYM,"Eliem Therapeutics, Inc",8.21,Healthcare,Stocks,NGM
+XENT,"Intersect ENT, Inc.",27.18,Healthcare,Stocks,NGM
+ISHP,First Trust Nasdaq Retail ETF,32.35,N/A,Stocks,NGM
+HLG,Hailiang Education Group Inc.,10.41,Consumer Defensive,Stocks,NGM
+HPKEW,"HighPeak Energy, Inc.",7.63,Energy,Stocks,NGM
+GECCN,Great Elm Capital Corp. - Notes,25.09,N/A,Stocks,NGM
+GECCO,Great Elm Capital Corp. - 5.875,25.39,N/A,Stocks,NGM
+GEEXU,Games & Esports Experience Acqu,10.10,Financial Services,Stocks,NGM
+PEGR,Project Energy Reimagined Acqui,9.74,Financial Services,Stocks,NGM
+PEGRU,Project Energy Reimagined Acqui,9.90,Financial Services,Stocks,NGM
+CMCAW,Capitalworks Emerging Markets A,0.32,Financial Services,Stocks,NGM
+ROCAU,ROC Energy Acquisition Corp.,10.06,Financial Services,Stocks,NGM
+XFINU,ExcelFin Acquisition Corp,10.03,Financial Services,Stocks,NGM
+XFINW,EXCELFIN ACQUISITION CORP C/WTS,0.53,Financial Services,Stocks,NGM
+IVCBU,Investcorp Europe Acquisition C,10.10,Financial Services,Stocks,NGM
+XFIN,ExcelFin Acquisition Corp,9.81,Financial Services,Stocks,NGM
+VHNA,Vahanna Tech Edge Acquisition I,9.87,Financial Services,Stocks,NGM
+FLGT,"Fulgent Genetics, Inc.",60.50,Healthcare,Stocks,NGM
+FUTU,Futu Holdings Limited,38.40,Financial Services,Stocks,NGM
+FATE,"Fate Therapeutics, Inc.",35.78,Healthcare,Stocks,NGM
+FIVN,"Five9, Inc.",118.48,Technology,Stocks,NGM
+FTCI,"FTC Solar, Inc.",3.63,Technology,Stocks,NGM
+HTOO,Fusion Fuel Green PLC,4.68,Utilities,Stocks,NGM
+FRPT,"Freshpet, Inc.",83.19,Consumer Defensive,Stocks,NGM
+DUO,Fangdd Network Group Ltd.,0.34,Real Estate,Stocks,NGM
+VITL,"Vital Farms, Inc.",15.50,Consumer Defensive,Stocks,NGM
+FRG,"Franchise Group, Inc.",47.95,Consumer Cyclical,Stocks,NGM
+FLNT,"Fluent, Inc.",1.46,Communication Services,Stocks,NGM
+HALL,"Hallmark Financial Services, In",4.05,Financial Services,Stocks,NGM
+FHTX,Foghorn Therapeutics Inc.,13.84,Healthcare,Stocks,NGM
+MF,Missfresh Limited,2.93,Consumer Defensive,Stocks,NGM
+LWAY,"Lifeway Foods, Inc.",5.03,Consumer Defensive,Stocks,NGM
+LVLU,"Lulu's Fashion Lounge Holdings,",8.94,Consumer Cyclical,Stocks,NGM
+FULC,"Fulcrum Therapeutics, Inc.",11.52,Healthcare,Stocks,NGM
+FFWM,First Foundation Inc.,25.33,Financial Services,Stocks,NGM
+FMTX,"Forma Therapeutics Holdings, In",10.94,Healthcare,Stocks,NGM
+HIFS,Hingham Institution for Savings,363.01,Financial Services,Stocks,NGM
+FGF,"FG Financial Group, Inc.",2.93,Financial Services,Stocks,NGM
+PFIN,"P & F Industries, Inc.",5.88,Industrials,Stocks,NGM
+OFLX,"Omega Flex, Inc.",137.91,Industrials,Stocks,NGM
+HMNF,"HMN Financial, Inc.",24.67,Financial Services,Stocks,NGM
+HTOOW,Fusion Fuel Green PLC,1.28,Utilities,Stocks,NGM
+FOUN,Founder SPAC,9.97,Financial Services,Stocks,NGM
+USCB,"USCB Financial Holdings, Inc.",13.75,Financial Services,Stocks,NGM
+FRGAP,"Franchise Group, Inc. - 7.50% S",26.12,Consumer Cyclical,Stocks,NGM
+FGFPP,"FG Financial Group, Inc.  - 8.0",22.68,Financial Services,Stocks,NGM
+FOUNU,Founder SPAC,10.27,Financial Services,Stocks,NGM
+FRLAU,Fortune Rise Acquisition Corpor,10.07,Financial Services,Stocks,NGM
+ZINGU,FTAC Zeus Acquisition Corp.,10.06,Financial Services,Stocks,NGM
+GVCI,Green Visor Financial Technolog,9.87,Financial Services,Stocks,NGM
+FXCOR,Financial Strategies Acquisitio,0.19,N/A,Stocks,NGM
+GFGDU,The Growth for Good Acquisition,9.94,Financial Services,Stocks,NGM
+PLBY,"PLBY Group, Inc.",13.61,Consumer Cyclical,Stocks,NGM
+NSEC,"National Security Group, Inc.",15.65,Financial Services,Stocks,NGM
+GNOG,"Golden Nugget Online Gaming, In",6.98,Consumer Cyclical,Stocks,NGM
+GNLN,"Greenlane Holdings, Inc.",0.66,Consumer Defensive,Stocks,NGM
+SEV,Sono Group N.V.,5.07,Consumer Cyclical,Stocks,NGM
+PAYO,Payoneer Global Inc.,4.52,Technology,Stocks,NGM
+GRTX,"Galera Therapeutics, Inc.",2.38,Healthcare,Stocks,NGM
+SHLS,"Shoals Technologies Group, Inc.",13.47,Technology,Stocks,NGM
+GBS,GBS Inc.,0.97,Healthcare,Stocks,NGM
+GLYC,"GlycoMimetics, Inc.",1.07,Healthcare,Stocks,NGM
+GPP,Green Plains Partners LP,15.10,Energy,Stocks,NGM
+GRAY,"Graybug Vision, Inc.",1.32,Healthcare,Stocks,NGM
+III,"Information Services Group, Inc",6.21,Technology,Stocks,NGM
+SALM,"Salem Media Group, Inc.",2.86,Communication Services,Stocks,NGM
+GDS,GDS Holdings Limited,36.53,Technology,Stocks,NGM
+JFIN,Jiayin Group Inc.,1.84,Communication Services,Stocks,NGM
+PHAR,Pharming Group N.V.,8.31,Healthcare,Stocks,NGM
+TMDX,"TransMedics Group, Inc.",14.42,Healthcare,Stocks,NGM
+ROVR,"Rover Group, Inc.",6.00,Consumer Cyclical,Stocks,NGM
+GMTX,"Gemini Therapeutics, Inc.",1.75,Healthcare,Stocks,NGM
+UG,"United-Guardian, Inc.",17.50,Consumer Defensive,Stocks,NGM
+GAMB,Gambling.com Group Limited,9.27,Consumer Cyclical,Stocks,NGM
+GWRS,"Global Water Resources, Inc.",14.76,Utilities,Stocks,NGM
+RADI,"Radius Global Infrastructure, I",12.77,Communication Services,Stocks,NGM
+UCL,uCloudlink Group Inc.,1.76,Communication Services,Stocks,NGM
+GANX,"Gain Therapeutics, Inc.",3.71,Healthcare,Stocks,NGM
+GTH,Genetron Holdings Limited,3.66,Healthcare,Stocks,NGM
+SLGL,Sol-Gel Technologies Ltd.,6.65,Healthcare,Stocks,NGM
+GAIA,"Gaia, Inc.",7.22,Communication Services,Stocks,NGM
+GCMG,GCM Grosvenor Inc.,8.82,Financial Services,Stocks,NGM
+QK,Q&K International Group Limited,0.41,Real Estate,Stocks,NGM
+HMTV,"Hemisphere Media Group, Inc.",6.19,Communication Services,Stocks,NGM
+GENC,Gencor Industries Inc.,10.90,Industrials,Stocks,NGM
+WSTG,"Wayside Technology Group, Inc.",28.00,Technology,Stocks,NGM
+WLDN,"Willdan Group, Inc.",32.19,Industrials,Stocks,NGM
+GHRS,GH Research PLC,16.04,Healthcare,Stocks,NGM
+PROC,"Procaps Group, S.A.",9.50,Healthcare,Stocks,NGM
+QLI,Qilian International Holding Gr,2.29,Healthcare,Stocks,NGM
+GHIXU,"Gores Holdings IX, Inc.",10.00,Financial Services,Stocks,NGM
+GCMGW,GCM Grosvenor Inc.,0.75,Financial Services,Stocks,NGM
+LGVCU,LAMF Global Ventures Corp. I,10.00,Financial Services,Stocks,NGM
+GLLI,Globalink Investment Inc.,9.79,Financial Services,Stocks,NGM
+LGVC,LAMF Global Ventures Corp. I,9.82,Financial Services,Stocks,NGM
+GTAC,Global Technology Acquisition C,9.85,Financial Services,Stocks,NGM
+GGAAU,Genesis Growth Tech Acquisition,10.01,Financial Services,Stocks,NGM
+GLLIR,Globalink Investment Inc.,0.22,N/A,Stocks,NGM
+GDNRU,Gardiner Healthcare Acquisition,10.08,Financial Services,Stocks,NGM
+GTACU,Global Technology Acquisition C,10.01,Financial Services,Stocks,NGM
+IGTAU,Inception Growth Acquisition Li,10.03,Financial Services,Stocks,NGM
+TGAAU,Target Global Acquisition I Cor,9.95,Financial Services,Stocks,NGM
+VORB,"Virgin Orbit Holdings, Inc.",8.16,Industrials,Stocks,NGM
+KPLT,"Katapult Holdings, Inc.",2.10,Technology,Stocks,NGM
+RANI,"Rani Therapeutics Holdings, Inc",18.99,Healthcare,Stocks,NGM
+PT,Pintec Technology Holdings Limi,0.52,Financial Services,Stocks,NGM
+RICK,"RCI Hospitality Holdings, Inc.",66.72,Consumer Cyclical,Stocks,NGM
+RDUS,"Radius Health, Inc.",6.77,Healthcare,Stocks,NGM
+HYPR,"Hyperfine, Inc.",4.02,Healthcare,Stocks,NGM
+LNTH,"Lantheus Holdings, Inc.",24.28,Healthcare,Stocks,NGM
+VBTX,"Veritex Holdings, Inc.",39.47,Financial Services,Stocks,NGM
+SECO,Secoo Holding Limited,0.38,Consumer Cyclical,Stocks,NGM
+TRHC,"Tabula Rasa HealthCare, Inc.",10.59,Healthcare,Stocks,NGM
+QCRH,"QCR Holdings, Inc.",56.95,Financial Services,Stocks,NGM
+NMIH,NMI Holdings Inc,23.59,Financial Services,Stocks,NGM
+SOHO,Sotherly Hotels Inc.,2.04,Real Estate,Stocks,NGM
+SNCE,"Science 37 Holdings, Inc.",8.66,Healthcare,Stocks,NGM
+HROW,"Harrow Health, Inc.",6.90,Healthcare,Stocks,NGM
+MORF,"Morphic Holding, Inc.",38.26,Healthcare,Stocks,NGM
+HUIZ,Huize Holding Limited,1.15,Financial Services,Stocks,NGM
+IESC,"IES Holdings, Inc.",47.43,Industrials,Stocks,NGM
+KRKR,36Kr Holdings Inc.,0.88,Communication Services,Stocks,NGM
+HHS,"Harte-Hanks, Inc.",6.88,Communication Services,Stocks,NGM
+PPIH,Perma-Pipe International Holdin,8.86,Industrials,Stocks,NGM
+HYW,Hywin Holdings Ltd.,5.58,Financial Services,Stocks,NGM
+PRTC,PureTech Health plc,37.85,Healthcare,Stocks,NGM
+HTIA,"Healthcare Trust, Inc. - 7.375%",25.10,Real Estate,Stocks,NGM
+SOHOO,Sotherly Hotels Inc. - 7.875% S,18.42,Real Estate,Stocks,NGM
+SOHON,Sotherly Hotels Inc. - 8.25% Se,18.91,Real Estate,Stocks,NGM
+SOHOB,Sotherly Hotels Inc. - 8.0% Ser,18.05,Real Estate,Stocks,NGM
+HROWL,"Harrow Health, Inc. - 8.625% se",26.15,N/A,Stocks,NGM
+HTIBP,"Healthcare Trust, Inc. - 7.125%",25.12,Real Estate,Stocks,NGM
+HX,Xiaobai Maimai Inc.,2.24,Consumer Cyclical,Stocks,NGM
+SANB,Sanaby Health Acquisition Corp.,9.94,Financial Services,Stocks,NGM
+SANBU,Sanaby Health Acquisition Corp.,10.20,Financial Services,Stocks,NGM
+HAIAU,Healthcare AI Acquisition Corp.,10.00,Financial Services,Stocks,NGM
+SHCAU,Spindletop Health Acquisition C,10.07,Financial Services,Stocks,NGM
+PEPL,PepperLime Health Acquisition C,9.75,Financial Services,Stocks,NGM
+SHCA,Spindletop Health Acquisition C,9.87,Financial Services,Stocks,NGM
+PRLHU,Pearl Holdings Acquisition Corp,9.99,Financial Services,Stocks,NGM
+MTTR,"Matterport, Inc.",8.44,Technology,Stocks,NGM
+PROG,"Progenity, Inc.",1.28,Healthcare,Stocks,NGM
+SRRA,"Sierra Oncology, Inc.",24.99,Healthcare,Stocks,NGM
+NRXP,"NRX Pharmaceuticals, Inc.",2.86,Healthcare,Stocks,NGM
+MVIS,"Microvision, Inc.",2.73,Technology,Stocks,NGM
+OSTK,"Overstock.com, Inc.",39.26,Consumer Cyclical,Stocks,NGM
+PUBM,"PubMatic, Inc.",21.09,Technology,Stocks,NGM
+NNOX,NANO-X IMAGING LTD,9.45,Healthcare,Stocks,NGM
+MDB,"MongoDB, Inc.",351.51,Technology,Stocks,NGM
+NTLA,"Intellia Therapeutics, Inc.",82.40,Healthcare,Stocks,NGM
+MRIN,Marin Software Incorporated,2.91,Technology,Stocks,NGM
+PSTI,"Pluristem Therapeutics, Inc.",1.49,Healthcare,Stocks,NGM
+VERI,"Veritone, Inc.",13.22,Technology,Stocks,NGM
+VSTM,"Verastem, Inc.",1.42,Healthcare,Stocks,NGM
+XOS,"Xos, Inc.",2.05,Industrials,Stocks,NGM
+SCYX,"SCYNEXIS, Inc.",4.50,Healthcare,Stocks,NGM
+QSI,Quantum-Si Incorporated,4.50,Healthcare,Stocks,NGM
+TRIT,"Triterras, Inc.",1.62,Technology,Stocks,NGM
+KOD,Kodiak Sciences Inc,51.88,Healthcare,Stocks,NGM
+LPTX,"Leap Therapeutics, Inc.",1.76,Healthcare,Stocks,NGM
+LFMD,"LifeMD, Inc.",3.07,Healthcare,Stocks,NGM
+VIEW,"View, Inc.",2.49,Industrials,Stocks,NGM
+OTRK,"Ontrak, Inc.",2.88,Healthcare,Stocks,NGM
+OCUL,"Ocular Therapeutix, Inc.",5.24,Healthcare,Stocks,NGM
+SAGE,"Sage Therapeutics, Inc.",36.95,Healthcare,Stocks,NGM
+MRKR,"Marker Therapeutics, Inc.",0.56,Healthcare,Stocks,NGM
+LGND,Ligand Pharmaceuticals Incorpor,113.11,Healthcare,Stocks,NGM
+IMMP,Immutep Limited,2.39,Healthcare,Stocks,NGM
+LTRY,"Lottery.com, Inc.",4.15,Consumer Cyclical,Stocks,NGM
+IMAB,I-MAB,20.89,Healthcare,Stocks,NGM
+JOAN,"JOANN, Inc.",9.99,Consumer Cyclical,Stocks,NGM
+IMPL,"Impel NeuroPharma, Inc.",8.96,Healthcare,Stocks,NGM
+RETA,"Reata Pharmaceuticals, Inc.",24.12,Healthcare,Stocks,NGM
+MNOV,"MediciNova, Inc.",2.25,Healthcare,Stocks,NGM
+ETNB,"89bio, Inc.",6.33,Healthcare,Stocks,NGM
+RVNC,"Revance Therapeutics, Inc.",12.36,Healthcare,Stocks,NGM
+ZYNE,"Zynerba Pharmaceuticals, Inc.",2.40,Healthcare,Stocks,NGM
+USIO,"Usio, Inc.",3.06,Technology,Stocks,NGM
+ZGNX,"Zogenix, Inc.",25.93,Healthcare,Stocks,NGM
+SURF,"Surface Oncology, Inc.",3.44,Healthcare,Stocks,NGM
+PRTK,"Paratek Pharmaceuticals, Inc.",3.62,Healthcare,Stocks,NGM
+PXLW,"Pixelworks, Inc.",2.99,Technology,Stocks,NGM
+VAXX,"Vaxxinity, Inc.",5.97,Healthcare,Stocks,NGM
+TRUP,"Trupanion, Inc.",85.65,Financial Services,Stocks,NGM
+NRDS,"NerdWallet, Inc.",13.67,Financial Services,Stocks,NGM
+MTCR,"Metacrine, Inc.",0.51,Healthcare,Stocks,NGM
+MYPS,"PLAYSTUDIOS, Inc.",4.05,Communication Services,Stocks,NGM
+MGTA,"Magenta Therapeutics, Inc.",3.04,Healthcare,Stocks,NGM
+VRAY,"ViewRay, Inc.",4.06,Healthcare,Stocks,NGM
+SIGA,SIGA Technologies Inc.,6.21,Healthcare,Stocks,NGM
+MACK,"Merrimack Pharmaceuticals, Inc.",4.70,Healthcare,Stocks,NGM
+MRNS,"Marinus Pharmaceuticals, Inc.",9.43,Healthcare,Stocks,NGM
+VCYT,"Veracyte, Inc.",25.56,Healthcare,Stocks,NGM
+RPD,"Rapid7, Inc.",87.49,Technology,Stocks,NGM
+VNDA,Vanda Pharmaceuticals Inc.,14.30,Healthcare,Stocks,NGM
+INCR,Intercure Ltd.,5.90,Healthcare,Stocks,NGM
+KRUS,"Kura Sushi USA, Inc.",40.13,Consumer Cyclical,Stocks,NGM
+PHAS,"PhaseBio Pharmaceuticals, Inc.",1.89,Healthcare,Stocks,NGM
+ONCR,"Oncorus, Inc.",3.05,Healthcare,Stocks,NGM
+SLGC,"SomaLogic, Inc.",7.67,Healthcare,Stocks,NGM
+LRMR,"Larimar Therapeutics, Inc.",8.94,Healthcare,Stocks,NGM
+RPHM,"Reneo Pharmaceuticals, Inc.",6.30,Healthcare,Stocks,NGM
+INKT,"MiNK Therapeutics, Inc.",2.88,Healthcare,Stocks,NGM
+LOOP,"Loop Industries, Inc.",7.09,Basic Materials,Stocks,NGM
+RCKT,"Rocket Pharmaceuticals, Inc.",15.15,Healthcare,Stocks,NGM
+KYMR,"Kymera Therapeutics, Inc.",37.12,Healthcare,Stocks,NGM
+LIZI,LIZHI INC.,1.20,Communication Services,Stocks,NGM
+SUPN,"Supernus Pharmaceuticals, Inc.",29.02,Healthcare,Stocks,NGM
+PSNL,"Personalis, Inc.",9.98,Healthcare,Stocks,NGM
+TFFP,"TFF Pharmaceuticals, Inc.",5.42,Healthcare,Stocks,NGM
+YI,"111, Inc.",2.75,Healthcare,Stocks,NGM
+SYBX,"Synlogic, Inc.",1.75,Healthcare,Stocks,NGM
+MKTW,"MarketWise, Inc.",5.79,Technology,Stocks,NGM
+ONEW,OneWater Marine Inc.,47.53,Consumer Cyclical,Stocks,NGM
+KRTX,"Karuna Therapeutics, Inc.",102.20,Healthcare,Stocks,NGM
+TALS,"Talaris Therapeutics, Inc.",9.00,Healthcare,Stocks,NGM
+RDNT,"RadNet, Inc.",24.13,Healthcare,Stocks,NGM
+RLAY,"Relay Therapeutics, Inc.",20.38,Healthcare,Stocks,NGM
+NERV,"Minerva Neurosciences, Inc",0.74,Healthcare,Stocks,NGM
+PTGX,"Protagonist Therapeutics, Inc.",26.38,Healthcare,Stocks,NGM
+SBTX,"Silverback Therapeutics, Inc.",4.16,Healthcare,Stocks,NGM
+IDN,"Intellicheck, Inc.",3.76,Technology,Stocks,NGM
+LAKE,"Lakeland Industries, Inc.",19.99,Consumer Cyclical,Stocks,NGM
+TCRX,"TScan Therapeutics, Inc.",4.90,Healthcare,Stocks,NGM
+VERX,"Vertex, Inc.",13.33,Technology,Stocks,NGM
+LUMO,"Lumos Pharma, Inc.",9.09,Healthcare,Stocks,NGM
+TRVI,"Trevi Therapeutics, Inc.",0.62,Healthcare,Stocks,NGM
+UPLD,"Upland Software, Inc.",18.74,Technology,Stocks,NGM
+NRIX,"Nurix Therapeutics, Inc.",17.29,Healthcare,Stocks,NGM
+MIRM,"Mirum Pharmaceuticals, Inc.",17.10,Healthcare,Stocks,NGM
+SMMT,Summit Therapeutics Inc.,2.00,Healthcare,Stocks,NGM
+RMNI,"Rimini Street, Inc.",4.81,Technology,Stocks,NGM
+RYTM,"Rhythm Pharmaceuticals, Inc.",6.75,Healthcare,Stocks,NGM
+XNCR,"Xencor, Inc.",31.92,Healthcare,Stocks,NGM
+TTGT,"TechTarget, Inc.",75.69,Communication Services,Stocks,NGM
+STSA,"Satsuma Pharmaceuticals, Inc.",4.86,Healthcare,Stocks,NGM
+ITOS,"iTeos Therapeutics, Inc.",34.18,Healthcare,Stocks,NGM
+XENE,Xenon Pharmaceuticals Inc.,25.09,Healthcare,Stocks,NGM
+NEXI,"NexImmune, Inc.",2.96,Healthcare,Stocks,NGM
+NLTX,"Neoleukin Therapeutics, Inc.",3.21,Healthcare,Stocks,NGM
+VRCA,Verrica Pharmaceuticals Inc.,7.59,Healthcare,Stocks,NGM
+RCMT,"RCM Technologies, Inc.",6.25,Industrials,Stocks,NGM
+NSTG,"NanoString Technologies, Inc.",31.00,Healthcare,Stocks,NGM
+TCMD,"Tactile Systems Technology, Inc",14.85,Healthcare,Stocks,NGM
+SYPR,"Sypris Solutions, Inc.",1.95,Consumer Cyclical,Stocks,NGM
+TVTX,"Travere Therapeutics, Inc.",25.37,Healthcare,Stocks,NGM
+TRNS,"Transcat, Inc.",91.21,Industrials,Stocks,NGM
+DIBS,"1stdibs.com, Inc.",9.50,Consumer Cyclical,Stocks,NGM
+INOD,Innodata Inc.,5.27,Technology,Stocks,NGM
+RFIL,"RF Industries, Ltd.",6.90,Industrials,Stocks,NGM
+RXST,"RxSight, Inc.",9.73,Healthcare,Stocks,NGM
+PWFL,"PowerFleet, Inc.",3.22,Technology,Stocks,NGM
+LYRA,"Lyra Therapeutics, Inc.",3.51,Healthcare,Stocks,NGM
+RAPT,"RAPT Therapeutics, Inc.",20.13,Healthcare,Stocks,NGM
+TARA,"Protara Therapeutics, Inc.",4.92,Healthcare,Stocks,NGM
+INBX,"Inhibrx, Inc.",23.20,Healthcare,Stocks,NGM
+GDEV,Nexters Inc.,7.50,Communication Services,Stocks,NGM
+SRAX,"SRAX, Inc.",4.77,Communication Services,Stocks,NGM
+JFU,9F Inc.,0.96,Technology,Stocks,NGM
+ZNTL,"Zentalis Pharmaceuticals, Inc.",49.51,Healthcare,Stocks,NGM
+LOGC,"LogicBio Therapeutics, Inc.",1.41,Healthcare,Stocks,NGM
+STIM,"Neuronetics, Inc.",3.40,Healthcare,Stocks,NGM
+LMAT,"LeMaitre Vascular, Inc.",40.48,Healthcare,Stocks,NGM
+UPC,Universe Pharmaceuticals Inc,1.41,Healthcare,Stocks,NGM
+INAB,"IN8bio, Inc.",3.06,Healthcare,Stocks,NGM
+KALV,"KalVista Pharmaceuticals, Inc.",11.20,Healthcare,Stocks,NGM
+RSVR,"Reservoir Media, Inc..",6.22,Communication Services,Stocks,NGM
+INDT,"INDUS Realty Trust, Inc.",75.55,Real Estate,Stocks,NGM
+IKNA,"Ikena Oncology, Inc.",9.36,Healthcare,Stocks,NGM
+NTIC,Northern Technologies Internati,13.11,Basic Materials,Stocks,NGM
+IBEX,IBEX Limited,12.78,Technology,Stocks,NGM
+TNGX,"Tango Therapeutics, Inc.",7.82,Healthcare,Stocks,NGM
+SERA,"Sera Prognostics, Inc.",6.37,Healthcare,Stocks,NGM
+UTRS,"Minerva Surgical, Inc.",4.42,Healthcare,Stocks,NGM
+TACT,TransAct Technologies Incorpora,8.80,Technology,Stocks,NGM
+JANX,"Janux Therapeutics, Inc.",13.80,Healthcare,Stocks,NGM
+KROS,"Keros Therapeutics, Inc.",42.33,Healthcare,Stocks,NGM
+VERA,"Vera Therapeutics, Inc.",20.02,Healthcare,Stocks,NGM
+RGCO,RGC Resources Inc.,22.53,Utilities,Stocks,NGM
+NPCE,"Neuropace, Inc.",8.73,Healthcare,Stocks,NGM
+LBPH,"Longboard Pharmaceuticals, Inc.",4.14,Healthcare,Stocks,NGM
+VIEWW,"View, Inc.",0.32,Industrials,Stocks,NGM
+TRITW,"Triterras, Inc.",0.32,Technology,Stocks,NGM
+JWACR,Jupiter Wellness Acquisition Co,0.28,N/A,Stocks,NGM
+KACLU,Kairous Acquisition Corp. Limit,10.06,Financial Services,Stocks,NGM
+LATGU,LatAmGrowth SPAC,10.00,Financial Services,Stocks,NGM
+ROIV,Roivant Sciences Ltd.,6.95,Healthcare,Stocks,NGM
+ZLAB,Zai Lab Limited,42.01,Healthcare,Stocks,NGM
+TLSA,Tiziana Life Sciences Ltd,0.85,Healthcare,Stocks,NGM
+QTNT,Quotient Limited,1.54,Healthcare,Stocks,NGM
+LIAN,LianBio,3.75,Healthcare,Stocks,NGM
+SNT,Senstar Technologies Ltd.,2.48,Industrials,Stocks,NGM
+OTMO,Otonomo Technologies Ltd.,2.54,Technology,Stocks,NGM
+WVE,Wave Life Sciences Ltd.,2.06,Healthcare,Stocks,NGM
+URGN,UroGen Pharma Ltd.,7.10,Healthcare,Stocks,NGM
+MDWD,MediWound Ltd.,2.27,Healthcare,Stocks,NGM
+LMDX,LumiraDx Limited,9.66,Healthcare,Stocks,NGM
+PYPD,PolyPid Ltd.,4.55,Healthcare,Stocks,NGM
+TATT,TAT Technologies Ltd.,5.98,Industrials,Stocks,NGM
+OBAS,Optibase Ltd.,11.99,Real Estate,Stocks,NGM
+LITT,Logistics Innovation Technologi,9.62,Financial Services,Stocks,NGM
+LGTO,Legato Merger Corp. II,9.83,Financial Services,Stocks,NGM
+LITTU,Logistics Innovation Technologi,9.90,Financial Services,Stocks,NGM
+CCTSU,Cactus Acquisition Corp. 1 Limi,10.02,Financial Services,Stocks,NGM
+LVACU,LAVA Medtech Acquisition Corp.,10.07,Financial Services,Stocks,NGM
+LGTOU,Legato Merger Corp. II,10.03,Financial Services,Stocks,NGM
+MRUS,Merus N.V.,23.98,Healthcare,Stocks,NGM
+MKTWW,MARKETWISE INC C/WTS (TO PUR CO,0.83,Technology,Stocks,NGM
+MAAQR,Mana Capital Acquisition Corp.,0.31,N/A,Stocks,NGM
+MCAAU,Mountain & Co. I Acquisition Co,10.17,Financial Services,Stocks,NGM
+RNERU,Mount Rainier Acquisition Corp.,10.04,Financial Services,Stocks,NGM
+MCAGU,Mountain Crest Acquisition Corp,9.98,Financial Services,Stocks,NGM
+SCMA,Seaport Calibre Materials Acqui,9.84,Financial Services,Stocks,NGM
+MPRAU,Mercato Partners Acquisition Co,10.04,Financial Services,Stocks,NGM
+MCAA,Mountain & Co. I Acquisition Co,9.96,Financial Services,Stocks,NGM
+MPRA,Mercato Partners Acquisition Co,9.84,Financial Services,Stocks,NGM
+NIU,Niu Technologies,12.35,Consumer Cyclical,Stocks,NGM
+PRQR,ProQR Therapeutics N.V.,5.03,Healthcare,Stocks,NGM
+NGMS,NeoGames S.A.,21.37,Communication Services,Stocks,NGM
+NYXH,Nyxoah SA,19.61,Healthcare,Stocks,NGM
+PFXNL,PhenixFIN Corporation  - Notes ,25.47,N/A,Stocks,NGM
+NHIC,NewHold Investment Corp. II,9.75,Financial Services,Stocks,NGM
+NHICU,NewHold Investment Corp. II,9.88,Financial Services,Stocks,NGM
+NPABU,New Providence Acquisition Corp,10.00,Financial Services,Stocks,NGM
+NCAC,Newcourt Acquisition Corp,9.90,Financial Services,Stocks,NGM
+NPAB,New Providence Acquisition Corp,9.91,Financial Services,Stocks,NGM
+OPINL,Office Properties Income Trust ,25.77,N/A,Stocks,NGM
+ONYXU,Onyx Acquisition Co. I,10.07,Financial Services,Stocks,NGM
+OHAA,OPY Acquisition Corp. I,9.76,Financial Services,Stocks,NGM
+VRNA,Verona Pharma plc,5.98,Healthcare,Stocks,NGM
+PTSI,"P.A.M. Transportation Services,",64.36,Industrials,Stocks,NGM
+LBPS,4D pharma plc,4.03,Healthcare,Stocks,NGM
+VACC,Vaccitech plc,9.61,Healthcare,Stocks,NGM
+PCCTU,Perception Capital Corp. II,10.10,Financial Services,Stocks,NGM
+PCCT,Perception Capital Corp. II,9.91,Financial Services,Stocks,NGM
+SAMAU,Schultze Special Purpose Acquis,9.98,Financial Services,Stocks,NGM
+LGSTU,Semper Paratus Acquisition Corp,10.08,Financial Services,Stocks,NGM
+PFXNZ,PhenixFIN Corporation  - 5.25% ,25.00,N/A,Stocks,NGM
+RCACU,Revelstone Capital Acquisition ,9.94,Financial Services,Stocks,NGM
+ROCL,Roth CH Acquisition V Co.,9.77,Financial Services,Stocks,NGM
+SNCRL,"Synchronoss Technologies, Inc. ",22.25,N/A,Stocks,NGM
+TETEU,Technology & Telecommunication ,10.01,Financial Services,Stocks,NGM
+USCTU,TKB Critical Technologies 1,10.10,Financial Services,Stocks,NGM
+TOACU,Talon 1 Acquisition Corp.,10.06,Financial Services,Stocks,NGM
+TGVCU,TG Venture Acquisition Corp.,10.01,Financial Services,Stocks,NGM
+TLGYW,TLGY Acquisition Corporation Wa,0.28,Financial Services,Stocks,NGM
+TOAC,Talon 1 Acquisition Corp.,9.92,Financial Services,Stocks,NGM
+SMAPU,SportsMap Tech Acquisition Corp,10.10,Financial Services,Stocks,NGM
+THAC,Thrive Acquisition Corporation,9.88,Financial Services,Stocks,NGM
+VMGAU,VMG Consumer Acquisition Corp.,10.05,Financial Services,Stocks,NGM
+VSACU,Vision Sensing Acquisition Corp,10.07,Financial Services,Stocks,NGM
+VSAC,Vision Sensing Acquisition Corp,9.93,Financial Services,Stocks,NGM
+WWAC,Worldwide Webb Acquisition Corp,9.73,Financial Services,Stocks,NGM

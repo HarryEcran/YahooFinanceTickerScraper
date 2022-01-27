@@ -1,0 +1,38 @@
+Symbol,Name,Last Price,Industry/Category,Type,Exchange
+ERBAG.PR,ERSTE GROUP BK AG,"1,029.50",Financial Services,Stocks,PRA
+AVST.PR,AVAST PLC,179.00,Technology,Stocks,PRA
+VIG.PR,VIENNA INS GRP AG,627.00,Financial Services,Stocks,PRA
+EMAN.PR,EMAN A.S,155.00,Technology,Stocks,PRA
+KOMB.PR,KOMERCNI BANKA,955.00,Financial Services,Stocks,PRA
+MONET.PR,MONETA MONEY BANK,92.00,Financial Services,Stocks,PRA
+DBK.PR,DEUTSCHE BANK AG,293.00,Financial Services,Stocks,PRA
+RBI.PR,RAIFFEISEN BK INTL,609.00,Financial Services,Stocks,PRA
+CEZ.PR,CEZ,805.00,Utilities,Stocks,PRA
+CZG.PR,CZG CESKA ZBROJOVK,516.00,Industrials,Stocks,PRA
+KOFOL.PR,KOFOLA CS,314.00,Consumer Defensive,Stocks,PRA
+TABAK.PR,PHILIP MORRIS(CZ),"16,480.00",Consumer Defensive,Stocks,PRA
+TELEC.PR,O2 CZECH REPUBLIC,268.50,Communication Services,Stocks,PRA
+RDSA.PR,ROYAL DUTCH SHELL,558.00,Energy,Stocks,PRA
+DTE.PR,DEUTSCHE TELEKOM,396.00,Communication Services,Stocks,PRA
+PEN.PR,PHOTON ENERGY NV,37.80,Technology,Stocks,PRA
+EOAN.PR,E.ON SE,299.50,Utilities,Stocks,PRA
+EFORU.PR,E4U AKCIOVA SPOLOC,115.00,Technology,Stocks,PRA
+FACC.PR,FACC AG,189.00,Industrials,Stocks,PRA
+JUVE.PR,JUVENTUS F.C.,10.90,Consumer Cyclical,Stocks,PRA
+SABFG.PR,SAB FINANCE A.S.,"1,060.00",Financial Services,Stocks,PRA
+FIXED.PR,FIXED.ZONE AS,330.00,N/A,Stocks,PRA
+MOL.PR,MOL HUNGARIAN OIL,183.80,Energy,Stocks,PRA
+JTINB.PR,J&T INVESTMENTS,1.15,N/A,Stocks,PRA
+CZ0003706517.PR,"J&T BK 6,50% PERP",102.74,N/A,Stocks,PRA
+JTINA.PR,J&T INVESTMENTS,1.16,N/A,Stocks,PRA
+KARIN.PR,KARO INVEST.A.S,130.00,Consumer Cyclical,Stocks,PRA
+PINK.PR,PILULKA LEKARNY,"1,695.00",Healthcare,Stocks,PRA
+TMR.PR,TATRY MOUNTAIN RES,750.00,Consumer Cyclical,Stocks,PRA
+CTPNV.PR,CTP N.V,443.00,N/A,Stocks,PRA
+NOKIA.PR,NOKIA OYJ,124.50,Technology,Stocks,PRA
+PKN.PR,PKN ORLEN SA,399.90,Energy,Stocks,PRA
+ULVR.PR,UNILEVER PLC,"1,195.00",Consumer Defensive,Stocks,PRA
+TOMA.PR,TOMA,"1,300.00",Industrials,Stocks,PRA
+PRIUA.PR,PRIMOCO UAV SE,270.00,Industrials,Stocks,PRA
+VOE.PR,VOESTALPINE AG,730.80,Basic Materials,Stocks,PRA
+VOW.PR,VOLKSWAGEN AG,"4,480.00",Consumer Cyclical,Stocks,PRA

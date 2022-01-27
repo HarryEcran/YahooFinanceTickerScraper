@@ -1,0 +1,234 @@
+Symbol,Name,Last Price,Industry/Category,Type,Exchange
+AMS.SW,ams-OSRAM,15.12,Technology,Stocks,EBS
+ABBN.SW,ABB LTD N,32.49,Industrials,Stocks,EBS
+ADEN.SW,ADECCO N,44.03,Industrials,Stocks,EBS
+SLHN.SW,SWISS LIFE HOLDING AG N,594.40,Financial Services,Stocks,EBS
+ARYN.SW,ARYZTA N,1.05,Consumer Defensive,Stocks,EBS
+ALC.SW,ALCON N,69.64,Healthcare,Stocks,EBS
+TECN.SW,TECAN GROUP AG N,434.60,Healthcare,Stocks,EBS
+STLN.SW,Swiss Steel Holding AG,0.30,Basic Materials,Stocks,EBS
+ACHI.SW,ACHIKO N,0.14,Healthcare,Stocks,EBS
+ASCN.SW,ASCOM N,11.80,Healthcare,Stocks,EBS
+ALSN.SW,ALSO N,253.00,Technology,Stocks,EBS
+BYS.SW,BYSTRONIC AG,"1,188.00",Industrials,Stocks,EBS
+APGN.SW,APG SGA N,192.00,Communication Services,Stocks,EBS
+VAHN.SW,VAUDOISE ASSU N,440.00,Financial Services,Stocks,EBS
+ODHN.SW,ORASCOM DEVELOPMENT HLD AG N,10.28,Consumer Cyclical,Stocks,EBS
+ADXN.SW,ADDEX N,0.88,Healthcare,Stocks,EBS
+AUTN.SW,AUTONEUM N,172.00,Consumer Cyclical,Stocks,EBS
+YTME.SW,Youngtimers AG,1.40,Technology,Stocks,EBS
+AFP.SW,ALUFLEXPACK N,23.00,Consumer Cyclical,Stocks,EBS
+PMAG.SW,PIERER Mobility AG,92.00,Consumer Cyclical,Stocks,EBS
+ARON.SW,Arundel N,2.38,Financial Services,Stocks,EBS
+HLEE.SW,HIGHLIGHT E AND E I,25.20,Communication Services,Stocks,EBS
+ARBN.SW,ARBONIA N,21.60,Industrials,Stocks,EBS
+ALLN.SW,ALLREAL N,199.20,Real Estate,Stocks,EBS
+VT5.SW,VT5 ACQUISITION COMPANY N,10.00,Financial Services,Stocks,EBS
+AAM.SW,ANGLO PLC,40.60,Basic Materials,Stocks,EBS
+MBTN.SW,MEYER BURGER N,0.33,Technology,Stocks,EBS
+BION.SW,BB BIOTECH N,66.30,Healthcare,Stocks,EBS
+BARN.SW,BARRY CALLEBAUT N,"2,102.00",Consumer Defensive,Stocks,EBS
+BAER.SW,JULIUS BAER N,60.72,Financial Services,Stocks,EBS
+BSLN.SW,BASILEA N,43.88,Healthcare,Stocks,EBS
+CMBN.SW,CEMBRA MONEY BANK N,62.60,Financial Services,Stocks,EBS
+UBXN.SW,U-BLOX N,64.55,Technology,Stocks,EBS
+BANB.SW,BACHEM N -B-,533.00,Basic Materials,Stocks,EBS
+BUCN.SW,BUCHER N,428.80,Industrials,Stocks,EBS
+BALN.SW,BALOISE N,160.90,Financial Services,Stocks,EBS
+BCVN.SW,BC VAUD N,75.60,Financial Services,Stocks,EBS
+BLS.SW,Blackstone Resources N,2.30,Basic Materials,Stocks,EBS
+BEAN.SW,BELIMO N,491.00,Industrials,Stocks,EBS
+BKW.SW,BKW N,109.20,Utilities,Stocks,EBS
+TIBN.SW,TITL BN BERG N,45.60,Consumer Cyclical,Stocks,EBS
+BCGE.SW,BC GENEVE N,164.50,Financial Services,Stocks,EBS
+LINN.SW,BK LINTH N,595.00,Financial Services,Stocks,EBS
+BBN.SW,BELLEVUE GROUP N,41.40,Financial Services,Stocks,EBS
+BELL.SW,BELL FOOD GROUP N,278.00,Consumer Defensive,Stocks,EBS
+ONE.SW,ONE SWISS BANK N,3.10,Financial Services,Stocks,EBS
+BRKN.SW,BURKHALTER N,63.60,Industrials,Stocks,EBS
+BOSN.SW,BOSSARD N,289.50,Industrials,Stocks,EBS
+BVZN.SW,BVZ HOL N,675.00,Industrials,Stocks,EBS
+BOBNN.SW,BOBST GRP N,74.45,Industrials,Stocks,EBS
+BSKP.SW,BASLER KB PS,64.60,Financial Services,Stocks,EBS
+BCJ.SW,BC JURA N,52.00,Financial Services,Stocks,EBS
+BEKN.SW,BEKB / BCBE N,216.50,Financial Services,Stocks,EBS
+BCHN.SW,BURCKHARDT N,430.00,Industrials,Stocks,EBS
+CSGN.SW,CS GROUP N,8.69,Financial Services,Stocks,EBS
+CLN.SW,CLARIANT N,19.66,Basic Materials,Stocks,EBS
+SIGN.SW,SIG Combibloc Grp N,20.66,Consumer Cyclical,Stocks,EBS
+COTN.SW,COMET N,287.00,Technology,Stocks,EBS
+COPN.SW,COSMO PHARM N,56.30,Healthcare,Stocks,EBS
+EMSN.SW,EMS-CHEMIE N,922.50,Basic Materials,Stocks,EBS
+CLTN.SW,COLTENE N,109.00,Healthcare,Stocks,EBS
+SKIN.SW,CASSIOPEA N,34.20,Healthcare,Stocks,EBS
+CALN.SW,CALIDA N,48.90,Consumer Cyclical,Stocks,EBS
+DUFN.SW,DUFRY N,48.14,Consumer Cyclical,Stocks,EBS
+DOKA.SW,dormakaba N,509.00,Industrials,Stocks,EBS
+DKSH.SW,DKSH N,73.50,Industrials,Stocks,EBS
+DAE.SW,DAETWYLER I,352.50,Industrials,Stocks,EBS
+DESN.SW,DOTTIKON ES N,228.00,Basic Materials,Stocks,EBS
+DCN.SW,DATACOLOR N,720.00,Technology,Stocks,EBS
+EMMN.SW,EMMI N,"1,021.00",Consumer Defensive,Stocks,EBS
+EFGN.SW,EFG INTERNATIONAL N,7.06,Financial Services,Stocks,EBS
+EVE.SW,EVOLVA N,0.13,Healthcare,Stocks,EBS
+ESUN.SW,EDISUN POWER EUROPE N,129.50,Utilities,Stocks,EBS
+NREN.SW,Novavest Real Estate N,46.50,Real Estate,Stocks,EBS
+HREN.SW,ROMANDE ENERGIE N,"1,290.00",Utilities,Stocks,EBS
+EDHN.SW,ENERGIEDIENST N,42.60,Utilities,Stocks,EBS
+ELMN.SW,ELMA ELECTRONIC N,730.00,Technology,Stocks,EBS
+FREN.SW,Fundamenta Real Estate N,19.70,Real Estate,Stocks,EBS
+FHZN.SW,FLUGHAFEN ZUERICH N,171.70,Industrials,Stocks,EBS
+FTON.SW,FEINTOOL N,54.40,Industrials,Stocks,EBS
+OFN.SW,O FUESSLI N,91.60,Industrials,Stocks,EBS
+FORN.SW,FORBO N,"1,720.00",Industrials,Stocks,EBS
+CFT.SW,CIE FIN TR I,107.00,Financial Services,Stocks,EBS
+FI.SW,FISCHER N,"1,346.00",N/A,Stocks,EBS
+ROG.SW,ROCHE GS,354.60,Healthcare,Stocks,EBS
+UBSG.SW,UBS GROUP N,17.21,Financial Services,Stocks,EBS
+VACN.SW,VAT GROUP N,360.40,Industrials,Stocks,EBS
+PGHN.SW,PARTNERS GROUP N,"1,237.50",Financial Services,Stocks,EBS
+ROSE.SW,ZUR ROSE GROUP N,214.00,Healthcare,Stocks,EBS
+GIVN.SW,GIVAUDAN N,"4,085.00",Basic Materials,Stocks,EBS
+UHR.SW,SWATCH GROUP I,280.40,Consumer Cyclical,Stocks,EBS
+GEBN.SW,GEBERIT N,613.80,Industrials,Stocks,EBS
+GAM.SW,GAM N,1.27,Financial Services,Stocks,EBS
+SFSN.SW,SFS Group N,132.00,Industrials,Stocks,EBS
+LAND.SW,Landis+Gyr N,59.40,Industrials,Stocks,EBS
+UHRN.SW,SWATCH GROUP N,53.55,Consumer Cyclical,Stocks,EBS
+GALE.SW,GALENICA N,63.70,Healthcare,Stocks,EBS
+GUR.SW,GURIT I,"1,422.00",Basic Materials,Stocks,EBS
+TXGN.SW,TX GROUP N,142.60,Communication Services,Stocks,EBS
+MCHN.SW,MCH GROUP N,9.12,Communication Services,Stocks,EBS
+SGKN.SW,ST GALLER KB N,443.50,Financial Services,Stocks,EBS
+MOVE.SW,MEDACTA GROUP N,110.40,Healthcare,Stocks,EBS
+STGN.SW,STARRAG GROUP N,46.80,Industrials,Stocks,EBS
+GLKBN.SW,GLARNER KB N,28.50,Financial Services,Stocks,EBS
+GAV.SW,GAVAZZI I,284.00,Industrials,Stocks,EBS
+VLRT.SW,VALARTIS GROUP N,13.80,Financial Services,Stocks,EBS
+GMI.SW,GMSA N,400.00,Consumer Defensive,Stocks,EBS
+HOLN.SW,HOLCIM N,49.78,Basic Materials,Stocks,EBS
+HELN.SW,HELVETIA HOLDING N,116.50,Financial Services,Stocks,EBS
+HBMN.SW,HBM N,291.00,Financial Services,Stocks,EBS
+JFN.SW,JUNGFRAUBAHN HLD N,141.00,Industrials,Stocks,EBS
+VZN.SW,VZ HOLDING N,87.70,Financial Services,Stocks,EBS
+YPSN.SW,YPSOMED HLDG,171.80,Healthcare,Stocks,EBS
+HOCN.SW,HOCHDORF N,41.00,Consumer Defensive,Stocks,EBS
+HUBN.SW,HUBER+SUHNER N,81.60,Technology,Stocks,EBS
+HIAG.SW,HIAG IMMOBILIEN N,95.00,Real Estate,Stocks,EBS
+PNHO.SW,POENINA HOLDING N,45.50,Industrials,Stocks,EBS
+HBLN.SW,HYPO LENZB N,"4,280.00",Financial Services,Stocks,EBS
+ZURN.SW,ZURICH INSURANCE N,446.10,Financial Services,Stocks,EBS
+IDIA.SW,IDORSIA N,21.52,Healthcare,Stocks,EBS
+KNIN.SW,KUEHNE+NAGEL INT N,255.50,Industrials,Stocks,EBS
+RO.SW,ROCHE I,377.20,Healthcare,Stocks,EBS
+KUD.SW,KUDELSKI I,3.27,Communication Services,Stocks,EBS
+INRN.SW,INTERROLL N,"3,710.00",Industrials,Stocks,EBS
+ISN.SW,INTERSHOP N,626.00,Real Estate,Stocks,EBS
+IFCN.SW,INFICON N,"1,098.00",Technology,Stocks,EBS
+KARN.SW,KARDEX N,254.50,Industrials,Stocks,EBS
+KOMN.SW,KOMAX N,275.80,Industrials,Stocks,EBS
+ZUGER.SW,ZUGER KB N,"7,040.00",Financial Services,Stocks,EBS
+TKBP.SW,THURGAUER KB PS,105.50,Financial Services,Stocks,EBS
+KLIN.SW,KLINGELNBERG N,17.00,Industrials,Stocks,EBS
+WKBN.SW,WALLISER KB N,100.50,Financial Services,Stocks,EBS
+KURN.SW,Kuros N,2.02,Healthcare,Stocks,EBS
+LUKN.SW,LUZERNER KB N,415.00,Financial Services,Stocks,EBS
+BLKB.SW,BASELLAND KB PS,908.00,Financial Services,Stocks,EBS
+GRKP.SW,GRAUB KB PS,"1,570.00",Financial Services,Stocks,EBS
+LOGN.SW,LOGITECH N,75.26,Technology,Stocks,EBS
+LONN.SW,LONZA N,613.40,Healthcare,Stocks,EBS
+LISN.SW,LINDT N,"104,400.00",Consumer Defensive,Stocks,EBS
+LISP.SW,LINDT PS,"10,320.00",Consumer Defensive,Stocks,EBS
+LECN.SW,LECLANCHE N,0.62,Industrials,Stocks,EBS
+LMN.SW,lastminute.com N.V.,38.70,Consumer Cyclical,Stocks,EBS
+LEON.SW,LEONTEQ N,66.30,Financial Services,Stocks,EBS
+NESNE.SW,NESTLE N 2. LINIE,118.86,N/A,Stocks,EBS
+LEHN.SW,LEM N,"2,140.00",Industrials,Stocks,EBS
+LLBN.SW,LIECHT LANDBK N,55.10,Financial Services,Stocks,EBS
+SOONE.SW,SONOVA N 2. LINIE,313.40,Healthcare,Stocks,EBS
+MOLN.SW,MOLECULAR PARTNERS N,25.85,Healthcare,Stocks,EBS
+MED.SW,MEDARTIS N,122.00,Healthcare,Stocks,EBS
+MEDX.SW,MEDMIX N,39.38,Industrials,Stocks,EBS
+MOZN.SW,MOBILEZONE N,14.44,Consumer Cyclical,Stocks,EBS
+MOBN.SW,MOBIMO N,300.00,Real Estate,Stocks,EBS
+AERO.SW,MONTANA N,34.00,Industrials,Stocks,EBS
+MIKN.SW,MIKRON N,7.38,Industrials,Stocks,EBS
+MTG.SW,MEIER TOBLER N,17.20,Industrials,Stocks,EBS
+METN.SW,Metall Zug AG,"1,920.00",Industrials,Stocks,EBS
+RLF.SW,RELIEF THERAPEUTICS N,0.07,Healthcare,Stocks,EBS
+NESN.SW,NESTLE N,118.30,Consumer Defensive,Stocks,EBS
+SREN.SW,SWISS RE N,101.50,Financial Services,Stocks,EBS
+NOVN.SW,NOVARTIS N,79.67,Healthcare,Stocks,EBS
+CFR.SW,RICHEMONT N,131.40,Consumer Cyclical,Stocks,EBS
+SIKA.SW,SIKA N,313.60,Basic Materials,Stocks,EBS
+OBSN.SW,OBSEVA N,1.47,Healthcare,Stocks,EBS
+STMN.SW,STRAUMANN N,"1,494.00",Healthcare,Stocks,EBS
+SCMN.SW,SWISSCOM N,529.00,Communication Services,Stocks,EBS
+WIHN.SW,WISeKey N,0.65,Technology,Stocks,EBS
+SQN.SW,SWISSQUOTE N,151.20,Financial Services,Stocks,EBS
+SANN.SW,SANTHERA N,1.45,Healthcare,Stocks,EBS
+SCHN.SW,SCHINDLER N,224.20,Industrials,Stocks,EBS
+TEMN.SW,TEMENOS N,107.35,Technology,Stocks,EBS
+SOON.SW,SONOVA N,317.90,Healthcare,Stocks,EBS
+SGSN.SW,SGS N,"2,564.00",Industrials,Stocks,EBS
+SRAIL.SW,STADLER RAIL N,44.08,Industrials,Stocks,EBS
+OERL.SW,OC OERLIKON N,9.04,Industrials,Stocks,EBS
+VIFN.SW,VIFOR N,164.00,Healthcare,Stocks,EBS
+RIEN.SW,RIETER N,184.00,Industrials,Stocks,EBS
+SUN.SW,SULZER N,86.60,Industrials,Stocks,EBS
+SFZN.SW,SIEGFRIED N,728.00,Healthcare,Stocks,EBS
+PSPN.SW,PSP N,111.50,Real Estate,Stocks,EBS
+SWON.SW,SOFTWAREONE N,17.82,Technology,Stocks,EBS
+VALN.SW,VALORA N,178.00,Consumer Cyclical,Stocks,EBS
+SPSN.SW,SWISS PRIME SITE N,91.25,Real Estate,Stocks,EBS
+PPGN.SW,POLYPEPTIDE N,90.00,Healthcare,Stocks,EBS
+SNBN.SW,SNB N,"5,700.00",Financial Services,Stocks,EBS
+SPEX.SW,SPEXIS N,1.65,Healthcare,Stocks,EBS
+VETN.SW,VETROPACK N,53.20,Consumer Cyclical,Stocks,EBS
+SHLTN.SW,SHL TELEMEDICINE N,17.00,Healthcare,Stocks,EBS
+ZEHN.SW,ZEHNDER N,83.00,Industrials,Stocks,EBS
+VONN.SW,VONTOBEL N,76.10,Financial Services,Stocks,EBS
+VATN.SW,VALIANT N,93.20,Financial Services,Stocks,EBS
+SENS.SW,SENSIRION N,107.00,Technology,Stocks,EBS
+VPBN.SW,VPB VADUZ N,99.90,Financial Services,Stocks,EBS
+VZUG.SW,V-ZUG N,117.00,Technology,Stocks,EBS
+NWRN.SW,NEWRON PHARMA N,1.50,Healthcare,Stocks,EBS
+SPCE.SW,SPCE N,15.50,Financial Services,Stocks,EBS
+IMPN.SW,IMPLENIA N,22.90,Industrials,Stocks,EBS
+ORON.SW,ORIOR N,87.50,Consumer Defensive,Stocks,EBS
+IGPH.SW,IGEA Pharma N,0.15,Healthcare,Stocks,EBS
+SAHN.SW,SCHAFFNER N,327.00,Technology,Stocks,EBS
+PRFN.SW,PERFECT N,0.07,Industrials,Stocks,EBS
+PEAN.SW,Peach Property N,57.80,Real Estate,Stocks,EBS
+ZUBN.SW,ZUEBLIN IMM N,26.40,Real Estate,Stocks,EBS
+TOHN.SW,TORNOS N,7.20,Industrials,Stocks,EBS
+SKAN.SW,SKAN N,71.60,Healthcare,Stocks,EBS
+VARN.SW,VARIA US PROPERTIES N,50.00,Real Estate,Stocks,EBS
+WARN.SW,WARTECK N,"2,380.00",Real Estate,Stocks,EBS
+STRN.SW,SCHLATTER N,24.00,Industrials,Stocks,EBS
+CICN.SW,CICOR TECH N,53.20,Technology,Stocks,EBS
+AEVS.SW,AEVIS N,14.30,Healthcare,Stocks,EBS
+CPEN.SW,CASTLE PRIVATE N,10.00,Financial Services,Stocks,EBS
+CLXN.SW,CREALOGIX N,121.00,Technology,Stocks,EBS
+ALPNE.SW,ALPINE SELECT N 2. LINIE,15.00,Financial Services,Stocks,EBS
+CPHN.SW,CPH N,59.20,Basic Materials,Stocks,EBS
+NEWN.SW,NEW VALUE N,0.85,Financial Services,Stocks,EBS
+ASWN.SW,ASMALLWORLD N,2.84,Consumer Cyclical,Stocks,EBS
+ADVN.SW,ADVAL TECH N,165.00,Industrials,Stocks,EBS
+GEBNE.SW,GEBERIT N 2. LINIE,617.60,Industrials,Stocks,EBS
+NIBEB.SW,NIBE Industrier AB N,8.49,Industrials,Stocks,EBS
+IREN.SW,INVESTIS N,106.00,Real Estate,Stocks,EBS
+NBEN.SW,nebag N,9.30,Financial Services,Stocks,EBS
+LLQ.SW,LALIQUE GROUP N,35.20,Consumer Cyclical,Stocks,EBS
+LISNE.SW,LINDT N 2. LINIE,"101,000.00",Consumer Defensive,Stocks,EBS
+SFPN.SW,SF Urban Properties N,102.00,Real Estate,Stocks,EBS
+PEHN.SW,PRIVATE EQUITY N,95.50,Financial Services,Stocks,EBS
+VBSN.SW,IVF HARTMANN N,121.00,Healthcare,Stocks,EBS
+SCHP.SW,SCHINDLER PS,225.90,Industrials,Stocks,EBS
+PM.SW,PHOENIX I,393.00,Industrials,Stocks,EBS
+ROL.SW,VON ROLL I,1.07,Industrials,Stocks,EBS
+SWTQ.SW,SCHWEITER I,"1,224.00",Industrials,Stocks,EBS
+VILN.SW,VILLARS N,770.00,Consumer Defensive,Stocks,EBS
+ZBH.SW,ZIMMER HLD,115.00,Healthcare,Stocks,EBS
+ZUGN.SW,ZUG ESTATES HOLDING AG,"1,955.00",Real Estate,Stocks,EBS
+ZEHNE.SW,ZEHNDER N 2.LINIE,82.00,Industrials,Stocks,EBS

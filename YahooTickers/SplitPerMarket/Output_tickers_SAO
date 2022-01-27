@@ -1,0 +1,1055 @@
+Symbol,Name,Last Price,Industry/Category,Type,Exchange
+ATTB34.SA,ATT INC     DRN,43.29,Communication Services,Stocks,SAO
+AZUL4.SA,AZUL        PN      N2,27.59,Industrials,Stocks,SAO
+ABEV3.SA,AMBEV S/A   ON,15.40,Consumer Defensive,Stocks,SAO
+SULA11.SA,SUL AMERICA UNT     N2,25.38,Financial Services,Stocks,SAO
+AMZO34.SA,AMAZON      DRN,96.36,Consumer Cyclical,Stocks,SAO
+ARZZ3.SA,AREZZO CO   ON      NM,79.67,Consumer Cyclical,Stocks,SAO
+ASAI3.SA,ASSAI       ON      NM,12.55,Consumer Defensive,Stocks,SAO
+AMER3.SA,AMERICANAS  ON      NM,34.06,Consumer Cyclical,Stocks,SAO
+SLCE3.SA,SLC AGRICOLAON      NM,45.54,Consumer Defensive,Stocks,SAO
+AESB3.SA,AES BRASIL  ON      NM,11.50,Utilities,Stocks,SAO
+TASA4.SA,TAURUS ARMASPN      N2,21.66,Industrials,Stocks,SAO
+GOGL34.SA,ALPHABET    DRN A,93.10,Communication Services,Stocks,SAO
+AAPL34.SA,APPLE       DRN,85.87,Technology,Stocks,SAO
+AALR3.SA,ALLIAR      ON      NM,15.64,Healthcare,Stocks,SAO
+ALUP11.SA,ALUPAR      UNT     N2,24.84,Utilities,Stocks,SAO
+B1AM34.SA,BROOKFIELD ADRN,71.12,Financial Services,Stocks,SAO
+BABA34.SA,ALIBABAGR   DRN,21.50,Consumer Cyclical,Stocks,SAO
+AMBP3.SA,AMBIPAR     ON      NM,38.55,Industrials,Stocks,SAO
+AURA33.SA,AURA 360    DR3,47.20,Basic Materials,Stocks,SAO
+ADBE34.SA,ADOBE INC   DRN,53.57,Technology,Stocks,SAO
+ALPA4.SA,ALPARGATAS  PN      N1,30.21,Consumer Cyclical,Stocks,SAO
+ANIM3.SA,ANIMA       ON      NM,8.35,Consumer Defensive,Stocks,SAO
+ALSO3.SA,ALIANSCSONAEON      NM,22.20,Real Estate,Stocks,SAO
+AXPB34.SA,AMERICAN EXPDRN,92.59,Financial Services,Stocks,SAO
+A1MT34.SA,APPLIED MATEDRN,704.08,Technology,Stocks,SAO
+ABCB4.SA,ABC BRASIL  PN      N2,15.91,Financial Services,Stocks,SAO
+ARML3.SA,ARMAC       ON      NM,20.92,Industrials,Stocks,SAO
+L1UL34.SA,LULULEMON ATDRN,413.64,Consumer Cyclical,Stocks,SAO
+AERI3.SA,AERIS       ON      NM,6.10,Industrials,Stocks,SAO
+TASA3.SA,TAURUS ARMASON      N2,21.93,Industrials,Stocks,SAO
+DBAG34.SA,DEUTSCHE AK DRN,70.90,Financial Services,Stocks,SAO
+QAGR11.SA,FII QUASAR ACI,51.25,Financial Services,Stocks,SAO
+BAER39.SA,US AEROSPACEDRN,27.30,Financial Services,Stocks,SAO
+ARRI11.SA,FII ATRIO   CI,100.56,Real Estate,Stocks,SAO
+ALZR11.SA,FII ALIANZA CI,115.50,Real Estate,Stocks,SAO
+MOAR3.SA,MONT ARANHA ON,397.00,Industrials,Stocks,SAO
+A1MD34.SA,ADVANCED MICDRN,553.31,Technology,Stocks,SAO
+PEAB3.SA,PAR AL BAHIAON,54.00,Financial Services,Stocks,SAO
+BBAS3.SA,BRASIL      ON      NM,32.29,Financial Services,Stocks,SAO
+B3SA3.SA,B3          ON      NM,14.46,Financial Services,Stocks,SAO
+BBDC4.SA,BRADESCO    PN      N1,22.28,Financial Services,Stocks,SAO
+BRKM5.SA,BRASKEM     PNA     N1,46.51,Basic Materials,Stocks,SAO
+CRFB3.SA,CARREFOUR BRON      NM,16.55,Consumer Defensive,Stocks,SAO
+BIDI11.SA,BANCO INTER UNT     N2,25.72,Financial Services,Stocks,SAO
+BMOB3.SA,BEMOBI TECH ON      NM,14.35,Communication Services,Stocks,SAO
+BOVA11.SA,ISHARES BOVACI,108.20,N/A,Stocks,SAO
+BPAC11.SA,BTGP BANCO  UNT     N2,24.02,Financial Services,Stocks,SAO
+BRAP4.SA,BRADESPAR   PN      N1,27.00,Financial Services,Stocks,SAO
+BRML3.SA,BR MALLS PARON      NM,9.40,Real Estate,Stocks,SAO
+BBSE3.SA,BBSEGURIDADEON      NM,22.39,Financial Services,Stocks,SAO
+ENBR3.SA,ENERGIAS BR ON      NM,21.36,Utilities,Stocks,SAO
+BRFS3.SA,BRF SA      ON      NM,23.10,Consumer Defensive,Stocks,SAO
+CVCB3.SA,CVC BRASIL  ON      NM,13.83,Consumer Cyclical,Stocks,SAO
+EGIE3.SA,ENGIE BRASILON      NM,39.71,Utilities,Stocks,SAO
+BIDI4.SA,BANCO INTER PN      N2,8.59,Financial Services,Stocks,SAO
+BBDC3.SA,BRADESCO    ON      N1,18.37,Financial Services,Stocks,SAO
+VIVT3.SA,TELEF BRASILON,48.70,Communication Services,Stocks,SAO
+LLIS3.SA,LE LIS BLANCON      NM,1.39,Consumer Cyclical,Stocks,SAO
+BPAN4.SA,BANCO PAN   PN      N1,10.51,Financial Services,Stocks,SAO
+BCFF11.SA,FII BC FFII CI,72.90,N/A,Stocks,SAO
+SANB11.SA,SANTANDER BRUNT,33.81,Financial Services,Stocks,SAO
+BRBI11.SA,BR PARTNERS UNT     N2,17.50,Financial Services,Stocks,SAO
+SOJA3.SA,BOA SAFRA   ON      NM,13.70,Basic Materials,Stocks,SAO
+STBP3.SA,SANTOS BRP  ON      NM,6.74,Industrials,Stocks,SAO
+CMDB11.SA,BTG COMMODITCI,11.15,N/A,Stocks,SAO
+B1NT34.SA,BIONTECH SE DRN,104.80,Healthcare,Stocks,SAO
+BLAU3.SA,BLAU        ON      NM,34.55,Healthcare,Stocks,SAO
+BMGB4.SA,BANCO BMG   PN      N1,3.21,Financial Services,Stocks,SAO
+GETT11.SA,GETNET BR   UNT,3.23,Technology,Stocks,SAO
+BRIT3.SA,BRISANET    ON      NM,4.40,Communication Services,Stocks,SAO
+BTLG11.SA,FII BTLG    CI,105.20,Real Estate,Stocks,SAO
+BERK34.SA,BERKSHIRE   DRN,82.76,Financial Services,Stocks,SAO
+BKBR3.SA,BK BRASIL   ON      NM,6.37,Consumer Cyclical,Stocks,SAO
+BIDI3.SA,BANCO INTER ON      N2,8.58,Financial Services,Stocks,SAO
+BRAP3.SA,BRADESPAR   ON      N1,24.38,Financial Services,Stocks,SAO
+BOAS3.SA,BOA VISTA   ON      NM,5.37,Financial Services,Stocks,SAO
+AGRO3.SA,BRASILAGRO  ON      NM,26.41,Consumer Defensive,Stocks,SAO
+BBRK3.SA,BR BROKERS  ON      NM,1.15,Real Estate,Stocks,SAO
+LPSB3.SA,LOPES BRASILON      NM,2.76,Real Estate,Stocks,SAO
+BZLI11.SA,FII BRREALTYCI,17.00,N/A,Stocks,SAO
+BOEI34.SA,BOEING      DRN,"1,023.75",Industrials,Stocks,SAO
+BRPR3.SA,BR PROPERT  ON      NM,7.19,Real Estate,Stocks,SAO
+BRSR6.SA,BANRISUL    PNB     N1,10.77,Financial Services,Stocks,SAO
+BRKM3.SA,BRASKEM     ON      N1,45.80,Basic Materials,Stocks,SAO
+OSXB3.SA,OSX BRASIL  ON      NM,8.23,Energy,Stocks,SAO
+MALL11.SA,FII MALLS BPCI,95.20,Real Estate,Stocks,SAO
+QBTC11.SA,QR BITCOIN  CI,12.21,N/A,Stocks,SAO
+SANB4.SA,SANTANDER BRPN,17.99,Financial Services,Stocks,SAO
+BBPO11.SA,FII BB PRGIICI,93.71,Real Estate,Stocks,SAO
+BRZP11.SA,FIP BRZ IE  CI,67.51,N/A,Stocks,SAO
+BEES3.SA,BANESTES    ON,5.03,Financial Services,Stocks,SAO
+BPAC3.SA,BTGP BANCO  ON      N2,14.03,Financial Services,Stocks,SAO
+BDIV11.SA,FIP BTGDV IECI,91.50,N/A,Stocks,SAO
+SANB3.SA,SANTANDER BRON,15.60,Financial Services,Stocks,SAO
+BALM4.SA,BAUMER      PN,11.50,Healthcare,Stocks,SAO
+BRCR11.SA,FII BC FUND CI,70.57,Real Estate,Stocks,SAO
+GETT3.SA,GETNET BR   ON,1.62,Technology,Stocks,SAO
+BRCO11.SA,FII BRESCO  CI,96.51,Real Estate,Stocks,SAO
+BHPG34.SA,BHP GROUP   DRN,353.49,Basic Materials,Stocks,SAO
+BLAK34.SA,BLACKROCK   DRN,706.63,Financial Services,Stocks,SAO
+BITH11.SA,BITCOIN HASHCI,46.45,N/A,Stocks,SAO
+BSLI3.SA,BRB BANCO   ON,25.03,Financial Services,Stocks,SAO
+BOAC34.SA,BANK AMERICADRN,61.24,Financial Services,Stocks,SAO
+BLMG11.SA,FII BLUE LOGCI,92.23,N/A,Stocks,SAO
+RNDP11.SA,FII BB R PAPCI,595.00,Real Estate,Stocks,SAO
+H1RB34.SA,HER BLOCK INDRN,119.07,Consumer Cyclical,Stocks,SAO
+BMEB3.SA,MERC BRASIL ON      N1,11.80,Financial Services,Stocks,SAO
+BBRK3F.SA,BR BROKERS  ON      NM,1.16,N/A,Stocks,SAO
+H1DB34.SA,HDFC BANK LTDRN,71.54,Financial Services,Stocks,SAO
+BRSR3.SA,BANRISUL    ON      N1,11.87,Financial Services,Stocks,SAO
+B1DX34.SA,BECTON DICKIDRN,279.00,Healthcare,Stocks,SAO
+BAHI3.SA,BAHEMA      ON      MA,13.85,Consumer Defensive,Stocks,SAO
+BIBB39.SA,ICE BIOTECH DRN,44.76,Financial Services,Stocks,SAO
+BTAL11.SA,FII BTG AGROCI,95.00,N/A,Stocks,SAO
+BDLL3.SA,BARDELLA    ON,10.82,Industrials,Stocks,SAO
+BRAP3F.SA,BRADESPAR   ON      N1,24.47,N/A,Stocks,SAO
+TECB11.SA,TECH BRASIL CI,5.63,N/A,Stocks,SAO
+BALM3.SA,BAUMER      ON,15.40,Healthcare,Stocks,SAO
+BFBI39.SA,FT NYSE BIOTDRN,39.88,N/A,Stocks,SAO
+BDIF11.SA,FIC INFR BTGFIDC,95.78,N/A,Stocks,SAO
+N1BI34.SA,NEUROCRINE BDRN,20.18,Healthcare,Stocks,SAO
+USBC34.SA,US BANCORP  DRN,77.45,Financial Services,Stocks,SAO
+BCRI11.SA,FII BEES CRICI,110.45,Real Estate,Stocks,SAO
+BPRP11.SA,FII BRLPROP CI,101.01,Real Estate,Stocks,SAO
+BLUT4.SA,B TECH EQI  PN,0.66,Communication Services,Stocks,SAO
+BURT39.SA,BKR MS WLD  DRN,45.18,Financial Services,Stocks,SAO
+BGIP4.SA,BANESE      PN,24.16,Financial Services,Stocks,SAO
+FPAB11.SA,FII A BRANCACI,218.00,Real Estate,Stocks,SAO
+BPML11.SA,FII BTG SHOPCI,69.97,Real Estate,Stocks,SAO
+BRAX11.SA,ISHARES BRAXCI,94.33,N/A,Stocks,SAO
+GETT4F.SA,GETNET BR   PN,1.62,N/A,Stocks,SAO
+B1PP34.SA,BP PLC      DRN,42.71,Energy,Stocks,SAO
+BBYY34.SA,BEST BUY    DRN,516.56,Consumer Cyclical,Stocks,SAO
+SOJA3F.SA,BOA SAFRA   ON      NM,13.83,N/A,Stocks,SAO
+SMAB11.SA,BTG SMLL CAPCI,8.42,N/A,Stocks,SAO
+BRML3F.SA,BR MALLS PARON      NM,9.34,N/A,Stocks,SAO
+BIDI3F.SA,BANCO INTER ON      N2,8.41,N/A,Stocks,SAO
+BBRC11.SA,FII BB CORP CI,101.00,Real Estate,Stocks,SAO
+BONY34.SA,BNY MELLON  DRN,315.01,Financial Services,Stocks,SAO
+U1LT34.SA,ULTA BEAUTY DRN,95.00,Consumer Cyclical,Stocks,SAO
+B3SA3F.SA,B3          ON      NM,14.51,N/A,Stocks,SAO
+BBAS3F.SA,BRASIL      ON      NM,32.30,N/A,Stocks,SAO
+BIDI4F.SA,BANCO INTER PN      N2,8.51,N/A,Stocks,SAO
+BIDI11F.SA,BANCO INTER UNT     N2,25.80,N/A,Stocks,SAO
+BIDU34.SA,BAIDU INC   DRN,783.72,Communication Services,Stocks,SAO
+BMOB3F.SA,BEMOBI TECH ON      NM,14.17,N/A,Stocks,SAO
+LBRD34.SA,LIBERTY BROADRN,378.12,Communication Services,Stocks,SAO
+GETT4.SA,GETNET BR   PN,1.61,Technology,Stocks,SAO
+BOEF39.SA,BKR SP100   DRN,61.38,Financial Services,Stocks,SAO
+B5P211.SA,IT NOW B5P2 F11,70.51,N/A,Stocks,SAO
+S2QU34.SA,BLOCK INC.  DRN,22.56,Technology,Stocks,SAO
+BIME11.SA,FII BRIO ME CI,9.61,N/A,Stocks,SAO
+BBOV11.SA,BB ETF IBOV CI,57.69,N/A,Stocks,SAO
+CIEL3.SA,CIELO       ON      NM,2.15,Technology,Stocks,SAO
+CYRE3.SA,CYRELA REALTON      NM,17.35,Consumer Cyclical,Stocks,SAO
+COGN3.SA,COGNA ON    ON      NM,2.53,Consumer Defensive,Stocks,SAO
+CSAN3.SA,COSAN       ON      NM,23.36,Energy,Stocks,SAO
+HASH11.SA,HASHDEX NCI CI,34.25,N/A,Stocks,SAO
+CPLE6.SA,COPEL       PNB     N2,7.02,Utilities,Stocks,SAO
+CLSA3.SA,CLEARSALE   ON      NM,10.70,Technology,Stocks,SAO
+PCAR3.SA,P.ACUCAR-CBDON      NM,21.72,Consumer Cyclical,Stocks,SAO
+CCRO3.SA,CCR SA      ON      NM,12.75,Industrials,Stocks,SAO
+CMIN3.SA,CSNMINERACAOON      N2,7.12,Basic Materials,Stocks,SAO
+HGLG11.SA,FII CSHG LOGCI,169.47,Real Estate,Stocks,SAO
+CPLE3.SA,COPEL       ON      N2,6.05,Utilities,Stocks,SAO
+R2BL34.SA,ROBLOX CORP DRN,30.81,Communication Services,Stocks,SAO
+CESP6.SA,CESP        PNB     N1,22.65,Utilities,Stocks,SAO
+CMIG4.SA,CEMIG       PN      N1,13.10,Utilities,Stocks,SAO
+CEAB3.SA,CEA MODAS   ON      NM,6.28,Consumer Cyclical,Stocks,SAO
+XPLG11.SA,FII XP LOG  CI,99.60,Real Estate,Stocks,SAO
+LOGG3.SA,LOG COM PROPON      NM,28.76,Real Estate,Stocks,SAO
+NVDC34.SA,NVIDIA CORP DRN,24.69,Technology,Stocks,SAO
+DIVO11.SA,IT NOW IDIV CI,68.00,N/A,Stocks,SAO
+CSMG3.SA,COPASA      ON      NM,12.81,Utilities,Stocks,SAO
+STOC31.SA,STONE CO    DR1,75.30,Technology,Stocks,SAO
+TSMC34.SA,TAIWANSMFAC DRN,78.73,Technology,Stocks,SAO
+NUBR33.SA,NU-NUBANK   DR3,6.31,N/A,Stocks,SAO
+GMCO34.SA,GENERAL MOT DRN,69.23,Consumer Cyclical,Stocks,SAO
+USSX34.SA,US STEEL    DRN,100.42,Basic Materials,Stocks,SAO
+LILY34.SA,LILLY       DRN,637.70,Healthcare,Stocks,SAO
+MCDC34.SA,MCDONALDS   DRN,66.97,Consumer Cyclical,Stocks,SAO
+MSFT34.SA,MICROSOFT   DRN,67.50,Technology,Stocks,SAO
+FDMO34.SA,FORD MOTORS DRN,105.49,Consumer Cyclical,Stocks,SAO
+RDOR3.SA,REDE D OR   ON      NM,44.01,Healthcare,Stocks,SAO
+TSLA34.SA,TESLA INC   DRN,139.90,Consumer Cyclical,Stocks,SAO
+JPMC34.SA,JPMORGAN    DRN,78.06,Financial Services,Stocks,SAO
+HALI34.SA,HALLIBURTON DRN,167.46,Energy,Stocks,SAO
+PNVL3.SA,DIMED       ON      NM,12.53,Healthcare,Stocks,SAO
+DISB34.SA,WALT DISNEY DRN,48.80,Communication Services,Stocks,SAO
+VERZ34.SA,VERIZON     DRN,45.92,Communication Services,Stocks,SAO
+FBOK34.SA,META PLAT   DRN,56.93,Communication Services,Stocks,SAO
+DMMO3.SA,DOMMO       ON,0.90,Energy,Stocks,SAO
+XPBR31.SA,XP INC      DR1,170.16,Financial Services,Stocks,SAO
+DASA3.SA,DASA        ON      NM,29.48,Healthcare,Stocks,SAO
+EXXO34.SA,EXXON MOBIL DRN,100.91,Energy,Stocks,SAO
+PGCO34.SA,PG          DRN,61.67,Consumer Defensive,Stocks,SAO
+DXCO3.SA,DEXCO       ON      NM,15.17,Basic Materials,Stocks,SAO
+WALM34.SA,WAL MART    DRN,45.68,Consumer Defensive,Stocks,SAO
+ITLC34.SA,INTEL       DRN,43.38,Technology,Stocks,SAO
+G2DI33.SA,G2D INVEST  DR3,4.96,Financial Services,Stocks,SAO
+NFLX34.SA,NETFLIX     DRN,42.23,Communication Services,Stocks,SAO
+JDCO34.SA,JD COM      DRN,361.90,Consumer Cyclical,Stocks,SAO
+PAGS34.SA,PAGSEGURO   DRN,21.62,Technology,Stocks,SAO
+CRIP34.SA,CTRIPCOM    DRN,132.76,Consumer Cyclical,Stocks,SAO
+MRCK34.SA,MERCK       DRN,54.88,Healthcare,Stocks,SAO
+PFIZ34.SA,PFIZER      DRN,73.69,Healthcare,Stocks,SAO
+MATD3.SA,MATER DEI   ON      NM,14.72,Healthcare,Stocks,SAO
+CHVX34.SA,CHEVRON     DRN,72.74,Energy,Stocks,SAO
+DOTZ3.SA,DOTZ SA     ON      NM,2.85,Communication Services,Stocks,SAO
+QCOM34.SA,QUALCOMM    DRN,72.66,Technology,Stocks,SAO
+SNEC34.SA,SONY GROUP  DRN,560.48,Technology,Stocks,SAO
+ORCL34.SA,ORACLE      DRN,71.73,Technology,Stocks,SAO
+DIRR3.SA,DIRECIONAL  ON      NM,13.38,Real Estate,Stocks,SAO
+NIKE34.SA,NIKE        DRN,77.88,Consumer Cyclical,Stocks,SAO
+FDXB34.SA,FEDEX CORP  DRN,"1,313.27",Industrials,Stocks,SAO
+O1DF34.SA,OLD DOMINIONDRN,77.60,Industrials,Stocks,SAO
+RIGG34.SA,TRANSOCEAN  DRN,17.63,Energy,Stocks,SAO
+UBSG34.SA,UBS GROUP   DRN,99.13,Financial Services,Stocks,SAO
+D1EL34.SA,DELL TECHNOLDRN,300.89,Technology,Stocks,SAO
+GEOO34.SA,GE          DRN,484.18,Industrials,Stocks,SAO
+KHCB34.SA,KRAFT HEINZ DRN,48.65,Consumer Defensive,Stocks,SAO
+SSFO34.SA,SALESFORCE  DRN,52.15,Technology,Stocks,SAO
+S1HW34.SA,THE SHERWIN DRN,152.49,Basic Materials,Stocks,SAO
+LMTB34.SA,LOCKHEED    DRN,"2,093.88",Industrials,Stocks,SAO
+COCA34.SA,COCA COLA   DRN,53.56,Consumer Defensive,Stocks,SAO
+N1DA34.SA,NASDAQ INC  DRN,469.00,Financial Services,Stocks,SAO
+BIVB39.SA,CORE SP 500 DRN,58.82,Financial Services,Stocks,SAO
+ABBV34.SA,ABBVIE      DRN,734.39,Healthcare,Stocks,SAO
+FFTD34.SA,FIFTH THIRD DRN,243.49,Financial Services,Stocks,SAO
+D1HI34.SA,DR HORTON INDRN,453.08,Consumer Cyclical,Stocks,SAO
+E2ST34.SA,ELASTIC NV  DRN,39.06,Technology,Stocks,SAO
+HSHY34.SA,HERSHEY CO  DRN,213.80,Consumer Defensive,Stocks,SAO
+PYPL34.SA,PAYPAL HOLD DRN,43.07,Financial Services,Stocks,SAO
+A1ZN34.SA,ASTRAZENECA DRN,53.48,Healthcare,Stocks,SAO
+HOME34.SA,HOME DEPOT  DRN,68.51,Consumer Cyclical,Stocks,SAO
+DEAI34.SA,DELTA       DRN,206.45,Industrials,Stocks,SAO
+HPQB34.SA,HP COMPANY  DRN,189.68,Technology,Stocks,SAO
+SBUB34.SA,STARBUCKS   DRN,515.90,Consumer Cyclical,Stocks,SAO
+DEVA11.SA,FII DEVANT  CI,101.90,N/A,Stocks,SAO
+DESK3.SA,DESKTOP     ON      NM,17.33,Communication Services,Stocks,SAO
+S1TE34.SA,STERIS PLC  DRN,60.60,Healthcare,Stocks,SAO
+DMVF3.SA,D1000VFARMA ON      NM,4.04,Healthcare,Stocks,SAO
+D1OC34.SA,DOCUSIGN INCDRN,30.17,Technology,Stocks,SAO
+D1VN34.SA,DEVON ENERGYDRN,280.01,Energy,Stocks,SAO
+COWC34.SA,COSTCO      DRN,65.08,Consumer Defensive,Stocks,SAO
+S1YY34.SA,SYSCO CORP  DRN,207.26,Consumer Defensive,Stocks,SAO
+MACY34.SA,MACY S      DRN,137.76,Consumer Cyclical,Stocks,SAO
+G1RM34.SA,GARMIN LTD  DRN,327.36,Technology,Stocks,SAO
+MSCD34.SA,MASTERCARD  DRN,61.40,Financial Services,Stocks,SAO
+MDNE3.SA,MOURA DUBEUXON      NM,6.35,Real Estate,Stocks,SAO
+AMGN34.SA,AMGEN       DRN,43.15,Healthcare,Stocks,SAO
+DVFF11.SA,FII DEVA FOFCI,93.00,N/A,Stocks,SAO
+NOKI34.SA,NOKIA CORP  DRN,30.17,Technology,Stocks,SAO
+VISA34.SA,VISA INC    DRN,55.16,Financial Services,Stocks,SAO
+O1KT34.SA,OKTA INC    DRN,47.41,Technology,Stocks,SAO
+TXSA34.SA,TERNIUMSA   DRN,223.10,Basic Materials,Stocks,SAO
+S2EA34.SA,SEA LTD     DRN,27.70,Communication Services,Stocks,SAO
+BIEV39.SA,EUROPE ETF  DRN,56.28,Financial Services,Stocks,SAO
+ABTT34.SA,ABBOTT      DRN,162.11,Healthcare,Stocks,SAO
+N1TA34.SA,NETAPP INC  DRN,456.24,Technology,Stocks,SAO
+DEXP3.SA,DEXXOS PAR  ON      N1,9.03,Basic Materials,Stocks,SAO
+SPTW11.SA,FII SP DOWNTCI,45.33,Real Estate,Stocks,SAO
+M1RN34.SA,MODERNA INC DRN,80.76,Healthcare,Stocks,SAO
+FCXO34.SA,FREEPORT    DRN,201.07,Basic Materials,Stocks,SAO
+BEWC39.SA,MSCI CANADA DRN,50.27,Financial Services,Stocks,SAO
+ABUD34.SA,AB INBEV    DRN,57.24,Consumer Defensive,Stocks,SAO
+M1AA34.SA,"MID,AMERICA DRN",269.00,Real Estate,Stocks,SAO
+D2PZ34.SA,DOMINOSPIZZADRN,46.53,Consumer Cyclical,Stocks,SAO
+MATD3F.SA,MATER DEI   ON      NM,14.73,N/A,Stocks,SAO
+DHER34.SA,DANAHER CORPDRN,363.25,Healthcare,Stocks,SAO
+JNJB34.SA,JOHNSON     DRN,61.67,Healthcare,Stocks,SAO
+D1OV34.SA,DOVER CORP  DRN,459.36,Industrials,Stocks,SAO
+DGCO34.SA,DOLLAR GENERDRN,557.97,Consumer Defensive,Stocks,SAO
+ASML34.SA,ASML HOLD   DRN,"3,431.85",Technology,Stocks,SAO
+S2UI34.SA,SUN COMMUN  DRN,48.81,Real Estate,Stocks,SAO
+F1AN34.SA,DIAMONDBACK DRN,349.42,Energy,Stocks,SAO
+DEXP4.SA,DEXXOS PAR  PN      N1,7.65,Basic Materials,Stocks,SAO
+SIMN34.SA,SIMON PROP  DRN,193.92,Real Estate,Stocks,SAO
+P1SX34.SA,PHILLIPS 66 DRN,235.07,Energy,Stocks,SAO
+AIRB34.SA,AIRBNB      DRN,37.40,Consumer Cyclical,Stocks,SAO
+UPSS34.SA,UPS         DRN,65.74,Industrials,Stocks,SAO
+GOGL35.SA,ALPHABET    DRN C,93.00,Communication Services,Stocks,SAO
+A1DI34.SA,ANALOG DEVICDRN,425.60,Technology,Stocks,SAO
+GPSI34.SA,GAP         DRN,97.35,Consumer Cyclical,Stocks,SAO
+D1RE34.SA,DUKE REALTY DRN,299.15,Real Estate,Stocks,SAO
+CTGP34.SA,CITIGROUP   DRN,57.57,Financial Services,Stocks,SAO
+WGBA34.SA,WALGREENS   DRN,135.72,Healthcare,Stocks,SAO
+E1XR34.SA,EXTRA SPACE DRN,259.22,Real Estate,Stocks,SAO
+C1BL34.SA,CHUBB LTD   DRN,263.15,Financial Services,Stocks,SAO
+BIVE39.SA,SP500 VALUE DRN,54.34,Financial Services,Stocks,SAO
+ULEV34.SA,UNILEVER    DRN,275.41,Consumer Defensive,Stocks,SAO
+HOND34.SA,HONDA MO    DRN,156.24,Consumer Cyclical,Stocks,SAO
+CAPH34.SA,CAPRI HOLDI DRN,300.53,Consumer Cyclical,Stocks,SAO
+LOWC34.SA,LOWES COMPA DRN,613.02,Consumer Cyclical,Stocks,SAO
+V1TA34.SA,VENTAS INC  DRN,144.76,Real Estate,Stocks,SAO
+WFCO34.SA,WELLS FARGO DRN,72.48,Financial Services,Stocks,SAO
+BIAU39.SA,GOLD TRUST  DRN,46.27,Financial Services,Stocks,SAO
+H1OG34.SA,HARLEY-DAVIDDRN,181.10,Consumer Cyclical,Stocks,SAO
+CEED3.SA,CEEE-D      ON,55.00,Utilities,Stocks,SAO
+CEED4F.SA,CEEE-D      PN,55.00,N/A,Stocks,SAO
+MDTC34.SA,MEDTRONIC   DRN,279.60,Healthcare,Stocks,SAO
+EQIX34.SA,EQUINIX INC DRN,46.04,Real Estate,Stocks,SAO
+VLOE34.SA,VALERO ENER DRN,219.98,Energy,Stocks,SAO
+ATVI34.SA,ACTIVISION  DRN,424.49,Communication Services,Stocks,SAO
+ARMT34.SA,ARCELOR     DRN,78.05,Basic Materials,Stocks,SAO
+L1KQ34.SA,LKQ CORP    DRN,295.52,Consumer Cyclical,Stocks,SAO
+CHME34.SA,CME GROUP   DRN,297.00,Financial Services,Stocks,SAO
+Z1TO34.SA,ZTO EXPRESS DRN,43.71,Industrials,Stocks,SAO
+P1KI34.SA,PERKINELMER DRN,469.92,Healthcare,Stocks,SAO
+N1VR34.SA,NVR INC     DRN,569.00,Consumer Cyclical,Stocks,SAO
+PQDP11.SA,FII D PEDRO CI,"2,210.00",Real Estate,Stocks,SAO
+APTV34.SA,APTIV PLC   DRN,355.94,Consumer Cyclical,Stocks,SAO
+F1MC34.SA,FMC CORP    DRN,291.45,Basic Materials,Stocks,SAO
+R1KU34.SA,ROKU INC    DRN,39.84,Communication Services,Stocks,SAO
+NETE34.SA,NETEASE     DRN,513.80,Communication Services,Stocks,SAO
+K1TC34.SA,KT CORP     DRN,68.70,Communication Services,Stocks,SAO
+GPRO34.SA,GOPRO       DRN,45.25,Technology,Stocks,SAO
+DESK3F.SA,DESKTOP     ON      NM,16.95,N/A,Stocks,SAO
+BEWW39.SA,MSCI MEXICO DRN,64.08,N/A,Stocks,SAO
+BGRT39.SA,GLOBAL REIT DRN,49.98,Financial Services,Stocks,SAO
+BEWU39.SA,MSCI UK     DRN,61.17,Financial Services,Stocks,SAO
+W1PP34.SA,WPP PLC     DRN,85.28,Communication Services,Stocks,SAO
+C1DN34.SA,CADENCE DESIDRN,396.45,Technology,Stocks,SAO
+MKLC34.SA,MARKEL CORP DRN,326.08,Financial Services,Stocks,SAO
+K1EY34.SA,KEYCORP     DRN,138.81,Financial Services,Stocks,SAO
+TAKP34.SA,TAKEDAPH    DRN,79.13,Healthcare,Stocks,SAO
+DOHL4F.SA,DOHLER      PN,5.97,N/A,Stocks,SAO
+BIIB34.SA,BIOGEN      DRN,198.68,Healthcare,Stocks,SAO
+BIJH39.SA,CORE MIDCAP DRN,67.99,N/A,Stocks,SAO
+T1WL34.SA,TWILIO INC  DRN,38.18,Communication Services,Stocks,SAO
+A1EG34.SA,AEGON NV    DRN,30.33,Financial Services,Stocks,SAO
+A1YX34.SA,ALTERYX INC DRN,13.68,Technology,Stocks,SAO
+TGTB34.SA,TARGET CORP DRN,"1,144.56",Consumer Defensive,Stocks,SAO
+S1SN34.SA,SSC TECHNOL DRN,70.14,Technology,Stocks,SAO
+Z2EN34.SA,ZENDESK INC DRN,34.51,Technology,Stocks,SAO
+BEWP39.SA,MSCI SPAIN  DRN,47.53,N/A,Stocks,SAO
+EQMA3BF.SA,EQUATORIAL DISTRIB,40.78,N/A,Stocks,SAO
+A1FL34.SA,AFLAC INC   DRN,327.36,Financial Services,Stocks,SAO
+DDNB34.SA,DUPONT N INCDRN,418.74,Basic Materials,Stocks,SAO
+BCSA34.SA,SANTANDER   DRN,19.26,Financial Services,Stocks,SAO
+BIYE39.SA,BKR US ENER DRN,62.55,N/A,Stocks,SAO
+D1DG34.SA,DATADOG INC DRN,69.89,Technology,Stocks,SAO
+BIVW39.SA,SP500GROWTH DRN,49.08,Financial Services,Stocks,SAO
+METB34.SA,METLIFE INC DRN,352.60,Financial Services,Stocks,SAO
+RIOT34.SA,RIO TINTO   DRN,404.94,Basic Materials,Stocks,SAO
+TMCO34.SA,TOYOTAMO    DRN,"1,024.97",Consumer Cyclical,Stocks,SAO
+N1UE34.SA,NUCOR CORP  DRN,503.00,Basic Materials,Stocks,SAO
+DOTZ3F.SA,DOTZ SA     ON      NM,2.75,N/A,Stocks,SAO
+BBFI11B.SA,BB FDO DE INVST I,"2,286.22",Real Estate,Stocks,SAO
+ELET3.SA,ELETROBRAS  ON      N1,34.90,Utilities,Stocks,SAO
+EMBR3.SA,EMBRAER     ON      NM,20.07,Industrials,Stocks,SAO
+EQTL3.SA,EQUATORIAL  ON      NM,22.40,Utilities,Stocks,SAO
+ENEV3.SA,ENEVA       ON      NM,13.20,Utilities,Stocks,SAO
+ELET6.SA,ELETROBRAS  PNB     N1,34.04,Utilities,Stocks,SAO
+ENJU3.SA,ENJOEI      ON      NM,2.93,Consumer Cyclical,Stocks,SAO
+EVEN3.SA,EVEN        ON      NM,7.37,Real Estate,Stocks,SAO
+ELMD3.SA,ELETROMIDIA ON      NM,13.95,Communication Services,Stocks,SAO
+ETER3.SA,ETERNIT     ON      NM,16.60,Industrials,Stocks,SAO
+ECOR3.SA,ECORODOVIAS ON      NM,7.80,Industrials,Stocks,SAO
+ENAT3.SA,ENAUTA PART ON      NM,15.16,Energy,Stocks,SAO
+EZTC3.SA,EZTEC       ON      NM,21.59,Real Estate,Stocks,SAO
+CPFE3.SA,CPFL ENERGIAON      NM,28.30,Utilities,Stocks,SAO
+ESPA3.SA,ESPACOLASER ON      NM,6.15,Consumer Cyclical,Stocks,SAO
+SEER3.SA,SER EDUCA   ON      NM,11.33,Consumer Defensive,Stocks,SAO
+ENGI11.SA,ENERGISA    UNT     N2,42.71,Utilities,Stocks,SAO
+ENMT3.SA,ENERGISA MT ON,80.99,Utilities,Stocks,SAO
+E1CO34.SA,ECOPETROL SADRN,40.60,Energy,Stocks,SAO
+EQPA3F.SA,EQTL PARA   ON,5.47,N/A,Stocks,SAO
+TORD11.SA,FII TORDE EICI,9.64,N/A,Stocks,SAO
+EMBR3F.SA,EMBRAER     ON      NM,20.00,N/A,Stocks,SAO
+N1RG34.SA,NRG ENERGY IDRN,211.96,Utilities,Stocks,SAO
+ELET3F.SA,ELETROBRAS  ON      N1,34.94,N/A,Stocks,SAO
+EUCA3.SA,EUCATEX     ON      N1,14.00,Industrials,Stocks,SAO
+EQPA3.SA,EQTL PARA   ON,5.45,Utilities,Stocks,SAO
+ETHE11.SA,ETHER HASH  CI,38.00,N/A,Stocks,SAO
+A2MC34.SA,AMC ENTERT HDRN,13.23,Communication Services,Stocks,SAO
+EUCA4F.SA,EUCATEX     PN      N1,8.85,N/A,Stocks,SAO
+EMAE4.SA,EMAE        PN,51.00,Utilities,Stocks,SAO
+EURP11.SA,TREND EUROPACI,10.98,N/A,Stocks,SAO
+CBEE3.SA,AMPLA ENERG ON,23.01,Utilities,Stocks,SAO
+EDFO11B.SA,FD INV IMOB ED OUR,215.00,Real Estate,Stocks,SAO
+E1SS34.SA,ESSEX PROPERDRN,172.98,Real Estate,Stocks,SAO
+CSED3.SA,CRUZEIRO EDUON      NM,6.34,Consumer Defensive,Stocks,SAO
+KINP11.SA,FII EV KINEACI,14.00,Real Estate,Stocks,SAO
+EPAR3F.SA,EMBPAR S/A  ON,11.00,N/A,Stocks,SAO
+ALPK3.SA,ESTAPAR     ON      NM,4.30,Industrials,Stocks,SAO
+EUCA4.SA,EUCATEX     PN      N1,9.38,Industrials,Stocks,SAO
+BAUH4.SA,EXCELSIOR   PN,82.90,Consumer Defensive,Stocks,SAO
+T1AL34.SA,TAL EDUCATIODRN,1.29,Consumer Defensive,Stocks,SAO
+ENGI4.SA,ENERGISA    PN      N2,7.25,Utilities,Stocks,SAO
+GURU11.SA,ETF GURU    CI,10.27,N/A,Stocks,SAO
+REDE3.SA,REDE ENERGIAON,6.62,Utilities,Stocks,SAO
+BIEM39.SA,COREMSCI EMKDRN,51.69,N/A,Stocks,SAO
+ERPA11.SA,FII EUROPA  CI,129.92,N/A,Stocks,SAO
+MXRF11.SA,FII MAXI RENCI,9.52,Real Estate,Stocks,SAO
+FLRY3.SA,FLEURY      ON      NM,19.58,Healthcare,Stocks,SAO
+SMFT3.SA,SMART FIT   ON      NM,17.07,Consumer Cyclical,Stocks,SAO
+XPML11.SA,FII XP MALLSCI,93.41,Real Estate,Stocks,SAO
+FHER3.SA,FER HERINGERON      NM,16.50,Basic Materials,Stocks,SAO
+FESA4.SA,FERBASA     PN      N1,45.45,Basic Materials,Stocks,SAO
+KNIP11.SA,FII KINEA IPCI,103.50,Real Estate,Stocks,SAO
+VINO11.SA,FII VINCI OFCI,50.62,Real Estate,Stocks,SAO
+MCCI11.SA,FII MAUA    CI,101.85,Real Estate,Stocks,SAO
+VGIA11.SA,FIAGRO VGIA CI,10.22,N/A,Stocks,SAO
+HGBS11.SA,FII HEDGEBS CI,164.54,Real Estate,Stocks,SAO
+CCRF11.SA,FII CANVAS  CI,97.50,N/A,Stocks,SAO
+KNRI11.SA,FII KINEA   CI,132.88,Real Estate,Stocks,SAO
+HGRE11.SA,FII HG REAL CI,132.80,Real Estate,Stocks,SAO
+KNCR11.SA,FII KINEA RICI,100.23,Real Estate,Stocks,SAO
+VISC11.SA,FII VINCI SCCI,99.50,Real Estate,Stocks,SAO
+RBRP11.SA,FII RBR PROPCI,70.06,Financial Services,Stocks,SAO
+SHOW3.SA,TIME FOR FUNON      NM,3.24,Consumer Cyclical,Stocks,SAO
+KNOX11.SA,FIP IE KNOX CI,99.45,N/A,Stocks,SAO
+VILG11.SA,FII VINCI LGCI,102.29,Financial Services,Stocks,SAO
+FRAS3.SA,FRAS-LE     ON      N1,12.17,Consumer Cyclical,Stocks,SAO
+IRDM11.SA,FII IRIDIUM CI,107.80,Financial Services,Stocks,SAO
+HGRU11.SA,FII CSHG URBCI,113.81,Financial Services,Stocks,SAO
+KFOF11.SA,FII KINEAFOFCI,76.00,Financial Services,Stocks,SAO
+VGIP11.SA,FII VALORAIPCI,100.05,Real Estate,Stocks,SAO
+KNSC11.SA,FII KINEA SCCI,98.98,N/A,Stocks,SAO
+CTXT11.SA,FII C TEXTILCI,23.00,Real Estate,Stocks,SAO
+NVHO11.SA,FII NOVOHORICI,11.90,Real Estate,Stocks,SAO
+RFOF11.SA,FII RB CFOF CI,74.00,Real Estate,Stocks,SAO
+RBRR11.SA,FII RBRHGRADCI,99.71,Financial Services,Stocks,SAO
+RBRF11.SA,FII RBRALPHACI,72.80,Real Estate,Stocks,SAO
+TEPP11.SA,FII TEL PROPCI,73.59,Real Estate,Stocks,SAO
+RECR11.SA,FII REC RECECI,102.60,Real Estate,Stocks,SAO
+HCTR11.SA,FII HECTARE CI,124.78,Financial Services,Stocks,SAO
+KNCA11.SA,FIAGRO KINEACI,108.48,N/A,Stocks,SAO
+HABT11.SA,FII HABIT IICI,111.62,Financial Services,Stocks,SAO
+JGPX11.SA,FIAGRO JGP  CI,97.93,N/A,Stocks,SAO
+FIIP11B.SA,RB CAP RENDA I FD,171.86,Real Estate,Stocks,SAO
+APTO11.SA,FII NAVI RSDCI,10.40,N/A,Stocks,SAO
+POWE3.SA,FOCUS ON    ON      NM,10.69,Utilities,Stocks,SAO
+KISU11.SA,FII KILIMA  CI,8.03,N/A,Stocks,SAO
+XPPR11.SA,FII XP PROP CI,63.81,Real Estate,Stocks,SAO
+PVBI11.SA,FII VBI PRI CI,86.88,N/A,Stocks,SAO
+HFOF11.SA,FII HTOPFOF3CI,79.21,Real Estate,Stocks,SAO
+TGAR11.SA,FII TG ATIVOCI,121.80,N/A,Stocks,SAO
+VGHF11.SA,FII VALOR HECI,10.11,N/A,Stocks,SAO
+LVBI11.SA,FII VBI LOG CI,102.60,Real Estate,Stocks,SAO
+CRIV3.SA,ALFA FINANC ON,5.19,Financial Services,Stocks,SAO
+VIFI11.SA,FII VINCI IFCI,78.72,Real Estate,Stocks,SAO
+BIYF39.SA,US FINANCIALDRN,30.48,Financial Services,Stocks,SAO
+XPCA11.SA,FIAGRO XP CACI,9.75,N/A,Stocks,SAO
+TFCO4.SA,TRACK FIELD PN      N2,11.60,Consumer Cyclical,Stocks,SAO
+PLCR11.SA,FII PLURAL RCI,88.80,Real Estate,Stocks,SAO
+JFEN3.SA,JOAO FORTES ON,1.24,Real Estate,Stocks,SAO
+VRTA11.SA,FII FATOR VECI,104.43,Real Estate,Stocks,SAO
+HSML11.SA,FII HSI MALLCI,76.13,Financial Services,Stocks,SAO
+VGIR11.SA,FII VALREIIICI,99.84,Real Estate,Stocks,SAO
+SEQR11.SA,FII SEQUOIA CI,74.90,N/A,Stocks,SAO
+HGFF11.SA,FII CSHG FOFCI,76.07,Financial Services,Stocks,SAO
+SHPH11.SA,FII HIGIENOPCI,805.05,Real Estate,Stocks,SAO
+CPTS11.SA,FII CAPI SECCI,96.90,N/A,Stocks,SAO
+FMOF11.SA,FII MEMORIALCI,65.03,Real Estate,Stocks,SAO
+RBDS11.SA,FII RBRESID2CI,7.30,Real Estate,Stocks,SAO
+JSRE11.SA,FII JS REAL CI,79.23,Real Estate,Stocks,SAO
+XPHT11.SA,FII XP HOT  CI,92.15,Real Estate,Stocks,SAO
+RBRD11.SA,FII RB II   CI,42.34,Real Estate,Stocks,SAO
+RBVO11.SA,FII RIOBCRI2CI,12.23,Real Estate,Stocks,SAO
+MGFF11.SA,FII MOGNO   CI,65.48,Financial Services,Stocks,SAO
+NEWU11.SA,FII NEWRU   CI,30.63,Real Estate,Stocks,SAO
+RZAG11.SA,FIAGRO RIZA CI,9.99,N/A,Stocks,SAO
+VVPR11.SA,FII V2 PROP CI,95.94,Real Estate,Stocks,SAO
+ABCP11.SA,FII ABC IMOBCI,73.19,Real Estate,Stocks,SAO
+SRVD11.SA,FII SERRA VDCI,9.64,N/A,Stocks,SAO
+NPAR11.SA,FII NESTPAR CI,12.96,Real Estate,Stocks,SAO
+GTLG11.SA,FII GTIS LG CI,98.00,N/A,Stocks,SAO
+FSRF11.SA,FISET FL REFCI,0.21,N/A,Stocks,SAO
+P1DT34.SA,PRUDENTIAL FDRN,297.90,Financial Services,Stocks,SAO
+OUJP11.SA,FII OURI JPPCI,91.14,Real Estate,Stocks,SAO
+LUGG11.SA,FII LUGGO   CI,87.19,Real Estate,Stocks,SAO
+XPCM11.SA,FII XP MACAECI,19.00,Real Estate,Stocks,SAO
+PLRI11.SA,FII POLO I  CI,37.99,Real Estate,Stocks,SAO
+XPIE11.SA,FIP XP INFRACI,77.90,N/A,Stocks,SAO
+GCRA11.SA,FIAGRO GLPG CI,100.60,N/A,Stocks,SAO
+GTWR11.SA,FII G TOWERSCI,84.99,Financial Services,Stocks,SAO
+RBLG11.SA,FII RBCAP LGCI,87.19,N/A,Stocks,SAO
+FCFL11.SA,FII CAMPUSFLCI,111.50,Real Estate,Stocks,SAO
+AFOF11.SA,FII ALIANZFFCI,88.00,N/A,Stocks,SAO
+TRXF11.SA,FII TRX REALCI,101.35,Real Estate,Stocks,SAO
+HREC11.SA,FII HEDGERECCI,96.86,N/A,Stocks,SAO
+F1NI34.SA,FIDELITY NATDRN,37.07,Technology,Stocks,SAO
+FVPQ11.SA,FII V PARQUECI,101.63,Real Estate,Stocks,SAO
+SMFT3F.SA,SMART FIT   ON      NM,17.05,N/A,Stocks,SAO
+PRSN11B.SA,PERSONALE I FUNDO,0.48,Real Estate,Stocks,SAO
+KNHY11.SA,FII KINEA HYCI,106.50,Financial Services,Stocks,SAO
+PABY11.SA,FII PANAMBY CI,9.97,Real Estate,Stocks,SAO
+RBFF11.SA,FII RIOB FF CI,54.71,Real Estate,Stocks,SAO
+XPSF11.SA,FII XP SELECCI,79.40,Real Estate,Stocks,SAO
+JPPA11.SA,FII JPPMOGNOCI,98.07,Real Estate,Stocks,SAO
+CEOC11.SA,FII CEO CCP CI,57.70,Real Estate,Stocks,SAO
+RZTR11.SA,FII RIZA TX CI,103.26,N/A,Stocks,SAO
+AIEC11.SA,FII AUTONOMYCI,77.40,N/A,Stocks,SAO
+HSLG11.SA,FII HSI LOG CI,91.10,N/A,Stocks,SAO
+XPIN11.SA,FII XP INDL CI,89.34,Real Estate,Stocks,SAO
+HSRE11.SA,FII HSIRENDACI,100.00,N/A,Stocks,SAO
+A1MP34.SA,AMERIPRISE FDRN,405.60,Financial Services,Stocks,SAO
+VOTS11.SA,FII V MASTERCI,86.80,Financial Services,Stocks,SAO
+F1RC34.SA,FIRST REPUBLDRN,468.24,Financial Services,Stocks,SAO
+NSLU11.SA,FII LOURDES CI,225.00,N/A,Stocks,SAO
+RZAK11.SA,FII RIZA AKNCI,92.00,N/A,Stocks,SAO
+RBVA11.SA,FII RIOB VA CI,98.10,Financial Services,Stocks,SAO
+XPCI11.SA,FII XP CRED CI,99.00,Real Estate,Stocks,SAO
+EDGA11.SA,FII GALERIA CI,22.42,N/A,Stocks,SAO
+R1FC34.SA,REGIONS FINADRN,121.80,Financial Services,Stocks,SAO
+BFAV39.SA,MSCIMINVOL FDRN,49.31,Financial Services,Stocks,SAO
+BKYY39.SA,FT CLOUD CPTDRN,48.80,N/A,Stocks,SAO
+EVBI11.SA,FII VBI CON CI,96.00,N/A,Stocks,SAO
+VCRR11.SA,FII VECT RENCI,80.00,N/A,Stocks,SAO
+EGYR11.SA,FII ENERGY  CI,1.74,N/A,Stocks,SAO
+ARCT11.SA,FII ARCTIUM CI,107.47,N/A,Stocks,SAO
+HGPO11.SA,FII CSHGPRIMCI,255.99,Financial Services,Stocks,SAO
+HGIC11.SA,FII HGI CRI CI,106.52,N/A,Stocks,SAO
+FIGS11.SA,FII GEN SHOPCI,55.47,Real Estate,Stocks,SAO
+MGLG11.SA,FII MOGNO LGCI,48.30,N/A,Stocks,SAO
+LGCP11.SA,FII LGCP INTCI,82.04,Real Estate,Stocks,SAO
+ATSA11.SA,FII HATRIUM CI,94.00,N/A,Stocks,SAO
+EQIR11.SA,FII EQI RECECI,99.80,N/A,Stocks,SAO
+CPFF11.SA,FII CAP REITCI,71.99,Real Estate,Stocks,SAO
+PATC11.SA,FII PATRIA  CI,65.83,Financial Services,Stocks,SAO
+QAMI11.SA,FII QUASAR CCI,98.90,N/A,Stocks,SAO
+RELG11.SA,FII REC LOG CI,80.52,N/A,Stocks,SAO
+FNOR11.SA,FINOR       CI *,0.79,Financial Services,Stocks,SAO
+RECT11.SA,FII REC RENDCI,70.00,Financial Services,Stocks,SAO
+RBCO11.SA,FII R INCOMECI,55.00,Real Estate,Stocks,SAO
+GGBR4.SA,GERDAU      PN      N1,27.96,Basic Materials,Stocks,SAO
+NTCO3.SA,GRUPO NATURAON      NM,22.99,Consumer Defensive,Stocks,SAO
+GFSA3.SA,GAFISA      ON      NM,1.98,Consumer Cyclical,Stocks,SAO
+SBFG3.SA,GRUPO SBF   ON      NM,25.34,Consumer Cyclical,Stocks,SAO
+GOAU4.SA,GERDAU MET  PN      N1,11.70,Basic Materials,Stocks,SAO
+GOLL4.SA,GOL         PN      N2,17.61,Industrials,Stocks,SAO
+SOMA3.SA,GRUPO SOMA  ON      NM,14.37,Consumer Cyclical,Stocks,SAO
+GUAR3.SA,GUARARAPES  ON,11.74,Consumer Cyclical,Stocks,SAO
+GGPS3.SA,GPS         ON      NM,16.02,Consumer Cyclical,Stocks,SAO
+NINJ3.SA,GETNINJAS   ON      NM,4.77,Technology,Stocks,SAO
+GGBR3.SA,GERDAU      ON      N1,22.33,Basic Materials,Stocks,SAO
+GRND3.SA,GRENDENE    ON      NM,8.91,Consumer Cyclical,Stocks,SAO
+GMAT3.SA,GRUPO MATEUSON      NM,6.16,Consumer Cyclical,Stocks,SAO
+GOAU3.SA,GERDAU MET  ON      N1,10.13,Basic Materials,Stocks,SAO
+S1LG34.SA,SL GREEN READRN,193.20,Real Estate,Stocks,SAO
+GSGI34.SA,GOLDMANSACHSDRN,183.62,Financial Services,Stocks,SAO
+CGRA3.SA,GRAZZIOTIN  ON,39.00,Consumer Cyclical,Stocks,SAO
+HAPV3.SA,HAPVIDA     ON      NM,12.12,Healthcare,Stocks,SAO
+HYPE3.SA,HYPERA      ON      NM,29.97,Healthcare,Stocks,SAO
+HBSA3.SA,HIDROVIAS   ON      NM,2.99,Industrials,Stocks,SAO
+J1BH34.SA,JB HUNT TRANDRN,549.15,Industrials,Stocks,SAO
+RPAD5.SA,ALFA HOLDINGPNA,8.48,Industrials,Stocks,SAO
+RPAD3.SA,ALFA HOLDINGON,6.31,Industrials,Stocks,SAO
+YDRO11.SA,IT NOW HYDROCI,44.35,N/A,Stocks,SAO
+H1SB34.SA,HSBC HOLDINGDRN,48.14,Financial Services,Stocks,SAO
+H1ZN34.SA,HORIZON THERDRN,47.26,Healthcare,Stocks,SAO
+SRXM34.SA,SIRIUS XM HDDRN,32.43,Communication Services,Stocks,SAO
+HBTS5.SA,HABITASUL   PNA,45.05,Real Estate,Stocks,SAO
+HETA4F.SA,HERCULES    PN,7.91,N/A,Stocks,SAO
+RPAD6.SA,ALFA HOLDINGPNB,4.40,Industrials,Stocks,SAO
+HBSA3F.SA,HIDROVIAS   ON      NM,2.95,N/A,Stocks,SAO
+HBOR3.SA,HELBOR      ON      NM,4.34,Real Estate,Stocks,SAO
+ITUB4.SA,ITAUUNIBANCOPN      N1,24.46,Financial Services,Stocks,SAO
+ITSA4.SA,ITAUSA      PN      N1,9.97,Financial Services,Stocks,SAO
+IVVB11.SA,ISHARE SP500CI,254.05,N/A,Stocks,SAO
+IRBR3.SA,IRBBRASIL REON      NM,3.23,Financial Services,Stocks,SAO
+GNDI3.SA,INTERMEDICA ON      NM,68.40,Healthcare,Stocks,SAO
+ROMI3.SA,INDS ROMI   ON      NM,15.97,Industrials,Stocks,SAO
+JBSS3.SA,JBS         ON      NM,35.28,Consumer Defensive,Stocks,SAO
+JHSF3.SA,JHSF PART   ON      NM,6.16,Real Estate,Stocks,SAO
+JSLG3.SA,JSL         ON      NM,6.87,Industrials,Stocks,SAO
+JALL3.SA,JALLESMACHADON      NM,9.56,Consumer Defensive,Stocks,SAO
+BAAX39.SA,MSCI ASIA JPDRN,42.56,N/A,Stocks,SAO
+JOPA3.SA,JOSAPAR     ON,27.00,Consumer Defensive,Stocks,SAO
+JOPA3F.SA,JOSAPAR     ON,29.30,N/A,Stocks,SAO
+J1CI34.SA,JOHNSON CONTDRN,387.65,Industrials,Stocks,SAO
+JHSF3F.SA,JHSF PART   ON      NM,6.08,N/A,Stocks,SAO
+JFEN3F.SA,JOAO FORTES ON,1.24,N/A,Stocks,SAO
+JSLG3F.SA,JSL         ON      NM,6.98,N/A,Stocks,SAO
+JSAF11.SA,FII JS A FINCI,87.50,N/A,Stocks,SAO
+R1JF34.SA,RAYMOND JAMEDRN,261.90,Financial Services,Stocks,SAO
+JOGO11.SA,INVESTO JOGOCI,79.71,N/A,Stocks,SAO
+JFLL11.SA,FII JFL LIV CI,80.00,N/A,Stocks,SAO
+JBSS3F.SA,JBS         ON      NM,35.32,N/A,Stocks,SAO
+JALL3F.SA,JALLESMACHADON      NM,9.51,N/A,Stocks,SAO
+M1BT34.SA,MOBILE JOIN DRN,39.17,Communication Services,Stocks,SAO
+JOPA4F.SA,JOSAPAR     PN,36.00,N/A,Stocks,SAO
+BEWJ39.SA,MSCI JAPAN  DRN,42.20,Financial Services,Stocks,SAO
+KLBN11.SA,KLABIN S/A  UNT     N2,24.74,Basic Materials,Stocks,SAO
+KLBN4.SA,KLABIN S/A  PN      N2,4.74,Basic Materials,Stocks,SAO
+KEPL3.SA,KEPLER WEBERON,35.99,Industrials,Stocks,SAO
+KRSA3.SA,KORA SAUDE  ON      NM,4.27,Healthcare,Stocks,SAO
+KLBN3.SA,KLABIN S/A  ON      N2,5.69,Basic Materials,Stocks,SAO
+KDIF11.SA,KINEA INFRAFFIDC,135.50,N/A,Stocks,SAO
+CTKA3F.SA,KARSTEN     ON,26.00,N/A,Stocks,SAO
+K2CG34.SA,KINGSOFT CHLDRN,9.40,Technology,Stocks,SAO
+KEPL3F.SA,KEPLER WEBERON,35.76,N/A,Stocks,SAO
+CTKA4.SA,KARSTEN     PN,12.53,Consumer Cyclical,Stocks,SAO
+PHGN34.SA,KOPHILIPS   DRN,175.86,Technology,Stocks,SAO
+K1SG34.SA,KEYSIGHT TECDRN,460.61,Technology,Stocks,SAO
+CTKA4F.SA,KARSTEN     PN,11.23,N/A,Stocks,SAO
+KLBN4F.SA,KLABIN S/A  PN      N2,4.75,N/A,Stocks,SAO
+K1SS34.SA,KOHLS CORP  DRN,340.34,Consumer Cyclical,Stocks,SAO
+K1IM34.SA,KIMCO REALTYDRN,131.30,Real Estate,Stocks,SAO
+K1LA34.SA,KLA CORP    DRN,490.88,Technology,Stocks,SAO
+KNRE11.SA,FII KII REALCI,1.66,Real Estate,Stocks,SAO
+KLBN11F.SA,KLABIN S/A  UNT     N2,24.75,N/A,Stocks,SAO
+KMBB34.SA,KIMBERLY CL DRN,751.18,Consumer Defensive,Stocks,SAO
+KRSA3F.SA,KORA SAUDE  ON      NM,4.24,N/A,Stocks,SAO
+KMIC34.SA,KINDER MORGADRN,95.20,Energy,Stocks,SAO
+KLBN3F.SA,KLABIN S/A  ON      N2,5.77,N/A,Stocks,SAO
+MGLU3.SA,MAGAZ LUIZA ON      NM,7.22,Consumer Cyclical,Stocks,SAO
+LREN3.SA,LOJAS RENNERON      NM,27.93,Consumer Cyclical,Stocks,SAO
+RENT3.SA,LOCALIZA    ON      NM,57.75,Industrials,Stocks,SAO
+AMAR3.SA,LOJAS MARISAON      NM,3.45,Consumer Cyclical,Stocks,SAO
+LWSA3.SA,LOCAWEB     ON      NM,9.22,Technology,Stocks,SAO
+LCAM3.SA,LOCAMERICA  ON      NM,25.85,Industrials,Stocks,SAO
+LIGT3.SA,LIGHT S/A   ON      NM,10.92,Utilities,Stocks,SAO
+SEQL3.SA,SEQUOIA LOG ON      NM,14.39,Industrials,Stocks,SAO
+LEVE3.SA,METAL LEVE  ON      NM,31.87,Consumer Cyclical,Stocks,SAO
+LAVV3.SA,LAVVI       ON      NM,5.61,Real Estate,Stocks,SAO
+LUPA3.SA,LUPATECH    ON      NM,6.02,Energy,Stocks,SAO
+SLED3.SA,SARAIVA LIVRON      N2,8.69,Consumer Cyclical,Stocks,SAO
+L1VS34.SA,LAS VEGAS SADRN,47.25,Consumer Cyclical,Stocks,SAO
+SLED4.SA,SARAIVA LIVRPN      N2,4.17,Consumer Cyclical,Stocks,SAO
+L1RC34.SA,LAM RESEARCHDRN,751.08,Technology,Stocks,SAO
+I1DX34.SA,IDEXX LABORADRN,528.08,Healthcare,Stocks,SAO
+CASH3.SA,MELIUZ      ON      NM,2.95,Communication Services,Stocks,SAO
+MRFG3.SA,MARFRIG     ON      NM,22.39,Consumer Defensive,Stocks,SAO
+MELI34.SA,MERCADOLIBREDRN,44.60,Consumer Cyclical,Stocks,SAO
+POMO4.SA,MARCOPOLO   PN      N2,3.30,Industrials,Stocks,SAO
+BEEF3.SA,MINERVA     ON      NM,9.52,Consumer Defensive,Stocks,SAO
+MRVE3.SA,MRV         ON      NM,13.50,Consumer Cyclical,Stocks,SAO
+MULT3.SA,MULTIPLAN   ON      N2,21.30,Real Estate,Stocks,SAO
+MOVI3.SA,MOVIDA      ON      NM,16.37,Industrials,Stocks,SAO
+MBLY3.SA,MOBLY       ON      NM,5.82,Consumer Cyclical,Stocks,SAO
+MOSI3.SA,MOSAICO     ON      NM,8.32,Communication Services,Stocks,SAO
+SMTO3.SA,SAO MARTINHOON      NM,36.56,Consumer Defensive,Stocks,SAO
+MYPK3.SA,IOCHP-MAXIONON      NM,14.69,Consumer Cyclical,Stocks,SAO
+MLAS3.SA,MULTILASER  ON      NM,7.38,Technology,Stocks,SAO
+MDIA3.SA,M.DIASBRANCOON      NM,23.37,Consumer Defensive,Stocks,SAO
+MELK3.SA,MELNICK     ON      NM,4.58,Real Estate,Stocks,SAO
+MTRE3.SA,MITRE REALTYON      NM,7.56,Real Estate,Stocks,SAO
+MILS3.SA,MILLS       ON      NM,6.40,Industrials,Stocks,SAO
+POMO3.SA,MARCOPOLO   ON      N2,2.76,Industrials,Stocks,SAO
+M1RO34.SA,MARATHON OILDRN,107.58,Energy,Stocks,SAO
+MNDL3.SA,MUNDIAL     ON,33.34,Consumer Defensive,Stocks,SAO
+BEWA39.SA,MSCIAUSTRALIDRN,40.39,Financial Services,Stocks,SAO
+BMIN3.SA,MERC INVEST ON,20.00,Financial Services,Stocks,SAO
+NORD3.SA,NORDON MET  ON,10.00,Financial Services,Stocks,SAO
+BEWL39.SA,MSCI SWITZERDRN,52.39,Financial Services,Stocks,SAO
+MRFG3F.SA,MARFRIG     ON      NM,22.51,N/A,Stocks,SAO
+BEWG39.SA,MSCI GERMANYDRN,56.49,Financial Services,Stocks,SAO
+MGEL4.SA,MANGELS INDLPN,13.22,Basic Materials,Stocks,SAO
+M1PC34.SA,MARATHON PETDRN,385.32,Energy,Stocks,SAO
+RPMG3.SA,PET MANGUINHON,2.87,Energy,Stocks,SAO
+C1MG34.SA,CHIPOTLE MEXDRN,366.67,Consumer Cyclical,Stocks,SAO
+MDLZ34.SA,MONDELEZ INTDRN,183.70,Consumer Defensive,Stocks,SAO
+PETR4.SA,PETROBRAS   PN      N2,33.88,Energy,Stocks,SAO
+VALE3.SA,VALE        ON      NM,84.49,Basic Materials,Stocks,SAO
+PETR3.SA,PETROBRAS   ON      N2,36.99,Energy,Stocks,SAO
+OIBR3.SA,OI          ON      N1,1.01,Communication Services,Stocks,SAO
+WEGE3.SA,WEG         ON      NM,32.40,Industrials,Stocks,SAO
+PRIO3.SA,PETRORIO    ON      NM,23.81,Energy,Stocks,SAO
+PETZ3.SA,PETZ        ON      NM,17.51,Consumer Cyclical,Stocks,SAO
+TOTS3.SA,TOTVS       ON      NM,27.92,Technology,Stocks,SAO
+RRRP3.SA,3R PETROLEUMON      NM,37.32,Energy,Stocks,SAO
+TAEE11.SA,TAESA       UNT     N2,37.73,Utilities,Stocks,SAO
+SUZB3.SA,SUZANO S.A. ON      NM,58.49,Basic Materials,Stocks,SAO
+SQIA3.SA,SINQIA      ON      NM,17.37,Technology,Stocks,SAO
+UGPA3.SA,ULTRAPAR    ON      NM,15.12,Energy,Stocks,SAO
+VBBR3.SA,VIBRA       ON      NM,22.50,Consumer Cyclical,Stocks,SAO
+CSNA3.SA,SID NACIONALON,26.18,Basic Materials,Stocks,SAO
+VIIA3.SA,VIA         ON      NM,4.62,Consumer Cyclical,Stocks,SAO
+RADL3.SA,RAIADROGASILON      NM,22.38,Healthcare,Stocks,SAO
+RAIZ4.SA,RAIZEN      PN      N2,6.25,Utilities,Stocks,SAO
+USIM5.SA,USIMINAS    PNA     N1,16.26,Basic Materials,Stocks,SAO
+RAIL3.SA,RUMO S.A.   ON      NM,16.66,Industrials,Stocks,SAO
+SAPR4.SA,SANEPAR     PN      N2,3.93,Utilities,Stocks,SAO
+TRPL4.SA,TRAN PAULISTPN      N1,24.14,Utilities,Stocks,SAO
+TRIS3.SA,TRISUL      ON      NM,6.18,Real Estate,Stocks,SAO
+VAMO3.SA,VAMOS       ON      NM,11.91,Industrials,Stocks,SAO
+POSI3.SA,POSITIVO TECON      NM,8.92,Technology,Stocks,SAO
+WIZS3.SA,WIZ S.A.    ON      NM,7.86,Financial Services,Stocks,SAO
+LJQQ3.SA,QUERO-QUERO ON      NM,10.22,Consumer Cyclical,Stocks,SAO
+YDUQ3.SA,YDUQS PART  ON      NM,21.52,Consumer Defensive,Stocks,SAO
+PTBL3.SA,PORTOBELLO  ON      NM,8.91,Industrials,Stocks,SAO
+ITUB3.SA,ITAUUNIBANCOON      N1,21.49,Financial Services,Stocks,SAO
+ONCO3.SA,ONCOCLINICASON      NM,10.37,Healthcare,Stocks,SAO
+TUPY3.SA,TUPY        ON      NM,20.18,Consumer Cyclical,Stocks,SAO
+ITSA3.SA,ITAUSA      ON      N1,10.05,Financial Services,Stocks,SAO
+RECV3.SA,PETRORECSA  ON      NM,20.30,Energy,Stocks,SAO
+NGRD3.SA,NEOGRID     ON      NM,2.85,Technology,Stocks,SAO
+SBSP3.SA,SABESP      ON      NM,37.00,Utilities,Stocks,SAO
+SAPR11.SA,SANEPAR     UNT     N2,19.56,Utilities,Stocks,SAO
+PARD3.SA,IHPARDINI   ON      NM,21.67,Healthcare,Stocks,SAO
+USIM3.SA,USIMINAS    ON      N1,14.61,Basic Materials,Stocks,SAO
+PSSA3.SA,PORTO SEGUROON      NM,19.99,Financial Services,Stocks,SAO
+TEND3.SA,TENDA       ON      NM,16.35,Real Estate,Stocks,SAO
+OIBR4.SA,OI          PN      N1,1.65,Communication Services,Stocks,SAO
+MEGA3.SA,OMEGAENERGIAON      NM,10.80,Utilities,Stocks,SAO
+IFCM3.SA,INFRACOMM   ON      NM,15.00,Industrials,Stocks,SAO
+IGTI11.SA,IGUATEMI S.AUNT     N1,20.00,Industrials,Stocks,SAO
+MEAL3.SA,IMC S/A     ON      NM,2.47,Consumer Cyclical,Stocks,SAO
+TGMA3.SA,TEGMA       ON      NM,14.15,Industrials,Stocks,SAO
+TAEE3.SA,TAESA       ON      N2,12.59,Utilities,Stocks,SAO
+RAPT4.SA,RANDON PART PN      N1,12.04,Industrials,Stocks,SAO
+TCSA3.SA,TECNISA     ON      NM,3.45,Real Estate,Stocks,SAO
+INTB3.SA,INTELBRAS   ON      NM,30.30,Technology,Stocks,SAO
+RANI3.SA,IRANI       ON      NM,6.29,Consumer Cyclical,Stocks,SAO
+VIVA3.SA,VIVARA S.A. ON      NM,25.11,Consumer Cyclical,Stocks,SAO
+SCAR3.SA,SAO CARLOS  ON      NM,38.98,Real Estate,Stocks,SAO
+VVEO3.SA,VIVEO       ON      NM,17.35,Healthcare,Stocks,SAO
+TTEN3.SA,3TENTOS     ON      NM,9.27,Basic Materials,Stocks,SAO
+CAML3.SA,CAMIL       ON      NM,9.01,Consumer Defensive,Stocks,SAO
+SIMH3.SA,SIMPAR      ON      NM,10.72,Industrials,Stocks,SAO
+ODPV3.SA,ODONTOPREV  ON      NM,12.28,Healthcare,Stocks,SAO
+CLSC4.SA,CELESC      PN      N2,64.40,Utilities,Stocks,SAO
+OPCT3.SA,OCEANPACT   ON      NM,2.68,Industrials,Stocks,SAO
+TIMS3.SA,TIM         ON      NM,12.80,Communication Services,Stocks,SAO
+TECN3.SA,TECHNOS     ON      NM,2.33,Consumer Cyclical,Stocks,SAO
+PMAM3.SA,PARANAPANEMAON      NM,7.78,Basic Materials,Stocks,SAO
+PLPL3.SA,PLANOEPLANO ON      NM,3.62,Real Estate,Stocks,SAO
+QUAL3.SA,QUALICORP   ON      NM,17.79,Healthcare,Stocks,SAO
+NEOE3.SA,NEOENERGIA  ON      NM,16.05,Utilities,Stocks,SAO
+RANI3F.SA,IRANI       ON      NM,6.22,N/A,Stocks,SAO
+LVTC3.SA,WDC NETWORKSON      NM,15.79,Communication Services,Stocks,SAO
+TPIS3.SA,TRIUNFO PARTON      NM,2.04,Industrials,Stocks,SAO
+NASD11.SA,TREND NASDAQCI,10.56,N/A,Stocks,SAO
+CBAV3.SA,CBA         ON      NM,16.51,Basic Materials,Stocks,SAO
+OFSA3.SA,OUROFINO S/AON      NM,24.10,Healthcare,Stocks,SAO
+CMIG3.SA,CEMIG       ON      N1,17.75,Utilities,Stocks,SAO
+BOVV11.SA,IT NOW IBOV CI,113.17,N/A,Stocks,SAO
+CPLE5.SA,COPEL       PNA     N2,31.00,Utilities,Stocks,SAO
+CARD3.SA,CSU CARDSYSTON      NM,13.85,Financial Services,Stocks,SAO
+WEST3.SA,WESTWING    ON      NM,3.67,Consumer Cyclical,Stocks,SAO
+PRNR3.SA,PRINER      ON      NM,6.23,Industrials,Stocks,SAO
+SYNE3.SA,SYN PROP TECON      NM,7.16,Real Estate,Stocks,SAO
+SAPR4F.SA,SANEPAR     PN      N2,3.90,N/A,Stocks,SAO
+RAPT4F.SA,RANDON PART PN      N1,11.99,N/A,Stocks,SAO
+SPXI11.SA,IT NOW SPXI CI,248.97,N/A,Stocks,SAO
+TPIS3F.SA,TRIUNFO PARTON      NM,1.99,N/A,Stocks,SAO
+ORVR3F.SA,ORIZON      ON      NM,25.84,N/A,Stocks,SAO
+ISUS11.SA,IT NOW ISE  CI,37.45,N/A,Stocks,SAO
+VULC3.SA,VULCABRAS   ON      NM,9.03,Consumer Cyclical,Stocks,SAO
+PDGR3.SA,PDG REALT   ON      NM,1.45,Real Estate,Stocks,SAO
+LAND3.SA,TERRASANTAPAON      NM,18.47,Consumer Defensive,Stocks,SAO
+ORVR3.SA,ORIZON      ON      NM,26.19,Industrials,Stocks,SAO
+TAEE4.SA,TAESA       PN      N2,12.62,Utilities,Stocks,SAO
+TRAD3.SA,TC          ON      NM,4.32,Technology,Stocks,SAO
+SAPR3.SA,SANEPAR     ON      N2,3.75,Utilities,Stocks,SAO
+PRIO3F.SA,PETRORIO    ON      NM,23.74,N/A,Stocks,SAO
+PDTC3.SA,PADTEC      ON      NM,6.08,Technology,Stocks,SAO
+VLID3.SA,VALID       ON      NM,9.39,Industrials,Stocks,SAO
+UCAS3.SA,UNICASA     ON      NM,3.71,Consumer Cyclical,Stocks,SAO
+VALE3F.SA,VALE        ON      NM,84.43,N/A,Stocks,SAO
+PORT3.SA,WILSON SONS ON      NM,59.99,Industrials,Stocks,SAO
+RSID3.SA,ROSSI RESID ON      NM,8.75,Consumer Cyclical,Stocks,SAO
+RDNI3.SA,RNI         ON      NM,9.21,Real Estate,Stocks,SAO
+RNEW11.SA,RENOVA      UNT     N2,6.80,Utilities,Stocks,SAO
+AVLL3.SA,ALPHAVILLE  ON      NM,29.80,Real Estate,Stocks,SAO
+USIM3F.SA,USIMINAS    ON      N1,14.46,N/A,Stocks,SAO
+CLSC3.SA,CELESC      ON      N2,62.00,Utilities,Stocks,SAO
+CXSE3.SA,CAIXA SEGURION      NM,8.16,Financial Services,Stocks,SAO
+CPLE11F.SA,COPEL       UNT     N2,34.19,N/A,Stocks,SAO
+ALUP3.SA,ALUPAR      ON      N2,8.12,Utilities,Stocks,SAO
+FRTA3.SA,POMIFRUTAS  ON      NM,4.89,Consumer Defensive,Stocks,SAO
+LOGN3.SA,LOG-IN      ON      NM,20.98,Industrials,Stocks,SAO
+SULA3.SA,SUL AMERICA ON      N2,8.38,Financial Services,Stocks,SAO
+CMIN3F.SA,CSNMINERACAOON      N2,7.15,N/A,Stocks,SAO
+ITSA3F.SA,ITAUSA      ON      N1,10.05,N/A,Stocks,SAO
+OFSA3F.SA,OUROFINO S/AON      NM,23.98,N/A,Stocks,SAO
+PETR3F.SA,PETROBRAS   ON      N2,37.00,N/A,Stocks,SAO
+CPLE11.SA,COPEL       UNT     N2,34.21,Utilities,Stocks,SAO
+VIIA3F.SA,VIA         ON      NM,4.63,N/A,Stocks,SAO
+RADL3F.SA,RAIADROGASILON      NM,22.49,N/A,Stocks,SAO
+PINE4.SA,PINE        PN      N2,1.61,Financial Services,Stocks,SAO
+SGPS3.SA,SPRINGS     ON      NM,5.78,Consumer Cyclical,Stocks,SAO
+CURY3.SA,CURY S/A    ON      NM,7.95,Real Estate,Stocks,SAO
+CEDO3.SA,CEDRO       ON      N1,7.00,Consumer Cyclical,Stocks,SAO
+CNIC34.SA,CANAD NATIONDRN,322.24,Industrials,Stocks,SAO
+PCAR3F.SA,P.ACUCAR-CBDON      NM,21.55,N/A,Stocks,SAO
+PTBL3F.SA,PORTOBELLO  ON      NM,8.86,N/A,Stocks,SAO
+LCAM3F.SA,LOCAMERICA  ON      NM,25.91,N/A,Stocks,SAO
+ARZZ3F.SA,AREZZO CO   ON      NM,80.50,N/A,Stocks,SAO
+APER3F.SA,ALPER S.A.  ON      NM,32.00,N/A,Stocks,SAO
+CLSA3F.SA,CLEARSALE   ON      NM,10.85,N/A,Stocks,SAO
+WEGE3F.SA,WEG         ON      NM,32.39,N/A,Stocks,SAO
+MATB11.SA,IT NOW IMAT CI,61.20,N/A,Stocks,SAO
+SUZB3F.SA,SUZANO S.A. ON      NM,56.88,N/A,Stocks,SAO
+QUAL3F.SA,QUALICORP   ON      NM,17.66,N/A,Stocks,SAO
+VIVA3F.SA,VIVARA S.A. ON      NM,25.21,N/A,Stocks,SAO
+SAPR3F.SA,SANEPAR     ON      N2,3.76,N/A,Stocks,SAO
+N1EM34.SA,NEWMONT GOLDDRN,328.00,Basic Materials,Stocks,SAO
+ALPA4F.SA,ALPARGATAS  PN      N1,29.91,N/A,Stocks,SAO
+N1SC34.SA,NORFOLK SOUTDRN,374.02,Industrials,Stocks,SAO
+N1TR34.SA,NORTHERN TRUDRN,311.50,Financial Services,Stocks,SAO
+SLED4F.SA,SARAIVA LIVRPN      N2,4.26,N/A,Stocks,SAO
+ENGI3F.SA,ENERGISA    ON      N2,13.62,N/A,Stocks,SAO
+OPCT3F.SA,OCEANPACT   ON      NM,2.62,N/A,Stocks,SAO
+CARD3F.SA,CSU CARDSYSTON      NM,13.57,N/A,Stocks,SAO
+GOVE11.SA,IT NOW IGCT CI,49.40,N/A,Stocks,SAO
+ENGI4F.SA,ENERGISA    PN      N2,7.26,N/A,Stocks,SAO
+ELMD3F.SA,ELETROMIDIA ON      NM,13.95,N/A,Stocks,SAO
+CPLE3F.SA,COPEL       ON      N2,6.01,N/A,Stocks,SAO
+ALLD3F.SA,ALLIED      ON      NM,15.06,N/A,Stocks,SAO
+APER3.SA,ALPER S.A.  ON      NM,32.15,Financial Services,Stocks,SAO
+VVEO3F.SA,VIVEO       ON      NM,17.00,N/A,Stocks,SAO
+PFRM3F.SA,PROFARMA    ON      NM,4.96,N/A,Stocks,SAO
+ALPA3.SA,ALPARGATAS  ON      N1,26.16,Consumer Cyclical,Stocks,SAO
+BLAU3F.SA,BLAU        ON      NM,34.10,N/A,Stocks,SAO
+E1DU34.SA,NEW ORIENTALDRN,0.46,Consumer Defensive,Stocks,SAO
+RAPT3.SA,RANDON PART ON      N1,12.59,Industrials,Stocks,SAO
+RNEW4.SA,RENOVA      PN      N2,2.20,Utilities,Stocks,SAO
+PGMN3.SA,PAGUE MENOS ON      NM,8.37,Healthcare,Stocks,SAO
+SAPR11F.SA,SANEPAR     UNT     N2,19.57,N/A,Stocks,SAO
+TIMS3F.SA,TIM         ON      NM,12.60,N/A,Stocks,SAO
+EVEN3F.SA,EVEN        ON      NM,7.28,N/A,Stocks,SAO
+AGXY3.SA,AGROGALAXY  ON      NM,10.39,Basic Materials,Stocks,SAO
+HBRE3.SA,HBR REALTY  ON      NM,7.50,Real Estate,Stocks,SAO
+SMTO3F.SA,SAO MARTINHOON      NM,36.23,N/A,Stocks,SAO
+SQIA3F.SA,SINQIA      ON      NM,17.11,N/A,Stocks,SAO
+ROMI3F.SA,INDS ROMI   ON      NM,15.92,N/A,Stocks,SAO
+VULC3F.SA,VULCABRAS   ON      NM,8.91,N/A,Stocks,SAO
+TGMA3F.SA,TEGMA       ON      NM,13.94,N/A,Stocks,SAO
+VLID3F.SA,VALID       ON      NM,9.22,N/A,Stocks,SAO
+ELET5F.SA,ELETROBRAS  PNA     N1,63.98,N/A,Stocks,SAO
+MODL4F.SA,MODALMAIS   PN      N2,3.98,N/A,Stocks,SAO
+ENEV3F.SA,ENEVA       ON      NM,13.09,N/A,Stocks,SAO
+HAPV3F.SA,HAPVIDA     ON      NM,12.19,N/A,Stocks,SAO
+MODL11.SA,MODALMAIS   UNT     N2,13.00,Financial Services,Stocks,SAO
+CPLE5F.SA,COPEL       PNA     N2,31.00,N/A,Stocks,SAO
+WEST3F.SA,WESTWING    ON      NM,3.68,N/A,Stocks,SAO
+WIZS3F.SA,WIZ S.A.    ON      NM,7.80,N/A,Stocks,SAO
+AALR3F.SA,ALLIAR      ON      NM,15.66,N/A,Stocks,SAO
+ABCB4F.SA,ABC BRASIL  PN      N2,15.78,N/A,Stocks,SAO
+INTB3F.SA,INTELBRAS   ON      NM,29.64,N/A,Stocks,SAO
+BPAC5.SA,BTGP BANCO  PNA     N2,5.00,Financial Services,Stocks,SAO
+RRRP3F.SA,3R PETROLEUMON      NM,37.82,N/A,Stocks,SAO
+SLCE3F.SA,SLC AGRICOLAON      NM,45.30,N/A,Stocks,SAO
+CCRO3F.SA,CCR SA      ON      NM,12.78,N/A,Stocks,SAO
+NOCG34.SA,NORTHROP GRUDRN,405.24,Industrials,Stocks,SAO
+CASH3F.SA,MELIUZ      ON      NM,2.95,N/A,Stocks,SAO
+N1IS34.SA,NISOURCE INCDRN,149.10,Utilities,Stocks,SAO
+IMAB11.SA,IT NOW IMA-BF11,79.24,N/A,Stocks,SAO
+ATMP3.SA,ATMASA      ON      NM,2.99,Industrials,Stocks,SAO
+AMAR9.SA,LOJAS MARISAON  REC NM,3.44,N/A,Stocks,SAO
+LLIS3F.SA,LE LIS BLANCON      NM,1.38,N/A,Stocks,SAO
+NTCO3F.SA,GRUPO NATURAON      NM,22.89,N/A,Stocks,SAO
+MRVE3F.SA,MRV         ON      NM,13.50,N/A,Stocks,SAO
+MEAL3F.SA,IMC S/A     ON      NM,2.47,N/A,Stocks,SAO
+POSI3F.SA,POSITIVO TECON      NM,8.85,N/A,Stocks,SAO
+PSSA3F.SA,PORTO SEGUROON      NM,20.17,N/A,Stocks,SAO
+TUPY3F.SA,TUPY        ON      NM,20.10,N/A,Stocks,SAO
+CMIG3F.SA,CEMIG       ON      N1,17.98,N/A,Stocks,SAO
+BRAP4F.SA,BRADESPAR   PN      N1,26.80,N/A,Stocks,SAO
+BRKM6F.SA,BRASKEM     PNB     N1,38.78,N/A,Stocks,SAO
+NMRH34.SA,NOMURA HO   DRN,24.04,Financial Services,Stocks,SAO
+BMEB4F.SA,MERC BRASIL PN      N1,11.00,N/A,Stocks,SAO
+ATMP3F.SA,ATMASA      ON      NM,2.90,N/A,Stocks,SAO
+VIVR3F.SA,VIVER       ON      NM,1.19,N/A,Stocks,SAO
+RSID3F.SA,ROSSI RESID ON      NM,8.86,N/A,Stocks,SAO
+SULA3F.SA,SUL AMERICA ON      N2,8.37,N/A,Stocks,SAO
+RNEW3F.SA,RENOVA      ON      N2,2.38,N/A,Stocks,SAO
+SEER3F.SA,SER EDUCA   ON      NM,11.29,N/A,Stocks,SAO
+GOLD11.SA,TREND OURO  CI,10.37,N/A,Stocks,SAO
+UNIP3.SA,UNIPAR      ON,88.91,Basic Materials,Stocks,SAO
+ATOM3.SA,ATOMPAR     ON,3.18,Communication Services,Stocks,SAO
+BAZA3.SA,AMAZONIA    ON,41.23,Financial Services,Stocks,SAO
+INEP3.SA,INEPAR      ON,1.63,Industrials,Stocks,SAO
+BRIV3.SA,ALFA INVEST ON,6.95,Financial Services,Stocks,SAO
+AZEV3.SA,AZEVEDO     ON,3.99,Industrials,Stocks,SAO
+CEBR3.SA,CEB         ON,15.97,Utilities,Stocks,SAO
+PTNT3.SA,PETTENATI   ON,12.72,Consumer Cyclical,Stocks,SAO
+CTNM3.SA,COTEMINAS   ON,8.38,Consumer Cyclical,Stocks,SAO
+MWET3.SA,WETZEL S/A  ON,22.50,Consumer Cyclical,Stocks,SAO
+TCNO3.SA,TECNOSOLO   ON,1.73,Industrials,Stocks,SAO
+RCSL3F.SA,RECRUSUL    ON,3.90,N/A,Stocks,SAO
+CEEB3.SA,COELBA      ON,33.70,Utilities,Stocks,SAO
+CGRA3F.SA,GRAZZIOTIN  ON,38.00,N/A,Stocks,SAO
+IGBR3.SA,IGB S/A     ON,41.62,Real Estate,Stocks,SAO
+TEKA3.SA,TEKA        ON,26.10,Consumer Cyclical,Stocks,SAO
+GEPA3F.SA,GER PARANAP ON,31.32,N/A,Stocks,SAO
+CGAS3.SA,COMGAS      ON,136.00,Utilities,Stocks,SAO
+OXYP34.SA,OCCIDENT PTRDRN,100.83,Energy,Stocks,SAO
+GEPA3.SA,GER PARANAP ON,32.00,Utilities,Stocks,SAO
+TF703.SA,ATIVO TESTE ON,10.00,N/A,Stocks,SAO
+TELB3.SA,TELEBRAS    ON,40.00,Communication Services,Stocks,SAO
+TCNO3F.SA,TECNOSOLO   ON,1.69,N/A,Stocks,SAO
+COCE3F.SA,COELCE      ON,57.54,N/A,Stocks,SAO
+BIOM3.SA,BIOMM       ON      MA,13.98,Healthcare,Stocks,SAO
+CTSA3.SA,SANTANENSE  ON,1.84,Consumer Cyclical,Stocks,SAO
+INEP3F.SA,INEPAR      ON,1.61,N/A,Stocks,SAO
+MNPR3F.SA,MINUPAR     ON,6.05,N/A,Stocks,SAO
+TEKA3F.SA,TEKA        ON,25.00,N/A,Stocks,SAO
+WHRL3.SA,WHIRLPOOL   ON,6.40,Consumer Cyclical,Stocks,SAO
+C1AB34.SA,CABLE ONE INDRN,40.76,Communication Services,Stocks,SAO
+BIOM3F.SA,BIOMM       ON      MA,14.30,N/A,Stocks,SAO
+CAMB3.SA,CAMBUCI     ON,4.51,Consumer Cyclical,Stocks,SAO
+INEP4.SA,INEPAR      PN,1.56,Industrials,Stocks,SAO
+UNIP6.SA,UNIPAR      PNB,90.22,Basic Materials,Stocks,SAO
+LUXM4.SA,TREVISA     PN,81.97,Industrials,Stocks,SAO
+WLMM4.SA,WLM IND COM PN,30.57,Consumer Cyclical,Stocks,SAO
+UNIP5F.SA,UNIPAR      PNA,98.88,N/A,Stocks,SAO
+SNSY5.SA,SANSUY      PNA,4.76,Consumer Cyclical,Stocks,SAO
+P1LD34.SA,PROLOGIS INCDRN,400.21,Real Estate,Stocks,SAO
+SHUL4.SA,SCHULZ      PN,8.20,Consumer Cyclical,Stocks,SAO
+Q1RV34.SA,QORVO INC   DRN,348.48,Technology,Stocks,SAO
+LJQQ3F.SA,QUERO-QUERO ON      NM,10.18,N/A,Stocks,SAO
+QETH11.SA,QR ETHER    CI,9.45,N/A,Stocks,SAO
+QIRI11.SA,FII QUATA   CI  ER,90.00,N/A,Stocks,SAO
+Q1UE34.SA,QUEST DIAGNODRN,372.00,Healthcare,Stocks,SAO
+R1CL34.SA,ROYAL CARIBBDRN,205.31,Consumer Cyclical,Stocks,SAO
+RCSL4.SA,RECRUSUL    PN,1.21,Industrials,Stocks,SAO
+RSUL4.SA,RIOSULENSE  PN,74.36,Consumer Cyclical,Stocks,SAO
+R1SG34.SA,REPUBLIC SERDRN,345.56,Industrials,Stocks,SAO
+REDE3F.SA,REDE ENERGIAON,6.82,N/A,Stocks,SAO
+RYTT34.SA,RAYTHEONTECHDRN,80.37,Industrials,Stocks,SAO
+E1OG34.SA,EOG RESOURCEDRN,294.50,Energy,Stocks,SAO
+E1QR34.SA,EQUITY RESIDDRN,235.95,Real Estate,Stocks,SAO
+TRXB11.SA,FII TRX R IICI,120.85,N/A,Stocks,SAO
+D1LR34.SA,DIGITAL REALDRN,195.61,Real Estate,Stocks,SAO
+RNGO11.SA,FII RIONEGROCI,51.10,Real Estate,Stocks,SAO
+RCSL3.SA,RECRUSUL    ON,3.97,Industrials,Stocks,SAO
+RBHY11.SA,FII RB YIELDCI,102.88,N/A,Stocks,SAO
+URPR11.SA,FII URCA RENCI,119.00,N/A,Stocks,SAO
+BFDA39.SA,FT RISIDIVIDDRN,53.60,N/A,Stocks,SAO
+DRIT11B.SA,MULTIGESTAO RENDA,94.00,Real Estate,Stocks,SAO
+R2HH34.SA,RH          DRN,35.00,Consumer Cyclical,Stocks,SAO
+HBRH11.SA,FII MULT RENCI,91.04,N/A,Stocks,SAO
+V1NO34.SA,VORNADO REALDRN,215.00,Real Estate,Stocks,SAO
+BIWF39.SA,RUSSEL1000GRDRN,57.00,Financial Services,Stocks,SAO
+RCRB11.SA,FII RIOB RC CI,132.68,Real Estate,Stocks,SAO
+RAIZ4F.SA,RAIZEN      PN      N2,6.20,N/A,Stocks,SAO
+RBED11.SA,FII RIOB ED CI,119.99,Financial Services,Stocks,SAO
+OURE11.SA,FII OU RENDACI,86.39,N/A,Stocks,SAO
+M1GM34.SA,MGM RESORTS DRN,219.27,Consumer Cyclical,Stocks,SAO
+IRBR3F.SA,IRBBRASIL REON      NM,3.21,N/A,Stocks,SAO
+MTRE3F.SA,MITRE REALTYON      NM,7.50,N/A,Stocks,SAO
+RDNI3F.SA,RNI         ON      NM,10.08,N/A,Stocks,SAO
+RAIL3F.SA,RUMO S.A.   ON      NM,16.70,N/A,Stocks,SAO
+R1IN34.SA,REALTY INCOMDRN,183.51,Real Estate,Stocks,SAO
+RBRY11.SA,FII RBR PCRICI,104.87,Financial Services,Stocks,SAO
+A1RE34.SA,ALEXANDRIA RDRN,250.17,Real Estate,Stocks,SAO
+REIT11.SA,FII REIT RIVCI,500.13,N/A,Stocks,SAO
+SMAL11.SA,ISHARES SMALCI,114.00,N/A,Stocks,SAO
+BITO39.SA,CORE SP TOTADRN,51.88,Financial Services,Stocks,SAO
+XINA11.SA,TREND CHINA CI,7.96,N/A,Stocks,SAO
+T1OW34.SA,AMERICAN TOWDRN,318.24,Real Estate,Stocks,SAO
+S1PO34.SA,SPOTIFY TECHDRN,233.24,Communication Services,Stocks,SAO
+A1GI34.SA,AGILENT TECHDRN,357.11,Healthcare,Stocks,SAO
+BOVX11.SA,TREND IBOVX CI,11.25,N/A,Stocks,SAO
+BIYW39.SA,US TECHNOLOGDRN,15.29,Financial Services,Stocks,SAO
+UPAC34.SA,UNIONPACIFICDRN,331.98,Industrials,Stocks,SAO
+U2ST34.SA,UNITY SOFTWRDRN,25.81,Technology,Stocks,SAO
+BIHI39.SA,USMEDICDEVICDRN,8.70,Financial Services,Stocks,SAO
+BIYG39.SA,USFINANCSERVDRN,50.90,Financial Services,Stocks,SAO
+UNIP5.SA,UNIPAR      PNA,90.66,Basic Materials,Stocks,SAO
+U1AI34.SA,UNDER ARMOURDRN,86.31,Consumer Cyclical,Stocks,SAO
+PPLA11.SA,PPLA        UNT,5.92,Financial Services,Stocks,SAO
+M1UF34.SA,MITSUBISHI UDRN,32.67,Financial Services,Stocks,SAO
+IDFI11.SA,FII UNIDADESCI,101.97,N/A,Stocks,SAO
+T1MU34.SA,T-MOBILE US DRN,287.56,Communication Services,Stocks,SAO
+BUSM39.SA,MSCI US MVOLDRN,49.80,N/A,Stocks,SAO
+USIM5F.SA,USIMINAS    PNA     N1,16.32,N/A,Stocks,SAO
+U1BE34.SA,UBER TECH INDRN,46.20,Technology,Stocks,SAO
+ALUP11F.SA,ALUPAR      UNT     N2,24.85,N/A,Stocks,SAO
+ESGU11.SA,TREND ESG USCI,8.89,N/A,Stocks,SAO
+U1RI34.SA,UNITED RENTADRN,833.28,Industrials,Stocks,SAO
+RNEW11F.SA,RENOVA      UNT     N2,7.45,N/A,Stocks,SAO
+HUSC11.SA,FII H UNIMEDCI,114.74,Financial Services,Stocks,SAO
+USTK11.SA,INVESTO USTKCI,9.62,N/A,Stocks,SAO
+USIM6F.SA,USIMINAS    PNB     N1,19.87,N/A,Stocks,SAO
+P2AT34.SA,UIPATH INC  DRN,22.60,Technology,Stocks,SAO
+UCAS3F.SA,UNICASA     ON      NM,3.73,N/A,Stocks,SAO
+TAEE11F.SA,TAESA       UNT     N2,37.64,N/A,Stocks,SAO
+MODL11F.SA,MODALMAIS   UNT     N2,12.71,N/A,Stocks,SAO
+FIQE3.SA,UNIFIQUE    ON      NM,6.39,Communication Services,Stocks,SAO
+BEGU39.SA,TRUSTMSCI USDRN,52.32,N/A,Stocks,SAO
+UNIP3F.SA,UNIPAR      ON,88.78,N/A,Stocks,SAO
+FIQE3F.SA,UNIFIQUE    ON      NM,6.32,N/A,Stocks,SAO
+UNIP6F.SA,UNIPAR      PNB,89.55,N/A,Stocks,SAO
+U1AL34.SA,UNITED AIRLIDRN,110.63,Industrials,Stocks,SAO
+UGPA3F.SA,ULTRAPAR    ON      NM,15.08,N/A,Stocks,SAO
+SULA11F.SA,SUL AMERICA UNT     N2,25.27,N/A,Stocks,SAO
+U1DR34.SA,UDR INC     DRN,301.17,Real Estate,Stocks,SAO
+P1BC34.SA,PEOPLES UNITDRN,106.25,Financial Services,Stocks,SAO
+BUSR39.SA,CORE US REITDRN,55.00,Financial Services,Stocks,SAO
+U1NM34.SA,UNUM GROUP  DRN,139.08,Financial Services,Stocks,SAO
+BPAC11F.SA,BTGP BANCO  UNT     N2,24.01,N/A,Stocks,SAO
+UNHH34.SA,UNITEDHEALTHDRN,71.17,Healthcare,Stocks,SAO
+GETT11F.SA,GETNET BR   UNT,3.23,N/A,Stocks,SAO
+BRBI11F.SA,BR PARTNERS UNT     N2,17.05,N/A,Stocks,SAO
+ENGI11F.SA,ENERGISA    UNT     N2,42.93,N/A,Stocks,SAO
+V1OD34.SA,VODAFONE GRODRN,45.17,Communication Services,Stocks,SAO
+PSVM11.SA,PORTO VM    TPR,5.99,Industrials,Stocks,SAO
+Z1OM34.SA,ZOOM VIDEO  DRN,29.48,Technology,Stocks,SAO
+VSEC11.SA,FII VOT SEC CI,74.50,N/A,Stocks,SAO
+VIUR11.SA,FII VINCI IUCI,76.39,N/A,Stocks,SAO
+FIVN11.SA,FII VIDANOVACI,2.49,Real Estate,Stocks,SAO
+V1IP34.SA,VIPSHOP HOLDDRN,21.82,Consumer Cyclical,Stocks,SAO
+VITT3F.SA,VITTIA      ON      NM,12.92,N/A,Stocks,SAO
+VAMO3F.SA,VAMOS       ON      NM,11.97,N/A,Stocks,SAO
+VIVR3.SA,VIVER       ON      NM,1.16,Real Estate,Stocks,SAO
+VSHO11.SA,FII VOT SHOPCI,77.58,Financial Services,Stocks,SAO
+CVBI11.SA,FII VBI CRI CI,103.20,Real Estate,Stocks,SAO
+VSLH11.SA,FII VERS CRICI,9.63,N/A,Stocks,SAO
+PRSV11.SA,FII P VARGASCI,117.51,Real Estate,Stocks,SAO
+VCJR11.SA,FII VECTIS  CI,98.00,Real Estate,Stocks,SAO
+VIGT11.SA,FIP VINCI IECI,74.25,N/A,Stocks,SAO
+VLYB34.SA,VALLEY NTIONDRN,77.75,Financial Services,Stocks,SAO
+BREV11.SA,FII BRE VIC CI,95.50,Real Estate,Stocks,SAO
+PSVM11F.SA,PORTO VM    TPR,5.79,N/A,Stocks,SAO
+VTLT11.SA,FII VOT LOG CI,92.19,Financial Services,Stocks,SAO
+BOAS3F.SA,BOA VISTA   ON      NM,5.30,N/A,Stocks,SAO
+VBBR3F.SA,VIBRA       ON      NM,22.10,N/A,Stocks,SAO
+VRTX34.SA,VERTEX PHARMDRN,308.87,Healthcare,Stocks,SAO
+V2ME34.SA,VIMEO INC   DRN,14.62,Technology,Stocks,SAO
+V2EE34.SA,VEEVASYSTEMSDRN,39.35,Healthcare,Stocks,SAO
+VITT3.SA,VITTIA      ON      NM,13.17,Basic Materials,Stocks,SAO
+C1BS34.SA,VIACOMCBS   DRN,170.68,Communication Services,Stocks,SAO
+RVBI11.SA,FII VBI REITCI,79.67,Real Estate,Stocks,SAO
+WUNI34.SA,WESTERNUNIONDRN,98.80,Financial Services,Stocks,SAO
+W1MB34.SA,WILLIAMS COSDRN,155.10,Energy,Stocks,SAO
+W1EL34.SA,WELLTOWER INDRN,226.55,Real Estate,Stocks,SAO
+WHRL4.SA,WHIRLPOOL   PN,6.96,Consumer Cyclical,Stocks,SAO
+MWET4.SA,WETZEL S/A  PN,16.99,Consumer Cyclical,Stocks,SAO
+WRLD11.SA,INVESTO WRLDCI,92.31,N/A,Stocks,SAO
+W1RB34.SA,WR BERKLEY CDRN,44.51,Financial Services,Stocks,SAO
+A1WK34.SA,AMERICAN WATDRN,212.00,Utilities,Stocks,SAO
+G1WW34.SA,WW GRAINGER DRN,64.98,Industrials,Stocks,SAO
+WPLZ11.SA,FII W PLAZA CI,70.00,N/A,Stocks,SAO
+W1MC34.SA,WASTE MANAG DRN,393.20,Industrials,Stocks,SAO
+H1LT34.SA,HILTON WORLDDRN,392.19,Consumer Cyclical,Stocks,SAO
+W2YF34.SA,WAYFAIR INC DRN,23.60,Consumer Cyclical,Stocks,SAO
+W2ST34.SA,WEST PHARMA DRN,59.40,Healthcare,Stocks,SAO
+WLMM3F.SA,WLM IND COM ON,31.20,N/A,Stocks,SAO
+WHRL4F.SA,WHIRLPOOL   PN,7.05,N/A,Stocks,SAO
+P1NW34.SA,PINNACLE WESDRN,190.00,Utilities,Stocks,SAO
+MWET4F.SA,WETZEL S/A  PN,15.90,N/A,Stocks,SAO
+W1DA34.SA,WORKDAY INC DRN,311.09,Technology,Stocks,SAO
+MWET3F.SA,WETZEL S/A  ON,22.23,N/A,Stocks,SAO
+LVTC3F.SA,WDC NETWORKSON      NM,15.80,N/A,Stocks,SAO
+W1YN34.SA,WYNN RESORTSDRN,232.30,Consumer Cyclical,Stocks,SAO
+WLMM4F.SA,WLM IND COM PN,32.05,N/A,Stocks,SAO
+WHRL3F.SA,WHIRLPOOL   ON,6.47,N/A,Stocks,SAO
+PORT3F.SA,WILSON SONS ON      NM,59.99,N/A,Stocks,SAO
+W1IX34.SA,WIX.COM LTD DRN,21.00,Technology,Stocks,SAO
+W1BO34.SA,WEIBO CORP  DRN,42.16,Communication Services,Stocks,SAO
+XPHT12.SA,FII XP HOT  CI,37.80,N/A,Stocks,SAO
+XRXB34.SA,XEROX CORP  DRN,110.44,Technology,Stocks,SAO
+XPID11.SA,FIRF XP IE  FIDC,85.81,N/A,Stocks,SAO
+YDUQ3F.SA,YDUQS PART  ON      NM,21.34,N/A,Stocks,SAO
+Z1TS34.SA,ZOETIS INC  DRN,253.05,Healthcare,Stocks,SAO
+Z2NG34.SA,ZYNGA INC   DRN,46.80,N/A,Stocks,SAO
+Z1IO34.SA,ZIONSBANCORPDRN,369.63,Financial Services,Stocks,SAO
+Z2LL34.SA,ZILLOW GROUPDRN,23.00,Communication Services,Stocks,SAO
